@@ -1,26 +1,26 @@
 ---
-title: 第三方资源目录｜使用前独立核验
-description: 汇总可选的 AI 学习与工具入口，记录链接复核时间、公开定位和非赞助边界；使用前请独立检查条款、隐私、价格、版权与服务状态。
+title: Danh mục tài nguyên bên thứ ba｜Tự kiểm tra độc lập trước khi sử dụng
+description: Tổng hợp các cổng truy cập tùy chọn dành cho việc học AI và các công cụ, ghi lại thời điểm kiểm tra lại liên kết, thông tin giới thiệu công khai và ranh giới không tài trợ; trước khi sử dụng, hãy tự kiểm tra các điều khoản, quyền riêng tư, giá cả, bản quyền và trạng thái dịch vụ.
 updated: 2026-10-19
 intent: resource-index
 schema: WebPage
 ---
 
-# 第三方资源目录
+# Danh mục tài nguyên bên thứ ba
 
-这里列出可选的外部入口，帮助读者继续查找工具与资料。页面只记录链接是否可访问及其公开页面如何描述自身，不代表本站完成了安全、隐私、合规、质量或价格审计。
+Tại đây liệt kê các cổng truy cập bên ngoài tùy chọn, giúp độc giả tiếp tục tìm kiếm công cụ và tài liệu. Trang này chỉ ghi nhận liệu liên kết có thể truy cập hay không và các trang công khai đó tự mô tả mình như thế nào, không có nghĩa là trang web này đã tiến hành kiểm toán về an toàn, quyền riêng tư, tính tuân thủ, chất lượng hoặc giá cả.
 
-**来源台账最近记录：2026-09-02。** Biezou 的公开定位仅在该日核对；OpenHuge_ai 是用户提供的频道地址，未独立审查频道内容。此后未重新核验外链。本页没有赞助或佣金关系。服务、条款、价格和外链可能随时变化；提交 API 密钥、客户资料、公司机密或个人敏感信息前，请先确认服务方的数据处理与删除政策。
+**Bản ghi gần nhất trong sổ theo dõi nguồn: 2026-09-02.** Thông tin giới thiệu công khai của Biezou chỉ được kiểm tra vào ngày đó; OpenHuge_ai là địa chỉ kênh do người dùng cung cấp và nội dung kênh chưa được thẩm tra độc lập. Kể từ đó, các liên kết bên ngoài chưa được kiểm tra lại. Trang này không có quan hệ tài trợ hoặc hoa hồng. Dịch vụ, điều khoản, giá cả và liên kết bên ngoài có thể thay đổi bất cứ lúc nào; trước khi gửi khóa API, thông tin khách hàng, bí mật công ty hoặc thông tin nhạy cảm cá nhân, hãy xác nhận trước chính sách xử lý và xóa dữ liệu của nhà cung cấp dịch vụ.
 
-## AI 工具入口
+## Cổng truy cập công cụ AI
 
-- [Biezou](https://biezou.com/)：其公开首页将服务描述为 AI API 网关与管理面板。仅核验了入口可访问和公开定位，没有测试账号、模型质量、费用或数据处理。
-- [OpenHuge_ai Telegram 频道](https://t.me/OpenHuge_ai)：第三方 AI 资源频道。频道帖子及其外链由频道运营方控制，打开和使用前应逐项核对来源、版权、安全性与隐私。
+- [Biezou](https://biezou.com/): Trang chủ công khai của dịch vụ mô tả đây là cổng API AI và bảng điều khiển quản lý. Chỉ kiểm tra khả năng truy cập cổng và thông tin giới thiệu công khai, chưa thử nghiệm tài khoản, chất lượng mô hình, chi phí hoặc việc xử lý dữ liệu.
+- [Kênh Telegram OpenHuge_ai](https://t.me/OpenHuge_ai): Kênh tài nguyên AI của bên thứ ba. Các bài đăng trên kênh và các liên kết bên ngoài do đơn vị vận hành kênh kiểm soát; trước khi mở và sử dụng, cần kiểm tra từng mục về nguồn gốc, bản quyền, tính an toàn và quyền riêng tư.
 
-## 使用边界
+## Phạm vi sử dụng
 
-- 外部资源是自选入口，不是本书、作者或 GitHub 项目的安全、质量或合规背书。
-- 涉及 API、AI 服务或第三方网站时，先阅读当前服务条款、隐私政策、保留期限、退款规则与适用地区限制。
-- 链接失效、定位变化或出现赞助关系时，请通过 [GitHub Issue](https://github.com/byoungd/up/issues/new/choose) 提交更新建议。
+- Tài nguyên bên ngoài là các cổng truy cập do người dùng tự lựa chọn, không phải là sự bảo chứng về an toàn, chất lượng hoặc tính tuân thủ của cuốn sách, tác giả hay dự án GitHub.
+- Khi liên quan đến API, dịch vụ AI hoặc website bên thứ ba, trước tiên hãy đọc điều khoản dịch vụ hiện hành, chính sách quyền riêng tư, thời hạn lưu giữ, quy định hoàn tiền và các giới hạn về khu vực áp dụng.
+- Khi liên kết bị hỏng, thông tin giới thiệu thay đổi hoặc xuất hiện quan hệ tài trợ, hãy gửi đề xuất cập nhật thông qua [GitHub Issue](https://github.com/byoungd/up/issues/new/choose).
 
-继续阅读：[AI 学习工作流入口](topics/ai-learning-workflows.md) · [真实项目、求职与创业入口](topics/real-projects.md) · [作者项目与现实实践](projects.md)
+Đọc tiếp: [Cổng truy cập quy trình học AI](topics/ai-learning-workflows.md) · [Cổng truy cập dự án thực tế, tìm việc và khởi nghiệp](topics/real-projects.md) · [Dự án của tác giả và thực hành thực tế](projects.md)

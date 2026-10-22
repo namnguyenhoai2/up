@@ -1,72 +1,72 @@
 ---
-title: 作者项目与现实实践
-description: 集中披露作者参与的产品、公司与现实实践，说明关联、用途、更新时间和非赞助关系。
+title: Dự án của tác giả và thực tiễn hiện thực
+description: Tập trung công khai các sản phẩm, công ty và hoạt động thực tiễn có sự tham gia của tác giả, đồng thời nêu rõ mối liên hệ, mục đích sử dụng, thời điểm cập nhật và quan hệ không tài trợ.
 updated: 2026-09-01
 ---
 
-# 作者项目与现实实践
+# Dự án của tác giả và thực tiễn hiện thực
 
-本页集中放置作者韩先凯直接参与的项目，避免商业关联混入学习方法推荐。以下内容是关联披露，不构成购买、投资或收益承诺。
+Trang này tập hợp các dự án có sự tham gia trực tiếp của tác giả Han Xiankai, nhằm tránh để các mối liên hệ thương mại lẫn vào những khuyến nghị về phương pháp học tập. Nội dung dưới đây là công bố mối liên hệ, không cấu thành cam kết mua hàng, đầu tư hay lợi nhuận.
 
-若要分析本页提到的公开经历，请先使用[AI 经历案例复盘模板](templates/ai-case-review.md)区分来源、事实、判断和未知结果；项目披露本身不等于独立审计。
+Nếu muốn phân tích những trải nghiệm công khai được đề cập trên trang này, trước hết hãy sử dụng [mẫu xem xét lại tình huống trải nghiệm AI](templates/ai-case-review.md) để phân biệt nguồn, sự thật, nhận định và kết quả chưa biết; bản thân việc công bố dự án không đồng nghĩa với kiểm toán độc lập.
 
-## 状态与证据边界
+## Ranh giới về trạng thái và bằng chứng
 
-| 状态 | 含义 | 读者如何使用 |
+| Trạng thái | Ý nghĩa | Cách độc giả sử dụng |
 | --- | --- | --- |
-| **作者关联** | 作者在公司、产品或文章中有明确角色或利益关系 | 当作自我披露，不当作独立测评 |
-| **正在实践** | 已开始尝试，但效果、规模或可持续性仍在验证 | 关注样本、成本、用户反馈和失败记录 |
-| **历史材料** | 过去的文章、产品页面或个人回忆 | 用来理解来路，不直接迁移到今天 |
-| **尚待验证** | 计划、目标或尚无充分公开证据的判断 | 等待正式文档、合同、用户和时间回答 |
+| **Mối liên hệ với tác giả** | Tác giả có vai trò hoặc quan hệ lợi ích rõ ràng trong công ty, sản phẩm hoặc bài viết | Xem như nội dung tự công bố, không xem như đánh giá độc lập |
+| **Đang thực hành** | Đã bắt đầu thử nghiệm, nhưng hiệu quả, quy mô hoặc tính bền vững vẫn đang được kiểm chứng | Chú ý đến mẫu, chi phí, phản hồi người dùng và hồ sơ thất bại |
+| **Tài liệu lịch sử** | Các bài viết, trang sản phẩm hoặc hồi ức cá nhân trong quá khứ | Dùng để hiểu nguồn gốc, không trực tiếp áp dụng vào hiện tại |
+| **Chưa được kiểm chứng** | Kế hoạch, mục tiêu hoặc nhận định chưa có đầy đủ bằng chứng công khai | Chờ tài liệu chính thức, hợp đồng, người dùng và thời gian đưa ra câu trả lời |
 
-项目状态可能变化。每个条目保留自己的核验日期；页面更新只表示披露文字被重新整理，不表示产品结果已经改变。
+Trạng thái dự án có thể thay đổi. Mỗi mục giữ ngày kiểm chứng riêng; việc cập nhật trang chỉ có nghĩa là nội dung công bố được sắp xếp lại, không có nghĩa là kết quả sản phẩm đã thay đổi.
 
-## 中国词元云与 token.love
+## Trung Quốc Từ Nguyên Vân và token.love
 
-- **作者关联**：韩先凯现任中国词元云计算有限公司董事长。
-- **用途**：官网当前将 `token.love` 描述为面向企业与政企场景的统一 AI 智能网关，列出模型统一接入、路由容灾、用量计量、审计留痕和私有化/离线部署能力。
-- **与本指南关系**：本指南与该产品由同一作者维护；不是第三方赞助内容。
-- **核验日期**：2026-08-31。上述能力和合规范围是官网首页的当前表述，具体服务内容仍以 [token.love](https://token.love/) 正式说明、合规审批和合同为准。
+- **Mối liên hệ với tác giả**: Han Xiankai hiện là Chủ tịch Hội đồng quản trị Công ty TNHH Điện toán Trung Quốc Từ Nguyên Vân.
+- **Mục đích sử dụng**: Hiện tại, trang web chính thức mô tả `token.love` là cổng thông minh AI thống nhất dành cho các bối cảnh doanh nghiệp và chính quyền-doanh nghiệp, với các khả năng gồm kết nối thống nhất với mô hình, định tuyến và khắc phục thảm họa, đo lường mức sử dụng, lưu vết kiểm toán và triển khai riêng tư/ngoại tuyến.
+- **Mối quan hệ với hướng dẫn này**: Hướng dẫn này và sản phẩm nói trên do cùng một tác giả duy trì; đây không phải nội dung được tài trợ bởi bên thứ ba.
+- **Ngày kiểm chứng**: 2026-08-31. Các khả năng và phạm vi tuân thủ nêu trên là cách diễn đạt hiện tại trên trang chủ chính thức; nội dung dịch vụ cụ thể vẫn phải căn cứ vào [token.love](https://token.love/) phần giới thiệu chính thức, phê duyệt tuân thủ và hợp đồng.
 
-![token.love 产品页面存档](assets/token-love-domain.jpg)
+![Lưu trữ trang sản phẩm token.love](assets/token-love-domain.jpg)
 
-## AI 学习、项目开发与资源层创业
+## Học AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên
 
-韩先凯正在把个人 AI 学习、AI 辅助开发与中国词元云的企业服务实践连接成一条工作路径：从真实任务出发，使用 AI 完成需求拆解、原型、编码、测试、文档与交付，再把多模型接入、路由、计量、权限、部署和持续运维组织成团队能够使用的资源层服务。
+Han Xiankai đang kết nối việc tự học AI, phát triển có AI hỗ trợ và hoạt động cung cấp dịch vụ doanh nghiệp của Trung Quốc Từ Nguyên Vân thành một lộ trình công việc: xuất phát từ nhiệm vụ thực tế, sử dụng AI để phân rã yêu cầu, tạo nguyên mẫu, lập trình, kiểm thử, viết tài liệu và bàn giao, sau đó tổ chức việc kết nối nhiều mô hình, định tuyến, đo lường, phân quyền, triển khai và vận hành liên tục thành dịch vụ ở tầng tài nguyên mà đội ngũ có thể sử dụng.
 
-这条路径已经形成可以描述的产品与服务方向，但不等于已经公开证明盈利或规模化。客户是否持续付费、交付是否可重复、收入能否覆盖模型、基础设施、工程、支持、获客、合规和故障成本，仍需用真实项目与长期数据验证。
+Lộ trình này đã hình thành những định hướng sản phẩm và dịch vụ có thể mô tả, nhưng không có nghĩa là đã công khai chứng minh được khả năng sinh lợi hoặc mở rộng quy mô. Việc khách hàng có tiếp tục trả phí hay không, việc bàn giao có thể lặp lại hay không, doanh thu có thể trang trải chi phí mô hình, hạ tầng, kỹ thuật, hỗ trợ, thu hút khách hàng, tuân thủ và sự cố hay không vẫn cần được kiểm chứng bằng các dự án thực tế và dữ liệu dài hạn.
 
-完整的方法、商业逻辑、成本边界和 12 周验证框架见 [AI 学习、项目开发与资源层创业](threads/part-3/2-ai-development-and-resource-layer.md)。该专题讨论可能的收费方式，不披露或暗示未经核验的收入、利润、客户数量与投资回报。
+Phương pháp đầy đủ, logic kinh doanh, ranh giới chi phí và khung kiểm chứng 12 tuần được trình bày tại [Học AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](threads/part-3/2-ai-development-and-resource-layer.md). Chuyên đề này thảo luận các phương thức thu phí có thể có, không công bố hoặc ngụ ý về doanh thu, lợi nhuận, số lượng khách hàng và lợi tức đầu tư chưa được kiểm chứng.
 
-## 微信公众号文章与实践记录
+## Bài viết trên tài khoản WeChat và ghi chép thực hành
 
-与作者相关的公开文章提供了观察和叙事材料，但不等于独立审计、客户案例或商业结果证明：
+Các bài viết công khai liên quan đến tác giả cung cấp tư liệu quan sát và trần thuật, nhưng không đồng nghĩa với kiểm toán độc lập, trường hợp khách hàng hoặc bằng chứng về kết quả kinh doanh:
 
-- [《韩先凯：AI 圈最“抽象”的人类》](https://mp.weixin.qq.com/s?src=11&timestamp=1787503349&ver=6922&signature=hsfWcee*q*Okq4gsJ5TpMaWV4vZTwLean6SKtOxCC-EyAf9jWD6l1LQYDny29FqXVImHZFNFDPt*EVH*hVMN2pa91kZtuYfzI81wtV7yahnqVBsKS*c7Ls1uf9QqiEIF&new=1)（TokenMany，2026-08-11）：从拒绝现成答案、跨领域联想和保持问题意识的角度描写作者。项目将其转译为“提出竞争假设、做最小实验、保存失败证据”的方法，而不是把人物评价当作技术能力结论。
-- [《韩先凯与 AI：把喧嚣拆成一帧一帧的情绪》](https://mp.weixin.qq.com/s?src=11&timestamp=1787503349&ver=6922&signature=k7g1j*QF9lLWMGUlkAu65EFOmvokb8FoM51LNr4hgn4Q4Cc7q3t3O8Mkac7YnWTJbIVdvX-PXYdZXVHEohJieTOPR*Q2-TVAHuIg2ljgp2BMn8m7STrvovnpW01j817Y&new=1)（观雪控股 Wanli Center，2026-08-21）：以评论分析的叙事说明如何区分观点、证据、情绪强度、表达方式和可回应程度。项目只借用其问题拆解框架，并补充脱敏、授权、留存和人工复核要求，不将其写成已验证的舆情产品效果。
+- [《Han Xiankai: Con người “trừu tượng” nhất trong giới AI》](https://mp.weixin.qq.com/s?src=11&timestamp=1787503349&ver=6922&signature=hsfWcee*q*Okq4gsJ5TpMaWV4vZTwLean6SKtOxCC-EyAf9jWD6l1LQYDny29FqXVImHZFNFDPt*EVH*hVMN2pa91kZtuYfzI81wtV7yahnqVBsKS*c7Ls1uf9QqiEIF&new=1) (TokenMany, 2026-08-11): Khắc họa tác giả từ góc độ từ chối những câu trả lời có sẵn, liên tưởng xuyên lĩnh vực và duy trì ý thức về vấn đề. Dự án chuyển hóa nội dung này thành phương pháp “đưa ra các giả thuyết cạnh tranh, tiến hành thí nghiệm tối thiểu, lưu giữ bằng chứng thất bại”, thay vì xem đánh giá về nhân vật là kết luận về năng lực kỹ thuật.
+- [《Han Xiankai và AI: Tách sự huyên náo thành từng khung hình cảm xúc》](https://mp.weixin.qq.com/s?src=11&timestamp=1787503349&ver=6922&signature=k7g1j*QF9lLWMGUlkAu65EFOmvokb8FoM51LNr4hgn4Q4Cc7q3t3O8Mkac7YnWTJbIVdvX-PXYdZXVHEohJieTOPR*Q2-TVAHuIg2ljgp2BMn8m7STrvovnpW01j817Y&new=1) (Guān Xuě Holdings Wanli Center, 2026-08-21): Dùng cách trần thuật của phân tích bình luận để giải thích cách phân biệt quan điểm, bằng chứng, cường độ cảm xúc, phương thức biểu đạt và mức độ có thể phản hồi. Dự án chỉ sử dụng khung phân rã vấn đề của bài viết, đồng thời bổ sung các yêu cầu về khử nhận dạng, cấp quyền, lưu giữ và rà soát thủ công; không viết nội dung này thành hiệu quả sản phẩm dư luận đã được kiểm chứng.
 
-文章链接来自微信公众平台公开页面，访问时间为 2026-08-24；链接可因平台策略变化而失效。有关方法与边界见 [AI 学习、项目开发与资源层创业](threads/part-3/2-ai-development-and-resource-layer.md)。
+Các liên kết bài viết đến từ những trang công khai trên nền tảng tài khoản công chúng WeChat, được truy cập vào ngày 2026-08-24; liên kết có thể mất hiệu lực do chính sách nền tảng thay đổi. Phương pháp và ranh giới liên quan được trình bày tại [Học AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](threads/part-3/2-ai-development-and-resource-layer.md).
 
 ## ku0.com
 
-- **作者关联**：作者参与该项目的运营与介绍。
-- **用途**：官网当前将其定位为面向中国大陆企业和开发者的 AI 资源目录，覆盖中转站、账户充值、资产交易、模型工具和官方参考。
-- **与本指南关系**：不是独立测评，也不是无利益关系推荐。
-- **核验日期**：2026-08-31。目录分类和服务范围按当天首页核对；可用性、地区、套餐、交易与合规承诺仍以 [ku0.com](https://ku0.com/) 当前页面和书面协议为准。
+- **Mối liên hệ với tác giả**: Tác giả tham gia vận hành và giới thiệu dự án này.
+- **Mục đích sử dụng**: Hiện tại, trang web chính thức định vị đây là danh mục tài nguyên AI dành cho doanh nghiệp và nhà phát triển tại Trung Quốc đại lục, bao phủ các trạm trung chuyển, nạp tiền tài khoản, giao dịch tài sản, công cụ mô hình và tài liệu tham khảo chính thức.
+- **Mối quan hệ với hướng dẫn này**: Đây không phải đánh giá độc lập, cũng không phải khuyến nghị không có quan hệ lợi ích.
+- **Ngày kiểm chứng**: 2026-08-31. Việc phân loại danh mục và phạm vi dịch vụ được đối chiếu theo trang chủ trong ngày; tính khả dụng, khu vực, gói dịch vụ, giao dịch và các cam kết tuân thủ vẫn phải căn cứ vào [ku0.com](https://ku0.com/) trang hiện tại và thỏa thuận bằng văn bản.
 
-## AI 与实体产业实践
+## Thực tiễn AI và ngành công nghiệp thực
 
-2026 年 6 月 16 日，作者以公司负责人身份参访阿里云杭州总部，并记录了把 AI 用于农、林、牧、渔等实体场景及公益培训的计划。这是一项实践方向与个人承诺，不代表阿里云背书，也不等于已产生可验证效果。
+Ngày 16 tháng 6 năm 2026, với tư cách người phụ trách công ty, tác giả đã đến thăm trụ sở Alibaba Cloud tại Hàng Châu và ghi lại kế hoạch ứng dụng AI vào các lĩnh vực thực tế như nông nghiệp, lâm nghiệp, chăn nuôi, ngư nghiệp cùng hoạt động đào tạo công ích. Đây là một định hướng thực hành và cam kết cá nhân, không đại diện cho sự chứng thực của Alibaba Cloud, cũng không có nghĩa là đã tạo ra hiệu quả có thể kiểm chứng.
 
-![参访阿里云杭州总部](assets/aliyun-hangzhou-2026-06-16-1.webp)
+![Thăm trụ sở Alibaba Cloud tại Hàng Châu](assets/aliyun-hangzhou-2026-06-16-1.webp)
 
-## 推荐原则
+## Nguyên tắc khuyến nghị
 
-正文按任务、证据、隐私与可迁移性评价工具。作者关联产品不会获得更高证据等级，也不会替代官方文档、独立比较或用户自己的安全审查。项目默认不接受隐藏赞助；未来如有付费关系，将在相关段落明确标注主体、时间和影响范围。
+Phần nội dung chính đánh giá công cụ dựa trên nhiệm vụ, bằng chứng, quyền riêng tư và khả năng chuyển đổi. Các sản phẩm có liên hệ với tác giả sẽ không được xếp hạng bằng chứng cao hơn, cũng không thay thế tài liệu chính thức, so sánh độc lập hoặc việc người dùng tự kiểm tra an toàn. Theo mặc định, dự án không nhận tài trợ ẩn; nếu trong tương lai có quan hệ thu phí, chủ thể, thời gian và phạm vi ảnh hưởng sẽ được ghi rõ trong các đoạn liên quan.
 
-## 读者核验顺序
+## Trình tự kiểm chứng dành cho độc giả
 
-1. 先看当前正式文档、合同、许可证和适用政策；
-2. 再问结果如何验收、成本如何计算、失败如何停止；
-3. 把个人叙事和公开报道当作线索，不当作客户案例或收益证明；
-4. 涉及客户、身份、医疗或商业信息时，先确认授权、最少必要范围和删除方式。
+1. Trước tiên xem tài liệu chính thức hiện hành, hợp đồng, giấy phép và chính sách áp dụng;
+2. Sau đó hỏi cách nghiệm thu kết quả, cách tính chi phí và cách dừng khi thất bại;
+3. Xem các trần thuật cá nhân và tin tức công khai như manh mối, không xem như trường hợp khách hàng hoặc bằng chứng về lợi nhuận;
+4. Khi liên quan đến thông tin khách hàng, danh tính, y tế hoặc kinh doanh, trước tiên xác nhận quyền cấp phép, phạm vi tối thiểu cần thiết và phương thức xóa.

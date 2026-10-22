@@ -1,41 +1,41 @@
 ---
-title: 最近更新｜人生进阶指南
-description: 从项目变更日志和页面复核日期生成的近期更新，连接英语、AI、真实项目与实践入口。
+title: Cập nhật gần đây｜Cẩm nang nâng cấp bản thân
+description: Các cập nhật gần đây được tạo từ nhật ký thay đổi dự án và ngày rà soát trang, kết nối tiếng Anh, AI, dự án thực tế và các điểm bắt đầu thực hành.
 updated: 2026-10-19
 ---
 
-# 最近更新
+# Cập nhật gần đây
 
-本页合并项目变更日志与页面 updated 日期，列出最近二十条更新，方便返回继续实践。
+Trang này hợp nhất nhật ký thay đổi dự án và ngày updated của các trang, liệt kê hai mươi cập nhật gần đây nhất để tiện quay lại tiếp tục thực hành.
 
-## 最近二十条
+## Hai mươi cập nhật gần đây nhất
 
-- **2026-10-19** · [人生进阶指南｜AI 时代终身学习](./) — 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。
-- **2026-10-19** · [第三方资源目录｜使用前独立核验](./resources) — 汇总可选的 AI 学习与工具入口，记录链接复核时间、公开定位和非赞助边界；使用前请独立检查条款、隐私、价格、版权与服务状态。
-- **2026-10-19** · [英语能力诊断：四项基线与迁移记录](./templates/english-diagnostic) — 在同一真实主题下保存听说读写首版、条件、错误、反馈、延迟复测与 CEFR 方向，避免用平均分或润色成品代替能力证据。
-- **2026-10-19** · [认知篇：把努力变成可验证的学习](./threads/part-1/1-understanding) — 用真实任务、首版基线、主动回忆、反馈、间隔、恢复和跨会话状态，把努力变成可比较、可迁移的学习证据。
-- **2026-10-19** · [词汇篇：从眼熟到在真实任务中调用](./threads/part-1/2-vocabulary) — 从首遇基线、查词决策、义项与搭配核验出发，用无提示调用、误用修复和延迟迁移建立真正可用的词汇系统。
-- **2026-10-19** · [听力篇：从声音辨认到真实理解](./threads/part-1/3-listening) — 从一次不暂停的首听开始，定位词汇、切分、结构、背景与注意力障碍，用最小字幕支架、意义重构、输出和延迟迁移把一段材料练成可用理解。
-- **2026-10-19** · [阅读篇：从逐词翻译到观点与证据](./threads/part-1/4-reading) — 从真实阅读任务和首读基线出发，拆分语言、结构、背景与注意力障碍，训练技术文档、多来源比较、证据核验与真实交付。
-- **2026-10-19** · [口语篇：让意思清楚到达](./threads/part-1/5-speaking) — 从无稿基线、参考变体与真实听众出发，训练可理解度、发音、词块、互动修复和陌生问题迁移，不把消灭口音当成口语目标。
-- **2026-10-19** · [写作篇：从初稿到可验证修订](./threads/part-1/6-writing) — 从真实受众与无辅助初稿出发，训练意图、事实、结构、语域、反馈吸收、翻译边界、AI 协作、异步交接和署名责任。
-- **2026-10-19** · [语法篇：让结构服务于意思](./threads/part-1/grammar) — 从真实任务与未经修饰的样本出发，把语法还原成时间、参与者、确定性、因果与信息重点的选择，并用对比、输出、反馈、延迟复测和迁移建立可用结构。
-- **2026-10-19** · [英语能力诊断｜找到可复测的起点](./topics/english-diagnostic) — 面向想提升工作与日常英语的自学者，先用五分钟保存一项英语基线，再按需完成听说读写完整诊断，记录障碍并安排十四天后的平行任务复测。
-- **2026-10-18** · [创业篇：从野心到使命](./threads/part-2/entrepreneurship) — 一份关于产品、现金流、技术债、失败、恢复与再次创业的个人复盘，不提供成功学结论或投资建议。
-- **2026-10-18** · [我的故事：失败、恢复与重新出发](./threads/part-2/my-story) — 一段关于事业起落、创业失利、身体与生活失序，以及回家恢复后重新找回行动勇气的个人记录。
-- **2026-10-16** · [AI 评测记录模板](./templates/ai-evaluation) — 记录任务范围、保留样本、版本、硬性条件、失败与完整成本，支持采用、修复或撤回 AI 工作流的决定。
-- **2026-10-16** · [AI 学习记录：从工具协作到独立能力](./templates/ai-learning-log) — 记录 AI 学习切片的真实任务、无 AI 基线、工具范围、来源核验、主动产出、延迟复测、迁移和下一周期决定。
-- **2026-10-16** · [AI 任务简报：从问题到人工验收](./templates/ai-task-brief) — 在 AI 学习或项目开始前写清真实任务、数据边界、来源、评估集、人工责任、成本、失败处理和交接条件。
-- **2026-10-16** · [AI 趋势实验卡：从信号到决定](./templates/ai-trend-radar) — 记录一个 AI 新能力的一手来源、任务假设、人工基线、保留集、权限、完整成本、独立迁移和退出条件。
-- **2026-10-16** · [AI 学习、项目开发与资源层创业](./threads/part-3/2-ai-development-and-resource-layer) — 记录韩先凯从 AI 学习、AI 辅助开发到 AI 资源层创业的工程、交付、运营与商业验证路径，区分事实、实践和未知结果。
-- **2026-10-16** · [AI 趋势与学习路线：把变化变成能力](./threads/part-3/6-ai-trends-and-learning-roadmap) — 用一手信号、可复现实验和独立迁移判断 AI 的新能力是否值得学习，覆盖智能体、多模态、上下文、本地模型、评测与来源追踪。
-- **2026-10-16** · [AI 评测与可靠性：知道什么时候可以交付](./threads/practice/ai-evaluation) — 用真实任务、小型测试集、失败分类和完整成本比较 AI 工作流，识别一次成功与稳定可用之间的差别。
+- **2026-10-19** · [Cẩm nang nâng cấp bản thân｜Học tập suốt đời trong thời đại AI](./) — 《Cẩm nang nâng cấp bản thân》giúp người bình thường không ngừng học hỏi trong thời đại AI, hoàn thành các dự án thực tế, vượt qua những giai đoạn khó khăn của cuộc đời và để lại bằng chứng về sự trưởng thành.
+- **2026-10-19** · [Danh mục tài nguyên bên thứ ba｜Tự kiểm chứng trước khi sử dụng](./resources) — Tổng hợp các điểm bắt đầu tùy chọn để học AI và sử dụng công cụ, ghi lại thời điểm kiểm tra liên kết, thông tin định vị công khai và ranh giới không tài trợ; trước khi sử dụng, hãy tự kiểm tra điều khoản, quyền riêng tư, giá cả, bản quyền và trạng thái dịch vụ.
+- **2026-10-19** · [Chẩn đoán năng lực tiếng Anh: bốn đường cơ sở và hồ sơ chuyển giao](./templates/english-diagnostic) — Lưu lại phiên bản đầu tiên, điều kiện, lỗi, phản hồi, kiểm tra lại sau một khoảng trì hoãn và định hướng CEFR của nghe, nói, đọc, viết trong cùng một chủ đề thực tế, tránh dùng điểm trung bình hoặc sản phẩm đã được trau chuốt để thay thế cho bằng chứng năng lực.
+- **2026-10-19** · [Nhận thức: biến nỗ lực thành việc học có thể kiểm chứng](./threads/part-1/1-understanding) — Dùng nhiệm vụ thực tế, đường cơ sở ban đầu, hồi tưởng chủ động, phản hồi, giãn cách, phục hồi và trạng thái xuyên suốt các phiên làm việc để biến nỗ lực thành bằng chứng học tập có thể so sánh và chuyển giao.
+- **2026-10-19** · [Từ vựng: từ quen mắt đến vận dụng trong nhiệm vụ thực tế](./threads/part-1/2-vocabulary) — Bắt đầu từ đường cơ sở khi gặp lần đầu, quyết định tra từ, kiểm chứng nghĩa và cách kết hợp từ; dùng việc vận dụng không có gợi ý, sửa lỗi dùng sai và chuyển giao sau một khoảng trì hoãn để xây dựng một hệ thống từ vựng thực sự hữu dụng.
+- **2026-10-19** · [Nghe: từ nhận diện âm thanh đến hiểu thực tế](./threads/part-1/3-listening) — Bắt đầu bằng một lần nghe đầu tiên không tạm dừng, xác định các trở ngại về từ vựng, phân đoạn, cấu trúc, bối cảnh và sự chú ý; dùng giàn giáo phụ đề tối thiểu, tái cấu trúc ý nghĩa, đầu ra và chuyển giao sau một khoảng trì hoãn để biến một tài liệu thành năng lực hiểu có thể sử dụng.
+- **2026-10-19** · [Đọc: từ dịch từng từ đến quan điểm và bằng chứng](./threads/part-1/4-reading) — Bắt đầu từ nhiệm vụ đọc thực tế và đường cơ sở khi đọc lần đầu, tách biệt các trở ngại về ngôn ngữ, cấu trúc, bối cảnh và sự chú ý; rèn luyện đọc tài liệu kỹ thuật, so sánh nhiều nguồn, kiểm chứng bằng chứng và tạo ra sản phẩm thực tế.
+- **2026-10-19** · [Nói: truyền đạt ý nghĩa một cách rõ ràng](./threads/part-1/5-speaking) — Bắt đầu từ đường cơ sở không có bản thảo, các biến thể tham khảo và người nghe thực tế; rèn luyện độ dễ hiểu, phát âm, cụm từ cố định, sửa chữa trong tương tác và chuyển giao sang các câu hỏi lạ, không coi việc loại bỏ giọng là mục tiêu nói.
+- **2026-10-19** · [Viết: từ bản nháp đầu tiên đến bản sửa đổi có thể kiểm chứng](./threads/part-1/6-writing) — Bắt đầu từ đối tượng độc giả thực tế và bản nháp đầu tiên không có hỗ trợ, rèn luyện ý định, sự kiện, cấu trúc, ngữ vực, tiếp thu phản hồi, ranh giới dịch thuật, cộng tác với AI, bàn giao không đồng bộ và trách nhiệm ghi tên.
+- **2026-10-19** · [Ngữ pháp: để cấu trúc phục vụ ý nghĩa](./threads/part-1/grammar) — Bắt đầu từ nhiệm vụ thực tế và mẫu chưa qua chỉnh sửa, khôi phục ngữ pháp về các lựa chọn liên quan đến thời gian, các bên tham gia, mức độ chắc chắn, quan hệ nhân quả và trọng tâm thông tin; dùng đối chiếu, đầu ra, phản hồi, kiểm tra lại sau một khoảng trì hoãn và chuyển giao để xây dựng cấu trúc có thể sử dụng.
+- **2026-10-19** · [Chẩn đoán năng lực tiếng Anh｜Tìm điểm bắt đầu có thể kiểm tra lại](./topics/english-diagnostic) — Dành cho người tự học muốn nâng cao tiếng Anh trong công việc và đời sống, trước tiên lưu lại một đường cơ sở tiếng Anh trong năm phút, sau đó hoàn thành chẩn đoán đầy đủ về nghe, nói, đọc, viết khi cần, ghi lại trở ngại và sắp xếp kiểm tra lại bằng một nhiệm vụ song song sau mười bốn ngày.
+- **2026-10-18** · [Khởi nghiệp: từ tham vọng đến sứ mệnh](./threads/part-2/entrepreneurship) — Một bản nhìn lại cá nhân về sản phẩm, dòng tiền, nợ kỹ thuật, thất bại, phục hồi và khởi nghiệp lần nữa; không đưa ra kết luận theo kiểu công thức thành công hay lời khuyên đầu tư.
+- **2026-10-18** · [Câu chuyện của tôi: thất bại, phục hồi và bắt đầu lại](./threads/part-2/my-story) — Một ghi chép cá nhân về những thăng trầm trong sự nghiệp, thất bại khi khởi nghiệp, sự đảo lộn của cơ thể và cuộc sống, cũng như việc tìm lại dũng khí hành động sau khi trở về nhà phục hồi.
+- **2026-10-16** · [Mẫu ghi chép đánh giá AI](./templates/ai-evaluation) — Ghi lại phạm vi nhiệm vụ, mẫu được giữ lại, phiên bản, điều kiện bắt buộc, thất bại và tổng chi phí, hỗ trợ quyết định áp dụng, khắc phục hoặc rút lại quy trình làm việc với AI.
+- **2026-10-16** · [Ghi chép học AI: từ cộng tác với công cụ đến năng lực độc lập](./templates/ai-learning-log) — Ghi lại nhiệm vụ thực tế, đường cơ sở không có AI, phạm vi công cụ, kiểm chứng nguồn, đầu ra chủ động, kiểm tra lại sau một khoảng trì hoãn, chuyển giao và quyết định cho chu kỳ tiếp theo của từng phần học AI.
+- **2026-10-16** · [Tóm tắt nhiệm vụ AI: từ vấn đề đến nghiệm thu thủ công](./templates/ai-task-brief) — Trước khi bắt đầu học AI hoặc dự án, hãy viết rõ nhiệm vụ thực tế, ranh giới dữ liệu, nguồn, tập đánh giá, trách nhiệm của con người, chi phí, cách xử lý thất bại và điều kiện bàn giao.
+- **2026-10-16** · [Thẻ thử nghiệm xu hướng AI: từ tín hiệu đến quyết định](./templates/ai-trend-radar) — Ghi lại nguồn sơ cấp của một năng lực AI mới, giả thuyết nhiệm vụ, đường cơ sở do con người thực hiện, tập dữ liệu giữ lại, quyền hạn, tổng chi phí, chuyển giao độc lập và điều kiện rút lui.
+- **2026-10-16** · [Học AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](./threads/part-3/2-ai-development-and-resource-layer) — Ghi lại lộ trình kỹ thuật, bàn giao, vận hành và kiểm chứng thương mại của 韩先凯, từ học AI, phát triển có AI hỗ trợ đến khởi nghiệp ở tầng tài nguyên AI; phân biệt sự thật, thực hành và kết quả chưa biết.
+- **2026-10-16** · [Xu hướng AI và lộ trình học tập: biến thay đổi thành năng lực](./threads/part-3/6-ai-trends-and-learning-roadmap) — Dùng tín hiệu sơ cấp, thử nghiệm có thể tái hiện và chuyển giao độc lập để đánh giá liệu năng lực mới của AI có đáng học hay không, bao quát tác tử, đa phương thức, ngữ cảnh, mô hình cục bộ, đánh giá và truy xuất nguồn.
+- **2026-10-16** · [Đánh giá và độ tin cậy của AI: biết khi nào có thể bàn giao](./threads/practice/ai-evaluation) — Dùng nhiệm vụ thực tế, tập kiểm thử nhỏ, phân loại thất bại và tổng chi phí để so sánh các quy trình làm việc với AI, nhận diện sự khác biệt giữa thành công một lần và khả năng sử dụng ổn định.
 
-## 按主题继续
+## Tiếp tục theo chủ đề
 
-- [英语能力诊断入口](topics/english-diagnostic.md)
-- [AI 学习工作流入口](topics/ai-learning-workflows.md)
-- [真实项目、求职与创业入口](topics/real-projects.md)
-- [第三方资源目录](resources.md)
+- [Điểm bắt đầu chẩn đoán năng lực tiếng Anh](topics/english-diagnostic.md)
+- [Điểm bắt đầu quy trình học AI](topics/ai-learning-workflows.md)
+- [Điểm bắt đầu cho dự án thực tế, tìm việc và khởi nghiệp](topics/real-projects.md)
+- [Danh mục tài nguyên bên thứ ba](resources.md)
 
-订阅 [Atom feed](https://byoungd.github.io/up/feeds/updates.xml) 获取机器可读更新。
+Đăng ký [Atom feed](https://byoungd.github.io/up/feeds/updates.xml) để nhận các bản cập nhật ở định dạng máy có thể đọc.

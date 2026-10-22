@@ -1,49 +1,49 @@
 ---
-title: 实践路线图：创业、自律与 AI
-description: 按当前问题选择英语、AI、创业或自律路径，用四周的最小实践留下作品、反馈与下一步决定。
+title: Lộ trình thực hành: Khởi nghiệp, tính tự giác và AI
+description: Chọn lộ trình tiếng Anh, AI, khởi nghiệp hoặc tính tự giác dựa trên vấn đề hiện tại; dùng bốn tuần thực hành tối thiểu để tạo ra sản phẩm, phản hồi và quyết định bước tiếp theo.
 updated: 2026-09-19
 ---
 
-# 实践路线图：创业、自律与 AI
+# Lộ trình thực hành: Khởi nghiệp, tính tự giác và AI
 
-这张路线图补充[阅读指南](threads/part-0/reader-guide.md)，把书中的方法用于创业、自律与 AI 的具体任务。全书的长期安排见[九十天行动篇](threads/part-5/90-day-plan.md)；这里的四周只是其中一个可缩放的小实验。你不必先读完，也不必同时开始英语、创业和 AI 三个项目。先选一个本周真实存在的问题，把阅读变成一次可以结束的行动。
+Lộ trình này bổ sung cho[hướng dẫn đọc](threads/part-0/reader-guide.md), giúp áp dụng các phương pháp trong sách vào những nhiệm vụ cụ thể về khởi nghiệp, tính tự giác và AI. Kế hoạch dài hạn của toàn bộ cuốn sách được trình bày trong[phần hành động chín mươi ngày](threads/part-5/90-day-plan.md); bốn tuần ở đây chỉ là một thử nghiệm nhỏ có thể mở rộng hoặc thu hẹp. Bạn không cần đọc hết trước, cũng không cần bắt đầu cả ba dự án tiếng Anh, khởi nghiệp và AI cùng lúc. Hãy chọn trước một vấn đề thực sự đang tồn tại trong tuần này, rồi biến việc đọc thành một hành động có thể hoàn tất.
 
-## 按你现在的问题选一条路
+## Chọn một lộ trình dựa trên vấn đề hiện tại của bạn
 
-| 你现在的状态 | 从哪里读 | 本周留下什么 |
+| Tình trạng hiện tại | Đọc từ đâu | Tuần này để lại gì |
 | --- | --- | --- |
-| 想用 AI 学会一项新技能 | [使用 AI 学习一切](threads/part-3/1-ai-learning.md) → [AI 工作流](threads/practice/ai-workflows.md) | 一份独立完成的作品和错误记录 |
-| 已经用 AI，但不知道结果靠不靠谱 | [AI 评测与可靠性](threads/practice/ai-evaluation.md) → [评测记录](templates/ai-evaluation.md) | 一个小样本集和一次有依据的版本比较 |
-| 有创业想法，尚未接触客户 | [从问题到首批用户](threads/practice/customer-discovery.md) → [创业实验卡](templates/startup-experiment.md) | 真实访谈记录及支持、反对假设的证据 |
-| 有人愿意用，但忙而不赚钱 | [可持续的小生意](threads/practice/sustainable-business.md) | 一份包含沟通、返工和支持工时的交付账 |
-| 开始困难，或中断后想重新开始 | [自律与坚持实操](threads/practice/discipline-and-consistency.md) → [持续行动计划](templates/consistency-plan.md) | 一个明确触发条件、一次缩小范围后的行动和可核对的输出 |
-| 英语妨碍阅读或交流 | [CEFR 目标与自测](threads/part-1/0-cefr.md) → [英语诊断](templates/english-diagnostic.md) | 一段录音或一篇短文，标出最需要练习的一项 |
+| Muốn dùng AI để học một kỹ năng mới | [Dùng AI để học mọi thứ](threads/part-3/1-ai-learning.md) → [Quy trình làm việc với AI](threads/practice/ai-workflows.md) | Một sản phẩm tự hoàn thành và nhật ký lỗi |
+| Đã dùng AI nhưng không biết kết quả có đáng tin hay không | [Đánh giá và độ tin cậy của AI](threads/practice/ai-evaluation.md) → [Nhật ký đánh giá](templates/ai-evaluation.md) | Một tập mẫu nhỏ và một lần so sánh phiên bản có căn cứ |
+| Có ý tưởng khởi nghiệp nhưng chưa tiếp xúc với khách hàng | [Từ vấn đề đến những người dùng đầu tiên](threads/practice/customer-discovery.md) → [Thẻ thử nghiệm khởi nghiệp](templates/startup-experiment.md) | Ghi chép phỏng vấn thực tế cùng bằng chứng ủng hộ hoặc phản bác giả thuyết |
+| Có người sẵn sàng sử dụng nhưng bận rộn mà không kiếm được tiền | [Một việc kinh doanh nhỏ bền vững](threads/practice/sustainable-business.md) | Một sổ theo dõi giao hàng bao gồm thời gian trao đổi, làm lại và hỗ trợ |
+| Khó bắt đầu hoặc muốn bắt đầu lại sau khi gián đoạn | [Thực hành tính tự giác và kiên trì](threads/practice/discipline-and-consistency.md) → [Kế hoạch hành động liên tục](templates/consistency-plan.md) | Một điều kiện kích hoạt rõ ràng, một hành động sau khi thu hẹp phạm vi và đầu ra có thể kiểm tra |
+| Tiếng Anh cản trở việc đọc hoặc giao tiếp | [Mục tiêu CEFR và tự đánh giá](threads/part-1/0-cefr.md) → [Chẩn đoán tiếng Anh](templates/english-diagnostic.md) | Một đoạn ghi âm hoặc một bài viết ngắn, chỉ ra một điểm cần luyện tập nhất |
 
-表中的产出只是起步建议，不是对所有人的统一考核。照护、轮班或临时事务占用了时间，就减少任务数量，保留一个明确的完成标准。
+Các sản phẩm trong bảng chỉ là gợi ý khởi đầu, không phải tiêu chí đánh giá chung cho tất cả mọi người. Nếu việc chăm sóc, làm theo ca hoặc các công việc đột xuất chiếm mất thời gian, hãy giảm số lượng nhiệm vụ và giữ lại một tiêu chuẩn hoàn thành rõ ràng.
 
-## 一条四周实践路径
+## Một lộ trình thực hành bốn tuần
 
-这是一份可调整的安排，不承诺四周获得收入或掌握一门技能。每周安排两次 25 分钟的任务和一次 10 分钟复盘，也可以把一周拆成更长的周期。
+Đây là một kế hoạch có thể điều chỉnh, không cam kết kiếm được thu nhập hay thành thạo một kỹ năng trong bốn tuần. Mỗi tuần thực hiện hai nhiệm vụ kéo dài 25 phút và một lần xem lại kéo dài 10 phút; bạn cũng có thể kéo dài chu kỳ bằng cách chia một tuần thành nhiều giai đoạn hơn.
 
-### 第一周：建立起点
+### Tuần thứ nhất: Xây dựng điểm xuất phát
 
-填写 [学习状态](templates/learning-state.md)，只写一个问题。保存一次当前表现：不用 AI 写一段解释、记录现有流程需要的时间，或询问一位用户最近一次遇到的困难。若只得到“应该会有人需要”，起点仍然是一个假设。
+Điền vào [Tình trạng học tập](templates/learning-state.md), chỉ viết một vấn đề. Lưu lại một lần thể hiện hiện tại: viết một đoạn giải thích mà không dùng AI, ghi lại thời gian quy trình hiện có cần, hoặc hỏi một người dùng về khó khăn gần đây nhất của họ. Nếu chỉ nhận được câu trả lời “chắc sẽ có người cần”, thì điểm xuất phát vẫn chỉ là một giả thuyết.
 
-### 第二周：做最小版本
+### Tuần thứ hai: Tạo phiên bản tối thiểu
 
-选一个可以当场演示的输出。学英语可以完成一封真实用途的邮件；创业可以人工交付一个很小的服务；AI 项目可以整理一份带来源的资料摘要。需要 AI 协作时，用 [AI 任务简报](templates/ai-task-brief.md) 固定输入、边界和验收标准；验证创业想法时，用 [创业实验卡](templates/startup-experiment.md) 先写清假设与停止条件，先完成一个闭环。
+Chọn một đầu ra có thể trình diễn ngay tại chỗ. Học tiếng Anh có thể hoàn thành một email phục vụ mục đích thực tế; khởi nghiệp có thể tự cung cấp thủ công một dịch vụ rất nhỏ; dự án AI có thể biên soạn một bản tóm tắt tài liệu có nguồn trích dẫn. Khi cần phối hợp với AI, hãy dùng [Bản tóm tắt nhiệm vụ AI](templates/ai-task-brief.md) để cố định đầu vào, phạm vi và tiêu chuẩn nghiệm thu; khi xác thực ý tưởng khởi nghiệp, hãy dùng [Thẻ thử nghiệm khởi nghiệp](templates/startup-experiment.md) để viết rõ giả thuyết và điều kiện dừng trước, rồi hoàn thành một vòng khép kín.
 
-### 第三周：让现实给反馈
+### Tuần thứ ba: Để thực tế đưa ra phản hồi
 
-把输出交给真实使用者，或在新材料上独立复测。记录对方做了什么、卡在哪里，而不只记录“很好”。AI 项目加入缺失信息、冲突来源、工具失败等案例；创业实验记录未回复、拒绝和没有复购的理由。
+Đưa đầu ra cho người dùng thực tế, hoặc tự kiểm tra lại độc lập trên tài liệu mới. Ghi lại đối phương đã làm gì và vướng ở đâu, thay vì chỉ ghi “rất tốt”. Dự án AI cần bổ sung các trường hợp thiếu thông tin, nguồn mâu thuẫn, công cụ thất bại và những trường hợp khác; thử nghiệm khởi nghiệp cần ghi lại lý do không hồi đáp, từ chối và không mua lại.
 
-### 第四周：决定保留什么
+### Tuần thứ tư: Quyết định điều gì cần giữ lại
 
-用 [每周复盘](templates/weekly-review.md) 比较起点和当前证据。选择继续、缩小、换方法或停止，把决定和理由写下来。只留下下一轮最有价值的一件事。愿意停止一个被反证的方案，同样是进步。
+Dùng [Xem lại hằng tuần](templates/weekly-review.md) để so sánh điểm xuất phát với bằng chứng hiện tại. Chọn tiếp tục, thu hẹp, đổi phương pháp hoặc dừng lại, rồi ghi ra quyết định và lý do. Chỉ giữ lại một việc có giá trị nhất cho vòng tiếp theo. Sẵn sàng dừng một phương án đã bị bằng chứng phản bác cũng là tiến bộ.
 
-## 所有主题共用一套证据
+## Một bộ bằng chứng dùng chung cho mọi chủ đề
 
-建立一个本地文件夹即可，不需要先搭建复杂的知识库：
+Chỉ cần tạo một thư mục cục bộ, không cần xây dựng ngay một kho kiến thức phức tạp:
 
 ```text
 my-practice/
@@ -53,23 +53,23 @@ my-practice/
   review.md      本周决定和下次开始的位置
 ```
 
-保存对自己有用的最少材料；涉及他人的信息先取得允许并去除不必要的身份细节。公开分享作品时，不把客户材料、聊天记录或密钥一并公开。
+Chỉ lưu lại những tài liệu tối thiểu có ích cho bản thân; với thông tin liên quan đến người khác, trước tiên hãy xin phép và loại bỏ những chi tiết nhận dạng không cần thiết. Khi chia sẻ công khai sản phẩm, không công khai cùng tài liệu của khách hàng, lịch sử trò chuyện hoặc khóa bí mật.
 
-判断记录有没有用，只问两个问题：明天能否接着做？一个月后能否解释为什么这样决定？
+Để đánh giá ghi chép có hữu ích hay không, chỉ cần hỏi hai câu: Ngày mai có thể tiếp tục làm không? Một tháng sau có thể giải thích vì sao đã quyết định như vậy không?
 
-## 模板工具箱
+## Hộp công cụ mẫu
 
-| 用途 | 模板 |
+| Mục đích | Mẫu |
 | --- | --- |
-| 确定当前基线 | [学习状态](templates/learning-state.md)、[英语诊断](templates/english-diagnostic.md) |
-| 与 AI 协作 | [任务简报](templates/ai-task-brief.md)、[学习记录](templates/ai-learning-log.md)、[评测记录](templates/ai-evaluation.md) |
-| 验证创业想法 | [创业实验卡](templates/startup-experiment.md)、[AI 项目评分卡](templates/ai-project-scorecard.md) |
-| 持续行动与复盘 | [节律账本](templates/rhythm-ledger.md)、[持续行动计划](templates/consistency-plan.md)、[每周复盘](templates/weekly-review.md)、[AI 经历案例复盘](templates/ai-case-review.md) |
+| Xác định đường cơ sở hiện tại | [Tình trạng học tập](templates/learning-state.md)、[Chẩn đoán tiếng Anh](templates/english-diagnostic.md) |
+| Phối hợp với AI | [Bản tóm tắt nhiệm vụ](templates/ai-task-brief.md)、[Nhật ký học tập](templates/ai-learning-log.md)、[Nhật ký đánh giá](templates/ai-evaluation.md) |
+| Xác thực ý tưởng khởi nghiệp | [Thẻ thử nghiệm khởi nghiệp](templates/startup-experiment.md)、[Thẻ chấm điểm dự án AI](templates/ai-project-scorecard.md) |
+| Hành động liên tục và xem lại | [Sổ cái nhịp độ](templates/rhythm-ledger.md)、[Kế hoạch hành động liên tục](templates/consistency-plan.md)、[Xem lại hằng tuần](templates/weekly-review.md)、[Xem lại trường hợp trải nghiệm AI](templates/ai-case-review.md) |
 
-节律账本安排一周的容量与节奏；持续行动计划细化一个行动实验。模板可以删减。若填写一张表比实际行动耗时更久，就只保留“要做什么、完成证据、下一步”三项。
+Sổ cái nhịp độ sắp xếp năng lực và nhịp điệu của một tuần; kế hoạch hành động liên tục cụ thể hóa một thử nghiệm hành động. Có thể cắt giảm các mẫu. Nếu điền một biểu mẫu mất nhiều thời gian hơn hành động thực tế, chỉ cần giữ lại ba mục: “cần làm gì, bằng chứng hoàn thành, bước tiếp theo”.
 
-## 如何看待指南中的内容
+## Cách nhìn nhận nội dung trong hướng dẫn
 
-方法章节提供可以尝试和检验的流程；作者故事记录特定处境中的经验；外部研究和产品资料应沿来源继续核验。文中的示例数字、两周周期和样本数量，除非明确说明，都是帮助开始的设计示例，不代表科学阈值或经营保证。
+Các chương phương pháp cung cấp những quy trình có thể thử nghiệm và kiểm chứng; câu chuyện của tác giả ghi lại kinh nghiệm trong những hoàn cảnh cụ thể; các nghiên cứu bên ngoài và tài liệu sản phẩm cần tiếp tục được kiểm chứng theo nguồn. Các con số ví dụ, chu kỳ hai tuần và số lượng mẫu trong bài, trừ khi có nêu rõ, đều là ví dụ thiết kế giúp bắt đầu, không đại diện cho ngưỡng khoa học hay bảo đảm kinh doanh.
 
-想了解背景，可以读 [创业篇](threads/part-2/entrepreneurship.md) 和 [我的故事](threads/part-2/my-story.md)。需要行动时，回到所选路径，完成第一份作品。
+Nếu muốn tìm hiểu bối cảnh, bạn có thể đọc [Phần khởi nghiệp](threads/part-2/entrepreneurship.md) và [Câu chuyện của tôi](threads/part-2/my-story.md). Khi cần hành động, hãy quay lại lộ trình đã chọn và hoàn thành sản phẩm đầu tiên.
