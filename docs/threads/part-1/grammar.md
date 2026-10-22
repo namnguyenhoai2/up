@@ -79,12 +79,12 @@ Có thể sử dụng một trong ba loại mẫu sau:
 Sau đó điền vào:
 
 ```markdown
-真实任务与受众：
-时间和工具限制：
-原始样本位置：
-听众/读者理解了什么：
-哪里出现误解、停顿或反复改写：
-最可能影响意思的一项结构：
+Nhiệm vụ thực tế và đối tượng:
+Các giới hạn (thời gian và công cụ):
+Vị trí của mẫu gốc:
+Những gì đối tượng/người đọc đã hiểu:
+Những điểm xảy ra hiểu nhầm, gián đoạn hoặc phải chỉnh sửa nhiều lần:
+Yếu tố cấu trúc có khả năng ảnh hưởng đến ý nghĩa nhiều nhất:
 ```
 
 Đừng vội nhờ người khác sửa đúng toàn bộ văn bản. Cần giữ lại đường cơ sở để biết khi đó bạn đã tổ chức ý nghĩa như thế nào; nếu không, về sau bạn chỉ có thể so sánh hai sản phẩm hoàn chỉnh mà không biết năng lực nào thực sự đã thay đổi.
@@ -231,10 +231,10 @@ Mỗi lần phản hồi chỉ nên xử lý nhiều nhất một đến ba vấ
 Phản hồi không nên chỉ viết ra đáp án đúng. Hãy yêu cầu người phản hồi trả lời:
 
 ```markdown
-我原句最可能被理解成什么：
-我真正想表达什么：
-哪个结构造成差异：
-修改后为什么更符合事实和任务：
+Câu gốc của tôi dễ được hiểu là gì nhất:
+Điều tôi thực sự muốn diễn đạt là gì:
+Cấu trúc nào tạo ra sự khác biệt:
+Vì sao câu sau khi chỉnh sửa phù hợp hơn với sự thật và yêu cầu của nhiệm vụ:
 ```
 
 Nếu người viết lại không thể giải thích lý do mà chỉ đưa ra một câu trau chuốt hơn, bạn có được một phiên bản, nhưng chưa chắc có được năng lực phán đoán có thể chuyển giao.
