@@ -1,14 +1,14 @@
 ---
-title: 写作证据卡：从工具润色到署名交付
-description: 保存真实任务、无辅助初稿、事实来源、翻译意义对照、五次修订、反馈吸收、AI 使用、读者行动、异步交接和延迟迁移。
+title: "Thẻ bằng chứng viết: từ trau chuốt bằng công cụ đến bàn giao có tên tác giả"
+description: "Lưu lại nhiệm vụ thực tế, bản nháp đầu tiên không có hỗ trợ, nguồn thông tin, đối chiếu ý nghĩa bản dịch, năm lần chỉnh sửa, việc tiếp thu phản hồi, việc sử dụng AI, hành động của người đọc, bàn giao không đồng bộ và chuyển giao sau trì hoãn."
 updated: 2026-09-02
 ---
 
-# 写作证据卡：从工具润色到署名交付
+# Thẻ bằng chứng viết: từ trau chuốt bằng công cụ đến bàn giao có tên tác giả
 
-把这张卡复制到私有笔记中，一次只记录一个真实写作任务。不要写入密码、客户资料、未获许可的第三方信息、考试答案或不必要的隐私。最终版本可以公开，不代表原始初稿、反馈和工具记录必须公开。
+Hãy sao chép thẻ này vào ghi chú riêng tư và mỗi lần chỉ ghi lại một nhiệm vụ viết thực tế. Không ghi mật khẩu, thông tin khách hàng, thông tin của bên thứ ba chưa được phép, đáp án bài thi hoặc thông tin riêng tư không cần thiết. Phiên bản cuối có thể được công khai, nhưng điều đó không có nghĩa là bản nháp đầu tiên, phản hồi và nhật ký công cụ cũng phải được công khai.
 
-## 1. 定义任务、读者与责任
+## 1. Xác định nhiệm vụ, người đọc và trách nhiệm
 
 ```markdown
 # Writing Evidence - YYYY-MM-DD
@@ -24,9 +24,9 @@ updated: 2026-09-02
 最终责任人：
 ```
 
-若机构、学校、客户或招聘流程禁止某类帮助，以当前规则为准。
+Nếu cơ quan, trường học, khách hàng hoặc quy trình tuyển dụng cấm một loại hỗ trợ nào đó, hãy tuân theo quy định hiện hành.
 
-## 2. 保存无辅助初稿
+## 2. Lưu bản nháp đầu tiên không có hỗ trợ
 
 ```markdown
 原始初稿位置：
@@ -38,13 +38,13 @@ updated: 2026-09-02
 我根据首版期待读者采取的行动：
 ```
 
-不先查整句译文、不让 AI 生成正文。保留停顿、重复和失败段落；它们是以后比较的基线。
+Không tra cứu bản dịch của cả câu trước, không để AI tạo nội dung chính. Giữ lại những chỗ ngập ngừng, lặp lại và các đoạn viết thất bại; chúng là cơ sở để so sánh về sau.
 
-## 3. 建立事实与责任账本
+## 3. Lập sổ theo dõi sự kiện và trách nhiệm
 
-| 主张/内容 | 类型 | 来源、版本与位置 | 核验日期 | 置信度 | 可否公开 | 什么会改变它 |
+| Luận điểm/nội dung | Loại | Nguồn, phiên bản và vị trí | Ngày kiểm chứng | Mức độ tin cậy | Có thể công khai không | Điều gì sẽ làm thay đổi nó |
 | --- | --- | --- | --- | --- | --- | --- |
-| | 事实 / 数字 / 引语 / 经历 / 推断 / 建议 / 他人信息 | | | | | |
+| | Sự kiện / con số / trích dẫn / trải nghiệm / suy luận / đề xuất / thông tin của người khác | | | | | |
 
 ```markdown
 当时知道什么、后来才知道什么：
@@ -53,7 +53,7 @@ updated: 2026-09-02
 必须在交付前删除或匿名化的内容：
 ```
 
-## 4. 保存文档骨架
+## 4. Lưu khung tài liệu
 
 ```markdown
 读者面对的问题：
@@ -65,13 +65,13 @@ updated: 2026-09-02
 读者下一步：
 ```
 
-| 段落 | 功能 | 必须保留 | 可以删除/移动 | 理由 |
+| Đoạn | Chức năng | Bắt buộc giữ lại | Có thể xóa/di chuyển | Lý do |
 | --- | --- | --- | --- | --- |
-| | 背景 / 问题 / 主张 / 理由 / 证据 / 例子 / 转折 / 限制 / 请求 / 决定 / 交接 | | | |
+| | Bối cảnh / vấn đề / luận điểm / lý do / bằng chứng / ví dụ / chuyển ý / giới hạn / yêu cầu / quyết định / bàn giao | | | |
 
-## 5. 记录翻译的意义变化
+## 5. Ghi lại những thay đổi về ý nghĩa trong bản dịch
 
-| 我真正想表达 | 英文首版 | 翻译/工具候选 | 最终决定 | 理由 |
+| Điều tôi thực sự muốn diễn đạt | Bản đầu tiên bằng tiếng Anh | Phương án do bản dịch/công cụ đề xuất | Quyết định cuối cùng | Lý do |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
@@ -84,17 +84,17 @@ updated: 2026-09-02
 术语表与审校者：
 ```
 
-自然、流畅和忠实是不同判断。最终作者需要解释取舍。
+Tự nhiên, trôi chảy và trung thành là những tiêu chí đánh giá khác nhau. Tác giả cuối cùng cần giải thích các lựa chọn của mình.
 
-## 6. 完成五次修订
+## 6. Hoàn thành năm lần chỉnh sửa
 
-| 遍次 | 主要问题 | 修改前 | 修改后 | 为什么改变任务结果 |
+| Lần | Vấn đề chính | Trước khi sửa | Sau khi sửa | Vì sao thay đổi kết quả của nhiệm vụ |
 | --- | --- | --- | --- | --- |
-| 任务与事实 | | | | |
-| 结构与证据 | | | | |
-| 句子与意义 | | | | |
-| 语域与声音 | | | | |
-| 交付与边界 | | | | |
+| Nhiệm vụ và sự kiện | | | | |
+| Cấu trúc và bằng chứng | | | | |
+| Câu và ý nghĩa | | | | |
+| Văn phong và giọng điệu | | | | |
+| Bàn giao và ranh giới | | | | |
 
 ```markdown
 本轮必要纠错：
@@ -104,9 +104,9 @@ updated: 2026-09-02
 无法解释、因此没有接受的修改：
 ```
 
-## 7. 记录反馈吸收
+## 7. Ghi lại việc tiếp thu phản hồi
 
-先请读者复述，再看批注：
+Trước tiên hãy nhờ người đọc diễn đạt lại, sau đó mới xem chú thích:
 
 ```markdown
 读者复述的主旨：
@@ -115,13 +115,13 @@ updated: 2026-09-02
 需要猜测的位置：
 ```
 
-| 反馈 | 来源/关系 | 分类 | 决定 | 理由 | 是否进入平行文本 |
+| Phản hồi | Nguồn/mối quan hệ | Phân loại | Quyết định | Lý do | Có đưa vào văn bản song song không |
 | --- | --- | --- | --- | --- | --- |
-| | 真实读者 / 同伴 / 教师 / 编辑 / AI | 纠错 / 歧义 / 结构 / 证据 / 语域 / 风格 | 采纳 / 部分 / 拒绝 / 延后 | | |
+| | Người đọc thực tế / bạn học / giáo viên / biên tập viên / AI | Sửa lỗi / mơ hồ / cấu trúc / bằng chứng / văn phong / phong cách | Chấp nhận / một phần / từ chối / trì hoãn | | |
 
-旧稿改好不等于新任务会用。反馈必须进入一份平行文本才开始证明迁移。
+Sửa tốt bản cũ không có nghĩa là bản đó sẽ được dùng cho nhiệm vụ mới. Phản hồi phải được đưa vào một văn bản song song thì mới bắt đầu chứng minh được khả năng chuyển giao.
 
-## 8. 记录 AI 与自动工具使用
+## 8. Ghi lại việc sử dụng AI và công cụ tự động
 
 ```markdown
 工具 / 模型 / 版本与日期：
@@ -135,20 +135,20 @@ updated: 2026-09-02
 关闭工具后的平行任务：
 ```
 
-模型输出可以成为候选，不拥有署名，也不能替最终作者承担责任。
+Đầu ra của mô hình có thể trở thành phương án tham khảo, nhưng không có quyền đứng tên tác giả và cũng không thể thay tác giả cuối cùng chịu trách nhiệm.
 
-## 9. 检查异步交付
+## 9. Kiểm tra bàn giao không đồng bộ
 
-| 检查项 | 内容 | 验收 |
+| Hạng mục kiểm tra | Nội dung | Nghiệm thu |
 | --- | --- | --- |
-| 一句结论/主题行 | | |
-| 已完成与证据位置 | | |
-| 风险、阻塞与未知 | | |
-| 需要谁何时决定什么 | | |
-| 下一步、负责人和检查点 | | |
-| 无回应时的处理 | | |
-| 失败、停止与回滚 | | |
-| 链接、附件与权限 | | |
+| Kết luận/dòng chủ đề trong một câu | | |
+| Việc đã hoàn thành và vị trí bằng chứng | | |
+| Rủi ro, trở ngại và điều chưa biết | | |
+| Ai cần quyết định điều gì vào thời điểm nào | | |
+| Bước tiếp theo, người phụ trách và mốc kiểm tra | | |
+| Cách xử lý khi không có phản hồi | | |
+| Thất bại, dừng lại và khôi phục | | |
+| Liên kết, tệp đính kèm và quyền truy cập | | |
 
 ```markdown
 读者能否不参加额外会议就继续：
@@ -156,14 +156,14 @@ updated: 2026-09-02
 交接后仍需作者口头补充的缺口：
 ```
 
-## 10. 做延迟保持与迁移
+## 10. Thực hiện duy trì và chuyển giao sau trì hoãn
 
-| 时间 | 撤掉什么 | 改变的条件 | 输出 | 结果 |
+| Thời điểm | Loại bỏ điều gì | Điều kiện thay đổi | Đầu ra | Kết quả |
 | --- | --- | --- | --- | --- |
-| 第 1 天 | 不使用 AI 正文 | 原任务 | 初稿与交付版 | |
-| 第 3-7 天 | 撤掉旧句子和批注 | 新主题、同体裁 | 平行文本 | |
-| 第 14 天 | 撤掉最近反馈与翻译 | 新受众、同信息 | 语域迁移文本 | |
-| 第 30 天 | 关闭全部练习提示 | 真实邮件、报告、申请或交接 | 完整交付 | |
+| Ngày 1 | Không sử dụng nội dung chính do AI tạo | Nhiệm vụ ban đầu | Bản nháp và bản bàn giao | |
+| Ngày 3-7 | Loại bỏ các câu và chú thích cũ | Chủ đề mới, cùng thể loại | Văn bản song song | |
+| Ngày 14 | Loại bỏ phản hồi và bản dịch gần nhất | Đối tượng mới, cùng thông tin | Văn bản chuyển đổi văn phong | |
+| Ngày 30 | Tắt toàn bộ gợi ý luyện tập | Email, báo cáo, đơn ứng tuyển hoặc bàn giao thực tế | Bản bàn giao hoàn chỉnh | |
 
 ```markdown
 七天后仍能调用的结构与判断：
@@ -173,19 +173,19 @@ updated: 2026-09-02
 下一轮只改变的变量：
 ```
 
-## 11. 评分与署名决定
+## 11. Quyết định chấm điểm và ghi tên tác giả
 
-每项 0-2：`0=未完成`，`1=依赖提示或不稳定`，`2=当前条件下完成`。
+Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
 
-| 项目 | 第 1 天 | 第 7 天 | 第 14 天 | 证据理由 |
+| Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do bằng chứng |
 | --- | ---: | ---: | ---: | --- |
-| 独立留下初稿 | | | | |
-| 任务、读者和下一步清楚 | | | | |
-| 事实、来源与推断可区分 | | | | |
-| 结构和证据支持结论 | | | | |
-| 能解释翻译/AI/反馈修改 | | | | |
-| 异步读者能继续或回滚 | | | | |
-| 换主题、受众或体裁后仍能交付 | | | | |
+| Tự mình để lại bản nháp đầu tiên | | | | |
+| Nhiệm vụ, người đọc và bước tiếp theo rõ ràng | | | | |
+| Có thể phân biệt sự kiện, nguồn và suy luận | | | | |
+| Cấu trúc và bằng chứng hỗ trợ kết luận | | | | |
+| Có thể giải thích các chỉnh sửa do bản dịch/AI/phản hồi | | | | |
+| Người đọc không đồng bộ có thể tiếp tục hoặc khôi phục | | | | |
+| Vẫn có thể bàn giao sau khi thay đổi chủ đề, đối tượng hoặc thể loại | | | | |
 
 ```markdown
 当前版本：愿意署名 / 需再核验 / 需缩小范围 / 不应交付
@@ -195,4 +195,4 @@ updated: 2026-09-02
 下一次复查日期：
 ```
 
-相关章节：[写作篇：从初稿到可验证修订](../threads/part-1/6-writing.md) ｜ [语法篇](../threads/part-1/grammar.md) ｜ [阅读篇](../threads/part-1/4-reading.md) ｜ [用 AI 学英语](../threads/part-1/7-ai.md) ｜ [求职英语篇](../threads/part-1/8-job-search-english.md) ｜ [作品篇](../threads/part-3/4-artifacts-and-delivery.md)
+Các chương liên quan: [Phần viết: từ bản nháp đầu tiên đến chỉnh sửa có thể kiểm chứng](../threads/part-1/6-writing.md) ｜ [Phần ngữ pháp](../threads/part-1/grammar.md) ｜ [Phần đọc](../threads/part-1/4-reading.md) ｜ [Học tiếng Anh bằng AI](../threads/part-1/7-ai.md) ｜ [Phần tiếng Anh xin việc](../threads/part-1/8-job-search-english.md) ｜ [Phần tác phẩm](../threads/part-3/4-artifacts-and-delivery.md)

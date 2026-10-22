@@ -1,24 +1,24 @@
 ---
-title: 生活进阶工作表
-description: 将选择、注意力、关系、恢复与关心分担五类练习放进一份可复制的私有工作表，持续保存事实、价值、决定权、同意、容量、停止门槛、修复行动和复盘证据。
+title: "Bảng thực hành nâng cao cho cuộc sống"
+description: "Đưa năm nhóm bài tập về lựa chọn, sự chú ý, các mối quan hệ, phục hồi, và quan tâm cũng như chia sẻ trách nhiệm vào một bảng thực hành riêng tư có thể sao chép, liên tục lưu lại sự thật, giá trị, quyền quyết định, sự đồng thuận, khả năng, ngưỡng dừng, hành động sửa chữa và bằng chứng rà soát."
 updated: 2026-10-04
 ---
 
-# 生活进阶工作表
+# Bảng thực hành nâng cao cho cuộc sống
 
-这不是一张要求你每天满分的打卡表，而是一份帮助你重新看见现实的私有记录。遇到重要选择、注意力失控、关系冲突、长期疲惫或需要分担的照料事务时，复制对应部分，写下事实和下一步。
+Đây không phải là bảng điểm danh yêu cầu bạn phải đạt điểm tối đa mỗi ngày, mà là một bản ghi riêng tư giúp bạn nhìn lại thực tế. Khi gặp một lựa chọn quan trọng, mất kiểm soát sự chú ý, xung đột trong mối quan hệ, mệt mỏi kéo dài hoặc công việc chăm sóc cần được chia sẻ, hãy sao chép phần tương ứng và viết ra sự thật cùng bước tiếp theo.
 
-请把文件放在自己的私有笔记或项目目录里。不要写入密码、证件号码、精确住址、医疗隐私、客户资料或未获授权的第三方信息。涉及紧迫危险、持续失眠、严重低落、暴力、债务或法律责任时，优先联系合格的专业支持。
+Hãy lưu tệp trong ghi chú hoặc thư mục dự án riêng tư của bạn. Không ghi mật khẩu, số giấy tờ tùy thân, địa chỉ chính xác, thông tin y tế riêng tư, dữ liệu khách hàng hoặc thông tin của bên thứ ba khi chưa được cho phép. Khi liên quan đến nguy hiểm khẩn cấp, mất ngủ kéo dài, suy sụp nghiêm trọng, bạo lực, nợ nần hoặc trách nhiệm pháp lý, hãy ưu tiên liên hệ với nguồn hỗ trợ chuyên môn đủ năng lực.
 
-## 使用方式
+## Cách sử dụng
 
-1. 先写日期和当前问题，不急着解释自己；
-2. 只填写与当前问题相关的一张表；
-3. 每次留下一个可执行动作和一个证据位置；
-4. 在约定日期回来复查，不用结果倒推当时的人格；
-5. 每周删除已经无用的记录，保留能帮助下一次判断的事实。
+1. Trước tiên, viết ngày tháng và vấn đề hiện tại, không vội giải thích về bản thân;
+2. Chỉ điền một bảng liên quan đến vấn đề hiện tại;
+3. Mỗi lần để lại một hành động có thể thực hiện và một vị trí lưu bằng chứng;
+4. Quay lại kiểm tra vào ngày đã hẹn, không dùng kết quả để suy ngược về con người của mình tại thời điểm đó;
+5. Mỗi tuần xóa những ghi chép không còn hữu ích, giữ lại các sự thật có thể giúp ích cho lần phán đoán tiếp theo.
 
-## 一、选择简报
+## I. Tóm lược lựa chọn
 
 ```markdown
 # 选择简报 — YYYY-MM-DD
@@ -62,9 +62,9 @@ updated: 2026-10-04
 决定之后留下的证据：
 ```
 
-相关章节：[选择篇：在不确定中做决定](../threads/part-2/decision.md)；决定涉及共同生活、隐私或不对等权力时，同时使用[关系篇](../threads/part-2/relationships.md)检查同意与退出通道。
+Chương liên quan: [Phần lựa chọn: Ra quyết định trong sự không chắc chắn](../threads/part-2/decision.md); khi quyết định liên quan đến cuộc sống chung, quyền riêng tư hoặc quyền lực không cân xứng, hãy đồng thời sử dụng [Phần các mối quan hệ](../threads/part-2/relationships.md) để kiểm tra sự đồng thuận và lối rút lui.
 
-## 二、注意力审计
+## II. Kiểm tra sự chú ý
 
 ```markdown
 # 注意力审计 — YYYY-MM-DD 至 YYYY-MM-DD
@@ -86,9 +86,9 @@ updated: 2026-10-04
 下一周只做的一个实验：
 ```
 
-相关章节：[注意力篇：把注意力还给自己](../threads/part-3/3-attention-and-judgment.md)
+Chương liên quan: [Phần sự chú ý: Trả sự chú ý về cho chính mình](../threads/part-3/3-attention-and-judgment.md)
 
-## 三、关系沟通卡
+## III. Thẻ giao tiếp trong mối quan hệ
 
 ```markdown
 # 关系沟通卡 — YYYY-MM-DD
@@ -117,9 +117,9 @@ updated: 2026-10-04
 - 下一次何时复查：
 ```
 
-相关章节：[关系篇：在关系中成为成年人](../threads/part-2/relationships.md)
+Chương liên quan: [Phần các mối quan hệ: Trở thành người trưởng thành trong các mối quan hệ](../threads/part-2/relationships.md)
 
-## 四、恢复重置表
+## IV. Bảng thiết lập lại để phục hồi
 
 ```markdown
 # 恢复重置 — YYYY-MM-DD
@@ -160,11 +160,11 @@ updated: 2026-10-04
 下一次只增加的一个变量：
 ```
 
-相关章节：[恢复篇：先把自己接住](../threads/part-2/recovery.md)
+Chương liên quan: [Phần phục hồi: Trước hết, hãy đỡ lấy chính mình](../threads/part-2/recovery.md)
 
-## 五、关心与分担卡
+## V. Thẻ quan tâm và chia sẻ trách nhiệm
 
-选一件可以讨论的具体事务，例如接送、买菜、陪伴、安排休息或处理账单。先询问需要，再确认双方愿意承担什么。这张卡不用于给爱打分、监控行踪或要求对方汇报；只保留双方同意记录的最少信息。家人或伴侣不是必需的支持者，可以寻找朋友、社区或专业支持。孩子可以参与符合年龄、能够拒绝的小事，但不能承担成人的情绪安抚、冲突调解或拯救责任。
+Hãy chọn một việc cụ thể có thể thảo luận, chẳng hạn như đưa đón, mua thực phẩm,陪伴, sắp xếp thời gian nghỉ ngơi hoặc xử lý hóa đơn. Trước tiên, hãy hỏi xem cần gì, sau đó xác nhận mỗi bên sẵn lòng đảm nhận điều gì. Thẻ này không dùng để chấm điểm tình yêu, theo dõi hành tung hoặc yêu cầu đối phương báo cáo; chỉ giữ lại lượng thông tin tối thiểu mà cả hai bên đồng ý ghi chép. Người thân hoặc bạn đời không phải là những người hỗ trợ bắt buộc; bạn có thể tìm đến bạn bè, cộng đồng hoặc nguồn hỗ trợ chuyên môn. Trẻ em có thể tham gia những việc nhỏ phù hợp với độ tuổi và có thể từ chối, nhưng không được đảm nhận trách nhiệm xoa dịu cảm xúc của người lớn, hòa giải xung đột hoặc giải cứu.
 
 ```markdown
 # 关心与分担卡 — YYYY-MM-DD
@@ -194,16 +194,16 @@ updated: 2026-10-04
 复查时：这项安排是否仍然自愿、是否太重、需要怎样调整：
 ```
 
-相关章节：[珍惜篇：从爱与牵挂中获得力量](../threads/part-2/care-and-carry-on.md)；涉及边界、拒绝或修复时，同时阅读[关系篇](../threads/part-2/relationships.md)。
+Chương liên quan: [Phần trân trọng: Nhận sức mạnh từ tình yêu và sự quan tâm](../threads/part-2/care-and-carry-on.md); khi liên quan đến ranh giới, từ chối hoặc sửa chữa, hãy đồng thời đọc [Phần các mối quan hệ](../threads/part-2/relationships.md).
 
-## 六、每周复盘
+## VI. Rà soát hằng tuần
 
-每周只回答五个问题：
+Mỗi tuần chỉ trả lời năm câu hỏi:
 
-1. 哪个事实改变了我的判断？
-2. 哪个动作留下了可以检查的结果？
-3. 哪个错误在重复，它的可能原因是什么？
-4. 哪个边界需要说得更清楚或执行得更坚定？
-5. 下周只保留哪一个最小实验？
+1. Sự thật nào đã thay đổi nhận định của tôi?
+2. Hành động nào để lại một kết quả có thể kiểm tra?
+3. Sai lầm nào đang lặp lại, nguyên nhân có thể là gì?
+4. Ranh giới nào cần được nói rõ hơn hoặc thực thi kiên quyết hơn?
+5. Tuần tới chỉ giữ lại thí nghiệm tối thiểu nào?
 
-把这份工作表和[每周复盘模板](weekly-review.md)放在同一个私有目录里。记录不是为了把生活变成表格，而是为了在情绪最响亮的时候，仍然有一小块事实可以站立。
+Hãy đặt bảng thực hành này cùng với [mẫu rà soát hằng tuần](weekly-review.md) trong cùng một thư mục riêng tư. Ghi chép không phải để biến cuộc sống thành bảng biểu, mà để ngay cả khi cảm xúc lên tiếng lớn nhất, vẫn có một mảnh sự thật nhỏ bé có thể đứng vững.

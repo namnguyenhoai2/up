@@ -1,6 +1,6 @@
 ---
-title: Danh mục tài nguyên bên thứ ba｜Tự kiểm tra độc lập trước khi sử dụng
-description: Tổng hợp các cổng truy cập tùy chọn dành cho việc học AI và các công cụ, ghi lại thời điểm kiểm tra lại liên kết, thông tin giới thiệu công khai và ranh giới không tài trợ; trước khi sử dụng, hãy tự kiểm tra các điều khoản, quyền riêng tư, giá cả, bản quyền và trạng thái dịch vụ.
+title: "Danh mục tài nguyên bên thứ ba｜Tự kiểm tra độc lập trước khi sử dụng"
+description: "Tổng hợp các cổng truy cập tùy chọn dành cho việc học AI và các công cụ, ghi lại thời điểm kiểm tra lại liên kết, thông tin giới thiệu công khai và ranh giới không tài trợ; trước khi sử dụng, hãy tự kiểm tra các điều khoản, quyền riêng tư, giá cả, bản quyền và trạng thái dịch vụ."
 updated: 2026-10-19
 intent: resource-index
 schema: WebPage

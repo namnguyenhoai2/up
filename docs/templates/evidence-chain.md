@@ -1,18 +1,18 @@
 ---
-title: 证据链模板
-description: 用一张跨英语、AI、项目与生活实践的工作表连接基线、即时表现、延迟保持、迁移和下一步决策。
+title: "Mẫu chuỗi bằng chứng"
+description: "Dùng một bảng tính kết nối tiếng Anh, AI, dự án và thực tiễn đời sống để liên kết đường cơ sở, biểu hiện tức thời, khả năng ghi nhớ sau một khoảng thời gian, khả năng chuyển giao và các quyết định tiếp theo."
 updated: 2026-09-01
 ---
 
-# 证据链模板
+# Mẫu chuỗi bằng chứng
 
-这张表用来回答一个具体问题：**我究竟知道自己改变了什么？**
+Bảng này dùng để trả lời một câu hỏi cụ thể: **Rốt cuộc tôi biết mình đã thay đổi điều gì?**
 
-它不要求所有结果都变好，也不把生活压缩成分数。它只把同一任务在不同条件下的样本放在一起，让你分清“当下做得到”“过几天还记得”“换个地方仍能使用”分别有什么证据。
+Bảng không yêu cầu mọi kết quả đều phải tốt lên, cũng không nén cuộc sống thành những con số. Bảng chỉ đặt các mẫu của cùng một nhiệm vụ trong những điều kiện khác nhau cạnh nhau, để bạn phân biệt được bằng chứng cho việc “làm được ngay lúc đó”, “vài ngày sau vẫn nhớ” và “đổi sang nơi khác vẫn sử dụng được”.
 
-复制到自己的私有笔记，每个主问题使用一份。不要写入密码、证件、客户资料、医疗隐私或未获授权的第三方信息。涉及健康、安全、法律、财务或持续失控时，先联系可信任的人和合格的专业人士。
+Hãy sao chép vào ghi chú riêng của mình, mỗi câu hỏi chính dùng một bản. Không ghi mật khẩu, giấy tờ tùy thân, thông tin khách hàng, dữ liệu y tế riêng tư hoặc thông tin của bên thứ ba khi chưa được cho phép. Khi liên quan đến sức khỏe, an toàn, pháp lý, tài chính hoặc tình trạng mất kiểm soát kéo dài, trước tiên hãy liên hệ với người đáng tin cậy và chuyên gia có đủ năng lực.
 
-## 1. 先定义要回答的问题
+## 1. Trước tiên, xác định câu hỏi cần trả lời
 
 ```markdown
 记录开始日期：
@@ -22,15 +22,15 @@ updated: 2026-09-01
 可能的风险与停止条件：
 ```
 
-问题要能被观察，例如“我能否在没有稿件的情况下，用英语说明项目风险并回答一个追问？”不要写“我是否变得更好”。
+Câu hỏi phải có thể quan sát được, chẳng hạn như “Tôi có thể trình bày rủi ro của dự án bằng tiếng Anh và trả lời một câu hỏi tiếp theo mà không cần bản thảo không?” Đừng viết “Tôi có trở nên tốt hơn không”.
 
-## 2. 保存未经修饰的基线
+## 2. Lưu đường cơ sở chưa qua chỉnh sửa
 
-基线应尽量发生在 AI、同伴反馈或集中训练之前。记录条件，避免把工具、额外时间和熟悉材料藏进比较里。
+Đường cơ sở nên được ghi nhận trước khi sử dụng AI, nhận phản hồi từ bạn cùng nhóm hoặc tập trung luyện tập. Hãy ghi lại các điều kiện, tránh che giấu công cụ, thời gian bổ sung và tài liệu quen thuộc trong quá trình so sánh.
 
-| 日期 | 任务与限制 | 是否使用工具 | 结果/错误 | 原始证据位置 |
+| Ngày | Nhiệm vụ và giới hạn | Có sử dụng công cụ không | Kết quả/lỗi | Vị trí bằng chứng gốc |
 | --- | --- | --- | --- | --- |
-| | | 否 | | |
+| | | Không | | |
 
 ```markdown
 我在基线时能够独立完成什么：
@@ -38,20 +38,20 @@ updated: 2026-09-01
 基线不能说明什么：
 ```
 
-## 3. 记录即时表现
+## 3. Ghi lại biểu hiện tức thời
 
-即时表现说明这一次在当前条件下发生了什么，不自动说明能力已经稳定。
+Biểu hiện tức thời cho biết điều gì đã xảy ra trong lần này và trong điều kiện hiện tại, không tự động chứng minh rằng năng lực đã ổn định.
 
-| 日期 | 条件与提示 | 完成了什么 | 质量/用时/返工 | 证据位置 |
+| Ngày | Điều kiện và gợi ý | Đã hoàn thành gì | Chất lượng/thời gian thực hiện/làm lại | Vị trí bằng chứng |
 | --- | --- | --- | --- | --- |
 | | | | | |
 | | | | | |
 
-如果使用 AI，请写清它做了什么，以及关闭 AI 后你独立完成了什么。聊天记录可以作为过程痕迹，不能单独作为能力证明。
+Nếu sử dụng AI, hãy ghi rõ AI đã làm gì và bạn đã tự mình hoàn thành những gì sau khi tắt AI. Nhật ký trò chuyện có thể được dùng làm dấu vết của quá trình, nhưng không thể tự nó chứng minh năng lực.
 
-## 4. 做一次延迟保持
+## 4. Thực hiện một lần kiểm tra khả năng ghi nhớ sau một khoảng thời gian
 
-等待一段时间，撤掉最近的提示和原答案，再完成相近任务。时间间隔按任务和个人容量决定，但必须写清楚。
+Chờ một khoảng thời gian, bỏ các gợi ý gần đây và câu trả lời ban đầu, sau đó hoàn thành một nhiệm vụ tương tự. Khoảng thời gian được quyết định tùy theo nhiệm vụ và khả năng của mỗi người, nhưng phải ghi rõ.
 
 ```markdown
 复测日期：
@@ -63,17 +63,17 @@ updated: 2026-09-01
 证据位置：
 ```
 
-## 5. 做一次迁移
+## 5. Thực hiện một lần chuyển giao
 
-保留核心动作，改变至少一个条件：主题、听众、时间限制、材料、工具权限或任务目的。
+Giữ nguyên thao tác cốt lõi, thay đổi ít nhất một điều kiện: chủ đề, người nghe, giới hạn thời gian, tài liệu, quyền sử dụng công cụ hoặc mục đích nhiệm vụ.
 
-| 改变的条件 | 新任务 | 独立结果 | 对方/用户如何理解 | 证据位置 |
+| Điều kiện đã thay đổi | Nhiệm vụ mới | Kết quả độc lập | Đối phương/người dùng hiểu như thế nào | Vị trí bằng chứng |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
-迁移失败不等于前面的练习没有价值。它说明你需要降低变化幅度、补充前置知识，或重新定义完成标准。
+Chuyển giao thất bại không có nghĩa là những bài luyện tập trước đó không có giá trị. Điều đó cho thấy bạn cần giảm mức độ thay đổi, bổ sung kiến thức nền hoặc xác định lại tiêu chuẩn hoàn thành.
 
-## 6. 把事实、解释和假设分开
+## 6. Tách biệt sự việc, cách diễn giải và giả định
 
 ```markdown
 事实：我能指出日期、条件、样本、来源或直接观察。
@@ -82,9 +82,9 @@ updated: 2026-09-01
 不能推出的结论：
 ```
 
-例如，“独立版在 90 秒内完成”是记录；“因为睡眠变好所以表达更清楚”是解释；“下周换一个陌生听众仍能完成，才说明改动可能有效”是待验证假设。
+Ví dụ, “Phiên bản độc lập được hoàn thành trong 90 giây” là ghi chép; “Vì giấc ngủ được cải thiện nên cách diễn đạt rõ ràng hơn” là cách diễn giải; “Chỉ khi tuần sau vẫn hoàn thành với một người nghe xa lạ thì mới có thể nói rằng thay đổi này có khả năng mang lại hiệu quả” là giả định cần được kiểm chứng.
 
-## 7. 让证据决定下一步
+## 7. Để bằng chứng quyết định bước tiếp theo
 
 ```markdown
 这条证据最支持：继续 / 降档 / 改变变量 / 暂停或停止
@@ -95,9 +95,9 @@ updated: 2026-09-01
 下一次复查日期：
 ```
 
-如果证据互相冲突，不要用平均数掩盖冲突。先写出不同条件，再决定要不要补一次样本。证据不足时，缩小问题通常比制造一个精确分数更诚实。
+Nếu các bằng chứng mâu thuẫn với nhau, đừng dùng giá trị trung bình để che giấu mâu thuẫn. Trước tiên, hãy ghi ra các điều kiện khác nhau, sau đó quyết định có cần bổ sung một mẫu nữa hay không. Khi bằng chứng chưa đủ, thu hẹp câu hỏi thường trung thực hơn việc tạo ra một điểm số chính xác.
 
-## 8. 交接摘要
+## 8. Tóm tắt bàn giao
 
 ```markdown
 主问题与完成标准：
@@ -108,6 +108,6 @@ updated: 2026-09-01
 证据文件夹或链接：
 ```
 
-把这段摘要交给未来的自己、同伴或 AI 时，要求对方只根据这份记录工作，不要假装记得其他会话，也不要补写不存在的事实。
+Khi giao phần tóm tắt này cho chính mình trong tương lai, bạn cùng nhóm hoặc AI, hãy yêu cầu đối phương chỉ làm việc dựa trên bản ghi này, không giả vờ nhớ các cuộc trò chuyện khác và không tự bổ sung những sự thật không tồn tại.
 
-相关章节：[证据篇：变化要如何被看见](../threads/part-3/5-evidence-and-transfer.md) ｜ [工具箱总览](toolkit.md) ｜ [节律账本](rhythm-ledger.md) ｜ [术语与方法索引](../reference/glossary.md)
+Các chương liên quan: [Chương bằng chứng: Làm thế nào để nhìn thấy sự thay đổi](../threads/part-3/5-evidence-and-transfer.md) ｜ [Tổng quan về bộ công cụ](toolkit.md) ｜ [Sổ cái nhịp điệu](rhythm-ledger.md) ｜ [Mục lục thuật ngữ và phương pháp](../reference/glossary.md)

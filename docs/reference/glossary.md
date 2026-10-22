@@ -1,127 +1,127 @@
 ---
-title: 术语与方法索引
-description: 用一页索引解释《人生进阶指南》的核心词汇、证据标准、工具入口与阅读路径，帮助读者在章节之间迁移。
+title: "Mục lục thuật ngữ và phương pháp"
+description: "Dùng một trang mục lục để giải thích các từ khóa cốt lõi, tiêu chuẩn bằng chứng, lối vào công cụ và lộ trình đọc của 《Cẩm nang nâng cấp cuộc đời》, giúp độc giả chuyển đổi giữa các chương."
 updated: 2026-09-07
 ---
 
-# 术语与方法索引
+# Mục lục thuật ngữ và phương pháp
 
-这不是一份把生活变成术语表的企图。它只是给书中反复出现的词留下一处稳定的落脚点：当你忘记一个词是什么意思，或不知道下一步该打开哪一页时，从这里回来。
+Đây không phải là nỗ lực biến cuộc sống thành một bảng thuật ngữ. Nó chỉ để lại một điểm tựa ổn định cho những từ xuất hiện lặp đi lặp lại trong sách: khi bạn quên một từ có nghĩa là gì, hoặc không biết bước tiếp theo nên mở trang nào, hãy quay lại đây.
 
-## 怎么使用
+## Cách sử dụng
 
-先找到你正在面对的任务，再沿着“定义 → 证据 → 下一步”阅读。一个词如果不能帮助你完成任务、留下样本或做出更好的决定，就不必为了记住它而记住它。
+Trước tiên, hãy tìm nhiệm vụ bạn đang đối mặt, sau đó đọc theo trình tự “định nghĩa → bằng chứng → bước tiếp theo”. Nếu một từ không giúp bạn hoàn thành nhiệm vụ, để lại mẫu hoặc đưa ra quyết định tốt hơn, thì không cần ghi nhớ nó chỉ vì muốn nhớ.
 
-## 问题与目标
+## Vấn đề và mục tiêu
 
-| 术语 | 在本书中的意思 | 从这里继续 |
+| Thuật ngữ | Ý nghĩa trong cuốn sách này | Tiếp tục từ đây |
 | --- | --- | --- |
-| **真实问题** | 有具体场景、受影响的人和需要完成的动作，而不是“我想变好” | [认知篇](../threads/part-1/1-understanding.md) |
-| **场景** | 能力将在何时、何地、对谁被使用 | [CEFR 目标与自测](../threads/part-1/0-cefr.md) |
-| **完成标准** | 一个别人可以观察、复查或复述的结果 | [AI 任务简报](../templates/ai-task-brief.md) |
-| **评估集** | 用正常、边界、缺失/冲突和真实脱敏样本检查输出，而不是只展示模型擅长的例子 | [AI 任务简报](../templates/ai-task-brief.md) |
-| **主问题** | 一周只追踪的一个可回答问题 | [九十日行动篇](../threads/part-5/90-day-plan.md) |
+| **Vấn đề thực tế** | Có bối cảnh cụ thể, những người bị ảnh hưởng và hành động cần hoàn thành, thay vì “tôi muốn trở nên tốt hơn” | [Phần nhận thức](../threads/part-1/1-understanding.md) |
+| **Bối cảnh** | Năng lực sẽ được sử dụng khi nào, ở đâu và cho ai | [Mục tiêu CEFR và tự đánh giá](../threads/part-1/0-cefr.md) |
+| **Tiêu chuẩn hoàn thành** | Một kết quả mà người khác có thể quan sát, kiểm tra lại hoặc thuật lại | [Bản tóm tắt nhiệm vụ AI](../templates/ai-task-brief.md) |
+| **Tập đánh giá** | Kiểm tra đầu ra bằng các mẫu thông thường, biên, thiếu/mâu thuẫn và mẫu thực tế đã ẩn danh, thay vì chỉ trình bày những ví dụ mà mô hình giỏi | [Bản tóm tắt nhiệm vụ AI](../templates/ai-task-brief.md) |
+| **Câu hỏi trọng tâm** | Một câu hỏi có thể trả lời được, chỉ theo dõi trong một tuần | [Phần hành động chín mươi ngày](../threads/part-5/90-day-plan.md) |
 
-## 证据与判断
+## Bằng chứng và phán đoán
 
-| 术语 | 在本书中的意思 | 常见误区 |
+| Thuật ngữ | Ý nghĩa trong cuốn sách này | Hiểu lầm thường gặp |
 | --- | --- | --- |
-| **基线** | 在工具介入或集中训练前保存的原始样本 | 用感觉或成品代替第一版 |
-| **证据** | 能回到作品、录音、测试、来源或真实反馈的记录 | 把时长、收藏数或聊天记录当作能力证明 |
-| **事实** | 可以指出来源、时间、样本或直接观察的内容 | 把解释写成已经证实的因果 |
-| **解释** | 对事实的理解，可能有用，也可能需要修正 | 只因为它听起来合理就停止核验 |
-| **假设** | 等待下一次行动检验的判断 | 把愿望或模型回答写成结论 |
-| **推断边界** | 区分原文明确说的、证据支持的和自己补出的部分 | 把标题、情绪或单一案例当作全貌 |
-| **叙事压缩** | 用一句话或一条因果链把复杂经历整理成可传播的故事 | 把偶然、他人贡献和未知删掉后误当成全貌 |
-| **回望偏差** | 事后用已经知道的结果解释当时的选择 | 把后来才出现的信息倒灌回过去 |
+| **Đường cơ sở** | Mẫu ban đầu được lưu lại trước khi công cụ can thiệp hoặc trước khi luyện tập tập trung | Dùng cảm giác hoặc sản phẩm hoàn chỉnh để thay thế phiên bản đầu tiên |
+| **Bằng chứng** | Bản ghi có thể truy về tác phẩm, bản ghi âm, bài kiểm tra, nguồn hoặc phản hồi thực tế | Coi thời lượng, số lượt lưu hoặc lịch sử trò chuyện là bằng chứng về năng lực |
+| **Sự thật** | Nội dung có thể chỉ ra nguồn, thời gian, mẫu hoặc quan sát trực tiếp | Viết cách giải thích như thể đó là quan hệ nhân quả đã được chứng minh |
+| **Diễn giải** | Cách hiểu về sự thật, có thể hữu ích nhưng cũng có thể cần điều chỉnh | Chỉ vì nghe có vẻ hợp lý mà ngừng kiểm chứng |
+| **Giả thuyết** | Một phán đoán chờ hành động tiếp theo kiểm chứng | Viết mong muốn hoặc câu trả lời của mô hình thành kết luận |
+| **Ranh giới suy luận** | Phân biệt điều văn bản gốc nói rõ, điều bằng chứng hỗ trợ và phần do mình bổ sung | Coi tiêu đề, cảm xúc hoặc một trường hợp đơn lẻ là toàn cảnh |
+| **Nén tự sự** | Sắp xếp trải nghiệm phức tạp thành một câu hoặc một chuỗi nhân quả dễ truyền đạt | Xóa bỏ sự ngẫu nhiên, đóng góp của người khác và những điều chưa biết rồi lầm tưởng đó là toàn cảnh |
+| **Thiên kiến hồi tưởng** | Dùng kết quả đã biết về sau để giải thích lựa chọn tại thời điểm đó | Đưa những thông tin chỉ xuất hiện sau này ngược trở lại quá khứ |
 
-## 学习动作
+## Hành động học tập
 
-| 术语 | 在本书中的意思 | 相关章节 |
+| Thuật ngữ | Ý nghĩa trong cuốn sách này | Chương liên quan |
 | --- | --- | --- |
-| **主动回忆** | 合上材料后自己回答、复述、书写或完成任务 | [认知篇](../threads/part-1/1-understanding.md) |
-| **完整学习回路** | 定义任务、保存首版、诊断错误、定向输入、主动产出、记录反馈与状态的六步循环 | [认知篇](../threads/part-1/1-understanding.md) |
-| **首版条件** | 记录第一次尝试的材料、时间、工具、帮助和完成标准，使后续比较不被润色成品混淆 | [英语能力诊断](../templates/english-diagnostic.md) |
-| **容量模式** | 根据当天的注意、身体、时间和责任，选择完整、降档、最小或暂停版本的行动条件 | [生活系统篇](../threads/part-4/daily-system.md) |
-| **间隔练习** | 在多个时间点回来，而不是一次集中刷完 | [词汇篇](../threads/part-1/2-vocabulary.md) |
-| **未知项决策队列** | 对每个未知词决定放过、推断、速查、主动学习或专业核验，并记录为什么 | [词汇证据卡](../templates/vocabulary-audit.md) |
-| **词汇八维** | 分开记录词形、声音、当前义项、搭配、语法、语域、概念边界和调用条件 | [词汇篇](../threads/part-1/2-vocabulary.md) |
-| **接受性 / 产出性词汇** | 前者是在听读中理解，后者是在没有答案展示时主动说写；两者不能互相冒充 | [词汇篇](../threads/part-1/2-vocabulary.md) |
-| **形式—意义选择** | 不把语法只看作规则名称，而是比较不同结构怎样改变时间、参与者、条件、否定范围、逻辑或确定性 | [语法篇](../threads/part-1/grammar.md) |
-| **语法对比卡** | 围绕一个真实任务保存原句、可能理解、真实意图、形式对比、修改理由与延迟复测 | [语法证据卡](../templates/grammar-evidence.md) |
-| **参考变体** | 为减少初期决策而选择的一套相对稳定的词典音频、拼写或发音参照；它不代表其他英语变体低一等 | [口语篇](../threads/part-1/5-speaking.md) |
-| **可理解度 / 理解难度** | 前者记录听众实际恢复了多少意思，后者记录理解需要多少猜测、重听或确认；两者都不同于口音显著度 | [口语篇](../threads/part-1/5-speaking.md) |
-| **听众复述** | 听众不看稿，用自己的话说出主旨、细节、数字、责任与下一步，以检查声音实际传达了什么 | [口语证据卡](../templates/speaking-evidence.md) |
-| **首听基线** | 在预先记录的字幕、暂停、倍速、设备与环境条件下完成第一次播放，并保留原始主旨、细节、时间段和行动判断 | [听力证据卡](../templates/listening-audit.md) |
-| **支架阶梯** | 从无字幕首听、局部重听、英文转写到最小背景帮助，再关闭文字并延迟撤架的可升降支持 | [听力篇](../threads/part-1/3-listening.md) |
-| **意义重构** | 不逐字重复原音，而是恢复主旨、关系、关键细节与下一步，并用复述、流程、决定或交接表达 | [听力篇](../threads/part-1/3-listening.md) |
-| **首读基线** | 在预先记录的时间、词典、翻译、搜索与 AI 条件下完成第一次阅读，保留原始主旨、结构、未知项与行动判断 | [阅读证据卡](../templates/reading-evidence.md) |
-| **主张地图** | 将段落标成背景、问题、主张、理由、证据、限制与行动，并保留原文位置 | [阅读篇](../threads/part-1/4-reading.md) |
-| **技术事实卡** | 把文档目标、版本、前置条件、最小输入、预期/实际输出、失败与下一测试放在一页 | [阅读证据卡](../templates/reading-evidence.md) |
-| **窄读** | 围绕同一主题或领域连续阅读多份材料，让背景知识、术语和结构重复出现 | [阅读篇](../threads/part-1/4-reading.md) |
-| **事实与责任账本** | 为写作中的事实、数字、引语、经历、推断和他人信息记录来源、版本、权限、置信度与责任人 | [写作篇](../threads/part-1/6-writing.md) |
-| **反馈吸收** | 对反馈逐项决定采纳、部分采纳、拒绝或延后，记录理由，并在平行文本中检查能否独立使用 | [写作证据卡](../templates/writing-evidence.md) |
-| **署名决定** | 交付前判断当前文本是否愿意署名、仍需核验、需要缩小范围或不应发布 | [写作证据卡](../templates/writing-evidence.md) |
-| **精听/精读** | 用短材料核对细节、结构、证据和语言形式 | [听力篇](../threads/part-1/3-listening.md) · [阅读篇](../threads/part-1/4-reading.md) |
-| **平行材料** | 难度和任务相近、但内容不同的材料，用来测试迁移 | [阅读证据卡](../templates/reading-evidence.md) |
-| **迁移** | 换主题、听众、时间或任务后仍能完成相近动作 | [九十日行动总表](../templates/90-day-cycle.md) |
-| **延迟保持** | 经过一段时间、撤掉最近提示后仍能完成相近任务 | [证据篇](../threads/part-3/5-evidence-and-transfer.md) |
-| **证据链** | 把基线、即时表现、延迟保持、迁移和下一步放在同一页的记录 | [证据链模板](../templates/evidence-chain.md) · [证据篇](../threads/part-3/5-evidence-and-transfer.md) |
-| **变式** | 保留核心动作，同时改变主题、听众、时间或限制，用来检验是否真的学会 | [节律篇](../threads/part-4/rhythm-and-compounding.md) |
-| **学习主体权** | 学习者参与定义目标、提交自己的首版、表达容量、质疑反馈，并承担与年龄和情境相称的责任 | [家庭学习篇](../threads/part-4/family-learning.md) |
-| **岗位语言地图** | 从真实岗位描述与流程提取招聘沟通、项目说明、技术追问、异步写作等语言任务，并对应现有证据 | [求职英语篇](../threads/part-1/8-job-search-english.md) |
+| **Gợi nhớ chủ động** | Tự trả lời, thuật lại, viết hoặc hoàn thành nhiệm vụ sau khi đóng tài liệu | [Phần nhận thức](../threads/part-1/1-understanding.md) |
+| **Vòng lặp học tập đầy đủ** | Chu trình sáu bước gồm xác định nhiệm vụ, lưu phiên bản đầu tiên, chẩn đoán lỗi, tiếp nhận đầu vào có định hướng, tạo đầu ra chủ động, ghi lại phản hồi và trạng thái | [Phần nhận thức](../threads/part-1/1-understanding.md) |
+| **Điều kiện phiên bản đầu tiên** | Ghi lại tài liệu, thời gian, công cụ, sự trợ giúp và tiêu chuẩn hoàn thành của lần thử đầu tiên, để việc so sánh về sau không bị sản phẩm đã trau chuốt làm nhiễu | [Chẩn đoán năng lực tiếng Anh](../templates/english-diagnostic.md) |
+| **Chế độ năng lực** | Dựa trên sự chú ý, thể trạng, thời gian và trách nhiệm trong ngày để chọn điều kiện hành động ở phiên bản đầy đủ, giảm mức, tối thiểu hoặc tạm dừng | [Phần hệ thống đời sống](../threads/part-4/daily-system.md) |
+| **Luyện tập ngắt quãng** | Quay lại vào nhiều thời điểm, thay vì tập trung làm hết trong một lần | [Phần từ vựng](../threads/part-1/2-vocabulary.md) |
+| **Hàng đợi quyết định về mục chưa biết** | Với mỗi từ chưa biết, quyết định sẽ bỏ qua, suy đoán, tra nhanh, học chủ động hay kiểm chứng chuyên môn, đồng thời ghi lại lý do | [Thẻ bằng chứng từ vựng](../templates/vocabulary-audit.md) |
+| **Tám chiều của từ vựng** | Ghi riêng hình thức từ, âm thanh, nghĩa hiện tại, kết hợp từ, ngữ pháp, ngữ vực, ranh giới khái niệm và điều kiện sử dụng | [Phần từ vựng](../threads/part-1/2-vocabulary.md) |
+| **Từ vựng tiếp nhận / sản sinh** | Loại trước là hiểu khi nghe đọc, loại sau là chủ động nói viết khi không có đáp án hiển thị; hai loại không thể thay thế cho nhau | [Phần từ vựng](../threads/part-1/2-vocabulary.md) |
+| **Lựa chọn hình thức—ý nghĩa** | Không chỉ xem ngữ pháp như tên gọi của quy tắc, mà so sánh cách các cấu trúc khác nhau thay đổi thời gian, người tham gia, điều kiện, phạm vi phủ định, logic hoặc mức độ chắc chắn | [Phần ngữ pháp](../threads/part-1/grammar.md) |
+| **Thẻ đối chiếu ngữ pháp** | Xoay quanh một nhiệm vụ thực tế, lưu câu gốc, cách hiểu có thể có, ý định thực tế, đối chiếu hình thức, lý do chỉnh sửa và bài kiểm tra lại sau một khoảng trễ | [Thẻ bằng chứng ngữ pháp](../templates/grammar-evidence.md) |
+| **Biến thể tham chiếu** | Một bộ tham chiếu tương đối ổn định về âm thanh từ điển, chính tả hoặc phát âm được chọn để giảm quyết định ban đầu; không có nghĩa các biến thể tiếng Anh khác kém hơn | [Phần nói](../threads/part-1/5-speaking.md) |
+| **Mức độ dễ hiểu / độ khó hiểu** | Vế trước ghi lại người nghe thực tế khôi phục được bao nhiêu ý nghĩa, vế sau ghi lại cần bao nhiêu suy đoán, nghe lại hoặc xác nhận để hiểu; cả hai đều khác với mức độ nổi bật của giọng | [Phần nói](../threads/part-1/5-speaking.md) |
+| **Thuật lại bởi người nghe** | Người nghe không xem bản thảo, dùng lời của mình nói ra ý chính, chi tiết, con số, trách nhiệm và bước tiếp theo để kiểm tra âm thanh thực tế truyền đạt điều gì | [Thẻ bằng chứng nói](../templates/speaking-evidence.md) |
+| **Đường cơ sở lần nghe đầu** | Hoàn thành lần phát đầu tiên trong các điều kiện phụ đề, tạm dừng, tốc độ phát, thiết bị và môi trường đã ghi trước, đồng thời giữ lại ý chính, chi tiết, khoảng thời gian và phán đoán hành động ban đầu | [Thẻ bằng chứng nghe](../templates/listening-audit.md) |
+| **Bậc thang giàn giáo** | Hệ thống hỗ trợ có thể nâng hạ, từ nghe lần đầu không phụ đề, nghe lại từng phần, bản chép tiếng Anh đến trợ giúp bối cảnh tối thiểu, rồi tắt văn bản và rút giàn giáo theo độ trễ | [Phần nghe](../threads/part-1/3-listening.md) |
+| **Tái cấu trúc ý nghĩa** | Không lặp lại âm thanh gốc từng chữ, mà khôi phục ý chính, mối quan hệ, chi tiết then chốt và bước tiếp theo, rồi diễn đạt bằng lời thuật lại, quy trình, quyết định hoặc bàn giao | [Phần nghe](../threads/part-1/3-listening.md) |
+| **Đường cơ sở lần đọc đầu** | Hoàn thành lần đọc đầu tiên trong các điều kiện về thời gian, từ điển, dịch thuật, tìm kiếm và AI đã ghi trước, đồng thời giữ lại ý chính, cấu trúc, mục chưa biết và phán đoán hành động ban đầu | [Thẻ bằng chứng đọc](../templates/reading-evidence.md) |
+| **Bản đồ luận điểm** | Đánh dấu các đoạn là bối cảnh, vấn đề, luận điểm, lý do, bằng chứng, giới hạn và hành động, đồng thời giữ lại vị trí trong văn bản gốc | [Phần đọc](../threads/part-1/4-reading.md) |
+| **Thẻ sự kiện kỹ thuật** | Đặt mục tiêu tài liệu, phiên bản, điều kiện tiên quyết, đầu vào tối thiểu, đầu ra dự kiến/thực tế, lỗi và bài kiểm tra tiếp theo trên một trang | [Thẻ bằng chứng đọc](../templates/reading-evidence.md) |
+| **Đọc hẹp** | Đọc liên tục nhiều tài liệu xoay quanh cùng một chủ đề hoặc lĩnh vực, để kiến thức nền, thuật ngữ và cấu trúc lặp lại | [Phần đọc](../threads/part-1/4-reading.md) |
+| **Sổ cái sự thật và trách nhiệm** | Ghi lại nguồn, phiên bản, quyền hạn, độ tin cậy và người chịu trách nhiệm đối với sự thật, con số, trích dẫn, trải nghiệm, suy luận và thông tin của người khác trong bài viết | [Phần viết](../threads/part-1/6-writing.md) |
+| **Tiếp thu phản hồi** | Với từng phản hồi, quyết định tiếp nhận, tiếp nhận một phần, từ chối hoặc trì hoãn; ghi lại lý do và kiểm tra trong văn bản song song xem có thể sử dụng độc lập hay không | [Thẻ bằng chứng viết](../templates/writing-evidence.md) |
+| **Quyết định ký tên** | Trước khi bàn giao, phán đoán xem có sẵn sàng ký tên vào văn bản hiện tại hay không, còn cần kiểm chứng, cần thu hẹp phạm vi hay không nên công bố | [Thẻ bằng chứng viết](../templates/writing-evidence.md) |
+| **Nghe kỹ/đọc kỹ** | Dùng tài liệu ngắn để đối chiếu chi tiết, cấu trúc, bằng chứng và hình thức ngôn ngữ | [Phần nghe](../threads/part-1/3-listening.md) · [Phần đọc](../threads/part-1/4-reading.md) |
+| **Tài liệu song song** | Tài liệu có độ khó và nhiệm vụ tương đương nhưng nội dung khác, dùng để kiểm tra khả năng chuyển giao | [Thẻ bằng chứng đọc](../templates/reading-evidence.md) |
+| **Chuyển giao** | Vẫn hoàn thành được hành động tương tự sau khi thay đổi chủ đề, người nghe, thời gian hoặc nhiệm vụ | [Bảng tổng hợp hành động chín mươi ngày](../templates/90-day-cycle.md) |
+| **Duy trì sau trì hoãn** | Vẫn hoàn thành được nhiệm vụ tương tự sau một khoảng thời gian và khi đã bỏ các gợi ý gần đây | [Phần bằng chứng](../threads/part-3/5-evidence-and-transfer.md) |
+| **Chuỗi bằng chứng** | Bản ghi đặt đường cơ sở, thành tích tức thời, khả năng duy trì sau trì hoãn, chuyển giao và bước tiếp theo trên cùng một trang | [Mẫu chuỗi bằng chứng](../templates/evidence-chain.md) · [Phần bằng chứng](../threads/part-3/5-evidence-and-transfer.md) |
+| **Biến thể** | Giữ nguyên hành động cốt lõi nhưng thay đổi chủ đề, người nghe, thời gian hoặc giới hạn để kiểm tra xem đã thực sự học được hay chưa | [Phần nhịp điệu](../threads/part-4/rhythm-and-compounding.md) |
+| **Quyền chủ thể của người học** | Người học tham gia xác định mục tiêu, nộp phiên bản đầu tiên của mình, thể hiện năng lực, chất vấn phản hồi và đảm nhận trách nhiệm phù hợp với độ tuổi và bối cảnh | [Phần học tập gia đình](../threads/part-4/family-learning.md) |
+| **Bản đồ ngôn ngữ nghề nghiệp** | Trích xuất từ mô tả công việc và quy trình thực tế các nhiệm vụ ngôn ngữ như giao tiếp tuyển dụng, thuyết minh dự án, truy vấn kỹ thuật và viết không đồng bộ, rồi đối chiếu với bằng chứng hiện có | [Phần tiếng Anh xin việc](../threads/part-1/8-job-search-english.md) |
 
-## 工具与交付
+## Công cụ và bàn giao
 
-| 术语 | 在本书中的意思 | 相关章节 |
+| Thuật ngữ | Ý nghĩa trong cuốn sách này | Chương liên quan |
 | --- | --- | --- |
-| **任务卡** | 写清场景、输入、动作、边界、验收和责任人的一页记录 | [AI 任务简报](../templates/ai-task-brief.md) |
-| **学习状态文件** | 保存在会话之外的版本化事实页，记录目标、证据、错误、边界、交接和下一任务 | [学习状态](../templates/learning-state.md) · [工具箱实战](../templates/toolkit-walkthrough.md) |
-| **案例复盘** | 将公开经历拆成来源、事实、判断、结果和可迁移原则的记录 | [AI 经历案例复盘](../templates/ai-case-review.md) |
-| **证据卡** | 为听、读、说、写某一项能力保存首版、反馈和复测的模板 | [四项能力工具](../threads/part-0/prologue.md) |
-| **读者实践回执** | 私下记录阅读入口、实际行动、即时结果、延迟复测、迁移与编辑反馈的两次记录 | [读者实践回执](../templates/reader-field-note.md) |
-| **家庭学习共同协议** | 学习者与家长分别记录目标、担心、支持、AI 与数据边界，并用十四天证据共同复查的私密工作表 | [家庭学习共同协议](../templates/family-learning-agreement.md) |
-| **求职英语证据卡** | 将真实岗位、无稿基线、故事、陌生追问、异步写作、延迟复测和诚信边界放在同一份记录中 | [求职英语证据卡](../templates/interview-evidence.md) |
-| **语法证据卡** | 一次只追踪一个高影响结构，连接真实任务基线、意义对比、四项调用、反馈分类与第 14 天迁移 | [语法证据卡](../templates/grammar-evidence.md) |
-| **听力证据卡** | 连接材料条件、无字幕首听、六层错误地图、字幕支架、意义重构、行动输出与平行材料迁移的记录 | [听力证据卡](../templates/listening-audit.md) |
-| **阅读证据卡** | 连接来源版本、首读、六层障碍、主张证据、技术事实、多来源比较、真实输出与延迟迁移的记录 | [阅读证据卡](../templates/reading-evidence.md) |
-| **写作证据卡** | 连接真实受众、无辅助初稿、事实来源、翻译变化、五次修订、反馈吸收、AI 使用、异步交付与署名责任的记录 | [写作证据卡](../templates/writing-evidence.md) |
-| **词汇证据卡** | 连接真实任务、首遇基线、未知项决定、八维核验、无提示调用、错误修复和延迟迁移的记录 | [词汇证据卡](../templates/vocabulary-audit.md) |
-| **口语证据卡** | 连接参考变体、三种无稿基线、听众复述、理解成本、互动修复、陌生追问与延迟迁移的私密记录 | [口语证据卡](../templates/speaking-evidence.md) |
-| **互动修复** | 没听清、范围不明或暂时未知时，请求重复、确认、争取思考时间并总结共识 | [口语篇](../threads/part-1/5-speaking.md) · [求职英语篇](../threads/part-1/8-job-search-english.md) |
-| **作品** | 能被别人阅读、使用、质疑或改进的输出，不限于产品 | [作品篇](../threads/part-3/4-artifacts-and-delivery.md) |
-| **交付** | 在真实受众、用户或约束下完成并接受结果 | [九十日行动篇](../threads/part-5/90-day-plan.md) |
-| **人工门** | AI 可以协助，但来源、事实、权限、隐私、质量、成本和最终责任必须在发布或执行前由具名的人确认 | [AI 任务简报](../templates/ai-task-brief.md) · [AI 项目开发](../threads/part-3/2-ai-development-and-resource-layer.md) |
-| **速度债** | 通过缩短即时用时却增加返工、核验、沟通或事故风险而欠下的真实成本 | [AI 学习记录](../templates/ai-learning-log.md) |
-| **AI 学习记录** | 比较无 AI、辅助、延迟独立和平行任务，记录工具贡献与独立能力的私密工作纸 | [AI 学习记录](../templates/ai-learning-log.md) |
-| **回滚** | 失败时暂停、降级、切换或恢复到已知可用状态 | [AI 学习与项目实践](../threads/part-3/1-ai-learning.md) |
+| **Thẻ nhiệm vụ** | Bản ghi một trang nêu rõ bối cảnh, đầu vào, hành động, ranh giới, tiêu chí nghiệm thu và người chịu trách nhiệm | [Bản tóm tắt nhiệm vụ AI](../templates/ai-task-brief.md) |
+| **Tệp trạng thái học tập** | Trang sự kiện được phiên bản hóa, lưu bên ngoài phiên làm việc, ghi lại mục tiêu, bằng chứng, lỗi, ranh giới, bàn giao và nhiệm vụ tiếp theo | [Trạng thái học tập](../templates/learning-state.md) · [Thực hành hộp công cụ](../templates/toolkit-walkthrough.md) |
+| **Rút kinh nghiệm trường hợp** | Bản ghi phân tích một trải nghiệm công khai thành nguồn, sự thật, phán đoán, kết quả và nguyên tắc có thể chuyển giao | [Rút kinh nghiệm trường hợp trải nghiệm AI](../templates/ai-case-review.md) |
+| **Thẻ bằng chứng** | Mẫu lưu phiên bản đầu tiên, phản hồi và bài kiểm tra lại cho một năng lực nghe, đọc, nói hoặc viết | [Công cụ cho bốn năng lực](../threads/part-0/prologue.md) |
+| **Phiếu xác nhận thực hành của độc giả** | Hai bản ghi riêng tư về lối vào khi đọc, hành động thực tế, kết quả tức thời, bài kiểm tra lại sau trì hoãn, chuyển giao và phản hồi biên tập | [Phiếu xác nhận thực hành của độc giả](../templates/reader-field-note.md) |
+| **Thỏa thuận chung về học tập gia đình** | Bảng làm việc riêng tư, trong đó người học và phụ huynh lần lượt ghi lại mục tiêu, lo lắng, hỗ trợ, ranh giới về AI và dữ liệu, rồi cùng kiểm tra lại bằng bằng chứng trong mười bốn ngày | [Thỏa thuận chung về học tập gia đình](../templates/family-learning-agreement.md) |
+| **Thẻ bằng chứng tiếng Anh xin việc** | Đặt công việc thực tế, đường cơ sở không bản thảo, câu chuyện, câu hỏi lạ, bài viết không đồng bộ, bài kiểm tra lại sau trì hoãn và ranh giới trung thực trong cùng một bản ghi | [Thẻ bằng chứng tiếng Anh xin việc](../templates/interview-evidence.md) |
+| **Thẻ bằng chứng ngữ pháp** | Mỗi lần chỉ theo dõi một cấu trúc có ảnh hưởng lớn, kết nối đường cơ sở của nhiệm vụ thực tế, đối chiếu ý nghĩa, bốn dạng sử dụng, phân loại phản hồi và chuyển giao vào ngày thứ 14 | [Thẻ bằng chứng ngữ pháp](../templates/grammar-evidence.md) |
+| **Thẻ bằng chứng nghe** | Bản ghi kết nối điều kiện tài liệu, lần nghe đầu không phụ đề, bản đồ lỗi sáu lớp, giàn giáo phụ đề, tái cấu trúc ý nghĩa, đầu ra hành động và chuyển giao sang tài liệu song song | [Thẻ bằng chứng nghe](../templates/listening-audit.md) |
+| **Thẻ bằng chứng đọc** | Bản ghi kết nối phiên bản nguồn, lần đọc đầu, sáu lớp trở ngại, luận điểm và bằng chứng, sự kiện kỹ thuật, so sánh nhiều nguồn, đầu ra thực tế và chuyển giao sau trì hoãn | [Thẻ bằng chứng đọc](../templates/reading-evidence.md) |
+| **Thẻ bằng chứng viết** | Bản ghi kết nối đối tượng thực tế, bản nháp đầu tiên không hỗ trợ, nguồn sự thật, thay đổi khi dịch, năm lần chỉnh sửa, tiếp thu phản hồi, việc sử dụng AI, bàn giao không đồng bộ và trách nhiệm ký tên | [Thẻ bằng chứng viết](../templates/writing-evidence.md) |
+| **Thẻ bằng chứng từ vựng** | Bản ghi kết nối nhiệm vụ thực tế, đường cơ sở khi gặp lần đầu, quyết định về mục chưa biết, kiểm chứng tám chiều, sử dụng không gợi ý, sửa lỗi và chuyển giao sau trì hoãn | [Thẻ bằng chứng từ vựng](../templates/vocabulary-audit.md) |
+| **Thẻ bằng chứng nói** | Bản ghi riêng tư kết nối biến thể tham chiếu, ba đường cơ sở không bản thảo, thuật lại bởi người nghe, chi phí hiểu, sửa chữa tương tác, câu hỏi lạ và chuyển giao sau trì hoãn | [Thẻ bằng chứng nói](../templates/speaking-evidence.md) |
+| **Sửa chữa tương tác** | Khi nghe không rõ, phạm vi chưa rõ hoặc tạm thời chưa biết, yêu cầu nhắc lại, xác nhận, xin thêm thời gian suy nghĩ và tóm tắt điểm thống nhất | [Phần nói](../threads/part-1/5-speaking.md) · [Phần tiếng Anh xin việc](../threads/part-1/8-job-search-english.md) |
+| **Tác phẩm** | Đầu ra mà người khác có thể đọc, sử dụng, chất vấn hoặc cải thiện, không chỉ giới hạn ở sản phẩm | [Phần tác phẩm](../threads/part-3/4-artifacts-and-delivery.md) |
+| **Bàn giao** | Hoàn thành và tiếp nhận kết quả trong điều kiện có đối tượng thực tế, người dùng hoặc ràng buộc thực tế | [Phần hành động chín mươi ngày](../threads/part-5/90-day-plan.md) |
+| **Cổng kiểm duyệt của con người** | AI có thể hỗ trợ, nhưng nguồn, sự thật, quyền hạn, quyền riêng tư, chất lượng, chi phí và trách nhiệm cuối cùng phải được một người có tên xác nhận trước khi công bố hoặc thực thi | [Bản tóm tắt nhiệm vụ AI](../templates/ai-task-brief.md) · [Phát triển dự án AI](../threads/part-3/2-ai-development-and-resource-layer.md) |
+| **Khoản nợ tốc độ** | Chi phí thực tế phát sinh khi rút ngắn thời gian xử lý tức thời nhưng làm tăng nguy cơ làm lại, kiểm chứng, trao đổi hoặc sự cố | [Nhật ký học tập AI](../templates/ai-learning-log.md) |
+| **Nhật ký học tập AI** | Phiếu làm việc riêng tư so sánh không AI, có hỗ trợ, độc lập sau trì hoãn và nhiệm vụ song song, đồng thời ghi lại đóng góp của công cụ và năng lực độc lập | [Nhật ký học tập AI](../templates/ai-learning-log.md) |
+| **Khôi phục** | Khi thất bại, tạm dừng, hạ cấp, chuyển đổi hoặc khôi phục về trạng thái đã biết là có thể sử dụng | [Thực hành học tập và dự án AI](../threads/part-3/1-ai-learning.md) |
 
-## 生活与边界
+## Đời sống và ranh giới
 
-| 术语 | 在本书中的意思 | 相关章节 |
+| Thuật ngữ | Ý nghĩa trong cuốn sách này | Chương liên quan |
 | --- | --- | --- |
-| **边界** | 说明发生某件事时，我会如何保护自己并执行后果 | [关系篇](../threads/part-2/relationships.md) |
-| **恢复** | 先恢复安全、身体、关系和可行动性，再谈效率和增长 | [恢复篇](../threads/part-2/recovery.md) |
-| **恢复模式** | 根据当天安全、基本照料和可行动性选择安全、降档或重建负荷；它是生活记录语言，不是临床分级 | [恢复篇](../threads/part-2/recovery.md) |
-| **复工试载** | 一次只增加时长、复杂度、责任或公开程度中的一个变量，再检查当天完成与次日代价 | [恢复篇](../threads/part-2/recovery.md) |
-| **支持协议** | 写清支持者可以做什么、不能替代什么、何时升级求助，以及风险降低后如何归还控制权 | [恢复篇](../threads/part-2/recovery.md) · [生活进阶工作表](../templates/life-practice-toolkit.md) |
-| **最小秩序** | 在混乱时期仍能重复的一个安全动作和一个可见结果 | [生活进阶工作表](../templates/life-practice-toolkit.md) |
-| **最小可行的一天** | 根据当天容量保留安全、一个最小输出和下一步提示的日程版本 | [生活系统篇](../threads/part-4/daily-system.md) |
-| **精力预算** | 把时间、注意力、身体和责任一起写进计划的可用容量估算 | [生活系统篇](../threads/part-4/daily-system.md) |
-| **回归动作** | 中断后 24 小时内能够完成、并把人带回系统的最小输出 | [生活系统篇](../threads/part-4/daily-system.md) |
-| **节律** | 在不同容量下仍能辨认和执行的一条行动模式，让重复、反馈与恢复沿时间连接 | [节律篇](../threads/part-4/rhythm-and-compounding.md) |
-| **复利** | 今天的选择减少明天的犹豫、返工或恢复成本，使能力、信任、判断和恢复彼此支撑 | [节律篇](../threads/part-4/rhythm-and-compounding.md) |
-| **最小合同** | 在坏日子里约定何时降档、保留什么动作，以及何时求助或升级风险的协议 | [节律篇](../threads/part-4/rhythm-and-compounding.md) |
-| **节律账本** | 每周一页，记录主问题、保住的动作、有效反馈、反复阻力和下周要改变的条件 | [节律账本模板](../templates/rhythm-ledger.md) · [节律篇](../threads/part-4/rhythm-and-compounding.md) |
-| **代价** | 时间、金钱、健康、关系、隐私和责任等需要被明确支付的部分 | [选择篇](../threads/part-2/decision.md) |
-| **可逆性** | 一个选择能否暂停、撤回或用较小成本改回 | [选择篇](../threads/part-2/decision.md) |
-| **价值冲突** | 两个重要目标无法同时被完整保留，需要明确优先级和每个选项会失去什么 | [选择篇](../threads/part-2/decision.md) |
-| **决定权** | 对一项选择拥有最终签字或拒绝权限，并需要说明权限来源、受影响者和责任承担 | [选择篇](../threads/part-2/decision.md) |
-| **推翻证据** | 在行动前写明哪一种事实或结果会让当前选择失去依据，防止只收集支持原结论的信息 | [选择篇](../threads/part-2/decision.md) |
-| **停止门槛** | 用可观察的证据、成本、安全或责任信号触发暂停、停止、回滚或升级求助 | [选择篇](../threads/part-2/decision.md) · [生活进阶工作表](../templates/life-practice-toolkit.md) |
+| **Ranh giới** | Nêu rõ khi một việc xảy ra, tôi sẽ tự bảo vệ mình và thực hiện hệ quả như thế nào | [Phần về các mối quan hệ](../threads/part-2/relationships.md) |
+| **Phục hồi** | Khôi phục sự an toàn, cơ thể, các mối quan hệ và khả năng hành động trước, rồi mới nói đến hiệu suất và tăng trưởng | [Phần về phục hồi](../threads/part-2/recovery.md) |
+| **Chế độ phục hồi** | Dựa trên mức độ an toàn, chăm sóc cơ bản và khả năng hành động trong ngày để lựa chọn giữa an toàn, giảm nhịp hoặc tái thiết lập tải; đây là ngôn ngữ ghi chép đời sống, không phải phân loại lâm sàng | [Phần về phục hồi](../threads/part-2/recovery.md) |
+| **Thử tải khi trở lại làm việc** | Mỗi lần chỉ tăng một biến số trong số thời lượng, độ phức tạp, trách nhiệm hoặc mức độ công khai, sau đó kiểm tra mức hoàn thành trong ngày và cái giá phải trả vào ngày hôm sau | [Phần về phục hồi](../threads/part-2/recovery.md) |
+| **Thỏa thuận hỗ trợ** | Ghi rõ người hỗ trợ có thể làm gì, không thể thay thế điều gì, khi nào cần tìm kiếm sự trợ giúp ở cấp cao hơn, và sau khi rủi ro giảm thì trao trả quyền kiểm soát như thế nào | [Phần về phục hồi](../threads/part-2/recovery.md) · [Bảng công việc nâng cao đời sống](../templates/life-practice-toolkit.md) |
+| **Trật tự tối thiểu** | Một hành động an toàn và một kết quả hữu hình vẫn có thể lặp lại trong thời kỳ hỗn loạn | [Bảng công việc nâng cao đời sống](../templates/life-practice-toolkit.md) |
+| **Một ngày khả thi tối thiểu** | Phiên bản lịch trình dựa trên sức chứa trong ngày, giữ lại sự an toàn, một đầu ra tối thiểu và lời nhắc cho bước tiếp theo | [Phần về hệ thống đời sống](../threads/part-4/daily-system.md) |
+| **Ngân sách năng lượng** | Ước tính sức chứa khả dụng trong kế hoạch, tính cả thời gian, sự chú ý, thể chất và trách nhiệm | [Phần về hệ thống đời sống](../threads/part-4/daily-system.md) |
+| **Hành động trở lại** | Đầu ra tối thiểu có thể hoàn thành trong vòng 24 giờ sau khi gián đoạn, đưa một người trở lại với hệ thống | [Phần về hệ thống đời sống](../threads/part-4/daily-system.md) |
+| **Nhịp điệu** | Một mô thức hành động vẫn có thể nhận biết và thực hiện ở những mức sức chứa khác nhau, giúp sự lặp lại, phản hồi và phục hồi được kết nối theo thời gian | [Phần về nhịp điệu](../threads/part-4/rhythm-and-compounding.md) |
+| **Lãi kép** | Lựa chọn hôm nay làm giảm sự do dự, công việc làm lại hoặc chi phí phục hồi của ngày mai, khiến năng lực, niềm tin, phán đoán và khả năng phục hồi hỗ trợ lẫn nhau | [Phần về nhịp điệu](../threads/part-4/rhythm-and-compounding.md) |
+| **Thỏa thuận tối thiểu** | Thỏa thuận quy định trong những ngày tồi tệ khi nào cần giảm nhịp, giữ lại hành động nào, và khi nào cần tìm kiếm sự trợ giúp hoặc nâng mức ứng phó với rủi ro | [Phần về nhịp điệu](../threads/part-4/rhythm-and-compounding.md) |
+| **Sổ cái nhịp điệu** | Mỗi tuần một trang, ghi lại vấn đề chính, hành động đã giữ được, phản hồi có hiệu quả, trở lực lặp đi lặp lại và điều kiện cần thay đổi trong tuần tới | [Mẫu sổ cái nhịp điệu](../templates/rhythm-ledger.md) · [Phần về nhịp điệu](../threads/part-4/rhythm-and-compounding.md) |
+| **Cái giá phải trả** | Những phần cần được thanh toán một cách rõ ràng, chẳng hạn như thời gian, tiền bạc, sức khỏe, các mối quan hệ, quyền riêng tư và trách nhiệm | [Phần về lựa chọn](../threads/part-2/decision.md) |
+| **Tính khả đảo** | Một lựa chọn có thể được tạm dừng, rút lại hoặc thay đổi trở về với chi phí thấp hơn hay không | [Phần về lựa chọn](../threads/part-2/decision.md) |
+| **Xung đột giá trị** | Hai mục tiêu quan trọng không thể được giữ lại trọn vẹn cùng lúc, cần xác định rõ thứ tự ưu tiên và mỗi phương án sẽ làm mất đi điều gì | [Phần về lựa chọn](../threads/part-2/decision.md) |
+| **Quyền quyết định** | Có quyền ký duyệt cuối cùng hoặc từ chối một lựa chọn, đồng thời cần nêu rõ nguồn gốc của quyền hạn, những người chịu ảnh hưởng và người chịu trách nhiệm | [Phần về lựa chọn](../threads/part-2/decision.md) |
+| **Bằng chứng bác bỏ** | Ghi rõ trước khi hành động loại sự thật hoặc kết quả nào sẽ khiến lựa chọn hiện tại mất đi cơ sở, nhằm tránh chỉ thu thập thông tin ủng hộ kết luận ban đầu | [Phần về lựa chọn](../threads/part-2/decision.md) |
+| **Ngưỡng dừng** | Dùng bằng chứng có thể quan sát, tín hiệu về chi phí, an toàn hoặc trách nhiệm để kích hoạt việc tạm dừng, dừng lại, quay lui hoặc tìm kiếm sự trợ giúp ở cấp cao hơn | [Phần về lựa chọn](../threads/part-2/decision.md) · [Bảng công việc nâng cao đời sống](../templates/life-practice-toolkit.md) |
 
-## 一句话记忆
+## Ghi nhớ trong một câu
 
-如果只能留下一个顺序：先把问题说清楚，再保存基线；用合适的工具做一次小任务，交给真实的人检验；把反馈写回下一步，力量不足时先恢复，不用羞耻替代计划。
+Nếu chỉ có thể giữ lại một trình tự: trước hết hãy nói rõ vấn đề, sau đó lưu lại đường cơ sở; dùng công cụ phù hợp để thực hiện một nhiệm vụ nhỏ và giao cho người thật kiểm chứng; ghi phản hồi vào bước tiếp theo, khi không đủ sức thì hãy phục hồi trước, đừng dùng sự hổ thẹn để thay thế cho kế hoạch.
 
-相关入口：[序章：先不要急着改变人生](../threads/part-0/prologue.md) ｜ [九十日行动总表](../templates/90-day-cycle.md)
+Các mục liên quan: [Lời mở đầu: Đừng vội thay đổi cuộc đời](../threads/part-0/prologue.md) ｜ [Bảng tổng hợp hành động trong chín mươi ngày](../templates/90-day-cycle.md)

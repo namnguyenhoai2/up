@@ -1,16 +1,16 @@
 ---
-title: AI 任务简报：从问题到人工验收
-description: 在 AI 学习或项目开始前写清真实任务、数据边界、来源、评估集、人工责任、成本、失败处理和交接条件。
+title: "Bản tóm tắt nhiệm vụ AI: từ vấn đề đến nghiệm thu thủ công"
+description: "Viết rõ nhiệm vụ thực tế, ranh giới dữ liệu, nguồn, tập đánh giá, trách nhiệm của con người, chi phí, cách xử lý thất bại và điều kiện bàn giao trước khi bắt đầu học AI hoặc dự án."
 updated: 2026-10-16
 ---
 
-# AI 任务简报：从问题到人工验收
+# Bản tóm tắt nhiệm vụ AI: từ vấn đề đến nghiệm thu thủ công
 
-复制到私有项目目录，在模型调用前填写。它不是 prompt 收集器，而是一张开始许可：如果任务、数据、来源、验收或责任人仍然不清楚，就先不要让模型生成最终结果。
+Sao chép vào thư mục dự án riêng tư và điền trước khi gọi mô hình. Đây không phải là nơi thu thập prompt, mà là giấy phép bắt đầu: nếu nhiệm vụ, dữ liệu, nguồn, tiêu chí nghiệm thu hoặc người chịu trách nhiệm vẫn chưa rõ ràng thì trước tiên đừng để mô hình tạo ra kết quả cuối cùng.
 
-不要写入密码、证件、精确住址、医疗隐私、儿童数据、客户记录、未公开漏洞或无权使用的第三方内容。敏感材料先脱敏，或改用组织批准的环境。
+Không ghi mật khẩu, giấy tờ tùy thân, địa chỉ chính xác, thông tin y tế riêng tư, dữ liệu trẻ em, hồ sơ khách hàng, lỗ hổng chưa công bố hoặc nội dung của bên thứ ba mà bạn không có quyền sử dụng. Trước tiên hãy ẩn danh tài liệu nhạy cảm hoặc chuyển sang môi trường được tổ chức phê duyệt.
 
-## 1. 任务与责任
+## 1. Nhiệm vụ và trách nhiệm
 
 ```markdown
 # AI Task Brief - YYYY-MM-DD
@@ -24,13 +24,13 @@ updated: 2026-10-16
 如果不做或延迟，谁会受影响：
 ```
 
-把“学 AI”“做一个智能助手”改成可观察的动作，例如“用户能在 10 分钟内导入一份文件，并看到一份能解释来源和错误的报告”。
+Hãy chuyển “học AI” hoặc “làm một trợ lý thông minh” thành các hành động có thể quan sát được, chẳng hạn như “người dùng có thể nhập một tệp trong vòng 10 phút và xem một báo cáo có thể giải thích nguồn gốc và lỗi”.
 
-## 2. 输入、来源与数据边界
+## 2. Dữ liệu đầu vào, nguồn và ranh giới dữ liệu
 
-| 输入/主张 | 类型 | 来源、版本与位置 | 可否提供给模型 | 核验人 | 失效条件 |
+| Đầu vào/khẳng định | Loại | Nguồn, phiên bản và vị trí | Có thể cung cấp cho mô hình không | Người xác minh | Điều kiện mất hiệu lực |
 | --- | --- | --- | --- | --- | --- |
-| | 事实 / 推断 / 个人经验 / 用户数据 / 第三方内容 | | 公开 / 脱敏 / 组织批准 / 禁止 | | |
+| | Sự thật / suy luận / kinh nghiệm cá nhân / dữ liệu người dùng / nội dung bên thứ ba | | Công khai / đã ẩn danh / được tổ chức phê duyệt / cấm | | |
 
 ```markdown
 允许使用的文件和字段：
@@ -42,9 +42,9 @@ updated: 2026-10-16
 模型能接触的最小数据范围：
 ```
 
-来源不等于真相。每个关键主张要能回到原文、版本、数据口径或直接观察；模型给出的链接、数字和引语仍需人工核验。
+Nguồn không đồng nghĩa với sự thật. Mỗi khẳng định quan trọng phải có thể truy về văn bản gốc, phiên bản, phạm vi dữ liệu hoặc quan sát trực tiếp; các liên kết, con số và trích dẫn do mô hình đưa ra vẫn cần được con người xác minh.
 
-## 3. 输出与评估集
+## 3. Kết quả đầu ra và tập đánh giá
 
 ```markdown
 最终交付物：
@@ -55,18 +55,18 @@ updated: 2026-10-16
 明确不能出现的内容：
 ```
 
-建立一份小而真实的评估集，不要只用模型最擅长的示例：
+Hãy xây dựng một tập đánh giá nhỏ nhưng chân thực, đừng chỉ sử dụng những ví dụ mà mô hình làm tốt nhất:
 
-| 样本 | 输入条件 | 预期结果 | 不可接受结果 | 实测结果 | 证据位置 |
+| Mẫu | Điều kiện đầu vào | Kết quả mong đợi | Kết quả không thể chấp nhận | Kết quả thực tế | Vị trí bằng chứng |
 | --- | --- | --- | --- | --- | --- |
-| 正常样本 | | | | | |
-| 边界样本 | | | | | |
-| 缺失/冲突输入 | | | | | |
-| 真实历史样本（已脱敏） | | | | | |
+| Mẫu thông thường | | | | | |
+| Mẫu biên | | | | | |
+| Đầu vào thiếu/mâu thuẫn | | | | | |
+| Mẫu lịch sử thực tế (đã ẩn danh) | | | | | |
 
-验收至少回答：事实是否可追溯，关键动作是否完成，错误是否可见，权限是否正确，失败是否可停止。流畅、快速或“像人”不是验收标准。
+Nghiệm thu ít nhất phải trả lời được: sự thật có thể truy nguyên không, các hành động quan trọng đã hoàn thành chưa, lỗi có thể nhìn thấy không, quyền hạn có chính xác không, và khi thất bại có thể dừng lại không. Trôi chảy, nhanh hoặc “giống con người” không phải là tiêu chí nghiệm thu.
 
-## 4. AI 的工作范围
+## 4. Phạm vi công việc của AI
 
 ```markdown
 AI 可以做：提问 / 分类 / 候选解释 / 反例 / 转写 / 草稿 / 测试建议
@@ -79,7 +79,7 @@ AI 不可以做：最终事实判断 / 虚构来源 / 代替责任人批准 / �
 提示词、系统指令或工作流版本位置：
 ```
 
-如果任务会长时间运行或调用外部工具，还要记录：
+Nếu nhiệm vụ sẽ chạy trong thời gian dài hoặc gọi các công cụ bên ngoài, cũng cần ghi lại:
 
 ```markdown
 运行/任务编号及父任务编号：
@@ -93,23 +93,23 @@ AI 不可以做：最终事实判断 / 虚构来源 / 代替责任人批准 / �
 供应商政策/版本、生效日期、地区和高风险复核：
 ```
 
-先让模型复述目标、输入、限制、未知项和验收，再开始生成。提示词版本化；不要把一次聊天窗口当作唯一的项目记录。
+Trước tiên hãy để mô hình nhắc lại mục tiêu, đầu vào, giới hạn, các mục chưa biết và tiêu chí nghiệm thu, rồi mới bắt đầu tạo nội dung. Quản lý phiên bản prompt; đừng coi một cửa sổ trò chuyện duy nhất là hồ sơ dự án duy nhất.
 
-## 5. 人工门
+## 5. Cổng kiểm tra thủ công
 
-| 门 | 必须由谁确认 | 通过证据 | 未通过时 |
+| Cổng | Ai bắt buộc phải xác nhận | Bằng chứng đạt | Khi không đạt |
 | --- | --- | --- | --- |
-| 来源门 | | 原始链接、版本、位置 | 标记未核验，不传播 |
-| 事实门 | | 抽样核对、数据口径 | 删除或降级主张 |
-| 隐私/权限门 | | 数据范围、同意、访问日志 | 停止处理并脱敏 |
-| 质量门 | | 评估集、边界样本、真实反馈 | 修复、缩小或拒绝交付 |
-| 成本门 | | token、时间、人工返工与预算 | 降级模型或停止 |
-| 工具授权门 | | 工具范围、调用记录、具名授权和撤回方式 | 禁止调用或回到人工 |
-| 责任门 | | 具名批准和披露文字 | 不发布、不自动执行 |
+| Cổng nguồn | | Liên kết gốc, phiên bản, vị trí | Đánh dấu chưa xác minh, không phổ biến |
+| Cổng sự thật | | Đối chiếu lấy mẫu, phạm vi dữ liệu | Xóa hoặc hạ mức khẳng định |
+| Cổng quyền riêng tư/quyền hạn | | Phạm vi dữ liệu, sự đồng ý, nhật ký truy cập | Dừng xử lý và ẩn danh |
+| Cổng chất lượng | | Tập đánh giá, mẫu biên, phản hồi thực tế | Sửa chữa, thu hẹp hoặc từ chối bàn giao |
+| Cổng chi phí | | Token, thời gian, công sức làm lại thủ công và ngân sách | Hạ cấp mô hình hoặc dừng |
+| Cổng cấp quyền công cụ | | Phạm vi công cụ, nhật ký gọi, ủy quyền đích danh và cách thu hồi | Cấm gọi hoặc quay lại xử lý thủ công |
+| Cổng trách nhiệm | | Phê duyệt đích danh và nội dung công bố | Không công bố, không tự động thực thi |
 
-关键决定不能只由生成模型、自动评分或单个开发者自己批准。高风险领域回到当前一手材料和合格专业人员。
+Các quyết định quan trọng không thể chỉ do mô hình tạo sinh, hệ thống chấm điểm tự động hoặc một lập trình viên duy nhất tự phê duyệt. Trong các lĩnh vực rủi ro cao, hãy quay lại tài liệu nguồn hiện hành và chuyên gia có đủ năng lực.
 
-## 6. 成本、留存与可逆性
+## 6. Chi phí, lưu giữ và khả năng đảo ngược
 
 ```markdown
 预计调用量、时间和费用上限：
@@ -120,21 +120,21 @@ AI 不可以做：最终事实判断 / 虚构来源 / 代替责任人批准 / �
 发布范围与灰度对象：
 ```
 
-一次便宜的调用如果造成隐私事件、错误决定或大量返工，真实成本并不便宜。记录模型费用之外的人工时间、审阅、失败、重跑和沟通成本。
+Một lần gọi rẻ tiền nếu gây ra sự cố quyền riêng tư, quyết định sai hoặc khối lượng làm lại lớn thì chi phí thực tế không hề rẻ. Ngoài chi phí mô hình, hãy ghi lại thời gian của con người, công việc thẩm định, thất bại, chạy lại và trao đổi.
 
-## 7. 失败、暂停与回滚
+## 7. Thất bại, tạm dừng và khôi phục
 
-| 触发条件 | 立即动作 | 通知谁 | 恢复/回滚位置 |
+| Điều kiện kích hoạt | Hành động ngay lập tức | Thông báo cho ai | Vị trí khôi phục/hoàn tác |
 | --- | --- | --- | --- |
-| 找不到来源或版本 | 停止传播，回到原始材料 | | |
-| 评估集硬门失败 | 禁止发布或自动执行 | | |
-| 输入越过权限边界 | 停止上传，撤销访问 | | |
-| 成本/延迟超过上限 | 降级、限流或停止 | | |
-| 真实用户报告伤害 | 下线、保留证据、升级处理 | | |
+| Không tìm thấy nguồn hoặc phiên bản | Dừng phổ biến, quay lại tài liệu gốc | | |
+| Không đạt cổng bắt buộc của tập đánh giá | Cấm công bố hoặc tự động thực thi | | |
+| Đầu vào vượt qua ranh giới quyền hạn | Dừng tải lên, thu hồi quyền truy cập | | |
+| Chi phí/độ trễ vượt quá giới hạn | Hạ cấp, giới hạn lưu lượng hoặc dừng | | |
+| Người dùng thực tế báo cáo tổn hại | Gỡ xuống, lưu giữ bằng chứng, chuyển cấp xử lý | | |
 
-如果没有明确的停止人、通知路径和已知可用版本，就还没有准备好接入真实流程。
+Nếu chưa có người chịu trách nhiệm dừng, quy trình thông báo và phiên bản có thể sử dụng đã biết, thì vẫn chưa sẵn sàng tích hợp vào quy trình thực tế.
 
-## 8. 交接与公开说明
+## 8. Bàn giao và thông tin công khai
 
 ```markdown
 当前状态：未开始 / 实验 / 内部试用 / 灰度 / 已交付 / 已停止
@@ -146,15 +146,15 @@ AI 不可以做：最终事实判断 / 虚构来源 / 代替责任人批准 / �
 来源、隐私、版权和利益关系说明：
 ```
 
-交接者不应需要翻找聊天记录才能知道下一步。公开文本至少说明工具参与了哪一步、哪些事实由人确认、哪些内容仍是候选。
+Người nhận bàn giao không nên phải lục tìm lịch sử trò chuyện mới biết bước tiếp theo. Văn bản công khai ít nhất phải nêu rõ công cụ đã tham gia vào bước nào, những sự thật nào đã được con người xác nhận và nội dung nào vẫn chỉ là đề xuất.
 
-## 9. 开始前检查
+## 9. Kiểm tra trước khi bắt đầu
 
-- [ ] 真实受众、动作、截止时间和负责人已写清；
-- [ ] 输入字段、敏感等级、同意、版权和留存边界已确认；
-- [ ] 关键来源、版本和失效条件可回溯；
-- [ ] 正常、边界、冲突和历史脱敏样本已进入评估集；
-- [ ] AI 可以做与不可以做的范围已写清；
-- [ ] 适用时已记录长时任务检查点、重试/重复安全规则、浏览器输入边界和网络出口；
-- [ ] 人工门、费用上限、停止条件和回滚位置已指定；
-- [ ] 交接、披露和下一次复查日期已确定。
+- [ ] Đối tượng thực tế, hành động, thời hạn và người phụ trách đã được ghi rõ;
+- [ ] Các trường đầu vào, mức độ nhạy cảm, sự đồng ý, bản quyền và ranh giới lưu giữ đã được xác nhận;
+- [ ] Nguồn, phiên bản và điều kiện mất hiệu lực quan trọng có thể truy nguyên;
+- [ ] Các mẫu thông thường, biên, mâu thuẫn và lịch sử đã ẩn danh đã được đưa vào tập đánh giá;
+- [ ] Phạm vi những gì AI có thể và không thể làm đã được ghi rõ;
+- [ ] Khi phù hợp, đã ghi lại các điểm kiểm tra của tác vụ dài, quy tắc an toàn khi thử lại/lặp lại, ranh giới nhập liệu trên trình duyệt và lối ra mạng;
+- [ ] Các cổng kiểm tra thủ công, giới hạn chi phí, điều kiện dừng và vị trí hoàn tác đã được chỉ định;
+- [ ] Việc bàn giao, công bố và ngày rà soát tiếp theo đã được xác định.

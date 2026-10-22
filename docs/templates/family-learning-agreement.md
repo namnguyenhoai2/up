@@ -1,18 +1,18 @@
 ---
-title: 家庭学习共同协议：十四天，把帮助变得可商量
-description: 为大致处于初中阶段的学习者与家长建立一份私密、非法律性质的十四天共同约定，明确目标、角色、学校要求、容量、AI 与数据边界、反馈和暂停条件。
+title: "Thỏa thuận chung về việc học tại nhà: Mười bốn ngày để biến sự giúp đỡ thành điều có thể cùng bàn bạc"
+description: "Thiết lập một thỏa thuận chung riêng tư, không có tính pháp lý trong mười bốn ngày dành cho người học ở độ tuổi trung học cơ sở và cha mẹ, nhằm làm rõ mục tiêu, vai trò, yêu cầu của nhà trường, khả năng thực hiện, ranh giới về AI và dữ liệu, phản hồi cũng như điều kiện tạm dừng."
 updated: 2026-09-02
 ---
 
-# 家庭学习共同协议：十四天，把帮助变得可商量
+# Thỏa thuận chung về việc học tại nhà: Mười bốn ngày để biến sự giúp đỡ thành điều có thể cùng bàn bạc
 
-这不是家长给孩子下达的合同，也不是要求孩子签字服从的承诺。它是一张私密工作纸，让学习者、家长或监护人把同一件事各自写清楚，再用十四天事实决定下一步。
+Đây không phải là hợp đồng do cha mẹ áp đặt cho con, cũng không phải là lời cam kết yêu cầu con ký tên để tuân theo. Đây là một phiếu làm việc riêng tư, giúp người học, cha mẹ hoặc người giám hộ viết rõ cách nhìn của mỗi bên về cùng một việc, rồi dùng thực tế trong mười bốn ngày để quyết định bước tiếp theo.
 
-请保存在家庭私有位置。不要写入密码、证件号码、精确地址、学校内部账号、医疗记录、同学或教师的私人信息。不要把协议、基线或失败样本公开展示，除非学习者理解公开范围、相关人员已经授权，并且内容已经最小化处理。
+Hãy lưu giữ tại một nơi riêng tư của gia đình. Không ghi mật khẩu, số giấy tờ tùy thân, địa chỉ chính xác, tài khoản nội bộ của trường, hồ sơ y tế hoặc thông tin riêng tư của bạn học hay giáo viên. Không công khai thỏa thuận, dữ liệu ban đầu hoặc các mẫu thất bại, trừ khi người học hiểu rõ phạm vi công khai, những người liên quan đã cho phép và nội dung đã được tối giản hóa.
 
-## 1. 分别写，再一起读
+## 1. Viết riêng, rồi cùng đọc
 
-### 学习者先写
+### Người học viết trước
 
 ```markdown
 我希望两周后哪件真实事情变容易一点：
@@ -23,7 +23,7 @@ updated: 2026-09-02
 今天我能承担的时间与容量：
 ```
 
-### 家长/监护人再写
+### Cha mẹ/người giám hộ viết sau
 
 ```markdown
 我观察到的具体事实：
@@ -34,9 +34,9 @@ updated: 2026-09-02
 我承诺不做的监督、代做或公开行为：
 ```
 
-一起阅读时，不立即反驳。先用一句话复述对方的意思，直到对方认为基本准确。
+Khi cùng đọc, không lập tức phản bác. Trước tiên, hãy dùng một câu để nhắc lại ý của đối phương cho đến khi họ cho rằng cách diễn đạt đó cơ bản là chính xác.
 
-## 2. 写成一个共同问题
+## 2. Viết thành một vấn đề chung
 
 ```markdown
 十四天只回答的问题：
@@ -48,11 +48,11 @@ updated: 2026-09-02
 什么结果会让我们缩小、暂停或停止：
 ```
 
-共同问题应允许不成功。例如：“能否在两周后独立复述相近文章的主旨”比“词汇量必须增加 500”更容易保留真实结果。
+Vấn đề chung nên cho phép kết quả không thành công. Ví dụ: “Sau hai tuần, liệu có thể tự mình tóm tắt ý chính của một bài đọc tương tự hay không” sẽ dễ giữ lại kết quả thực tế hơn “Vốn từ nhất định phải tăng thêm 500 từ”.
 
-## 3. 保存起点
+## 3. Lưu lại điểm xuất phát
 
-| 日期 | 任务与限制 | 学习者独立结果 | 提示出现在哪里 | 原始证据位置 |
+| Ngày | Nhiệm vụ và giới hạn | Kết quả khi người học tự làm | Gợi ý xuất hiện ở đâu | Vị trí bằng chứng gốc |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
@@ -62,15 +62,15 @@ updated: 2026-09-02
 这次只改变的一个条件：
 ```
 
-成人可以帮助保存文件，不在基线完成前给出完整答案。
+Người lớn có thể giúp lưu tệp, nhưng không đưa ra đáp án đầy đủ trước khi hoàn tất dữ liệu ban đầu.
 
-## 4. 三个容量档位
+## 4. Ba mức khả năng thực hiện
 
-| 档位 | 适用情况 | 学习者保留的动作 | 成人保留的支持 |
+| Mức | Trường hợp áp dụng | Phần việc người học giữ lại | Hỗ trợ người lớn giữ lại |
 | --- | --- | --- | --- |
-| 完整日 | | | |
-| 压缩日 | | | |
-| 恢复日 | | | |
+| Ngày đầy đủ | | | |
+| Ngày rút gọn | | | |
+| Ngày phục hồi | | | |
 
 ```markdown
 最晚结束时间：
@@ -78,29 +78,29 @@ updated: 2026-09-02
 中断后 24 小时内的最小回归动作：
 ```
 
-恢复日可以没有学习作品。安全、基本照料、沟通和准备下次入口可以是当天全部结果。
+Ngày phục hồi có thể không có sản phẩm học tập. An toàn, chăm sóc cơ bản, giao tiếp và chuẩn bị điểm bắt đầu cho lần sau có thể là toàn bộ kết quả của ngày hôm đó.
 
-## 5. 成人支持清单
+## 5. Danh sách hỗ trợ của người lớn
 
-这两周，成人只选择两到三项：
+Trong hai tuần này, người lớn chỉ chọn từ hai đến ba mục:
 
-- [ ] 提供一个不被随意打断的时间盒；
-- [ ] 准备学校指定材料或必要设备；
-- [ ] 帮助联系教师或确认作业要求；
-- [ ] 在孩子提交首版后，提供最多三条具体反馈；
-- [ ] 在约定时间提醒一次，不重复追问；
-- [ ] 帮助保存版本和下一步入口；
-- [ ] 当容量下降时主动同意降档或暂停。
+- [ ] Dành một khoảng thời gian không bị tùy tiện làm gián đoạn;
+- [ ] Chuẩn bị tài liệu do nhà trường chỉ định hoặc thiết bị cần thiết;
+- [ ] Giúp liên hệ với giáo viên hoặc xác nhận yêu cầu bài tập;
+- [ ] Sau khi trẻ nộp bản đầu tiên, đưa ra tối đa ba nhận xét cụ thể;
+- [ ] Nhắc một lần vào thời gian đã thống nhất, không hỏi đi hỏi lại;
+- [ ] Giúp lưu các phiên bản và điểm bắt đầu cho bước tiếp theo;
+- [ ] Khi khả năng thực hiện giảm xuống, chủ động đồng ý chuyển xuống mức thấp hơn hoặc tạm dừng.
 
-成人明确不做：
+Người lớn xác định không làm:
 
-- [ ] 不代写、代答或让 AI 代做后要求孩子署名；
-- [ ] 不全天查看屏幕、聊天记录或每分钟状态；
-- [ ] 不把作品、成绩或失败发给无关亲友或公开平台；
-- [ ] 不用同学、兄弟姐妹或过去的高光时刻羞辱比较；
-- [ ] 不用熬夜、取消基本休息或持续冲突偿还计划。
+- [ ] Không viết hộ, trả lời hộ hoặc để AI làm thay rồi yêu cầu trẻ đứng tên;
+- [ ] Không kiểm tra màn hình, lịch sử trò chuyện hoặc trạng thái từng phút suốt cả ngày;
+- [ ] Không gửi sản phẩm, điểm số hoặc thất bại cho người thân không liên quan hay các nền tảng công khai;
+- [ ] Không dùng bạn học, anh chị em hoặc những thành tích nổi bật trong quá khứ để sỉ nhục hay so sánh;
+- [ ] Không dùng việc thức khuya, hủy bỏ thời gian nghỉ ngơi cơ bản hoặc xung đột kéo dài để bù đắp cho kế hoạch.
 
-## 6. AI 与数据约定
+## 6. Thỏa thuận về AI và dữ liệu
 
 ```markdown
 允许使用的平台与账户：
@@ -113,16 +113,16 @@ AI 不可以做：
 会话结束后的复述或独立动作：
 ```
 
-绝不上传：
+Tuyệt đối không tải lên:
 
-- [ ] 姓名、学校、班级、证件、精确地址和私人联系方式；
-- [ ] 面部、声纹、健康、家庭关系和未经最小化的成绩记录；
-- [ ] 教师、同学和其他第三方的私人信息或未授权作品；
-- [ ] 学校内部账号、试卷答案、受限制材料或家庭敏感信息。
+- [ ] Họ tên, trường, lớp, giấy tờ tùy thân, địa chỉ chính xác và thông tin liên hệ riêng tư;
+- [ ] Khuôn mặt, giọng nói, sức khỏe, quan hệ gia đình và hồ sơ thành tích chưa được tối giản hóa;
+- [ ] Thông tin riêng tư hoặc sản phẩm chưa được cho phép của giáo viên, bạn học và các bên thứ ba khác;
+- [ ] Tài khoản nội bộ của trường, đáp án đề thi, tài liệu bị hạn chế hoặc thông tin nhạy cảm của gia đình.
 
-若平台、学校或家庭无法确认边界，就先使用纸笔、离线材料、合成数据或教师批准的替代方式。
+Nếu nền tảng, nhà trường hoặc gia đình không thể xác nhận rõ ranh giới, trước tiên hãy sử dụng giấy bút, tài liệu ngoại tuyến, dữ liệu tổng hợp hoặc phương án thay thế được giáo viên phê duyệt.
 
-## 7. 反馈规则
+## 7. Quy tắc phản hồi
 
 ```markdown
 每次只保留的一个主问题：
@@ -132,7 +132,7 @@ AI 不可以做：
 何时需要请教师参与：
 ```
 
-反馈句式：
+Mẫu câu phản hồi:
 
 ```markdown
 我观察到：
@@ -141,20 +141,20 @@ AI 不可以做：
 我建议下一次只测试：
 ```
 
-避免“你就是……”“你从来不……”和“别人都能……”。
+Tránh nói “Em đúng là…” “Em chưa bao giờ…” và “Ai cũng làm được…”.
 
-## 8. 十四天证据
+## 8. Bằng chứng trong mười bốn ngày
 
-| 时间点 | 条件 | 独立结果 | 得到的反馈 | 仍然未知 |
+| Thời điểm | Điều kiện | Kết quả độc lập | Phản hồi nhận được | Những điều vẫn chưa biết |
 | --- | --- | --- | --- | --- |
-| 第 1 天基线 | | | | |
-| 即时修订 | | | | |
-| 延迟复测 | | | | |
-| 新条件迁移 | | | | |
+| Dữ liệu ban đầu ngày 1 | | | | |
+| Điều chỉnh tức thời | | | | |
+| Kiểm tra lại sau một khoảng trễ | | | | |
+| Chuyển sang điều kiện mới | | | | |
 
-聊天时长、打卡天数和家长提醒次数只是过程痕迹。关键判断应回到作品、题目、录音、课堂使用和撤掉提示后的表现。
+Thời lượng trò chuyện, số ngày đánh dấu hoàn thành và số lần cha mẹ nhắc nhở chỉ là dấu vết của quá trình. Đánh giá then chốt nên quay về sản phẩm, câu hỏi, bản ghi âm, việc sử dụng trong lớp học và biểu hiện sau khi gỡ bỏ gợi ý.
 
-## 9. 暂停与求助门
+## 9. Tạm dừng và tìm kiếm hỗ trợ
 
 ```markdown
 出现哪些安全、身体、睡眠、情绪、校园或家庭情况时立即暂停：
@@ -164,11 +164,11 @@ AI 不可以做：
 暂停后不需要补做的内容：
 ```
 
-出现持续功能受损、伤害念头、暴力、欺凌、威胁或无法安全沟通时，先保护安全并寻求合适支持，不用这张表自行诊断或处理。
+Khi xuất hiện suy giảm chức năng kéo dài, ý nghĩ tự làm hại bản thân, bạo lực, bắt nạt, đe dọa hoặc không thể giao tiếp an toàn, trước tiên hãy bảo đảm an toàn và tìm kiếm sự hỗ trợ phù hợp; không tự chẩn đoán hoặc xử lý bằng riêng biểu mẫu này.
 
-## 10. 两周复盘：学习者先说
+## 10. Nhìn lại sau hai tuần: người học nói trước
 
-### 学习者
+### Người học
 
 ```markdown
 真正变容易的一件事：
@@ -178,7 +178,7 @@ AI 不可以做：
 下一步我愿意继续的动作：
 ```
 
-### 家长/监护人
+### Cha mẹ/người giám hộ
 
 ```markdown
 我观察到的作品与事实：
@@ -187,7 +187,7 @@ AI 不可以做：
 下一轮我只保留的支持：
 ```
 
-### 共同决定
+### Cùng quyết định
 
 ```markdown
 继续 / 缩小 / 改变一个条件 / 暂停或停止：
@@ -197,10 +197,10 @@ AI 不可以做：
 需要教师或专业人员参与的事项：
 ```
 
-## 结尾：帮助也要接受复盘
+## Kết thúc: Sự giúp đỡ cũng cần được nhìn lại
 
-家庭通常会复盘孩子是否完成，很少复盘成人的帮助是否有效。这张协议要求双方都留下证据：孩子的任务是否更清楚，成人的支持是否降低了摩擦，关系是否仍然能够说真话。
+Các gia đình thường nhìn lại việc trẻ có hoàn thành hay không, nhưng hiếm khi xem xét liệu sự hỗ trợ của người lớn có hiệu quả hay không. Thỏa thuận này yêu cầu cả hai bên để lại bằng chứng: nhiệm vụ của trẻ có rõ ràng hơn không, sự hỗ trợ của người lớn có làm giảm trở ngại không, và mối quan hệ có còn đủ an toàn để nói thật hay không.
 
-当帮助只剩监控、代做和焦虑传递时，它也需要被缩小或停止。好的支持不一定让孩子立刻做得更多，却会让他逐渐更能看见问题、提出需要、承担自己的版本，并知道困难出现时可以向谁求助。
+Khi sự giúp đỡ chỉ còn là giám sát, làm thay và truyền sự lo âu, nó cũng cần được thu hẹp hoặc dừng lại. Sự hỗ trợ tốt không nhất thiết khiến trẻ lập tức làm được nhiều hơn, nhưng sẽ giúp trẻ dần nhìn rõ vấn đề hơn, nêu ra nhu cầu, chịu trách nhiệm với phiên bản của mình và biết có thể tìm kiếm sự giúp đỡ từ ai khi gặp khó khăn.
 
-相关章节：[家庭学习篇：把成长还给孩子](../threads/part-4/family-learning.md) ｜ [实践篇](../threads/part-4/week-1.md) ｜ [证据链模板](evidence-chain.md)
+Các chương liên quan: [Phần học tập tại nhà: Trao lại sự trưởng thành cho trẻ](../threads/part-4/family-learning.md) ｜ [Phần thực hành](../threads/part-4/week-1.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

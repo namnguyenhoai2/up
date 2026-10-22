@@ -1,14 +1,14 @@
 ---
-title: AI 趋势实验卡：从信号到决定
-description: 记录一个 AI 新能力的一手来源、任务假设、人工基线、保留集、权限、完整成本、独立迁移和退出条件。
+title: "Thẻ thử nghiệm xu hướng AI: từ tín hiệu đến quyết định"
+description: "Ghi lại nguồn ban đầu của một năng lực AI mới, giả thuyết về nhiệm vụ, đường cơ sở thủ công, tập giữ lại, quyền hạn, tổng chi phí, khả năng chuyển giao độc lập và điều kiện rút lui."
 updated: 2026-10-16
 ---
 
-# AI 趋势实验卡：从信号到决定
+# Thẻ thử nghiệm xu hướng AI: từ tín hiệu đến quyết định
 
-每次只测试一个变化。它不是产品收藏夹，也不是预测榜单；它帮助你判断一个能力是否值得进入自己的任务。没有人工基线、可检查的结果和停止条件，就先不要扩大范围。
+Mỗi lần chỉ kiểm thử một thay đổi. Đây không phải là danh mục sưu tầm sản phẩm, cũng không phải bảng xếp hạng dự đoán; nó giúp bạn đánh giá liệu một năng lực có đáng được đưa vào nhiệm vụ của mình hay không. Nếu không có đường cơ sở thủ công, kết quả có thể kiểm tra và điều kiện dừng, trước hết đừng mở rộng phạm vi.
 
-## 可复制记录
+## Bản ghi có thể sao chép
 
 ```markdown
 # AI Trend Radar - YYYY-MM-DD
@@ -59,10 +59,10 @@ AI 样本位置：
 负责人和 30 天复查日期：
 ```
 
-## 判定顺序
+## Trình tự đánh giá
 
-先看来源与权限，再看事实和任务结果，最后比较速度、文风或费用。把识别错误与知识错误分开；把模型声称完成与文件、数据库或真实读者看到的结果分开。保留集一旦用于调优，就把它移入开发或回归集，并补充新的保留案例。
+Trước tiên xem xét nguồn và quyền hạn, sau đó xem xét sự kiện và kết quả nhiệm vụ, cuối cùng mới so sánh tốc độ, văn phong hoặc chi phí. Phân biệt lỗi nhận dạng với lỗi kiến thức; phân biệt việc mô hình tuyên bố đã hoàn thành với kết quả mà tệp, cơ sở dữ liệu hoặc độc giả thực tế nhìn thấy. Khi tập giữ lại được dùng để tinh chỉnh, hãy chuyển nó vào tập phát triển hoặc tập hồi quy, đồng thời bổ sung các trường hợp giữ lại mới.
 
-## 关联入口
+## Lối vào liên quan
 
-[AI 趋势与学习路线](../threads/part-3/6-ai-trends-and-learning-roadmap.md) ｜ [AI 任务简报](ai-task-brief.md) ｜ [AI 学习记录](ai-learning-log.md) ｜ [AI 评测记录](ai-evaluation.md)
+[Xu hướng AI và lộ trình học tập](../threads/part-3/6-ai-trends-and-learning-roadmap.md) ｜ [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md) ｜ [Bản ghi học tập AI](ai-learning-log.md) ｜ [Bản ghi đánh giá AI](ai-evaluation.md)

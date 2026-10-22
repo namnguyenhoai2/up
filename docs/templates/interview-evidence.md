@@ -1,16 +1,16 @@
 ---
-title: 求职英语证据卡：从岗位描述到陌生追问
-description: 用真实岗位、无稿基线、项目故事、陌生追问、异步写作、修复动作、延迟复测与迁移判断当前英语是否足以完成这一场面试，而不是追逐统一等级。
+title: "Thẻ bằng chứng tiếng Anh khi xin việc: từ mô tả công việc đến câu hỏi truy vấn bất ngờ"
+description: "Dùng vị trí thực tế, đường cơ sở không dùng kịch bản, câu chuyện dự án, câu hỏi truy vấn bất ngờ, bài viết không đồng bộ, hành động khắc phục, kiểm tra lại sau một khoảng trì hoãn và đánh giá khả năng chuyển giao để xác định liệu tiếng Anh hiện tại có đủ cho buổi phỏng vấn này hay không, thay vì chạy theo một cấp độ thống nhất."
 updated: 2026-09-02
 ---
 
-# 求职英语证据卡：从岗位描述到陌生追问
+# Thẻ bằng chứng tiếng Anh khi xin việc: từ mô tả công việc đến câu hỏi truy vấn bất ngờ
 
-这张卡不判断你“适不适合海外工作”，也不承诺通过面试。它回答一个更具体的问题：**在当前岗位和流程下，我能否把真实能力用英语完成交付？**
+Thẻ này không đánh giá bạn “có phù hợp với công việc ở nước ngoài hay không”, cũng không cam kết bạn sẽ vượt qua phỏng vấn. Nó trả lời một câu hỏi cụ thể hơn: **Trong vị trí và quy trình hiện tại, tôi có thể dùng tiếng Anh để hoàn thành và bàn giao năng lực thực tế của mình hay không?**
 
-复制到私有笔记。岗位描述、招聘邮件、take-home task、公司代码、客户信息和面试录音可能含有保密或个人信息；只保存你有权使用的最少内容，录音前取得必要同意。
+Hãy sao chép vào ghi chú riêng tư. Mô tả công việc, email tuyển dụng, take-home task, mã nguồn của công ty, thông tin khách hàng và bản ghi âm phỏng vấn có thể chứa thông tin mật hoặc thông tin cá nhân; chỉ lưu lại lượng nội dung tối thiểu mà bạn có quyền sử dụng, và xin sự đồng ý cần thiết trước khi ghi âm.
 
-## 1. 岗位与流程
+## 1. Vị trí và quy trình
 
 ```markdown
 岗位名称与公开链接：
@@ -22,11 +22,11 @@ updated: 2026-09-02
 当前仍未知的招聘规则：
 ```
 
-## 2. 岗位语言地图
+## 2. Bản đồ ngôn ngữ của vị trí
 
-| 岗位事实 | 语言任务 | 当前证据 | 风险等级 | 两周内是否补证据 |
+| Thực tế của vị trí | Nhiệm vụ ngôn ngữ | Bằng chứng hiện tại | Mức độ rủi ro | Có bổ sung bằng chứng trong hai tuần tới không |
 | --- | --- | --- | --- | --- |
-| | 招聘沟通 / 项目说明 / 技术追问 / 行为问题 / 异步写作 / 客户沟通 | | 高 / 中 / 低 | |
+| | Trao đổi tuyển dụng / trình bày dự án / truy vấn kỹ thuật / câu hỏi hành vi / viết không đồng bộ / trao đổi với khách hàng | | Cao / Trung bình / Thấp | |
 
 ```markdown
 已经能独立完成：
@@ -36,7 +36,7 @@ updated: 2026-09-02
 只补的一个最高风险缺口：
 ```
 
-## 3. 完整基线
+## 3. Đường cơ sở đầy đủ
 
 ```markdown
 日期：
@@ -46,19 +46,19 @@ updated: 2026-09-02
 录音与文本位置：
 ```
 
-| 阶段 | 时间 | 完成标准 | 独立结果 | 主要错误 |
+| Giai đoạn | Thời gian | Tiêu chuẩn hoàn thành | Kết quả độc lập | Lỗi chính |
 | --- | ---: | --- | --- | --- |
-| 岗位相关自我介绍 | 2 分钟 | 现在、证据、方向清楚 | | |
-| 项目说明 | 5 分钟 | 背景、责任、取舍、结果、未知 | | |
-| 陌生追问 | 3 题 | 理解、回答或主动澄清 | | |
-| 异步更新 | 20 分钟 | 进展、证据、风险、下一步、负责人 | | |
-| 互动修复 | 1 次 | 重复/确认/思考时间/未知边界 | | |
+| Tự giới thiệu liên quan đến vị trí | 2 phút | Làm rõ hiện tại, bằng chứng và định hướng | | |
+| Trình bày dự án | 5 phút | Nêu được bối cảnh, trách nhiệm, đánh đổi, kết quả và điều chưa biết | | |
+| Câu hỏi truy vấn bất ngờ | 3 câu | Hiểu, trả lời hoặc chủ động làm rõ | | |
+| Cập nhật không đồng bộ | 20 phút | Nêu tiến độ, bằng chứng, rủi ro, bước tiếp theo và người phụ trách | | |
+| Khắc phục trong tương tác | 1 lần | Nhờ nhắc lại / xác nhận / xin thời gian suy nghĩ / nêu rõ giới hạn điều chưa biết | | |
 
-## 4. 错误地图
+## 4. Bản đồ lỗi
 
-| 片段/问题 | 类型 | 它如何影响任务 | 下一次只测试什么 |
+| Đoạn/câu hỏi | Loại | Nó ảnh hưởng đến nhiệm vụ như thế nào | Lần tới chỉ kiểm tra điều gì |
 | --- | --- | --- | --- |
-| | 内容 / 检索 / 听力 / 组织 / 互动 / 准确 | | |
+| | Nội dung / truy xuất / nghe hiểu / tổ chức / tương tác / độ chính xác | | |
 
 ```markdown
 最大问题其实不是英语的部分：
@@ -66,9 +66,9 @@ updated: 2026-09-02
 最值得保留的修复动作：
 ```
 
-## 5. 真实故事库
+## 5. Kho câu chuyện thực tế
 
-每个故事只保存六行，不写逐字稿：
+Mỗi câu chuyện chỉ lưu sáu dòng, không viết kịch bản từng chữ:
 
 ```markdown
 故事名称：
@@ -80,11 +80,11 @@ updated: 2026-09-02
 证据位置：
 ```
 
-| 故事 | 可回答的问题 | 陌生追问后是否仍可调用 | 事实/隐私检查 |
+| Câu chuyện | Có thể trả lời câu hỏi nào | Sau câu hỏi truy vấn bất ngờ còn có thể sử dụng không | Kiểm tra sự thật/quyền riêng tư |
 | --- | --- | --- | --- |
-| | 解决问题 / 失败 / 冲突 / 决策 / 反馈 / 停止 | 是 / 否 | |
+| | Giải quyết vấn đề / thất bại / xung đột / quyết định / phản hồi / dừng lại | Có / Không | |
 
-## 6. 听力与修复
+## 6. Nghe hiểu và khắc phục
 
 ```markdown
 没有听清的原问题：
@@ -94,15 +94,15 @@ updated: 2026-09-02
 最后如何确认双方理解：
 ```
 
-| 修复能力 | 首版 0–2 | 第 7 天 0–2 | 证据 |
+| Năng lực khắc phục | Lần đầu 0–2 | Ngày thứ 7 0–2 | Bằng chứng |
 | --- | ---: | ---: | --- |
-| 请求重复具体部分 | | | |
-| 确认问题范围 | | | |
-| 争取思考时间 | | | |
-| 承认未知并给验证步骤 | | | |
-| 总结共识与下一步 | | | |
+| Yêu cầu nhắc lại phần cụ thể | | | |
+| Xác nhận phạm vi câu hỏi | | | |
+| Xin thêm thời gian suy nghĩ | | | |
+| Thừa nhận điều chưa biết và đưa ra các bước xác minh | | | |
+| Tóm tắt điểm thống nhất và bước tiếp theo | | | |
 
-## 7. 异步写作样本
+## 7. Mẫu bài viết không đồng bộ
 
 ```markdown
 Context:
@@ -113,7 +113,7 @@ Decision needed:
 Owner and next update:
 ```
 
-请一位读者回答：
+Hãy nhờ một độc giả trả lời:
 
 ```markdown
 发生了什么：
@@ -122,7 +122,7 @@ Owner and next update:
 哪一句需要猜测：
 ```
 
-## 8. AI 与诚信记录
+## 8. Ghi chép về AI và tính trung thực
 
 ```markdown
 工具与日期：
@@ -135,29 +135,29 @@ Owner and next update:
 没有上传的保密/个人信息：
 ```
 
-不要虚构经历、数字和职责。未经明确允许，不在真实面试中使用隐蔽实时提示。
+Không bịa đặt kinh nghiệm, số liệu và trách nhiệm. Nếu chưa được cho phép rõ ràng, không sử dụng lời nhắc thời gian thực một cách kín đáo trong phỏng vấn thực tế.
 
-## 9. 十四天比较
+## 9. So sánh trong mười bốn ngày
 
-| 时间点 | 条件 | 任务完成 | 理解/修复 | 组织/检索 | 异步写作 | 证据 |
+| Thời điểm | Điều kiện | Hoàn thành nhiệm vụ | Hiểu/khắc phục | Tổ chức/truy xuất | Viết không đồng bộ | Bằng chứng |
 | --- | --- | ---: | ---: | ---: | ---: | --- |
-| 第 1 天基线 | 无稿、无 AI | | | | | |
-| 即时修订 | 看过反馈 | | | | | |
-| 第 7 天复测 | 平行问题、撤掉原答案 | | | | | |
-| 第 14 天迁移 | 新面试者/顺序/岗位问题 | | | | | |
+| Đường cơ sở ngày 1 | Không kịch bản, không AI | | | | | |
+| Sửa ngay | Đã xem phản hồi | | | | | |
+| Kiểm tra lại ngày 7 | Câu hỏi song song, bỏ đáp án ban đầu | | | | | |
+| Đánh giá khả năng chuyển giao ngày 14 | Người phỏng vấn/thứ tự/câu hỏi về vị trí mới | | | | | |
 
-每项 0–2：`0=未完成`，`1=部分完成或依赖提示`，`2=在当前条件下完成`。只用于同一人的同类任务比较。
+Mỗi mục 0–2: `0=未完成`，`1=部分完成或依赖提示`，`2=在当前条件下完成`。Chỉ dùng để so sánh các nhiệm vụ cùng loại của cùng một người.
 
-## 10. 当前岗位门槛
+## 10. Ngưỡng của vị trí hiện tại
 
-- [ ] 至少三个真实故事可以在不同问法下调用；
-- [ ] 能完成招聘筛选、项目说明和陌生追问；
-- [ ] 没听清时会确认，不用猜测维持流畅；
-- [ ] 关键语言错误不持续改变意思；
-- [ ] 能写一份可继续工作的异步更新；
-- [ ] 知道保密、录音和 AI 使用边界；
-- [ ] 能承认未知，并说明验证方法；
-- [ ] 面试设备、时区和环境已检查。
+- [ ] Có thể sử dụng ít nhất ba câu chuyện thực tế khi được hỏi theo những cách khác nhau;
+- [ ] Có thể hoàn thành vòng sàng lọc tuyển dụng, phần trình bày dự án và các câu hỏi truy vấn bất ngờ;
+- [ ] Khi không nghe rõ sẽ xác nhận lại, không đoán để duy trì sự trôi chảy;
+- [ ] Các lỗi ngôn ngữ quan trọng không liên tục làm thay đổi ý nghĩa;
+- [ ] Có thể viết một bản cập nhật không đồng bộ đủ để công việc tiếp tục;
+- [ ] Biết ranh giới về bảo mật, ghi âm và việc sử dụng AI;
+- [ ] Có thể thừa nhận điều chưa biết và nêu phương pháp xác minh;
+- [ ] Đã kiểm tra thiết bị phỏng vấn, múi giờ và môi trường.
 
 ```markdown
 当前最支持：立即投递并继续练习 / 先补一个高风险缺口 / 暂缓该岗位
@@ -167,7 +167,7 @@ Owner and next update:
 下次复查日期：
 ```
 
-## 11. 面试后关账
+## 11. Tổng kết sau phỏng vấn
 
 ```markdown
 实际问题：
@@ -181,4 +181,4 @@ Owner and next update:
 停止准备的内容：
 ```
 
-相关章节：[求职英语篇：把能力带进面试与远程协作](../threads/part-1/8-job-search-english.md) ｜ [口语证据卡](speaking-evidence.md) ｜ [写作证据卡](writing-evidence.md)
+Chương liên quan: [Chương tiếng Anh khi xin việc: đưa năng lực vào phỏng vấn và phối hợp từ xa](../threads/part-1/8-job-search-english.md) ｜ [Thẻ bằng chứng nói](speaking-evidence.md) ｜ [Thẻ bằng chứng viết](writing-evidence.md)

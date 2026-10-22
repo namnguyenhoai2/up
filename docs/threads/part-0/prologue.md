@@ -1,74 +1,74 @@
 ---
-title: 序章：先不要急着改变人生
-description: 建立作者立场与阅读契约，从英语、AI、失败和日常行动进入人生进阶的完整书稿。
+title: "Lời mở đầu: Đừng vội thay đổi cuộc đời"
+description: "Xây dựng lập trường của tác giả và khế ước đọc sách, từ tiếng Anh, AI, thất bại và những hành động thường nhật để bước vào một bản thảo hoàn chỉnh về hành trình tiến bộ trong cuộc sống."
 updated: 2026-09-01
 prev:
-  text: "阅读指南：把书放回生活"
+  text: "Hướng dẫn đọc: Đưa sách trở lại với cuộc sống"
   link: /threads/part-0/reader-guide
 next:
-  text: "第一部：打开输入"
+  text: "Phần một: Mở đầu vào"
   link: /threads/part-1/open-input
 ---
 
-# 序章：先不要急着改变人生
+# Lời mở đầu: Đừng vội thay đổi cuộc đời
 
-作者：韩先凯（笔名：离谱）
+Tác giả: Han Xiankai (bút danh: Li Phu)
 
-2017 年 7 月，朋友 `W.` 正在准备托福。她问我：“怎样才能高效地学好英语？”
+Tháng 7 năm 2017, người bạn `W.` đang chuẩn bị thi TOEFL. Cô ấy hỏi tôi: “Làm thế nào để học tiếng Anh thật hiệu quả?”
 
-我那时以为，这只是一个关于词汇、语法和学习方法的问题。于是我把自己走过的弯路写下来：怎样背单词，怎样练听力，怎样让一本原版书不再像一堵墙，怎样在不敢开口的时候先说出第一句不完美的英语。
+Khi ấy, tôi nghĩ đây chỉ là một câu hỏi về từ vựng, ngữ pháp và phương pháp học. Vì vậy, tôi viết lại những con đường vòng mình từng đi qua: cách học từ vựng, cách luyện nghe, cách để một cuốn sách nguyên bản không còn giống như một bức tường, cách nói ra câu tiếng Anh đầu tiên dù chưa dám mở lời và dù nó không hoàn hảo.
 
-后来我才发现，她真正问的或许是另一件事：**一个普通人，怎样在有限的时间、反复的挫败和并不理想的生活里，仍然把自己往前带一点？**
+Sau này tôi mới nhận ra, có lẽ điều cô ấy thực sự hỏi lại là một chuyện khác: **Một người bình thường làm thế nào để, trong quỹ thời gian hữu hạn, những thất bại lặp đi lặp lại và một cuộc sống không mấy lý tưởng, vẫn có thể đưa bản thân tiến lên một chút?**
 
-这份指南，就是从那个问题长出来的。
+Cuốn hướng dẫn này lớn lên từ câu hỏi đó.
 
-它先谈英语，因为英语是一扇具体的门。你可以用它读一篇没有翻译的文章，听懂一段工作会议，给远方的人写信，也可以在信息混乱的时候，多一个角度认识世界。但门打开之后，真正要面对的仍然是你自己：你怎样安排时间，怎样对待身体，怎样承受失败，怎样把一个念头变成作品，怎样在失去一些东西之后，继续照顾眼前的人。
+Trước hết, nó nói về tiếng Anh, bởi tiếng Anh là một cánh cửa cụ thể. Bạn có thể dùng nó để đọc một bài viết không có bản dịch, nghe hiểu một đoạn hội họp công việc, viết thư cho một người ở phương xa, và cũng có thêm một góc nhìn để nhận biết thế giới khi thông tin trở nên hỗn loạn. Nhưng sau khi cánh cửa mở ra, điều thực sự phải đối mặt vẫn là chính bạn: bạn sắp xếp thời gian thế nào, đối xử với cơ thể ra sao, chịu đựng thất bại thế nào, biến một ý nghĩ thành tác phẩm ra sao, và sau khi mất đi một vài điều, vẫn tiếp tục chăm lo cho những người trước mắt như thế nào.
 
-我曾经把人生想象成一条不断升级的游戏路线：完成一个目标，就获得下一件装备；赚到足够的钱，就拥有稳定的幸福；做出一个产品，就证明过去的选择没有错。后来公司倒闭，身体失去控制，关系和自尊一起跌到谷底，我才明白，人生不是一张等待通关的地图。
+Tôi từng hình dung cuộc đời như một lộ trình trò chơi không ngừng nâng cấp: hoàn thành một mục tiêu thì nhận được trang bị tiếp theo; kiếm đủ tiền thì có được hạnh phúc ổn định; làm ra một sản phẩm thì chứng minh những lựa chọn trong quá khứ không sai. Sau này, khi công ty phá sản, cơ thể mất kiểm soát, các mối quan hệ và lòng tự trọng cùng rơi xuống đáy, tôi mới hiểu rằng cuộc đời không phải là một tấm bản đồ đang chờ ta vượt qua.
 
-人生更像一间每天都要重新整理的房间。昨天留下的灰尘，今天还在；一件坏掉的家具，不能靠更响亮的口号修好；窗外的天气，也从来不听我们的安排。所谓进阶，很多时候只是把地面扫干净，把该道歉的话说出来，把身体送去看医生，把今天能完成的那一步完成。
+Cuộc đời giống một căn phòng mỗi ngày đều phải sắp xếp lại hơn. Bụi bặm hôm qua để lại vẫn còn đó hôm nay; một món đồ nội thất bị hỏng không thể được sửa bằng những khẩu hiệu lớn tiếng hơn; thời tiết ngoài cửa sổ cũng chưa bao giờ nghe theo sự sắp đặt của chúng ta. Cái gọi là tiến bộ, rất nhiều khi chỉ là quét sạch sàn nhà, nói ra lời xin lỗi cần nói, đưa cơ thể đi khám, hoàn thành bước mà hôm nay ta có thể làm được.
 
-所以，这不是一本承诺你“变得厉害”的书。它只想提供四样东西：
+Vì vậy, đây không phải là cuốn sách hứa hẹn giúp bạn “trở nên giỏi giang”. Nó chỉ muốn mang đến bốn điều:
 
-1. 一条可执行的英语学习路径，让输入、输出、反馈和复习形成循环；
-2. 一套与 AI 协作的学习方法，让工具帮助你长出判断力，而不是替你逃避思考；
-3. 一份不避讳狼狈的个人记录，提醒我们：能力、事业、关系和身体，必须放在同一条生命线上看。
-4. 一套九十天的行动方案，让读过的内容有机会变成作品、反馈和新的生活节奏。
+1. Một lộ trình học tiếng Anh có thể thực hiện, để đầu vào, đầu ra, phản hồi và ôn tập hình thành một vòng tuần hoàn;
+2. Một phương pháp học tập hợp tác với AI, để công cụ giúp bạn phát triển năng lực phán đoán thay vì thay bạn trốn tránh suy nghĩ;
+3. Một bản ghi chép cá nhân không né tránh những lúc chật vật, nhắc chúng ta rằng: năng lực, sự nghiệp, các mối quan hệ và cơ thể phải được nhìn nhận trên cùng một đường đời.
+4. Một kế hoạch hành động chín mươi ngày, để những nội dung đã đọc có cơ hội biến thành tác phẩm, phản hồi và một nhịp sống mới.
 
-## 这本书的阅读契约
+## Khế ước đọc sách của cuốn sách này
 
-你不必从第一页读到最后一页。请先找到眼下最真实的卡点：
+Bạn không nhất thiết phải đọc từ trang đầu đến trang cuối. Hãy tìm điểm mắc kẹt chân thực nhất của mình lúc này:
 
-- 如果你不知道为什么学，先读[认知篇](../part-1/1-understanding.md)；
-- 如果你总是记不住，先读[单词篇](../part-1/2-vocabulary.md)；
-- 如果你看得懂却说不出，先读[口语篇](../part-1/5-speaking.md)；
-- 如果你有很多资料却没有作品，先读[使用 AI 学习一切](../part-3/1-ai-learning.md)和[行动篇](../part-5/90-day-plan.md)；
-- 如果你已经有很多记录，却不知道自己是否真的改变，先用[证据链模板](../../templates/evidence-chain.md)，再读[证据篇](../part-3/5-evidence-and-transfer.md)；
-- 如果你不知道该选哪张工作纸，先打开[工具箱总览](../../templates/toolkit.md)，按眼前的卡点选择一个入口；
-- 如果你正处在低谷，先读[我的故事](../part-2/my-story.md)，然后去睡一觉、吃一顿饭，再决定下一步。
+- Nếu bạn không biết vì sao mình học, hãy đọc trước [Phần nhận thức](../part-1/1-understanding.md);
+- Nếu bạn luôn không nhớ được, hãy đọc trước [Phần từ vựng](../part-1/2-vocabulary.md);
+- Nếu bạn hiểu khi đọc nhưng không nói ra được, hãy đọc trước [Phần khẩu ngữ](../part-1/5-speaking.md);
+- Nếu bạn có rất nhiều tài liệu nhưng chưa có tác phẩm nào, hãy đọc trước [Học mọi thứ bằng AI](../part-3/1-ai-learning.md) và [Phần hành động](../part-5/90-day-plan.md);
+- Nếu bạn đã có rất nhiều ghi chép nhưng không biết mình có thực sự thay đổi hay chưa, trước hết hãy dùng [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), sau đó đọc [Phần bằng chứng](../part-3/5-evidence-and-transfer.md);
+- Nếu bạn không biết nên chọn tờ bài tập nào, hãy mở [Tổng quan hộp công cụ](../../templates/toolkit.md) trước, rồi chọn một điểm bắt đầu dựa trên điều đang mắc kẹt trước mắt;
+- Nếu bạn đang ở trong giai đoạn sa sút, hãy đọc trước [Câu chuyện của tôi](../part-2/my-story.md), sau đó đi ngủ, ăn một bữa cơm rồi mới quyết định bước tiếp theo.
 
-请把每一章当成一张工作台，而不是一场考试。读完后只带走一件事：一个句子、一项练习、一个需要停止的习惯，或者一个准备重新开始的念头。知识如果没有在生活里留下痕迹，就还只是漂亮的路标。
+Hãy xem mỗi chương như một bàn làm việc, chứ không phải một kỳ thi. Sau khi đọc xong, chỉ cần mang theo một điều: một câu nói, một bài tập, một thói quen cần dừng lại, hoặc một ý nghĩ muốn bắt đầu lại. Nếu kiến thức không để lại dấu vết trong cuộc sống thì nó vẫn chỉ là những cột mốc chỉ đường đẹp đẽ.
 
-## 一条可以往返的阅读路径
+## Một lộ trình đọc có thể đi đi về về
 
-你可以沿着“问题—能力—工具—交付—恢复”的顺序阅读，也可以从眼下最急的一格进入：
+Bạn có thể đọc theo thứ tự “vấn đề—năng lực—công cụ—bàn giao—phục hồi”, hoặc bắt đầu từ ô cấp bách nhất lúc này:
 
-1. **问题**：用[学习状态](../../templates/learning-state.md)写下真实场景、基线和完成标准；
-2. **能力**：在英语的听、读、说、写章节中选择一项主线，用对应证据卡留下样本；
-3. **工具**：如果使用 AI，先读[使用 AI 学习一切](../part-3/1-ai-learning.md)，把来源、隐私和人工判断写进任务；
-4. **交付与验证**：把初稿、录音、代码或报告交给真实的人，用[证据链模板](../../templates/evidence-chain.md)比较首版、反馈、延迟保持和迁移，再用[九十日行动总表](../../templates/90-day-cycle.md)安排复测；
-5. **恢复与回归**：当计划被打断，回到[恢复篇](../part-2/recovery.md)和[节律账本](../../templates/rhythm-ledger.md)，先恢复安全和最小秩序，不用羞耻加码。
+1. **Vấn đề**: Dùng [Trạng thái học tập](../../templates/learning-state.md) để ghi lại bối cảnh thực tế, đường cơ sở và tiêu chuẩn hoàn thành;
+2. **Năng lực**: Trong các chương nghe, đọc, nói và viết tiếng Anh, hãy chọn một tuyến chính, rồi dùng thẻ bằng chứng tương ứng để lưu lại mẫu;
+3. **Công cụ**: Nếu sử dụng AI, hãy đọc trước [Học mọi thứ bằng AI](../part-3/1-ai-learning.md), đưa nguồn, quyền riêng tư và phán đoán của con người vào trong nhiệm vụ;
+4. **Bàn giao và kiểm chứng**: Giao bản nháp, bản ghi âm, mã nguồn hoặc báo cáo cho người thật, dùng [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) để so sánh phiên bản đầu tiên, phản hồi, khả năng duy trì sau một khoảng trì hoãn và khả năng chuyển giao, rồi dùng [Bảng tổng hợp hành động chín mươi ngày](../../templates/90-day-cycle.md) để sắp xếp việc kiểm tra lại;
+5. **Phục hồi và trở lại**: Khi kế hoạch bị gián đoạn, hãy quay về [Phần phục hồi](../part-2/recovery.md) và [Sổ cái nhịp điệu](../../templates/rhythm-ledger.md), trước hết khôi phục sự an toàn và trật tự tối thiểu, đừng dùng cảm giác xấu hổ để tự gây thêm áp lực.
 
-这条路径不是必须遵守的目录顺序。它只是提醒你：每一次学习都应该能回到生活，每一次行动也都允许重新回到学习。
+Lộ trình này không phải là thứ tự mục lục bắt buộc phải tuân theo. Nó chỉ nhắc bạn rằng mỗi lần học đều nên có thể quay về với cuộc sống, và mỗi hành động cũng được phép quay lại với việc học.
 
-## 写给此刻翻开这本书的人
+## Viết cho người đang mở cuốn sách này vào lúc này
 
-也许你正坐在通勤的地铁里，手机屏幕上堆满收藏；也许你刚结束一段关系，正在想自己是不是从此只能停在这里；也许你被工作、债务、考试或病痛推到墙角，连“努力”两个字听起来都觉得疲惫。
+Có thể bạn đang ngồi trên tàu điện ngầm trong giờ đi làm, màn hình điện thoại đầy những nội dung đã lưu; có thể bạn vừa kết thúc một mối quan hệ và đang tự hỏi liệu mình từ nay chỉ có thể dừng lại ở đây; cũng có thể bạn bị công việc, nợ nần, kỳ thi hoặc bệnh tật dồn đến chân tường, đến hai chữ “nỗ lực” nghe thôi cũng thấy mệt mỏi.
 
-我没有资格替你保证明天会变好。我能说的只有：人的生活通常不是被一次巨大的胜利拯救的，而是被许多细小、重复、没人鼓掌的动作慢慢托住的。
+Tôi không có tư cách đảm bảo với bạn rằng ngày mai sẽ tốt hơn. Điều duy nhất tôi có thể nói là: cuộc sống của con người thường không được cứu vớt bởi một chiến thắng vĩ đại duy nhất, mà được nâng đỡ từng chút một bởi rất nhiều hành động nhỏ bé, lặp đi lặp lại và không ai vỗ tay.
 
-今天记住五个词，明天听十分钟真实英语，后天写一段不求漂亮的文字；把一件拖了很久的小事做完，给一个应该道歉的人发消息，按时吃饭，早点关灯。它们看上去彼此无关，却会共同构成一种新的证据：**我仍然能够对自己的生活施加一点影响。**
+Hôm nay ghi nhớ năm từ, ngày mai nghe mười phút tiếng Anh chân thực, ngày kia viết một đoạn văn không cần đẹp; hoàn thành một việc nhỏ đã trì hoãn từ lâu, gửi tin nhắn cho người mà bạn nên xin lỗi, ăn uống đúng giờ, tắt đèn sớm. Trông chúng có vẻ chẳng liên quan đến nhau, nhưng sẽ cùng nhau tạo nên một bằng chứng mới: **Tôi vẫn có thể tạo ra một chút ảnh hưởng lên cuộc sống của mình.**
 
-这点影响不必宏大，但必须真实。
+Ảnh hưởng đó không cần phải lớn lao, nhưng nhất định phải chân thực.
 
-愿你从这里开始，不是为了成为另一个人，而是为了更完整地成为自己。
+Mong rằng từ đây bạn bắt đầu, không phải để trở thành một người khác, mà để trở thành chính mình một cách trọn vẹn hơn.

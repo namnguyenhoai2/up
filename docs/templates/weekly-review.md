@@ -1,12 +1,12 @@
 ---
-title: 每周复盘模板
-description: 用完成证据、质量、保持与迁移复盘一周，并只确定下一周最重要的调整。
+title: "Mẫu rà soát hàng tuần"
+description: "Rà soát một tuần dựa trên bằng chứng hoàn thành, chất lượng, khả năng duy trì và chuyển giao, đồng thời chỉ xác định điều chỉnh quan trọng nhất cho tuần tới."
 updated: 2026-09-01
 ---
 
-# 每周复盘模板
+# Mẫu rà soát hàng tuần
 
-复盘不是给自己判分，而是为下一周留下一个更准确的起点。每周预留 20 分钟，先看证据，再解释原因，最后只改变一个变量。不要写入密码、客户资料、医疗隐私或未获授权的第三方信息。
+Rà soát không phải là tự chấm điểm cho bản thân, mà là để lại một điểm khởi đầu chính xác hơn cho tuần tới. Hãy dành 20 phút mỗi tuần: trước tiên xem bằng chứng, sau đó giải thích nguyên nhân, cuối cùng chỉ thay đổi một biến số. Không ghi mật khẩu, thông tin khách hàng, dữ liệu y tế riêng tư hoặc thông tin của bên thứ ba chưa được cho phép.
 
 ```markdown
 # Weekly Review — YYYY-Www
@@ -62,15 +62,15 @@ updated: 2026-09-01
 - [九十日行动总表](90-day-cycle.md)：保存阶段门槛、十二周主问题和周期方向。
 
 ```markdown
-证据链已更新：是 / 否 / 不适用
-节律账本已更新：是 / 否 / 不适用
-学习状态文件已更新：是 / 否
-九十日行动总表已更新：是 / 否 / 不适用
-下一项最小任务的证据位置：
+Chuỗi bằng chứng đã được cập nhật: Có / Không / Không áp dụng
+Sổ cái nhịp độ đã được cập nhật: Có / Không / Không áp dụng
+Tệp trạng thái học tập đã được cập nhật: Có / Không
+Bảng tổng hợp hành động 90 ngày đã được cập nhật: Có / Không / Không áp dụng
+Vị trí bằng chứng của nhiệm vụ nhỏ tiếp theo:
 ```
 
-## 写回后的交接入口
+## Điểm vào bàn giao sau khi ghi lại
 
-完成复盘后，按职责打开需要更新的文件： [证据链模板](evidence-chain.md) 负责比较四个时间点；[节律账本](rhythm-ledger.md) 负责记录本周节奏；[学习状态](learning-state.md) 负责跨会话交接；[九十日行动总表](90-day-cycle.md) 负责周期门槛。
+Sau khi hoàn tất việc rà soát, hãy mở các tệp cần cập nhật theo trách nhiệm: [mẫu chuỗi bằng chứng](evidence-chain.md) chịu trách nhiệm so sánh bốn thời điểm; [sổ cái nhịp độ](rhythm-ledger.md) chịu trách nhiệm ghi lại nhịp độ trong tuần này; [trạng thái học tập](learning-state.md) chịu trách nhiệm bàn giao giữa các phiên; [bảng tổng hợp hành động 90 ngày](90-day-cycle.md) chịu trách nhiệm về các ngưỡng chu kỳ.
 
-不要因为一周状态差就重写整套计划。先区分偶发波动与连续三次出现的模式；连续出现时，优先改变环境、任务大小或支持网络。
+Đừng viết lại toàn bộ kế hoạch chỉ vì trạng thái trong một tuần không tốt. Trước tiên hãy phân biệt dao động nhất thời với một mô thức xuất hiện liên tiếp ba lần; khi xuất hiện liên tiếp, hãy ưu tiên thay đổi môi trường, quy mô nhiệm vụ hoặc mạng lưới hỗ trợ.

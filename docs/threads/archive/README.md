@@ -1,20 +1,20 @@
 ---
-title: 十年前的博客归档
-description: 从 2016 年旧博客快照恢复的四篇完整文章，作为历史个人记录保存，而不是当前建议。
+title: Lưu trữ blog mười năm trước
+description: Bốn bài viết hoàn chỉnh được khôi phục từ các bản chụp blog cũ năm 2016, được lưu giữ như những ghi chép cá nhân mang tính lịch sử, không phải lời khuyên hiện tại.
 updated: 2026-08-31
 ---
 
-# 十年前的博客归档
+# Lưu trữ blog mười năm trước
 
-这里收录的是从 Web Archive 恢复出的 `zb.gs` 旧博客内容。
+Tại đây lưu lại nội dung blog cũ của `zb.gs` được khôi phục từ Web Archive.
 
-这些文字写在更早的阶段：有写作梦被打断后的倔强，有大四之后重新折腾事业的热气，也有对社会议题和个人选择的朴素判断。把它们放回这份指南里，是为了让“人生进阶”不只停留在方法论上，也能看见一个人一路走来的原始切片。
+Những dòng chữ này được viết ở một giai đoạn xa hơn: có sự bướng bỉnh sau khi giấc mơ viết lách bị gián đoạn, có nhiệt huyết khởi nghiệp lại sau năm cuối đại học, cũng có những phán đoán mộc mạc về các vấn đề xã hội và lựa chọn cá nhân. Đưa chúng trở lại trong cuốn hướng dẫn này là để “tiến bộ trong cuộc sống” không chỉ dừng lại ở phương pháp luận, mà còn có thể cho thấy những lát cắt nguyên bản trên hành trình một con người đã đi qua.
 
-本次根据可访问的 Wayback Machine 快照与文章互链，共整理出 4 篇旧文：
+Dựa trên các bản chụp Wayback Machine có thể truy cập và những liên kết qua lại giữa các bài viết, lần này đã tổng hợp được 4 bài viết cũ:
 
-- 2016-04-23：[终于有了一个写字的地方](a-place-to-write.md)
-- 2016-04-24：[简单介绍下去年和现在的我](last-year-and-now.md)
-- 2016-04-24：[到底该不该扶老人](help-the-elderly.md)
-- 2016-05-21：[博客临时更名公告](blog-renaming-notice.md)
+- 2016-04-23：[Cuối cùng cũng có một nơi để viết](a-place-to-write.md)
+- 2016-04-24：[Giới thiệu sơ lược về tôi của năm ngoái và hiện tại](last-year-and-now.md)
+- 2016-04-24：[Rốt cuộc có nên đỡ người già không](help-the-elderly.md)
+- 2016-05-21：[Thông báo tạm thời đổi tên blog](blog-renaming-notice.md)
 
-> 说明：原站点部分 Archive 索引接口访问不稳定；本文日期按当前可恢复的 Wayback 快照标注。本归档优先保存已能从入口页与文章近期列表中恢复的正文和评论。后续如果发现更多旧文，可以继续按这个目录结构补进来。
+> Lưu ý: Một số giao diện chỉ mục Archive của trang gốc truy cập không ổn định; ngày tháng trong bài viết này được ghi theo các bản chụp Wayback hiện có thể khôi phục. Bản lưu trữ này ưu tiên lưu giữ phần nội dung và bình luận đã có thể khôi phục từ trang đầu vào và danh sách bài viết gần đây. Nếu sau này phát hiện thêm bài viết cũ, có thể tiếp tục bổ sung theo cấu trúc thư mục này.

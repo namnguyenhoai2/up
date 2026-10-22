@@ -1,14 +1,14 @@
 ---
-title: AI 评测记录模板
-description: 记录任务范围、保留样本、版本、硬性条件、失败与完整成本，支持采用、修复或撤回 AI 工作流的决定。
+title: "Mẫu ghi chép đánh giá AI"
+description: "Ghi lại phạm vi nhiệm vụ, mẫu được giữ lại, phiên bản, điều kiện bắt buộc, các lỗi và toàn bộ chi phí, nhằm hỗ trợ quyết định áp dụng, khắc phục hoặc rút lại quy trình AI."
 updated: 2026-10-16
 ---
 
-# AI 评测记录模板
+# Mẫu ghi chép đánh giá AI
 
-配合 [AI 评测与可靠性](../threads/practice/ai-evaluation.md) 使用。先填写标准，再运行案例。空表用于记录一个版本比较；示例数字不代表模型性能或通用上线门槛。
+Được sử dụng cùng với [Đánh giá và độ tin cậy của AI](../threads/practice/ai-evaluation.md). Trước tiên hãy điền các tiêu chuẩn, sau đó chạy các trường hợp. Bảng trống dùng để ghi chép việc so sánh một phiên bản; các con số minh họa không đại diện cho hiệu suất của mô hình hoặc ngưỡng triển khai chung.
 
-## 可复制记录
+## Bản ghi có thể sao chép
 
 ```markdown
 # AI Evaluation — 日期 / 任务
@@ -70,25 +70,25 @@ updated: 2026-10-16
 - 负责人、复查日期、记录位置：
 ```
 
-若最终合格数量为零，每份合格结果成本写“无法计算”，保留已经发生的总支出，不用零替代。
+Nếu số lượng kết quả đạt yêu cầu cuối cùng bằng không, ghi chi phí cho mỗi kết quả đạt yêu cầu là “không thể tính toán”, giữ nguyên tổng chi phí đã phát sinh, không thay bằng số không.
 
-## 填写示例：公开资料比较表
+## Ví dụ điền biểu mẫu: Bảng so sánh tài liệu công khai
 
-以下是假设案例，与章节示例一致：十条案例各运行一次，当前版本 A 首次合格 8 条，候选 B 首次合格 9 条；两版经人工修订后各合格 10 条。
+Dưới đây là trường hợp giả định, nhất quán với ví dụ trong chương: mỗi trong mười trường hợp được chạy một lần, phiên bản hiện tại A đạt yêu cầu lần đầu ở 8 trường hợp, ứng viên B đạt yêu cầu lần đầu ở 9 trường hợp; sau khi được con người chỉnh sửa, cả hai phiên bản đều đạt yêu cầu ở 10 trường hợp.
 
-| 字段 | 示例填写 |
+| Trường | Nội dung điền mẫu |
 | --- | --- |
-| 本轮改变 | 只修改提取提示，材料与工具相同 |
-| 必须条件 | 关键数字有出处；缺失价格不得推断 |
-| 失败记录 B-07 | 原文未提供价格；B 写成“免费”；人工改回“未提供” |
-| A 的成本 | 总工时 120 分钟，按 60 元/小时估值，工具 6 元；共 126 元 |
-| B 的成本 | 总工时 100 分钟，同样估值，工具 8 元；共 108 元 |
-| 决定 | 保留当前范围；B 先修复，不扩大使用 |
-| 下一步 | 加入缺价、价格过期、价格冲突案例，同时重跑此前合格案例 |
-| 证据限制 | 小样本且每例一次；不能推断线上错误率；修订后正确不等于自主可靠 |
+| Thay đổi trong vòng này | Chỉ sửa lời nhắc trích xuất, tài liệu và công cụ giữ nguyên |
+| Điều kiện bắt buộc | Các con số quan trọng phải có nguồn; không được suy đoán giá bị thiếu |
+| Ghi chép lỗi B-07 | Văn bản gốc không cung cấp giá; B viết thành “miễn phí”; con người sửa lại thành “không cung cấp” |
+| Chi phí của A | Tổng thời gian làm việc 120 phút, định giá theo mức 60 nhân dân tệ/giờ, công cụ 6 nhân dân tệ; tổng cộng 126 nhân dân tệ |
+| Chi phí của B | Tổng thời gian làm việc 100 phút, định giá tương tự, công cụ 8 nhân dân tệ; tổng cộng 108 nhân dân tệ |
+| Quyết định | Giữ nguyên phạm vi hiện tại; trước tiên khắc phục B, chưa mở rộng sử dụng |
+| Bước tiếp theo | Bổ sung các trường hợp thiếu giá, giá đã hết hiệu lực và giá mâu thuẫn, đồng thời chạy lại các trường hợp trước đó đã đạt yêu cầu |
+| Hạn chế của bằng chứng | Mẫu nhỏ và mỗi trường hợp chỉ chạy một lần; không thể suy ra tỷ lệ lỗi khi vận hành trực tuyến; đúng sau khi chỉnh sửa không đồng nghĩa với đáng tin cậy một cách tự chủ |
 
-把实际结果保存在可复查的文件中。记录“已完成”时，附上文件、测试输出或系统状态，而不只贴模型的完成声明。
+Lưu kết quả thực tế trong các tệp có thể kiểm tra lại. Khi ghi “đã hoàn thành”, hãy đính kèm tệp, đầu ra kiểm thử hoặc trạng thái hệ thống, thay vì chỉ dán tuyên bố hoàn thành của mô hình.
 
-## 从记录到行动
+## Từ ghi chép đến hành động
 
-一轮只修复一个主要错误模式，并检查旧案例是否退步。流程仍不清楚时回到 [AI 任务简报](ai-task-brief.md)；项目准备对外服务时，再填写 [创业实验卡](startup-experiment.md)，分别验证结果质量与真实需求。
+Mỗi vòng chỉ khắc phục một kiểu lỗi chính và kiểm tra xem các trường hợp cũ có bị suy giảm hay không. Khi quy trình vẫn chưa rõ ràng, hãy quay lại [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md); khi dự án sẵn sàng cung cấp dịch vụ ra bên ngoài, hãy điền [Thẻ thử nghiệm khởi nghiệp](startup-experiment.md), lần lượt xác minh chất lượng kết quả và nhu cầu thực tế.

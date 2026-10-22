@@ -1,54 +1,54 @@
 ---
-title: 到底该不该扶老人
-description: 一篇记录两次帮助老人经历的 2016 年个人文章，结论被限定为量力而行而非普遍概率。
+title: Rốt cuộc có nên đỡ người già không
+description: Một bài viết cá nhân năm 2016 ghi lại hai lần giúp đỡ người già, với kết luận giới hạn ở việc tùy sức mà làm, chứ không phải xác suất chung.
 updated: 2026-09-01
 ---
 
-# 到底该不该扶老人
+# Rốt cuộc có nên đỡ người già không
 
-**编者说明（2026-08-31）：** 以下是个人经历，不是急救、法律或风险概率指南。遇到现实中的突发情况，请先保护自己与对方，联系当地急救或专业人员，不要把“我当时没有被讹”推导成普遍结论。
+**Ghi chú của biên tập viên (2026-08-31):** Dưới đây là trải nghiệm cá nhân, không phải hướng dẫn về sơ cứu, pháp luật hay xác suất rủi ro. Khi gặp tình huống khẩn cấp ngoài đời, trước hết hãy bảo vệ bản thân và đối phương, liên hệ với cấp cứu hoặc nhân viên chuyên môn tại địa phương; đừng suy luận từ việc “lúc đó tôi không bị đổ oan” thành một kết luận chung.
 
-> 原文日期：2016-04-24（按可恢复的 Wayback 快照标注）
-> 归档来源：原 Wayback Machine 快照当前返回 404；本页保留仓库中的历史文本，不把失效地址当作可复查证据。
+> Ngày bản gốc: 2016-04-24 (được ghi theo bản lưu Wayback có thể khôi phục)
+> Nguồn lưu trữ: Bản lưu gốc trên Wayback Machine hiện trả về lỗi 404; trang này giữ lại văn bản lịch sử trong kho lưu trữ, không coi địa chỉ đã mất hiệu lực là bằng chứng có thể kiểm chứng.
 
-这是一个很有争议的话题，我只谈谈我个人的做法。
+Đây là một chủ đề gây nhiều tranh cãi, tôi chỉ muốn kể về cách làm của cá nhân mình.
 
-## 栗子一：去医院
+## Ví dụ một: Đưa đến bệnh viện
 
-上一次回老家，早上带老妈去买菜，在一家卖活鱼店的门口，遇见了一位鼻子突然大出血的老人。开始我不知道怎么回事，直到老人跌跌撞撞的走到我的面前，问我医院怎么走。我看到他捂着鼻子的纸已经开始滴血，我的第一反应只是给他指了医院的方向，不远，600米左右。
+Lần trước về quê, buổi sáng tôi đưa mẹ đi mua thức ăn. Trước cửa một cửa hàng bán cá sống, tôi gặp một ông cụ đột nhiên bị chảy máu mũi rất nhiều. Ban đầu tôi không biết chuyện gì xảy ra, cho đến khi ông loạng choạng đi đến trước mặt tôi và hỏi đường đến bệnh viện. Tôi thấy mảnh giấy ông bịt mũi đã bắt đầu nhỏ máu. Phản ứng đầu tiên của tôi chỉ là chỉ hướng bệnh viện cho ông, cũng không xa, khoảng 600 mét.
 
-当他迈出第一步的时候他差点摔倒在地上，我立马意识到这可不行。这附近全是卖鱼的，路面很滑，很容易摔倒，加上老人鼻子出血需要昂着头，发生意外的几率更大。
+Khi ông bước bước đầu tiên, ông suýt ngã xuống đất. Tôi lập tức nhận ra thế này không ổn. Khu vực xung quanh toàn là hàng bán cá, mặt đường rất trơn, rất dễ ngã; hơn nữa ông cụ đang chảy máu mũi cần phải ngẩng đầu lên, khả năng xảy ra sự cố càng cao.
 
-我赶忙追上去，扶起他，在过十字路口的时候，一辆大卡车经过，老人迷迷糊糊直往前走，差点带着我一起去撞卡车。此时的老人很激动，喊着让我救他，直接去抢救，说先把自己抢救活了再说。看着老人颤抖着倒在我的怀里，我也开始紧张起来，我在心里默念救人要紧，救人要紧。
+Tôi vội đuổi theo, đỡ ông dậy. Khi băng qua ngã tư, một chiếc xe tải lớn chạy qua, ông cụ mơ màng cứ đi thẳng về phía trước, suýt kéo cả tôi lao vào xe tải. Lúc này ông cụ vô cùng kích động, kêu tôi cứu ông, đưa thẳng ông đi cấp cứu, nói trước hết cứ cứu sống mình đã rồi tính. Nhìn ông run rẩy ngã vào lòng mình, tôi cũng bắt đầu căng thẳng. Tôi thầm nhủ: cứu người quan trọng, cứu người quan trọng.
 
-我妈也跟了上来，帮老人的手提袋拿着。我抱着老爷爷，快速往医院走。直奔急诊室。
+Mẹ tôi cũng đi theo, giúp xách túi đồ của ông. Tôi ôm ông cụ, nhanh chóng đi về phía bệnh viện, thẳng đến phòng cấp cứu.
 
-电梯里，老人的心跳非常快，每一声，我都感受的真真切切。在那个瞬间，我有些描述不出来的触动。
+Trong thang máy, tim ông cụ đập rất nhanh, từng nhịp tôi đều cảm nhận rõ mồn một. Khoảnh khắc đó, tôi có một sự xúc động khó diễn tả.
 
-可笑的是，急诊室的医生并没有像我期待的那样先安抚老人的情绪然后实施救治，张口就是“不要对着我说话，别把血溅到我身上！”，让老人冷静不要害怕等这些工作交给了我，我对这位医生不作评价。
+Điều đáng buồn cười là bác sĩ ở phòng cấp cứu không hề trấn an tinh thần ông cụ rồi tiến hành điều trị như tôi mong đợi, mà vừa mở miệng đã nói: “Đừng nói chuyện hướng vào tôi, đừng để máu bắn lên người tôi!”. Việc bảo ông cụ bình tĩnh, đừng sợ hãi và những việc tương tự đều giao cho tôi. Tôi không đưa ra nhận xét về vị bác sĩ này.
 
-后来老人顺利脱险，我离开时他也再三感谢。
+Sau đó ông cụ thuận lợi qua khỏi nguy hiểm. Khi tôi rời đi, ông cũng cảm ơn tôi hết lần này đến lần khác.
 
-## 栗子二：桥上相遇
+## Ví dụ hai: Gặp nhau trên cầu
 
-几年前，我在去公园的桥上遇到一个老人摔倒，我赶忙上前扶他起来。结果老爷爷是个乞丐，我心想，这下坏了！
+Vài năm trước, trên cây cầu đi đến công viên, tôi gặp một ông cụ bị ngã. Tôi vội chạy tới đỡ ông dậy. Kết quả ông cụ là một người ăn xin, tôi thầm nghĩ: Thế này thì rắc rối rồi!
 
-老爷爷没有讹我，而是非常感激，但是，他抓着我的手，不让我走。这个很尴尬的场面，我怎么说也得做点什么，缓解一下局面，也是我就和老爷爷拉家常，问他住在哪里。
+Ông cụ không đổ oan cho tôi mà còn vô cùng cảm kích, nhưng ông nắm tay tôi không cho tôi đi. Trong tình cảnh khá khó xử ấy, đằng nào tôi cũng phải làm gì đó để giảm bớt sự lúng túng. Thế là tôi trò chuyện thân mật với ông cụ, hỏi ông sống ở đâu.
 
-老人说自己是安徽人流落到此身无分文需要帮助，并从怀了掏出了一个皮夹，鳄鱼牌，说他身份证就在里面。我拿起身份证一看，好在我识字，身份证上写的明明是本地人（我老家）。
+Ông cụ nói mình là người An Huy, lưu lạc đến đây, không có một xu dính túi và cần được giúp đỡ. Ông lấy từ trong áo ra một chiếc ví da hiệu Cá Sấu, nói rằng chứng minh thư của ông ở trong đó. Tôi cầm chứng minh thư lên xem. May là tôi biết chữ, trên chứng minh thư ghi rõ ông là người địa phương (quê tôi).
 
-于是我也掏出了我的皮夹，淘宝山寨无名品牌，并告知老人他的皮夹可是名牌！然后老人跟我谈天说地，分享自己行乞的原因还有一些趣事...这导致我后来遇到了一位老奶奶问我要钱时，我就跟他讲了一些诸如“是不是儿子不孝顺？是不是儿媳妇给你罪受？是不是闲着无聊不如赚点钱？”等话，老奶奶笑的合不拢嘴，我请她喝了一杯奶茶，并跟她说我们年轻人也很不容易，巴拉巴拉一大堆。之后我多次见到她，每次她都会热情地跟我打招呼，说几句简单的问好。
+Thế là tôi cũng lấy ví của mình ra, một chiếc ví hàng nhái thương hiệu vô danh mua trên Taobao, rồi nói với ông cụ rằng ví của ông đúng là hàng hiệu! Sau đó ông cụ trò chuyện với tôi đủ chuyện trên trời dưới đất, chia sẻ lý do mình phải đi ăn xin cùng một số chuyện thú vị... Điều này khiến về sau, khi gặp một bà cụ hỏi xin tiền, tôi liền nói với bà những câu như “Có phải con trai không hiếu thảo không? Có phải con dâu gây khó dễ cho bà không? Có phải rảnh rỗi quá, chi bằng kiếm chút tiền không?” Bà cụ cười tươi đến mức không khép miệng lại được. Tôi mời bà uống một cốc trà sữa, rồi nói với bà rằng người trẻ chúng tôi cũng rất vất vả, kể lể đủ thứ. Sau đó tôi nhiều lần gặp lại bà, lần nào bà cũng nhiệt tình chào tôi và nói vài câu hỏi thăm đơn giản.
 
-上面两个例子里，我都没有被讹。这只能说明我的个人经历，不能据此推算普遍概率。我写这篇博客并不是想表达道德优越感，主要想说明：我们自己也会变老，不希望有人摔倒后无人帮助。当一个生命需要你的支持时，你会感受到不一样的责任。
+Trong hai ví dụ trên, tôi đều không bị đổ oan. Điều này chỉ cho thấy trải nghiệm cá nhân của tôi, không thể dùng để suy ra xác suất chung. Tôi viết bài blog này không phải để thể hiện sự vượt trội về đạo đức, mà chủ yếu muốn nói rằng: rồi chính chúng ta cũng sẽ già đi, và không ai mong muốn sau khi ngã xuống lại không được ai giúp đỡ. Khi một sinh mạng cần sự hỗ trợ của bạn, bạn sẽ cảm nhận được một trách nhiệm khác biệt.
 
-很简单的总结就是：量力而行，能帮就帮。遇到紧急情况时，先确保双方安全，联系当地急救，不做超出自己训练范围的处置。
+Tóm lại rất đơn giản: tùy sức mà làm, có thể giúp thì hãy giúp. Khi gặp tình huống khẩn cấp, trước hết hãy bảo đảm an toàn cho cả hai bên, liên hệ với cấp cứu địa phương, không xử lý vượt quá phạm vi được đào tạo của bản thân.
 
-## 原文评论
+## Bình luận về bản gốc
 
 BanYuner：
 
-> 这个得看年龄段了，大学生可能会去扶 但是如果是40岁左右的人 估计就有点不好说了
+> Còn phải xem độ tuổi nữa. Sinh viên đại học có thể sẽ đỡ, nhưng nếu là người khoảng 40 tuổi thì e rằng hơi khó nói.
 
-zb.gs 回复：
+zb.gs trả lời：
 
-> 是啊 这个只能看自身情况 但我倡导帮助老人
+> Đúng vậy, chuyện này chỉ có thể tùy vào tình hình của mỗi người, nhưng tôi ủng hộ việc giúp đỡ người già.

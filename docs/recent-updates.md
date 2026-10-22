@@ -1,6 +1,6 @@
 ---
-title: Cập nhật gần đây｜Cẩm nang nâng cấp bản thân
-description: Các cập nhật gần đây được tạo từ nhật ký thay đổi dự án và ngày rà soát trang, kết nối tiếng Anh, AI, dự án thực tế và các điểm bắt đầu thực hành.
+title: "Cập nhật gần đây｜Cẩm nang nâng cấp bản thân"
+description: "Các cập nhật gần đây được tạo từ nhật ký thay đổi dự án và ngày rà soát trang, kết nối tiếng Anh, AI, dự án thực tế và các điểm bắt đầu thực hành."
 updated: 2026-10-19
 ---
 

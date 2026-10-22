@@ -1,16 +1,16 @@
 ---
-title: 九十日行动总表
-description: 把真实目标、基线、每周主问题、四项能力证据、恢复协议和最终交付放进同一张周期工作表。
+title: "Bảng tổng hợp hành động 90 ngày"
+description: "Đưa mục tiêu thực tế, đường cơ sở, câu hỏi trọng tâm hằng tuần, bằng chứng về bốn năng lực, giao thức phục hồi và sản phẩm bàn giao cuối cùng vào cùng một bảng công việc theo chu kỳ."
 updated: 2026-09-01
 ---
 
-# 九十日行动总表
+# Bảng tổng hợp hành động 90 ngày
 
-这张表用来管理一个周期，不用来证明你每天都很自律。每周只保留一个主问题，保存一项输入、一项输出和一次迁移；如果身体、工作或关系出现变化，先调整计划的重量。不要写入密码、证件、客户资料、医疗隐私或未获授权的第三方信息。
+Bảng này dùng để quản lý một chu kỳ, không dùng để chứng minh rằng bạn luôn kỷ luật mỗi ngày. Mỗi tuần chỉ giữ lại một câu hỏi trọng tâm, lưu một đầu vào, một đầu ra và một lần chuyển giao; nếu cơ thể, công việc hoặc các mối quan hệ có thay đổi, hãy điều chỉnh mức độ của kế hoạch trước tiên. Không ghi mật khẩu, giấy tờ tùy thân, thông tin khách hàng, thông tin y tế riêng tư hoặc thông tin của bên thứ ba khi chưa được cho phép vào bảng.
 
-这张表负责周期方向和阶段门槛，不负责承载所有细节：[证据链模板](evidence-chain.md)解释结果，[节律账本](rhythm-ledger.md)维护每周节奏，[学习状态](learning-state.md)负责跨会话交接。
+Bảng này phụ trách định hướng chu kỳ và các ngưỡng theo giai đoạn, không phụ trách chứa mọi chi tiết: [mẫu chuỗi bằng chứng](evidence-chain.md)giải thích kết quả, [sổ cái nhịp điệu](rhythm-ledger.md)duy trì nhịp độ hằng tuần, [trạng thái học tập](learning-state.md)phụ trách bàn giao giữa các phiên.
 
-## 1. 周期承诺
+## 1. Cam kết chu kỳ
 
 ```markdown
 # 90-Day Cycle — YYYY-MM-DD to YYYY-MM-DD
@@ -23,30 +23,30 @@ updated: 2026-09-01
 必须减少或暂停的事情：
 ```
 
-## 2. 第一天基线
+## 2. Đường cơ sở ngày đầu tiên
 
-| 项目 | 当前证据 | 最大阻碍 | 计划处理 |
+| Hạng mục | Bằng chứng hiện tại | Trở ngại lớn nhất | Cách xử lý theo kế hoạch |
 | --- | --- | --- | --- |
-| 能独立完成什么 | | | |
-| 在什么场景会使用 | | | |
-| 可用材料、工具和同伴 | | | |
-| 睡眠、精力和责任边界 | | | |
+| Có thể tự mình hoàn thành việc gì | | | |
+| Sẽ sử dụng trong tình huống nào | | | |
+| Tài liệu, công cụ và người đồng hành có thể sử dụng | | | |
+| Giấc ngủ, năng lượng và ranh giới trách nhiệm | | | |
 
-基线应留下一个未经 AI 代做的样本：录音、短文、阅读重构、代码、演示或真实沟通记录。
+Đường cơ sở nên lưu lại một mẫu chưa được AI làm thay: bản ghi âm, bài viết ngắn, bản tái cấu trúc nội dung đọc, mã nguồn, bài thuyết trình hoặc ghi chép giao tiếp thực tế.
 
-## 3. 三个阶段的门槛
+## 3. Các ngưỡng của ba giai đoạn
 
-| 阶段 | 日期 | 必须回答的问题 | 进入下一阶段的证据 |
+| Giai đoạn | Ngày | Câu hỏi bắt buộc phải trả lời | Bằng chứng để bước sang giai đoạn tiếp theo |
 | --- | --- | --- | --- |
-| 校准 | 第 1–14 天 | 我究竟在练什么，最大瓶颈是什么？ | 一份基线、三个错误类别、一个稳定时段 |
-| 堆叠 | 第 15–56 天 | 哪个动作在什么条件下开始稳定？ | 至少四次可比较输出和一次外部反馈 |
-| 交付 | 第 57–90 天 | 新听众、主题或真实用户是否仍然能用？ | 独立版、修订版和真实交付版 |
+| Hiệu chỉnh | Ngày 1–14 | Rốt cuộc tôi đang luyện gì, và nút thắt lớn nhất là gì? | Một đường cơ sở, ba loại lỗi, một khung giờ ổn định |
+| Tích lũy | Ngày 15–56 | Hành động nào bắt đầu ổn định trong điều kiện nào? | Ít nhất bốn đầu ra có thể so sánh và một lần phản hồi bên ngoài |
+| Bàn giao | Ngày 57–90 | Người nghe, chủ đề hoặc người dùng thực tế mới liệu vẫn có thể sử dụng được không? | Phiên bản độc lập, phiên bản đã chỉnh sửa và phiên bản bàn giao thực tế |
 
-如果门槛没有证据，不要自动升级难度；先缩小任务或修复前置知识。
+Nếu không có bằng chứng cho ngưỡng, đừng tự động tăng độ khó; trước tiên hãy thu nhỏ nhiệm vụ hoặc khắc phục kiến thức nền tảng.
 
-## 4. 十二周主问题
+## 4. Câu hỏi trọng tâm trong mười hai tuần
 
-| 周次 | 本周只回答一个问题 | 输入证据 | 输出证据 | 反馈/迁移 |
+| Tuần | Tuần này chỉ trả lời một câu hỏi | Bằng chứng đầu vào | Bằng chứng đầu ra | Phản hồi/chuyển giao |
 | --- | --- | --- | --- | --- |
 | 1 | | | | |
 | 2 | | | | |
@@ -61,17 +61,17 @@ updated: 2026-09-01
 | 11 | | | | |
 | 12 | | | | |
 
-主问题要写成可观察的句子，例如“我能否在没有稿件的情况下，用英语说明项目风险并处理一个追问？”不要写“本周变得更好”。
+Câu hỏi trọng tâm cần được viết thành một câu có thể quan sát, chẳng hạn: “Tôi có thể trình bày rủi ro của dự án bằng tiếng Anh và xử lý một câu hỏi tiếp nối khi không có kịch bản hay không?” Đừng viết “Tuần này trở nên tốt hơn”.
 
-## 5. 证据链
+## 5. Chuỗi bằng chứng
 
-| 日期 | 使用的证据卡/工具 | 保留的位置 | 结果或错误 | 下一变量 |
+| Ngày | Thẻ bằng chứng/công cụ đã sử dụng | Vị trí lưu giữ | Kết quả hoặc lỗi | Biến số tiếp theo |
 | --- | --- | --- | --- | --- |
-| | 听力 / 阅读 / 口语 / 写作 / 生活进阶 | | | |
+| | Nghe / Đọc / Nói / Viết / Tiến bộ trong cuộc sống | | | |
 
-聊天记录、播放时长和打卡截图只能作为过程痕迹。关键判断应回到作品、录音、读者/用户反馈和新条件下的表现；需要完整比较四个时间点时，使用[证据链模板](evidence-chain.md)。
+Lịch sử trò chuyện, thời lượng phát và ảnh chụp màn hình điểm danh chỉ có thể được dùng làm dấu vết quá trình. Những phán đoán then chốt cần quay lại với sản phẩm, bản ghi âm, phản hồi của độc giả/người dùng và biểu hiện trong điều kiện mới; khi cần so sánh đầy đủ bốn thời điểm, hãy sử dụng[mẫu chuỗi bằng chứng](evidence-chain.md)。
 
-## 6. 中断与恢复协议
+## 6. Giao thức gián đoạn và phục hồi
 
 ```markdown
 中断事实（不做人格判断）：
@@ -82,9 +82,9 @@ updated: 2026-09-01
 重新检查日期：
 ```
 
-不熬夜偿还缺席，不用一次失败重写九十天。连续三次出现同一阻力时，先在[节律账本](rhythm-ledger.md)记录容量和阻力，再改变系统条件，而不是只要求自己更用力。
+Đừng thức khuya để bù cho những lần vắng mặt, cũng đừng dùng một lần thất bại để viết lại 90 ngày. Khi cùng một trở lực xuất hiện ba lần liên tiếp, trước tiên hãy ghi lại năng lực và trở lực trong [sổ cái nhịp điệu](rhythm-ledger.md), sau đó thay đổi điều kiện của hệ thống, thay vì chỉ yêu cầu bản thân cố gắng hơn.
 
-## 7. 第九十天复盘
+## 7. Tổng kết ngày thứ chín mươi
 
 ```markdown
 最终交付：
@@ -96,4 +96,4 @@ updated: 2026-09-01
 下一周期停止的一个入口：
 ```
 
-相关章节：[行动篇：九十天，把生活交还给自己](../threads/part-5/90-day-plan.md) ｜ [证据链模板](evidence-chain.md) ｜ [节律账本](rhythm-ledger.md)
+Các chương liên quan: [Phần hành động: 90 ngày, trao trả cuộc sống cho chính mình](../threads/part-5/90-day-plan.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md) ｜ [Sổ cái nhịp điệu](rhythm-ledger.md)

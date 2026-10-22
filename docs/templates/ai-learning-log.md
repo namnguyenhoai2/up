@@ -1,14 +1,14 @@
 ---
-title: AI 学习记录：从工具协作到独立能力
-description: 记录 AI 学习切片的真实任务、无 AI 基线、工具范围、来源核验、主动产出、延迟复测、迁移和下一周期决定。
+title: "Nhật ký học tập với AI: Từ phối hợp với công cụ đến năng lực độc lập"
+description: "Ghi lại các nhiệm vụ thực tế trong từng lát cắt học tập với AI, đường cơ sở không dùng AI, phạm vi công cụ, kiểm chứng nguồn, sản phẩm chủ động, kiểm tra lại sau một khoảng thời gian, khả năng chuyển giao và quyết định cho chu kỳ tiếp theo."
 updated: 2026-10-16
 ---
 
-# AI 学习记录：从工具协作到独立能力
+# Nhật ký học tập với AI: Từ phối hợp với công cụ đến năng lực độc lập
 
-每次只记录一个可检查的学习切片。AI 生成的摘要、评分和解释不是事实来源；原始材料、自己的首版、实际作品和真实反馈才是证据。不要把学习记录写成“我和模型聊了什么”，而要写成“工具退出后，我还能独立完成什么”。
+Mỗi lần chỉ ghi lại một lát cắt học tập có thể kiểm tra. Tóm tắt, điểm số và lời giải thích do AI tạo ra không phải là nguồn sự thật; tài liệu gốc, bản đầu tiên do chính mình thực hiện, sản phẩm thực tế và phản hồi thực đều là bằng chứng. Đừng biến nhật ký học tập thành “tôi đã trò chuyện gì với mô hình”, mà hãy viết thành “sau khi công cụ rút lui, tôi vẫn có thể độc lập hoàn thành điều gì”.
 
-## 1. 任务与起点
+## 1. Nhiệm vụ và điểm xuất phát
 
 ```markdown
 # AI Learning Log - YYYY-MM-DD
@@ -22,7 +22,7 @@ updated: 2026-10-16
 隐私、版权、考试与责任边界：
 ```
 
-## 2. 无 AI 基线
+## 2. Đường cơ sở không dùng AI
 
 ```markdown
 独立尝试的开始/结束时间：
@@ -32,9 +32,9 @@ updated: 2026-10-16
 当时的信心（0-2）：
 ```
 
-不要先让 AI 写答案再把它叫作起点。若任务本身允许查词或看文档，记录允许的帮助；基线的价值是说明你在这些条件下独立能做什么。
+Đừng để AI viết câu trả lời trước rồi gọi đó là điểm xuất phát. Nếu bản thân nhiệm vụ cho phép tra từ hoặc xem tài liệu, hãy ghi lại những hỗ trợ được phép; giá trị của đường cơ sở là cho thấy trong những điều kiện đó, bạn có thể độc lập làm được gì.
 
-## 3. 约定 AI 只做什么
+## 3. Thống nhất AI chỉ làm gì
 
 ```markdown
 模型 / 版本 / 日期：
@@ -50,13 +50,13 @@ AI 不可以做：
 不会传入的字段或文件：
 ```
 
-每轮只推进一个切片。先让模型指出缺口、假设、来源和不确定性，不先请求整段代做。
+Mỗi vòng chỉ thúc đẩy một lát cắt. Trước tiên hãy để mô hình chỉ ra những thiếu sót, giả định, nguồn và điều chưa chắc chắn; đừng yêu cầu nó làm thay cả đoạn ngay từ đầu.
 
-## 4. 交互与来源核验
+## 4. Tương tác và kiểm chứng nguồn
 
-| 回合 | 我的问题/动作 | 模型建议 | 建议类型 | 来源/不确定性 | 我的决定 |
+| Lượt | Câu hỏi/hành động của tôi | Đề xuất của mô hình | Loại đề xuất | Nguồn/điều chưa chắc chắn | Quyết định của tôi |
 | --- | --- | --- | --- | --- | --- |
-| | | | 解释 / 追问 / 候选 / 反馈 / 代码 / 其他 | | 采纳 / 部分 / 拒绝 / 待核验 |
+| | | | Giải thích / hỏi thêm / phương án / phản hồi / mã / khác | | Chấp nhận / một phần / từ chối / chờ kiểm chứng |
 
 ```markdown
 我核对过的原始来源：
@@ -67,9 +67,9 @@ AI 不可以做：
 哪些建议只改变了表面表达：
 ```
 
-来源、事实、权限、隐私和最终判断由人确认。模型说得自信不提高证据等级。
+Con người xác nhận nguồn, sự thật, quyền hạn, quyền riêng tư và phán đoán cuối cùng. Việc mô hình nói một cách tự tin không làm tăng cấp độ bằng chứng.
 
-## 5. 关闭 AI 后主动产出
+## 5. Sản phẩm chủ động sau khi tắt AI
 
 ```markdown
 关闭 AI 的时间：
@@ -80,29 +80,29 @@ AI 不可以做：
 测试、读者/用户反馈或运行结果：
 ```
 
-## 6. 三次对照
+## 6. Đối chiếu ba lần
 
-| 样本 | 条件 | 任务/质量 | 用时 | 返工 | 信心 | 证据位置 |
+| Mẫu | Điều kiện | Nhiệm vụ/chất lượng | Thời gian | Làm lại | Mức độ tự tin | Vị trí bằng chứng |
 | --- | --- | --- | ---: | ---: | ---: | --- |
-| 无 AI 基线 | | | | | | |
-| AI 辅助版 | | | | | | |
-| 延迟独立版（3-7 天） | | | | | | |
-| 平行任务版（换条件） | | | | | | |
+| Đường cơ sở không dùng AI | | | | | | |
+| Phiên bản có AI hỗ trợ | | | | | | |
+| Phiên bản độc lập sau một khoảng thời gian (3-7 ngày) | | | | | | |
+| Phiên bản nhiệm vụ song song (thay đổi điều kiện) | | | | | | |
 
-| 结果 | 更谨慎的解释 |
+| Kết quả | Cách giải thích thận trọng hơn |
 | --- | --- |
-| 辅助版和独立版都改善 | 可能形成了可撤掉的支架，仍需更多迁移 |
-| 只有辅助版改善 | 成品改善，关键步骤可能被外包 |
-| 时间变短但返工增多 | 速度换来了速度债 |
-| 信心上升但事实/测试下降 | 先校准判断，再增加工具权限 |
+| Cả phiên bản có hỗ trợ và phiên bản độc lập đều cải thiện | Có thể đã hình thành một giàn giáo có thể tháo bỏ, nhưng vẫn cần chuyển giao thêm |
+| Chỉ phiên bản có hỗ trợ cải thiện | Sản phẩm hoàn thiện được cải thiện, nhưng các bước then chốt có thể đã bị thuê ngoài |
+| Thời gian ngắn hơn nhưng phải làm lại nhiều hơn | Tốc độ đã tạo ra khoản nợ tốc độ |
+| Mức độ tự tin tăng nhưng sự thật/bài kiểm tra giảm | Trước tiên hãy hiệu chỉnh phán đoán, rồi mới tăng quyền hạn của công cụ |
 
-一次对照不能证明因果，但能比“AI 很有用”更清楚地记录工具贡献。
+Một lần đối chiếu không thể chứng minh quan hệ nhân quả, nhưng có thể ghi lại đóng góp của công cụ rõ ràng hơn so với câu “AI rất hữu ích”.
 
-## 7. 错误、反馈与迁移
+## 7. Lỗi, phản hồi và chuyển giao
 
-| 错误/缺口 | 样本 | 类型 | 下一次只修什么 | 平行任务结果 |
+| Lỗi/thiếu sót | Mẫu | Loại | Lần tới chỉ sửa điều gì | Kết quả nhiệm vụ song song |
 | --- | --- | --- | --- | --- |
-| | | 事实 / 词汇 / 结构 / 语法 / 策略 / 注意 / 工具依赖 | | |
+| | | Sự thật / từ vựng / cấu trúc / ngữ pháp / chiến lược / chú ý / phụ thuộc công cụ | | |
 
 ```markdown
 真实读者/用户复述或执行结果：
@@ -111,7 +111,7 @@ AI 不可以做：
 仍然只在原题成功的动作：
 ```
 
-## 8. 延迟保持与交接
+## 8. Duy trì sau một khoảng thời gian và bàn giao
 
 ```markdown
 第 1 天：撤掉了什么，独立完成什么：
@@ -125,7 +125,7 @@ AI 不可以做：
 停止或回滚条件：
 ```
 
-## 9. 下一周期决定
+## 9. Quyết định cho chu kỳ tiếp theo
 
 ```markdown
 工具真正帮助的部分：
@@ -137,4 +137,4 @@ AI 不可以做：
 下一次复查日期：
 ```
 
-相关入口：[认知篇：把努力变成可验证的学习](../threads/part-1/1-understanding.md) ｜ [AI 学习、项目开发与资源层创业](../threads/part-3/1-ai-learning.md) ｜ [AI 任务简报](ai-task-brief.md) ｜ [学习状态](learning-state.md) ｜ [证据链模板](evidence-chain.md)
+Các mục liên quan: [Bài viết về nhận thức: Biến nỗ lực thành việc học có thể kiểm chứng](../threads/part-1/1-understanding.md) ｜ [Học tập với AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](../threads/part-3/1-ai-learning.md) ｜ [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md) ｜ [Trạng thái học tập](learning-state.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

@@ -1,14 +1,14 @@
 ---
-title: 阅读证据卡：从读完摘要到真实交付
-description: 保存阅读任务、版本、首读、障碍地图、主张证据、技术事实、多来源比较、独立输出和延迟迁移，避免把页数或摘要当成理解。
+title: "Thẻ bằng chứng đọc: Từ đọc xong phần tóm tắt đến bàn giao thực tế"
+description: "Lưu lại nhiệm vụ đọc, phiên bản, lần đọc đầu tiên, bản đồ trở ngại, bằng chứng cho luận điểm, dữ kiện kỹ thuật, so sánh nhiều nguồn, sản phẩm đầu ra độc lập và việc chuyển giao sau một khoảng trì hoãn, tránh coi số trang hoặc phần tóm tắt là sự hiểu biết."
 updated: 2026-09-02
 ---
 
-# 阅读证据卡：从读完摘要到真实交付
+# Thẻ bằng chứng đọc: Từ đọc xong phần tóm tắt đến bàn giao thực tế
 
-“读完”只是一个动作，不是理解的证明。把这张卡复制到私有笔记中，每次记录一篇短文、一个章节、一个技术文档小节或一组来源。不要写入密码、客户资料、未获授权的第三方信息或不必要的隐私。
+“Đọc xong” chỉ là một hành động, không phải bằng chứng của sự hiểu biết. Hãy sao chép thẻ này vào ghi chú riêng tư và sử dụng mỗi lần ghi chép về một bài viết ngắn, một chương, một mục trong tài liệu kỹ thuật hoặc một nhóm nguồn. Không ghi mật khẩu, thông tin khách hàng, thông tin của bên thứ ba chưa được cho phép hoặc dữ liệu riêng tư không cần thiết.
 
-## 1. 定义任务、读者与边界
+## 1. Xác định nhiệm vụ, người đọc và phạm vi
 
 ```markdown
 # Reading Evidence - YYYY-MM-DD
@@ -22,22 +22,22 @@ updated: 2026-09-02
 版权、隐私与保存边界：
 ```
 
-把完成标准写成结果，例如“能在当前版本运行最小示例”，不要只写“看完”。
+Hãy viết tiêu chí hoàn thành dưới dạng kết quả, chẳng hạn như “có thể chạy ví dụ tối thiểu trên phiên bản hiện tại”, thay vì chỉ viết “đã đọc xong”.
 
-## 2. 记录来源与版本
+## 2. Ghi lại nguồn và phiên bản
 
-| 项目 | 主材料 | 平行材料 | 是否可比较 |
+| Hạng mục | Tài liệu chính | Tài liệu song song | Có thể so sánh không |
 | --- | --- | --- | --- |
-| 作者/维护者、标题、链接 | | | |
-| 版本、发布日期或章节 | | | |
-| 访问日期与文本长度 | | | |
-| 作者/机构立场或利益关系 | | | |
-| 引用、图片、代码与版权边界 | | | |
-| 主题、体裁与难度 | | | |
+| Tác giả/người duy trì, tiêu đề, liên kết | | | |
+| Phiên bản, ngày phát hành hoặc chương | | | |
+| Ngày truy cập và độ dài văn bản | | | |
+| Lập trường hoặc mối quan hệ lợi ích của tác giả/tổ chức | | | |
+| Trích dẫn, hình ảnh, mã và ranh giới bản quyền | | | |
+| Chủ đề, thể loại và độ khó | | | |
 
-网页会改版、付费或下架。保存必要的引用信息，不要未经许可复制整篇文章。
+Trang web có thể được thiết kế lại, chuyển sang hình thức trả phí hoặc gỡ xuống. Hãy lưu lại thông tin trích dẫn cần thiết, không sao chép toàn bộ bài viết khi chưa được phép.
 
-## 3. 保存未经修饰的首读
+## 3. Lưu lại lần đọc đầu tiên chưa qua chỉnh sửa
 
 ```markdown
 首读条件：
@@ -51,13 +51,13 @@ updated: 2026-09-02
 根据当前理解我会采取什么行动：
 ```
 
-先完成首读，再查词或看解释。不要用翻译后更漂亮的摘要覆盖它。
+Hãy hoàn thành lần đọc đầu tiên trước, sau đó mới tra từ hoặc xem giải thích. Đừng dùng một bản tóm tắt đẹp hơn sau khi dịch để thay thế nó.
 
-## 4. 建立六层障碍地图
+## 4. Lập bản đồ sáu lớp trở ngại
 
-| 段落/页码 | 我卡在哪里 | 障碍层 | 任务影响 | 本轮动作 |
+| Đoạn/trang | Tôi vướng ở đâu | Lớp trở ngại | Ảnh hưởng đến nhiệm vụ | Hành động trong lượt này |
 | --- | --- | --- | --- | --- |
-| | | 词汇与语法 / 结构与指向 / 背景与图式 / 论证与证据 / 版面与技术 / 注意力与容量 | 意思改变 / 任务阻断 / 高频重复 / 理解费力 / 低影响 | |
+| | | Từ vựng và ngữ pháp / Cấu trúc và quy chiếu / Bối cảnh và lược đồ / Lập luận và bằng chứng / Bố cục và kỹ thuật / Sự chú ý và dung lượng | Thay đổi ý nghĩa / Cản trở nhiệm vụ / Lặp lại thường xuyên / Khó hiểu / Ảnh hưởng thấp | |
 
 ```markdown
 最影响任务的一到三个障碍：
@@ -65,11 +65,11 @@ updated: 2026-09-02
 可能来自设备、版本、疲劳或环境的部分：
 ```
 
-若几乎每句都阻断主旨，先换更容易的平行材料或补领域词块。降低入口不等于降低目标。
+Nếu gần như câu nào cũng cản trở việc nắm bắt ý chính, trước tiên hãy đổi sang tài liệu song song dễ hơn hoặc bổ sung các cụm từ thuộc lĩnh vực. Hạ thấp ngưỡng tiếp cận không có nghĩa là hạ thấp mục tiêu.
 
-## 5. 画主张、证据与限制
+## 5. Vẽ sơ đồ luận điểm, bằng chứng và giới hạn
 
-| 段落/页码 | 段落功能 | 作者主张 | 原文证据/例子 | 限制、反例或未知 |
+| Đoạn/trang | Chức năng của đoạn | Luận điểm của tác giả | Bằng chứng/ví dụ trong nguyên văn | Giới hạn, phản ví dụ hoặc điều chưa biết |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
@@ -81,11 +81,11 @@ updated: 2026-09-02
 什么新证据会改变我的判断：
 ```
 
-把“作者说了什么”和“我是否同意”分开。技术、健康、法律或财务内容，回到可靠的一手来源或合格专业意见。
+Hãy tách biệt “tác giả đã nói gì” và “tôi có đồng ý hay không”. Đối với nội dung kỹ thuật, sức khỏe, pháp lý hoặc tài chính, hãy quay về nguồn sơ cấp đáng tin cậy hoặc ý kiến chuyên môn đủ năng lực.
 
-## 6. 技术文档事实卡
+## 6. Thẻ dữ kiện của tài liệu kỹ thuật
 
-如果材料是 API、SDK、迁移指南、命令行帮助、错误文档或 README，再补这一页：
+Nếu tài liệu là API, SDK, hướng dẫn di chuyển, phần trợ giúp dòng lệnh, tài liệu lỗi hoặc README, hãy bổ sung trang này:
 
 ```markdown
 目标与适用版本：
@@ -100,13 +100,13 @@ updated: 2026-09-02
 下一项最小测试：
 ```
 
-读完技术文档却没有运行、手算、复现或确认一个最小事实，只能说明你看过页面，不能说明已经掌握。
+Đọc xong tài liệu kỹ thuật nhưng chưa chạy, tính toán thủ công, tái hiện hoặc xác nhận một dữ kiện tối thiểu chỉ có thể cho thấy bạn đã xem trang đó, chứ không cho thấy bạn đã nắm vững nội dung.
 
-## 7. 生词、词族与翻译记录
+## 7. Ghi chép từ mới, họ từ và bản dịch
 
-| 词/表达 | 在本任务中的作用 | 查到的定义/词族/搭配 | 原文位置 | 关闭工具后能否解释 |
+| Từ/cách diễn đạt | Vai trò trong nhiệm vụ này | Định nghĩa/họ từ/cách kết hợp tra được | Vị trí trong nguyên văn | Có thể giải thích sau khi đóng công cụ không |
 | --- | --- | --- | --- | --- |
-| | 核心 / 反复 / 技术 / 低影响 | | | |
+| | Cốt lõi / Lặp lại / Kỹ thuật / Ảnh hưởng thấp | | | |
 
 ```markdown
 翻译帮助我补充的背景：
@@ -114,9 +114,9 @@ updated: 2026-09-02
 我决定暂时不查的词：
 ```
 
-未知词数量用于诊断材料难度，不直接决定水平。词族帮助猜测和覆盖率，但派生词不自动等于可用词。
+Số lượng từ chưa biết được dùng để chẩn đoán độ khó của tài liệu, không trực tiếp quyết định trình độ. Họ từ giúp đoán nghĩa và độ bao phủ, nhưng từ phái sinh không mặc nhiên đồng nghĩa với từ có thể sử dụng.
 
-## 8. 多来源比较与真实输出
+## 8. So sánh nhiều nguồn và đầu ra thực tế
 
 ```markdown
 共同问题：
@@ -126,13 +126,13 @@ updated: 2026-09-02
 哪些差异是事实，哪些是价值判断：
 ```
 
-| 输出 | 受众 | 我交付了什么 | 对方如何回应 | 依据是否可追溯 |
+| Đầu ra | Đối tượng | Tôi đã bàn giao gì | Đối phương phản hồi thế nào | Căn cứ có thể truy xuất không |
 | --- | --- | --- | --- | --- |
-| 确认邮件 / 最小测试 / 口头解释 / 决策备忘 / 交接 | | | | |
+| Email xác nhận / Bài kiểm tra tối thiểu / Giải thích bằng lời / Bản ghi nhớ quyết định / Bàn giao | | | | |
 
-完成阅读之后，优先让读者、代码、决定或下一项任务检验你的理解。
+Sau khi hoàn thành việc đọc, hãy ưu tiên để người đọc, mã, quyết định hoặc nhiệm vụ tiếp theo kiểm tra mức độ hiểu của bạn.
 
-## 9. 记录工具与反馈
+## 9. Ghi lại công cụ và phản hồi
 
 ```markdown
 工具 / 反馈者 / 版本与日期：
@@ -143,16 +143,16 @@ updated: 2026-09-02
 我采纳 / 拒绝什么，为什么：
 ```
 
-AI 可以提取候选术语、提问结构和生成平行任务，但可能编造摘要、引用、背景与作者意图。先保留自己的首读，再请求定位原文。
+AI có thể trích xuất các thuật ngữ ứng viên, cấu trúc câu hỏi và tạo ra các nhiệm vụ song song, nhưng cũng có thể bịa ra phần tóm tắt, trích dẫn, bối cảnh và ý định của tác giả. Trước tiên hãy giữ lại lần đọc đầu tiên của mình, sau đó yêu cầu xác định vị trí trong nguyên văn.
 
-## 10. 做延迟保持与迁移
+## 10. Thực hiện ghi nhớ sau một khoảng trì hoãn và chuyển giao
 
-| 日期 | 撤掉什么 | 改变的条件 | 输出 | 结果 |
+| Ngày | Loại bỏ gì | Điều kiện thay đổi | Đầu ra | Kết quả |
 | --- | --- | --- | --- | --- |
-| 第 1 天 | 不用完整翻译或 AI 摘要 | 主材料 | 首读与五句重构 | |
-| 第 3-7 天 | 撤掉旧笔记与词典 | 平行材料 | 主旨、证据、推断 | |
-| 第 14 天 | 撤掉最近反馈 | 新主题或新体裁 | 解释、测试或决策备忘 | |
-| 第 30 天 | 关闭全部提示 | 真实文档、报告或交接 | 完整交付 | |
+| Ngày 1 | Không dùng bản dịch đầy đủ hoặc bản tóm tắt AI | Tài liệu chính | Lần đọc đầu tiên và tái cấu trúc thành năm câu | |
+| Ngày 3-7 | Loại bỏ ghi chú cũ và từ điển | Tài liệu song song | Ý chính, bằng chứng, suy luận | |
+| Ngày 14 | Loại bỏ phản hồi gần nhất | Chủ đề hoặc thể loại mới | Giải thích, bài kiểm tra hoặc bản ghi nhớ quyết định | |
+| Ngày 30 | Tắt toàn bộ gợi ý | Tài liệu, báo cáo hoặc bàn giao thực tế | Bàn giao đầy đủ | |
 
 ```markdown
 七天后仍能保留的方法：
@@ -162,18 +162,18 @@ AI 可以提取候选术语、提问结构和生成平行任务，但可能编�
 下一轮只改变的变量：
 ```
 
-## 11. 评分与去留
+## 11. Chấm điểm và quyết định tiếp tục hay dừng
 
-每项 0-2：`0=未完成`，`1=依赖提示或不稳定`，`2=当前条件下完成`。
+Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
 
-| 项目 | 第 1 天 | 第 7 天 | 第 14 天 | 证据理由 |
+| Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | --- |
-| 首读保留主线 | | | | |
-| 能区分主张、证据与推断 | | | | |
-| 能定位障碍层并选择动作 | | | | |
-| 能核验技术事实或来源位置 | | | | |
-| 合上工具后能重构 | | | | |
-| 换材料、主题或体裁后仍能交付 | | | | |
+| Giữ được mạch chính qua lần đọc đầu tiên | | | | |
+| Có thể phân biệt luận điểm, bằng chứng và suy luận | | | | |
+| Có thể xác định lớp trở ngại và chọn hành động | | | | |
+| Có thể kiểm chứng dữ kiện kỹ thuật hoặc vị trí nguồn | | | | |
+| Có thể tái cấu trúc sau khi đóng công cụ | | | | |
+| Vẫn có thể bàn giao sau khi đổi tài liệu, chủ đề hoặc thể loại | | | | |
 
 ```markdown
 当前证据支持：继续主材料 / 降级为泛读 / 更换材料 / 转向另一问题
@@ -183,4 +183,4 @@ AI 可以提取候选术语、提问结构和生成平行任务，但可能编�
 下一次复查日期：
 ```
 
-相关章节：[阅读篇：从逐词翻译到观点与证据](../threads/part-1/4-reading.md) ｜ [词汇篇](../threads/part-1/2-vocabulary.md) ｜ [语法篇](../threads/part-1/grammar.md) ｜ [听力篇](../threads/part-1/3-listening.md) ｜ [用 AI 学英语](../threads/part-1/7-ai.md) ｜ [证据链模板](evidence-chain.md)
+Các chương liên quan: [Chuyên đề đọc: Từ dịch từng từ đến quan điểm và bằng chứng](../threads/part-1/4-reading.md) ｜ [Chuyên đề từ vựng](../threads/part-1/2-vocabulary.md) ｜ [Chuyên đề ngữ pháp](../threads/part-1/grammar.md) ｜ [Chuyên đề nghe](../threads/part-1/3-listening.md) ｜ [Học tiếng Anh bằng AI](../threads/part-1/7-ai.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

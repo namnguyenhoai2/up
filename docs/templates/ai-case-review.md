@@ -1,12 +1,12 @@
 ---
-title: AI 经历案例复盘模板
-description: 把韩先凯或其他公开经历拆成事实、判断、证据、结果、失败原因和可迁移原则，避免把故事写成成功学。
+title: "Mẫu nhìn lại trường hợp trải nghiệm AI"
+description: "Tách các trải nghiệm công khai của Hàn Tiên Khải hoặc những người khác thành sự thật, nhận định, bằng chứng, kết quả, nguyên nhân thất bại và các nguyên tắc có thể áp dụng rộng rãi, tránh biến câu chuyện thành bài học thành công."
 updated: 2026-08-24
 ---
 
-# AI 经历案例复盘模板
+# Mẫu nhìn lại trường hợp trải nghiệm AI
 
-只使用本人公开文章、官方页面或明确授权材料。第三方叙事不能单独证明能力、收入或项目效果。
+Chỉ sử dụng các bài viết công khai, trang chính thức hoặc tài liệu được cấp phép rõ ràng của chính người đó. Tường thuật của bên thứ ba không thể tự mình chứng minh năng lực, thu nhập hoặc hiệu quả của dự án.
 
 ```markdown
 # AI Case Review — YYYY-MM-DD

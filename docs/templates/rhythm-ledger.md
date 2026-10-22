@@ -1,18 +1,18 @@
 ---
-title: 节律账本模板
-description: 每周记录主问题、不同容量下的最小动作、有效反馈、重复阻力与下一项条件调整，让成长节律可复查、可降档、可回归。
+title: "Mẫu sổ theo dõi nhịp độ"
+description: "Mỗi tuần ghi lại vấn đề chính, hành động tối thiểu ở các mức năng lượng khác nhau, phản hồi hữu ích, những trở lực lặp lại và điều chỉnh điều kiện cho lần tiếp theo, để nhịp độ phát triển có thể được xem xét lại, hạ mức và quay lại."
 updated: 2026-09-19
 ---
 
-# 节律账本模板
+# Mẫu sổ theo dõi nhịp độ
 
-把这张账本复制到自己的私有笔记，每周使用一页。它不是连续打卡表，也不是给自己评分的仪表盘；它只帮助你看见：什么动作值得保留，什么阻力需要改变条件，以及中断后怎样回来。
+Hãy sao chép cuốn sổ này vào ghi chú riêng của bạn và sử dụng một trang mỗi tuần. Đây không phải là bảng điểm danh liên tục, cũng không phải bảng điều khiển để tự chấm điểm; nó chỉ giúp bạn nhìn thấy: hành động nào đáng được giữ lại, trở lực nào cần thay đổi điều kiện, và sau khi gián đoạn thì làm thế nào để quay lại.
 
-如果账本已经指出一个卡点，可参考 [自律与坚持实操](../threads/practice/discipline-and-consistency.md) 中的排查表和两个案例，再用 [持续行动计划](consistency-plan.md) 单独设计一次改动与验收。实验卡补充这一页账本，完成后把结论记回“本周决定”，不必另外维护一套日程。
+Nếu cuốn sổ đã chỉ ra một điểm mắc, bạn có thể tham khảo bảng kiểm tra và hai trường hợp trong [Thực hành tự kỷ luật và kiên trì](../threads/practice/discipline-and-consistency.md), sau đó dùng [Kế hoạch hành động bền bỉ](consistency-plan.md) để thiết kế riêng một thay đổi và cách nghiệm thu. Phiếu thí nghiệm bổ sung cho trang sổ này; sau khi hoàn tất, hãy ghi kết luận trở lại vào “Quyết định trong tuần”, không cần duy trì thêm một bộ lịch khác.
 
-不要写入密码、证件、客户资料、医疗隐私或未获授权的第三方信息。涉及安全、健康、财务或关系风险时，先求助合格的专业人士或可信的支持者。
+Không ghi mật khẩu, giấy tờ tùy thân, thông tin khách hàng, thông tin y tế riêng tư hoặc thông tin của bên thứ ba khi chưa được cho phép. Khi liên quan đến rủi ro về an toàn, sức khỏe, tài chính hoặc các mối quan hệ, trước hết hãy tìm sự trợ giúp từ chuyên gia đủ năng lực hoặc người hỗ trợ đáng tin cậy.
 
-## 1. 本周主问题
+## 1. Vấn đề chính trong tuần
 
 ```markdown
 日期范围：
@@ -22,30 +22,30 @@ updated: 2026-09-19
 本周开始时的基线证据：
 ```
 
-主问题要能被观察，例如“我能否在没有稿件的情况下，用英语解释一个项目风险并回答追问？”不要写“本周变得更好”。
+Vấn đề chính phải có thể quan sát được, chẳng hạn như “Tôi có thể giải thích một rủi ro của dự án bằng tiếng Anh và trả lời các câu hỏi tiếp theo khi không có bản thảo hay không?”. Đừng viết “Tuần này trở nên tốt hơn”.
 
-## 2. 三种容量版本
+## 2. Ba phiên bản theo mức năng lượng
 
-| 容量 | 何时使用 | 最小动作 | 必须留下的证据 | 停止或降档条件 |
+| Mức năng lượng | Khi nào sử dụng | Hành động tối thiểu | Bằng chứng bắt buộc phải để lại | Điều kiện dừng hoặc hạ mức |
 | --- | --- | --- | --- | --- |
-| 完整日 | 时间与精力相对稳定 | | | |
-| 压缩日 | 时间变少或注意力被切碎 | | | |
-| 恢复日 | 生病、失眠、悲伤或责任突然增加 | | | |
+| Ngày đầy đủ | Thời gian và năng lượng tương đối ổn định | | | |
+| Ngày rút gọn | Thời gian ít đi hoặc sự chú ý bị phân mảnh | | | |
+| Ngày phục hồi | Bị ốm, mất ngủ, đau buồn hoặc trách nhiệm đột ngột tăng lên | | | |
 
-三个版本服务同一个方向。恢复日不是失败；当安全、睡眠、身体或关系受到明显影响时，保护这些底线优先于完成计划。
+Ba phiên bản cùng phục vụ một hướng đi. Ngày phục hồi không phải là thất bại; khi sự an toàn, giấc ngủ, cơ thể hoặc các mối quan hệ bị ảnh hưởng rõ rệt, bảo vệ những nền tảng này được ưu tiên hơn việc hoàn thành kế hoạch.
 
-## 3. 重复要带着回声
+## 3. Lặp lại phải đi kèm tiếng vọng
 
-| 日期 | 做了什么动作 | 回忆 / 变式 / 输出 / 反馈 | 新信息是什么 | 下一次改变哪个变量 |
+| Ngày | Đã thực hiện hành động gì | Gợi nhớ / biến thể / đầu ra / phản hồi | Thông tin mới là gì | Lần tới sẽ thay đổi biến số nào |
 | --- | --- | --- | --- | --- |
 | | | | | |
 | | | | | |
 | | | | | |
 | | | | | |
 
-如果连续四次重复都没有产生新信息，先改变主题、听众、时间限制、提示数量或工具权限，不要只增加次数。
+Nếu lặp lại bốn lần liên tiếp mà vẫn không tạo ra thông tin mới, trước hết hãy thay đổi chủ đề, người nghe, giới hạn thời gian, số lượng gợi ý hoặc quyền truy cập công cụ; đừng chỉ tăng số lần.
 
-## 4. 记录一次有效反馈
+## 4. Ghi lại một phản hồi hữu ích
 
 ```markdown
 反馈来自谁或什么结果：
@@ -55,9 +55,9 @@ updated: 2026-09-19
 证据位置：
 ```
 
-向 AI 请求反馈时，先提交自己的版本，要求它最多指出三个影响结果的问题，并区分观察、推断和建议。最终是否采纳，由人决定。
+Khi yêu cầu AI phản hồi, trước tiên hãy gửi phiên bản của chính bạn và yêu cầu AI chỉ ra nhiều nhất ba vấn đề ảnh hưởng đến kết quả, đồng thời phân biệt giữa quan sát, suy luận và đề xuất. Cuối cùng có tiếp thu hay không là do con người quyết định.
 
-## 5. 中断与回归
+## 5. Gián đoạn và quay lại
 
 ```markdown
 发生了什么事实（不做人格判断）：
@@ -67,9 +67,9 @@ updated: 2026-09-19
 需要联系谁或升级什么风险：
 ```
 
-如果同一阻力连续出现三次，改变时间盒、任务大小、环境、边界或支持网络。不要用熬夜和羞耻偿还缺席。
+Nếu cùng một trở lực xuất hiện liên tiếp ba lần, hãy thay đổi khung thời gian, quy mô nhiệm vụ, môi trường, ranh giới hoặc mạng lưới hỗ trợ. Đừng dùng việc thức khuya và sự xấu hổ để bù đắp cho những lần vắng mặt.
 
-## 6. 本周决定
+## 6. Quyết định trong tuần
 
 ```markdown
 本周保留的一个设计：
@@ -80,7 +80,7 @@ updated: 2026-09-19
 下次打开文件后的第一步：
 ```
 
-## 7. 交接与证据位置
+## 7. Bàn giao và vị trí bằng chứng
 
 ```markdown
 首版位置：
@@ -89,4 +89,4 @@ updated: 2026-09-19
 下一项任务交给谁/何时：
 ```
 
-相关章节：[节律篇：让小事穿过时间](../threads/part-4/rhythm-and-compounding.md) ｜ [生活系统篇：把改变安放在日子里](../threads/part-4/daily-system.md) ｜ [每周复盘模板](weekly-review.md)
+Các chương liên quan: [Phần về nhịp độ: Để những việc nhỏ vượt qua thời gian](../threads/part-4/rhythm-and-compounding.md) ｜ [Phần về hệ thống cuộc sống: Đặt sự thay đổi vào trong từng ngày](../threads/part-4/daily-system.md) ｜ [Mẫu rà soát hằng tuần](weekly-review.md)

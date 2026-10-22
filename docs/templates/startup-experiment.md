@@ -1,16 +1,16 @@
 ---
-title: 创业实验卡：在两周内记录假设、证据、成本和继续或停止的决定
-description: 可复制的创业实验记录，包含问题、用户、替代方案、反证条件、人工试点、投入上限和事后判读，并用完整假设案例示范如何得出有限结论。
+title: "Thẻ thử nghiệm khởi nghiệp: ghi lại giả thuyết, bằng chứng, chi phí và quyết định tiếp tục hay dừng trong vòng hai tuần"
+description: "Bản ghi thử nghiệm khởi nghiệp có thể sao chép, bao gồm vấn đề, người dùng, phương án thay thế, điều kiện phản chứng, thử nghiệm thủ công, giới hạn投入 và cách diễn giải sau thử nghiệm, đồng thời dùng một trường hợp giả thuyết hoàn chỉnh để minh họa cách đưa ra kết luận có giới hạn."
 updated: 2026-09-19
 ---
 
-# 创业实验卡
+# Thẻ thử nghiệm khởi nghiệp
 
-用于回答一个具体问题：“下一步投入是否值得？”先填写假设、范围和判定条件，再接触用户。以下是本指南建议的工作模板，不是市场验证标准；两周是可调整的期限，示例全部为假设。
+Dùng để trả lời một câu hỏi cụ thể: “Khoản投入 tiếp theo có đáng hay không?” Hãy điền giả thuyết, phạm vi và điều kiện đánh giá trước, rồi mới tiếp xúc với người dùng. Dưới đây là mẫu làm việc được hướng dẫn này đề xuất, không phải tiêu chuẩn xác thực thị trường; hai tuần là khoảng thời gian có thể điều chỉnh, và tất cả ví dụ đều là giả định.
 
-一次只检验一个主要假设。出现超出范围的新问题时，记录下来，不把同一张卡悄悄扩成完整创业计划。背景方法见 [从真实问题到首批用户](../threads/practice/customer-discovery.md)；工时和经营观察见 [可持续的小生意](../threads/practice/sustainable-business.md)。
+Mỗi lần chỉ kiểm tra một giả thuyết chính. Khi xuất hiện vấn đề mới vượt quá phạm vi, hãy ghi lại, không âm thầm mở rộng cùng một thẻ thành một kế hoạch khởi nghiệp hoàn chỉnh. Phương pháp nền tảng xem [Từ vấn đề thực tế đến những người dùng đầu tiên](../threads/practice/customer-discovery.md); theo dõi thời gian làm việc và hoạt động kinh doanh xem [Một doanh nghiệp nhỏ bền vững](../threads/practice/sustainable-business.md).
 
-## 复制空白卡
+## Sao chép thẻ trống
 
 ```text
 实验名称 / 编号：
@@ -59,45 +59,45 @@ updated: 2026-09-19
 下次复盘日期：
 ```
 
-不必把每格写成长文。证据摘要可以写成“用户 A 展示上周两次任务的去标识样例”，不要把完整客户材料贴进公共仓库。收款记录只保留验证所需的匿名摘要，私人联系方式和交易凭据留在适当的受限位置。
+Không cần viết thành bài dài ở từng ô. Phần tóm tắt bằng chứng có thể viết là “Người dùng A đã cung cấp mẫu dữ liệu đã khử định danh của hai nhiệm vụ trong tuần trước”, không dán toàn bộ tài liệu khách hàng vào kho lưu trữ công khai. Hồ sơ thanh toán chỉ giữ lại phần tóm tắt ẩn danh cần thiết cho việc xác thực; thông tin liên hệ cá nhân và chứng từ giao dịch được lưu ở vị trí hạn chế truy cập phù hợp.
 
-## 填写示例：商品资料整理试点
+## Ví dụ điền: thử nghiệm sắp xếp thông tin sản phẩm
 
-这个例子只测试“小店经营者是否愿意为限定范围的资料整理付费，并能否按限定工时交付”，不是 AI 产品发布计划。所有人物、行为和数字均为虚构演示。
+Ví dụ này chỉ kiểm tra “liệu chủ cửa hàng nhỏ có sẵn sàng trả tiền cho việc sắp xếp thông tin trong phạm vi giới hạn hay không, và liệu công việc có thể được hoàn thành trong số giờ quy định hay không”, không phải là kế hoạch ra mắt sản phẩm AI. Tất cả nhân vật, hành vi và con số đều là ví dụ hư cấu.
 
-| 字段 | 示例填写 |
+| Trường | Nội dung ví dụ |
 | --- | --- |
-| 期限与负责人 | 两周，由试点负责人记录并作决定 |
-| 用户与任务 | 自己维护商品信息、最近两周至少更新过两批资料的小店经营者 |
-| 角色 | 经营者本人使用、决定并付款；只纳入这种情况 |
-| 当前办法 | 用已有表格逐项复制，再人工核对规格 |
-| 主要假设 | 有人愿付 200 元，请人将最多 20 条已确认商品信息整理为一份待发布草稿 |
-| 反例 | 现有模板已经够快，购买服务增加的沟通时间反而更多 |
-| 招募与偏差 | 邀请 10 人，目标访谈 6 人；含熟人，结果不能直接代表陌生客户 |
-| 试点范围 | 最多 2 单；一份草稿和待确认项，包含一轮范围内修改；不代发布，不新增商品事实 |
-| 材料与说明 | 只使用经营者确认可用的资料；告知人工整理和工具辅助方式，未经许可不外传 |
-| 验收 | 20 条以内约定字段齐全，待确认项可识别，由客户核对后确认接收 |
-| 投入上限 | 全轮 12 小时、现金支出 100 元；这些数字只是本例选择 |
-| 继续条件 | 6 次访谈中至少 3 人有近期重复任务；至少 2 人按 200 元付费、完成验收，且每单沟通至支持不超过 2 小时 |
-| 调整条件 | 有付款并验收，但单次工时超限；下一轮缩小范围或改善输入要求 |
-| 停止或暂缓 | 截止日期内未获得足够证据、触及总投入上限，或无法获得必要资料使用许可 |
+| Thời hạn và người phụ trách | Hai tuần, do người phụ trách thử nghiệm ghi chép và đưa ra quyết định |
+| Người dùng và nhiệm vụ | Chủ cửa hàng nhỏ tự quản lý thông tin sản phẩm và đã cập nhật ít nhất hai đợt dữ liệu trong hai tuần gần đây |
+| Vai trò | Chính chủ cửa hàng sử dụng, quyết định và thanh toán; chỉ đưa những trường hợp này vào |
+| Cách làm hiện tại | Sao chép từng mục bằng bảng tính hiện có, sau đó kiểm tra thông số thủ công |
+| Giả thuyết chính | Có người sẵn sàng trả 200 nhân dân tệ để nhờ sắp xếp tối đa 20 thông tin sản phẩm đã được xác nhận thành một bản nháp chờ đăng |
+| Phản ví dụ | Mẫu hiện có đã đủ nhanh, thời gian trao đổi phát sinh do mua dịch vụ ngược lại còn nhiều hơn |
+| Tuyển dụng và sai lệch | Mời 10 người, mục tiêu phỏng vấn 6 người; có bao gồm người quen nên kết quả không thể đại diện trực tiếp cho khách hàng xa lạ |
+| Phạm vi thử nghiệm | Tối đa 2 đơn; một bản nháp và các mục chờ xác nhận, bao gồm một lần chỉnh sửa trong phạm vi; không thay khách đăng sản phẩm, không bổ sung sự kiện mới về sản phẩm |
+| Tài liệu và thuyết minh | Chỉ sử dụng tài liệu mà chủ cửa hàng xác nhận được phép dùng; thông báo cách thức sắp xếp thủ công và hỗ trợ bằng công cụ, không chuyển cho bên ngoài nếu chưa được cho phép |
+| Nghiệm thu | Với tối đa 20 mục, các trường đã thỏa thuận đều đầy đủ, các mục chờ xác nhận có thể nhận diện; khách hàng kiểm tra rồi xác nhận tiếp nhận |
+| Giới hạn投入 | Tổng cộng 12 giờ cho toàn bộ vòng, chi tiền mặt 100 nhân dân tệ; các con số này chỉ là lựa chọn trong ví dụ |
+| Điều kiện tiếp tục | Trong 6 cuộc phỏng vấn, ít nhất 3 người có nhiệm vụ lặp lại trong thời gian gần đây; ít nhất 2 người trả 200 nhân dân tệ và hoàn tất nghiệm thu, đồng thời thời gian trao đổi đến khi hỗ trợ cho mỗi đơn không vượt quá 2 giờ |
+| Điều kiện điều chỉnh | Có thanh toán và nghiệm thu nhưng số giờ cho mỗi đơn vượt giới hạn; vòng tiếp theo thu hẹp phạm vi hoặc cải thiện yêu cầu đầu vào |
+| Dừng hoặc tạm hoãn | Không thu được đủ bằng chứng trước thời hạn, chạm giới hạn tổng投入, hoặc không thể có được quyền sử dụng tài liệu cần thiết |
 
-基线也要落到一项任务上：假设两名试点用户各自提供了旧流程计时摘要，分别为 90 和 60 分钟。新流程中，用户侧准备、沟通和审核分别花了 30 和 70 分钟，服务方则用了 90 和 210 分钟。这里有用户节省时间的信号，也有用户时间增加的反例；不能只展示第一位用户。
+Đường cơ sở cũng phải gắn với một nhiệm vụ cụ thể: giả sử hai người dùng thử nghiệm lần lượt cung cấp bản tóm tắt thời gian của quy trình cũ là 90 và 60 phút. Trong quy trình mới, phía người dùng lần lượt mất 30 và 70 phút cho việc chuẩn bị, trao đổi và kiểm tra; phía cung cấp dịch vụ lần lượt mất 90 và 210 phút. Ở đây có tín hiệu cho thấy người dùng tiết kiệm thời gian, nhưng cũng có phản ví dụ cho thấy thời gian của người dùng tăng lên; không thể chỉ trình bày người dùng đầu tiên.
 
-## 示例结果与判读
+## Kết quả và cách diễn giải ví dụ
 
-假设实际邀请 10 人，8 人回应，6 人完成访谈，其中 4 人展示了近期重复任务。向 3 人发出相同报价，2 人付款并验收，另 1 人因现有模板够用而拒绝。共到账 400 元、没有退款、现金支出 40 元，包含所有招募与交付工作共 11 小时。其中两单服务方工时为 1.5 与 3.5 小时，其他工作为 6 小时，合计仍是 11 小时。
+Giả sử đã mời 10 người, có 8 người phản hồi, 6 người hoàn tất phỏng vấn, trong đó 4 người đưa ra nhiệm vụ lặp lại gần đây. Đã gửi cùng một mức báo giá cho 3 người, 2 người thanh toán và nghiệm thu, người còn lại từ chối vì mẫu hiện có đã đủ dùng. Tổng cộng nhận 400 nhân dân tệ, không hoàn tiền, chi tiền mặt 40 nhân dân tệ; tổng thời gian bao gồm toàn bộ công việc tuyển dụng và bàn giao là 11 giờ. Trong đó, thời gian của bên cung cấp dịch vụ cho hai đơn lần lượt là 1,5 và 3,5 giờ, các công việc khác mất 6 giờ, tổng cộng vẫn là 11 giờ.
 
-第二单材料格式不一致，产生了额外核对；用户自己的准备和审核时间也超过旧流程。虽然付费与验收数量满足约定，单次工时条件没有满足，因此本轮决定是**调整**。下一轮只接收符合输入模板的资料，保持价格和数量上限不变，再检验工时。这个选择仍是待验证假设，不能先写成已解决的问题。
+Định dạng tài liệu của đơn thứ hai không nhất quán, phát sinh thêm việc kiểm tra; thời gian chuẩn bị và kiểm tra của chính người dùng cũng vượt quy trình cũ. Mặc dù số lượng thanh toán và nghiệm thu đạt mức đã thỏa thuận, điều kiện về số giờ cho mỗi đơn không đạt, vì vậy quyết định của vòng này là **điều chỉnh**. Vòng tiếp theo chỉ tiếp nhận tài liệu phù hợp với mẫu đầu vào, giữ nguyên mức giá và giới hạn số lượng, rồi kiểm tra lại số giờ. Lựa chọn này vẫn là một giả thuyết cần xác minh, không thể viết trước thành vấn đề đã được giải quyết.
 
-本轮支持“这两位用户在这些条件下接受了付费试点”，没有证明常规复购、陌生渠道获客成本或可持续利润。`400 - 40 = 360 元` 只是扣除所列现金支出的余额，没有计入 11 小时劳动及其他成本；不能写成赚了 360 元。
+Vòng này chỉ ủng hộ kết luận rằng “hai người dùng này đã chấp nhận thử nghiệm có trả phí trong những điều kiện này”, chứ chưa chứng minh được việc mua lại thường xuyên, chi phí thu hút khách hàng từ các kênh xa lạ hay lợi nhuận bền vững. `400 - 40 = 360 元` chỉ là số dư sau khi trừ các khoản chi tiền mặt đã liệt kê, chưa tính 11 giờ lao động và các chi phí khác; không thể viết thành đã lãi 360 nhân dân tệ.
 
-如果本轮仅访谈 2 人，应记录“未达到预定证据量，暂缓判断”，并说明是招募困难还是投入不足。不要在看完结果后把门槛降为 2 人，再宣称达标。确需改计划时保留原版本、变更时间和原因，把新条件用于下一轮。
+Nếu vòng này chỉ phỏng vấn 2 người, cần ghi lại “Chưa đạt lượng bằng chứng dự kiến, tạm hoãn phán đoán”, đồng thời nêu rõ là do khó tuyển dụng hay do投入 chưa đủ. Không được xem kết quả xong rồi hạ ngưỡng xuống còn 2 người và tuyên bố đã đạt. Nếu thực sự cần thay đổi kế hoạch, hãy giữ lại phiên bản cũ, thời điểm và lý do thay đổi, rồi dùng điều kiện mới cho vòng tiếp theo.
 
-## 最后写一句能被复查的结论
+## Viết một câu kết luận có thể được kiểm tra lại
 
-> 在两周、12 小时和 100 元支出上限内，我们观察到 2 次付费并验收，但 1 单超出交付工时上限。我们将缩小可接受的材料格式，再做一轮；目前不扩大接单量。
+> Trong phạm vi hai tuần, giới hạn 12 giờ và 100 nhân dân tệ chi phí, chúng tôi quan sát thấy 2 lần thanh toán và nghiệm thu, nhưng 1 đơn vượt giới hạn số giờ giao hàng. Chúng tôi sẽ thu hẹp định dạng tài liệu được chấp nhận và thực hiện thêm một vòng; hiện tại chưa mở rộng số lượng đơn nhận.
 
-需要英语汇报时：
+Khi cần báo cáo bằng tiếng Anh:
 
 > Two customers paid for and accepted the pilot, but one delivery exceeded our time limit. We will test a stricter input format before taking more orders. Repeat demand and sustainable costs remain unproven.

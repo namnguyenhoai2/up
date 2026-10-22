@@ -1,18 +1,18 @@
 ---
-title: 持续行动计划模板
-description: 用一份可复制的计划记录目标、行动入口、时间预算、缩量版本、中断恢复和退出标准，并通过填写实例开始实践。
+title: "Mẫu kế hoạch hành động bền bỉ"
+description: "Dùng một kế hoạch có thể sao chép để ghi lại mục tiêu, điểm bắt đầu hành động, ngân sách thời gian, phiên bản rút gọn, cách khôi phục sau gián đoạn và tiêu chí dừng, đồng thời bắt đầu thực hành bằng cách điền một ví dụ."
 updated: 2026-09-19
 ---
 
-# 持续行动计划模板
+# Mẫu kế hoạch hành động bền bỉ
 
-用这份模板安排一次有结束日期的行动实验。它是 [节律账本](rhythm-ledger.md) 的补充：账本维护每周容量与阻力，这张实验卡细化其中一个卡点的改动、验收与停止条件。已有账本不必重抄，在相应字段引用记录即可；完成后把结论记回账本。
+Dùng mẫu này để sắp xếp một thử nghiệm hành động có ngày kết thúc. Đây là phần bổ sung cho [sổ cái nhịp độ](rhythm-ledger.md): sổ cái theo dõi năng lực và lực cản hằng tuần, còn phiếu thử nghiệm này cụ thể hóa sự thay đổi, tiêu chí nghiệm thu và điều kiện dừng của một điểm nghẽn trong đó. Không cần chép lại sổ cái hiện có; chỉ cần dẫn chiếu bản ghi trong các trường tương ứng, rồi ghi lại kết luận vào sổ cái sau khi hoàn tất.
 
-它是一种实践工具，不是心理测量，也不保证固定天数形成习惯。先填写自己确实知道的部分，未知项留作待核验；无需为了填满表格增加任务。
+Đây là một công cụ thực hành, không phải phép đo tâm lý, cũng không bảo đảm hình thành thói quen trong một số ngày cố định. Trước tiên, hãy điền những phần bạn thực sự biết; những mục chưa biết để lại để xác minh sau. Không cần thêm nhiệm vụ chỉ để lấp đầy biểu mẫu.
 
-先读 [自律与坚持实操](../threads/practice/discipline-and-consistency.md)，选择需要排查的问题。日常安排沿用 [生活系统篇](../threads/part-4/daily-system.md) 与 [节律篇](../threads/part-4/rhythm-and-compounding.md)，不额外维护一套日程。状态与作品入口可放在 [学习状态](learning-state.md)，每周结论写入 [每周复盘](weekly-review.md)。个人记录保存在自己的笔记里，证据使用不含敏感信息的文件位置。
+Trước hết, hãy đọc [Thực hành tự kỷ luật và kiên trì](../threads/practice/discipline-and-consistency.md), rồi chọn vấn đề cần kiểm tra. Lịch sinh hoạt hằng ngày tiếp tục sử dụng [phần hệ thống đời sống](../threads/part-4/daily-system.md) và [phần nhịp độ](../threads/part-4/rhythm-and-compounding.md), không cần duy trì thêm một bộ lịch riêng. Trạng thái và lối vào tác phẩm có thể đặt tại [trạng thái học tập](learning-state.md), còn kết luận hằng tuần ghi vào [tổng kết hằng tuần](weekly-review.md). Lưu bản ghi cá nhân trong ghi chú của mình; khi sử dụng bằng chứng, hãy dùng vị trí tệp không chứa thông tin nhạy cảm.
 
-## 可复制模板
+## Mẫu có thể sao chép
 
 ```markdown
 # 持续行动计划 — [一个目标]
@@ -78,9 +78,9 @@ updated: 2026-09-19
 - 下轮只改一件事：
 ```
 
-## 填写实例：四周改进英文项目介绍
+## Ví dụ điền mẫu: Cải thiện phần giới thiệu dự án bằng tiếng Anh trong bốn tuần
 
-**以下为虚构示例，时间和任务量只用于演示填写。** 学习者需要在团队交流中，用英语说明自己正在开发的 AI 笔记整理工具。计划同时考虑工作与家庭安排。
+**Ví dụ dưới đây là hư cấu; thời gian và khối lượng nhiệm vụ chỉ nhằm minh họa cách điền.** Người học cần dùng tiếng Anh để giới thiệu công cụ sắp xếp ghi chú AI mà mình đang phát triển trong các buổi trao đổi với nhóm. Kế hoạch đồng thời cân nhắc lịch trình công việc và gia đình.
 
 ```markdown
 # 持续行动计划 — 英文项目介绍
@@ -148,9 +148,9 @@ updated: 2026-09-19
 - 下轮只改一件事：请反馈伙伴用一句话复述听到的局限；如果对方无空，记录反馈缺失。
 ```
 
-实例中的第一周记录展示了不完整的结果：任务尚未达标，但下一步已经明确。最终复查仍需补齐四周证据，不能把计划本身当作效果证明。
+Bản ghi tuần đầu tiên trong ví dụ cho thấy kết quả chưa hoàn chỉnh: nhiệm vụ vẫn chưa đạt yêu cầu, nhưng bước tiếp theo đã rõ ràng. Khi rà soát cuối cùng, vẫn cần bổ sung bằng chứng của đủ bốn tuần; không thể xem bản thân kế hoạch là bằng chứng về hiệu quả.
 
-## 让 AI 帮助整理，而不替你制造进展
+## Để AI giúp sắp xếp, thay vì tạo ra tiến triển thay bạn
 
 ```text
 下面是我的持续行动计划和本轮真实记录。请检查时间预算是否相互矛盾、完成标准能否观察、最小版是否被误当作完整训练。指出证据缺口，不补造未完成的任务或反馈。根据已有责任，只建议下一轮的一项调整。若缺少关键事实，请明确标出需要我核实的条件。
@@ -158,4 +158,4 @@ updated: 2026-09-19
 [粘贴计划与记录]
 ```
 
-接受建议前，核对日程、作品和相关人的实际安排。根据现实改变计划，是这份模板的一部分。
+Trước khi tiếp nhận đề xuất, hãy đối chiếu với lịch trình thực tế, tác phẩm và sự sắp xếp của những người liên quan. Việc thay đổi kế hoạch theo thực tế là một phần của mẫu này.

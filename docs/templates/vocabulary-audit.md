@@ -1,14 +1,14 @@
 ---
-title: 词汇证据卡：从卡片眼熟到情境调用
-description: 保存真实任务、未经查词的首遇、未知项决策、义项与搭配来源、无提示调用、错误修复、AI 使用和延迟迁移。
+title: "Thẻ bằng chứng từ vựng: từ quen mắt với thẻ đến vận dụng trong ngữ cảnh"
+description: "Lưu lại nhiệm vụ thực tế, lần đầu gặp từ khi chưa tra cứu, quyết định đối với mục chưa biết, nguồn của nghĩa và kết hợp từ, khả năng vận dụng không có gợi ý, sửa lỗi, việc sử dụng AI và khả năng chuyển giao sau một khoảng trì hoãn."
 updated: 2026-09-02
 ---
 
-# 词汇证据卡：从卡片眼熟到情境调用
+# Thẻ bằng chứng từ vựng: từ quen mắt với thẻ đến vận dụng trong ngữ cảnh
 
-把这张卡复制到私有笔记中，一次只记录一个真实主题或任务。不要写入密码、客户资料、未公开文档、考试答案、医疗隐私或未获许可的第三方内容。最终词表可以公开，不代表原始材料、录音和反馈也可以公开。
+Hãy sao chép thẻ này vào ghi chú riêng tư, mỗi lần chỉ ghi lại một chủ đề hoặc nhiệm vụ thực tế. Không ghi mật khẩu, thông tin khách hàng, tài liệu chưa công bố, đáp án thi, thông tin y tế riêng tư hoặc nội dung của bên thứ ba khi chưa được phép. Việc danh sách từ cuối cùng có thể công khai không có nghĩa là tài liệu gốc, bản ghi âm và phản hồi cũng có thể công khai.
 
-## 1. 定义任务与证据条件
+## 1. Xác định nhiệm vụ và điều kiện bằng chứng
 
 ```markdown
 # Vocabulary Evidence - YYYY-MM-DD
@@ -24,9 +24,9 @@ updated: 2026-09-02
 平行任务日期：
 ```
 
-词汇目标不是“新增多少”，而是在这些条件下理解、选对并及时调用。
+Mục tiêu từ vựng không phải là “bổ sung bao nhiêu từ”, mà là hiểu, lựa chọn đúng và kịp thời vận dụng trong những điều kiện này.
 
-## 2. 保存未经查词的首遇
+## 2. Lưu lại lần đầu gặp từ khi chưa tra cứu
 
 ```markdown
 首遇开始/结束时间：
@@ -39,13 +39,13 @@ updated: 2026-09-02
 首遇是否完成真实任务：是 / 部分 / 否
 ```
 
-先判断障碍是否真是词汇：声音切分、句法、背景、版面和注意力也可能让一句话失败。
+Trước tiên, hãy xác định trở ngại có thực sự nằm ở từ vựng hay không: việc phân tách âm thanh, cú pháp, bối cảnh, bố cục và sự chú ý cũng có thể khiến một câu không được hiểu.
 
-## 3. 建立未知项决策队列
+## 3. Thiết lập hàng đợi quyết định đối với các mục chưa biết
 
-| 词/词块 | 任务影响 | 决定 | 当时依据 | 下一检查点 |
+| Từ/cụm từ | Ảnh hưởng đến nhiệm vụ | Quyết định | Căn cứ lúc đó | Mốc kiểm tra tiếp theo |
 | --- | --- | --- | --- | --- |
-| | 阻断 / 重要 / 次要 / 无影响 | 放过 / 推断 / 速查 / 学习 / 专业核验 | | |
+| | Cản trở / Quan trọng / Thứ yếu / Không ảnh hưởng | Bỏ qua / Suy đoán / Tra nhanh / Học / Xác minh chuyên môn | | |
 
 ```markdown
 本轮进入主动学习的 5-8 个词块：
@@ -54,9 +54,9 @@ updated: 2026-09-02
 因容量不足暂缓的词：
 ```
 
-## 4. 为每个高价值词块记录八个维度
+## 4. Ghi lại tám khía cạnh của mỗi cụm từ có giá trị cao
 
-每个词块复制一次：
+Sao chép một lần cho mỗi cụm từ:
 
 ```markdown
 词/词块：
@@ -72,17 +72,17 @@ updated: 2026-09-02
 一个近义项/反例及差异：
 ```
 
-不要为了填满栏目抄整页词典。只保留会改变当前理解或使用的内容。
+Đừng chép cả trang từ điển chỉ để lấp đầy các mục. Chỉ giữ lại những nội dung có thể làm thay đổi cách hiểu hoặc cách sử dụng hiện tại.
 
-## 5. 核验义项、搭配与来源
+## 5. Xác minh nghĩa, kết hợp từ và nguồn
 
-| 待核对内容 | 我的候选 | 来源、版本与位置 | 核验结果 | 仍未知 |
+| Nội dung cần đối chiếu | Phương án của tôi | Nguồn, phiên bản và vị trí | Kết quả xác minh | Vẫn chưa biết |
 | --- | --- | --- | --- | --- |
-| 义项 | | | | |
-| 发音 | | | | |
-| 搭配 | | | | |
-| 语域 | | | | |
-| 技术/制度概念 | | | | |
+| Nghĩa | | | | |
+| Phát âm | | | | |
+| Kết hợp từ | | | | |
+| Ngữ vực | | | | |
+| Khái niệm kỹ thuật/thể chế | | | | |
 
 ```markdown
 词典或语料为什么适合这个任务：
@@ -92,9 +92,9 @@ updated: 2026-09-02
 什么新证据会改变当前决定：
 ```
 
-AI 生成的例句和解释是候选，不是来源。高风险术语不能只靠使用频率或模型语气裁决。
+Các câu ví dụ và lời giải thích do AI tạo ra là phương án tham khảo, không phải nguồn. Không thể phán định thuật ngữ rủi ro cao chỉ dựa vào tần suất sử dụng hoặc giọng điệu của mô hình.
 
-## 6. 设计无提示调用
+## 6. Thiết kế việc vận dụng không có gợi ý
 
 ```markdown
 真实意图或情境线索：
@@ -106,15 +106,15 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 改变的人物 / 时间 / 主题 / 语气 / 模态：
 ```
 
-| 尝试 | 条件 | 我的实际表达 | 调用时间 | 结果 |
+| Lần thử | Điều kiện | Cách diễn đạt thực tế của tôi | Thời gian vận dụng | Kết quả |
 | --- | --- | --- | ---: | --- |
-| 原情境 | 无答案展示 | | | |
-| 改变情境 | 撤掉原句 | | | |
-| 真实任务 | 有受众与后果 | | | |
+| Ngữ cảnh gốc | Không hiển thị đáp án | | | |
+| Thay đổi ngữ cảnh | Bỏ câu gốc | | | |
+| Nhiệm vụ thực tế | Có đối tượng tiếp nhận và hệ quả | | | |
 
-若只能完整背出原句，先不要记作迁移成功。
+Nếu chỉ có thể thuộc lòng và đọc lại nguyên câu, trước hết đừng ghi nhận đó là vận dụng thành công trong ngữ cảnh mới.
 
-## 7. 让真实读者或听众验收
+## 7. Để độc giả hoặc người nghe thực tế nghiệm thu
 
 ```markdown
 读者/听众复述的意思：
@@ -125,15 +125,15 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 真实回应或执行结果：
 ```
 
-| 反馈 | 类型 | 决定 | 理由 | 是否进入平行任务 |
+| Phản hồi | Loại | Quyết định | Lý do | Có đưa vào nhiệm vụ song song không |
 | --- | --- | --- | --- | --- |
-| | 必要修复 / 可接受变体 / 语域 / 风格 | 采纳 / 部分 / 拒绝 / 延后 | | |
+| | Sửa chữa cần thiết / Biến thể chấp nhận được / Ngữ vực / Phong cách | Chấp nhận / Một phần / Từ chối / Hoãn lại | | |
 
-## 8. 记录错误与最小修复
+## 8. Ghi lại lỗi và sửa chữa tối thiểu
 
-| 错误样本 | 类型 | 可能缺口 | 下一次只改什么 | 复测条件 |
+| Mẫu lỗi | Loại | Khoảng thiếu có thể có | Lần sau chỉ thay đổi điều gì | Điều kiện kiểm tra lại |
 | --- | --- | --- | --- | --- |
-| | 词形 / 声音 / 义项 / 搭配 / 语法 / 语域 / 调用慢 / 迁移失败 | | | |
+| | Dạng từ / Âm thanh / Nghĩa / Kết hợp từ / Ngữ pháp / Ngữ vực / Vận dụng chậm / Không chuyển giao được | | | |
 
 ```markdown
 卡片答对但任务失败的词块：
@@ -143,7 +143,7 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 需要拆卡、降量或补背景的项目：
 ```
 
-## 9. 记录 AI 与工具使用
+## 9. Ghi lại việc sử dụng AI và công cụ
 
 ```markdown
 工具 / 模型 / 版本与日期：
@@ -157,15 +157,15 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 关闭工具后的调用任务：
 ```
 
-## 10. 做延迟保持与迁移
+## 10. Thực hiện duy trì sau một khoảng trì hoãn và chuyển giao
 
-| 时间 | 撤掉什么 | 改变什么 | 输出 | 结果 |
+| Thời gian | Bỏ đi điều gì | Thay đổi điều gì | Đầu ra | Kết quả |
 | --- | --- | --- | --- | --- |
-| 当天 | 答案与释义 | 原主题 | 情境回忆 | |
-| 第 1 天 | 原句 | 句子与人物 | 口头/书面调用 | |
-| 第 3-7 天 | 最近提示 | 模态或受众 | 平行输入/输出 | |
-| 第 14 天 | 旧卡与即时反馈 | 新主题、同任务 | 限时真实输出 | |
-| 第 30 天 | 全部练习提示 | 真实材料与后果 | 完整交付 | |
+| Trong ngày | Đáp án và phần giải nghĩa | Chủ đề gốc | Nhớ lại ngữ cảnh | |
+| Ngày 1 | Câu gốc | Câu và nhân vật | Vận dụng bằng lời/nói hoặc viết | |
+| Ngày 3-7 | Gợi ý gần nhất | Tình thái hoặc đối tượng tiếp nhận | Đầu vào/đầu ra song song | |
+| Ngày 14 | Thẻ cũ và phản hồi tức thời | Chủ đề mới, cùng nhiệm vụ | Đầu ra thực tế có giới hạn thời gian | |
+| Ngày 30 | Toàn bộ gợi ý luyện tập | Tài liệu thực tế và hệ quả | Hoàn thành đầy đủ | |
 
 ```markdown
 仍能及时调用的词块：
@@ -174,18 +174,18 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 真实任务是否减少猜测或返工：
 ```
 
-## 11. 评分并决定保留什么
+## 11. Chấm điểm và quyết định nội dung cần giữ lại
 
-每项 `0-2` 分：`0=无证据或未完成`，`1=依赖提示或不稳定`，`2=当前条件下独立完成`。
+Mỗi mục `0-2` điểm: `0=无证据或未完成`, `1=依赖提示或不稳定`, `2=当前条件下独立完成`.
 
-| 项目 | 当天 | 第 7 天 | 第 14 天 | 证据理由 |
+| Hạng mục | Trong ngày | Ngày 7 | Ngày 14 | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | --- |
-| 在声音和文字中识别 | | | | |
-| 判断当前义项与任务影响 | | | | |
-| 使用合适搭配、词形与语域 | | | | |
-| 在时限内无提示调用 | | | | |
-| 让读者/听众收到预期意思 | | | | |
-| 换主题、受众或模态后迁移 | | | | |
+| Nhận diện trong âm thanh và văn bản | | | | |
+| Xác định nghĩa hiện tại và ảnh hưởng đến nhiệm vụ | | | | |
+| Sử dụng kết hợp từ, dạng từ và ngữ vực phù hợp | | | | |
+| Vận dụng không có gợi ý trong thời hạn | | | | |
+| Giúp độc giả/người nghe tiếp nhận đúng ý định | | | | |
+| Chuyển giao sau khi thay đổi chủ đề, đối tượng tiếp nhận hoặc tình thái | | | | |
 
 ```markdown
 继续学习的词块及理由：
@@ -196,4 +196,4 @@ AI 生成的例句和解释是候选，不是来源。高风险术语不能只�
 下次复查日期：
 ```
 
-相关章节：[词汇篇：从眼熟到在真实任务中调用](../threads/part-1/2-vocabulary.md) ｜ [听力篇](../threads/part-1/3-listening.md) ｜ [阅读篇](../threads/part-1/4-reading.md) ｜ [口语篇](../threads/part-1/5-speaking.md) ｜ [写作篇](../threads/part-1/6-writing.md) ｜ [用 AI 学英语](../threads/part-1/7-ai.md)
+Các chương liên quan: [Phần từ vựng: từ quen mắt đến vận dụng trong nhiệm vụ thực tế](../threads/part-1/2-vocabulary.md) ｜ [Phần nghe](../threads/part-1/3-listening.md) ｜ [Phần đọc](../threads/part-1/4-reading.md) ｜ [Phần nói](../threads/part-1/5-speaking.md) ｜ [Phần viết](../threads/part-1/6-writing.md) ｜ [Học tiếng Anh với AI](../threads/part-1/7-ai.md)

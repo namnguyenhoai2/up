@@ -1,14 +1,14 @@
 ---
-title: 作品简报与交付卡
-description: 用受众、基线、版本、反馈、质量门和回滚条件管理一个可复查、可交接的学习或项目作品。
+title: "Bản tóm tắt sản phẩm và thẻ bàn giao"
+description: "Quản lý một sản phẩm học tập hoặc dự án có thể kiểm tra và bàn giao bằng đối tượng, đường cơ sở, phiên bản, phản hồi, cổng chất lượng và điều kiện khôi phục."
 updated: 2026-08-31
 ---
 
-# 作品简报与交付卡
+# Bản tóm tắt sản phẩm và thẻ bàn giao
 
-作品不必从一开始就完整，但必须从一开始就有边界。复制这张卡到私有项目目录，保留独立版、修订版、反馈版和交付版。不要写入密码、客户资料、未获授权的第三方信息或不必要的隐私。
+Sản phẩm không nhất thiết phải hoàn chỉnh ngay từ đầu, nhưng ngay từ đầu phải có ranh giới rõ ràng. Sao chép thẻ này vào thư mục dự án riêng tư, lưu giữ các phiên bản độc lập, sửa đổi, phản hồi và bàn giao riêng biệt. Không ghi mật khẩu, thông tin khách hàng, thông tin bên thứ ba chưa được cấp phép hoặc dữ liệu riêng tư không cần thiết.
 
-## 1. 作品边界
+## 1. Phạm vi sản phẩm
 
 ```markdown
 # Artifact Brief — YYYY-MM-DD
@@ -34,28 +34,28 @@ updated: 2026-08-31
 下一次复查日期：
 ```
 
-## 2. 四个版本
+## 2. Bốn phiên bản
 
-| 版本 | 完成条件 | 保留什么 |
+| Phiên bản | Điều kiện hoàn thành | Nội dung cần lưu giữ |
 | --- | --- | --- |
-| 独立版 | 不看答案、不让 AI 代写，完成最小动作 | 原始文件、用时、卡点 |
-| 结构版 | 受众能找到问题、结论和下一步 | 结构差异、事实与推测标记 |
-| 反馈版 | 真实读者、用户、同伴或明确角色的 AI 完成审阅 | 反馈、错误分类、采纳/拒绝理由 |
-| 交付版 | 他人不依赖你的口头补充也能开始使用 | 版本、限制、来源、已知问题、交接记录 |
+| Độc lập | Hoàn thành thao tác tối thiểu mà không xem đáp án, không để AI viết thay | Tệp gốc, thời gian thực hiện, điểm vướng mắc |
+| Cấu trúc | Đối tượng có thể tìm thấy vấn đề, kết luận và bước tiếp theo | Khác biệt về cấu trúc, đánh dấu sự kiện và suy đoán |
+| Phản hồi | Người đọc, người dùng, đồng nghiệp thực tế hoặc AI đóng vai trò cụ thể hoàn tất việc xem xét | Phản hồi, phân loại lỗi, lý do tiếp nhận/từ chối |
+| Bàn giao | Người khác có thể bắt đầu sử dụng mà không phụ thuộc vào phần bổ sung bằng lời nói của bạn | Phiên bản, giới hạn, nguồn, vấn đề đã biết, ghi chép bàn giao |
 
-## 3. 质量门
+## 3. Cổng chất lượng
 
-| 门 | 检查问题 | 证据位置 | 负责人/日期 |
+| Cổng | Câu hỏi kiểm tra | Vị trí bằng chứng | Người phụ trách/ngày |
 | --- | --- | --- | --- |
-| 清楚 | 受众知道问题和下一步吗？ | | |
-| 准确 | 事实、引用、代码和数字能回到来源或测试吗？ | | |
-| 可用 | 主要动作在真实限制下能完成吗？ | | |
-| 可维护 | 版本、依赖、限制和接手人清楚吗？ | | |
-| 可负责 | 隐私、版权、权限和错误后果已处理吗？ | | |
+| Rõ ràng | Đối tượng có biết vấn đề và bước tiếp theo không? | | |
+| Chính xác | Sự kiện, trích dẫn, mã và số liệu có thể truy về nguồn hoặc kiểm thử không? | | |
+| Khả dụng | Thao tác chính có thể hoàn thành trong các giới hạn thực tế không? | | |
+| Có thể bảo trì | Phiên bản, phần phụ thuộc, giới hạn và người tiếp nhận có rõ ràng không? | | |
+| Có trách nhiệm | Quyền riêng tư, bản quyền, quyền hạn và hậu quả của lỗi đã được xử lý chưa? | | |
 
-没有证据的“通过”先写成“待核验”。速度、字数和功能数量只是代理指标，不能替代质量门。
+Những nội dung “đạt” không có bằng chứng trước tiên hãy ghi là “chờ xác minh”. Tốc độ, số từ và số lượng tính năng chỉ là các chỉ số đại diện, không thể thay thế cho cổng chất lượng.
 
-## 4. AI 与反馈记录
+## 4. Ghi chép về AI và phản hồi
 
 ```markdown
 AI/工具与日期：
@@ -67,9 +67,9 @@ AI/工具与日期：
 最需要修正的一处：
 ```
 
-先保存自己的版本，再让 AI 诊断、模拟受众或生成平行任务。关键事实、权限、隐私、成本和最终署名由人确认。
+Trước tiên hãy lưu phiên bản của chính mình, sau đó mới để AI chẩn đoán, mô phỏng đối tượng hoặc tạo nhiệm vụ song song. Con người phải xác nhận các sự kiện quan trọng, quyền hạn, quyền riêng tư, chi phí và tên người chịu trách nhiệm cuối cùng.
 
-## 5. 交付与回滚
+## 5. Bàn giao và khôi phục
 
 ```markdown
 交付对象与授权范围：
@@ -83,6 +83,6 @@ AI/工具与日期：
 下一次复查日期：
 ```
 
-交付不是终点。至少在 3–7 天后用相近条件复测一次，记录别人是否能独立开始、哪里需要解释，以及下一版本只改变什么。
+Bàn giao không phải là điểm kết thúc. Ít nhất sau 3–7 ngày, hãy kiểm thử lại một lần trong các điều kiện tương tự, ghi lại liệu người khác có thể tự mình bắt đầu hay không, nơi nào cần giải thích, và phiên bản tiếp theo chỉ thay đổi điều gì.
 
-相关章节：[作品篇：把学会变成做出](../threads/part-3/4-artifacts-and-delivery.md) ｜ [九十日行动总表](90-day-cycle.md)
+Chương liên quan: [Chương sản phẩm: Biến việc học được thành việc làm ra](../threads/part-3/4-artifacts-and-delivery.md) ｜ [Bảng tổng hợp hành động trong chín mươi ngày](90-day-cycle.md)

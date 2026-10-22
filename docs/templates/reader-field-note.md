@@ -1,31 +1,31 @@
 ---
-title: 读者实践回执：七天后，还留下了什么
-description: 用私密优先的两次记录，把阅读入口、实际行动、即时结果、延迟保持、迁移失败和书稿反馈放在同一页，再决定是否公开分享。
+title: "Phiếu phản hồi thực hành của độc giả: Sau bảy ngày, còn lại điều gì"
+description: "Dùng hai lần ghi chép, ưu tiên tính riêng tư, để đặt lối vào việc đọc, hành động thực tế, kết quả tức thời, khả năng duy trì sau một khoảng trì hoãn, thất bại khi chuyển đổi bối cảnh và phản hồi về bản thảo lên cùng một trang, rồi mới quyết định có chia sẻ công khai hay không."
 updated: 2026-09-02
 ---
 
-# 读者实践回执：七天后，还留下了什么
+# Phiếu phản hồi thực hành của độc giả: Sau bảy ngày, còn lại điều gì
 
-这张回执不是书评，也不是要求你证明一本书有效。它只追踪一条更朴素的路径：**你因为什么问题进入，读完后做了什么，几天以后还留下什么。**
+Phiếu phản hồi này không phải là bài đánh giá sách, cũng không yêu cầu bạn chứng minh một cuốn sách có hiệu quả. Nó chỉ theo dõi một hành trình giản dị hơn: **Bạn bước vào vì vấn đề gì, sau khi đọc đã làm gì, và vài ngày sau còn lại điều gì.**
 
-请先复制到自己的私有笔记。第一次在阅读后十分钟填写，第二次在三到七天后填写。不要为了完成表格反复重读原文；第二次记录的价值，正来自提示已经变少。
+Trước tiên, hãy sao chép vào ghi chú riêng của bạn. Lần đầu điền trong vòng mười phút sau khi đọc, lần thứ hai điền sau ba đến bảy ngày. Đừng đọc đi đọc lại bản gốc chỉ để hoàn thành biểu mẫu; giá trị của lần ghi chép thứ hai nằm chính ở chỗ các gợi ý đã giảm đi.
 
-公开分享始终是可选项。没有得到授权的姓名、公司、客户、关系、健康、财务和会话内容，不应为了“证明真实”进入公开回执。
+Chia sẻ công khai luôn là lựa chọn của bạn. Những thông tin về tên, công ty, khách hàng, các mối quan hệ, sức khỏe, tài chính và nội dung trò chuyện khi chưa được cho phép không nên xuất hiện trong phiếu phản hồi công khai chỉ để “chứng minh tính chân thực”.
 
-## 先在私下完成
+## Hoàn thành trước trong phạm vi riêng tư
 
-一份有用的回执只需要回答四件事：
+Một phiếu phản hồi hữu ích chỉ cần trả lời bốn câu hỏi:
 
-1. 我原来面对的真实问题是什么？
-2. 我实际做出了什么，而不是只同意了什么？
-3. 三到七天后，我能否在提示减少或条件变化时再做一次？
-4. 哪一段帮助了行动，哪一段仍然抽象、越界或无法使用？
+1. Vấn đề thực sự tôi phải đối mặt ban đầu là gì?
+2. Tôi thực sự đã làm được gì, thay vì chỉ đồng ý với điều gì?
+3. Sau ba đến bảy ngày, khi các gợi ý giảm đi hoặc điều kiện thay đổi, tôi có thể làm lại một lần nữa không?
+4. Phần nào đã hỗ trợ hành động, phần nào vẫn còn trừu tượng, vượt quá giới hạn hoặc không thể sử dụng?
 
-没有行动、没有复测，也可以如实填写。“暂时只产生认同感”本身就是证据，不需要补写一个成功故事。
+Không có hành động, không có kiểm tra lại, bạn vẫn có thể điền một cách trung thực. “Tạm thời chỉ tạo ra cảm giác đồng tình” tự nó đã là bằng chứng, không cần bịa thêm một câu chuyện thành công.
 
-## 第一次填写：阅读后十分钟
+## Lần điền thứ nhất: Trong vòng mười phút sau khi đọc
 
-### 1. 进入问题
+### 1. Vấn đề dẫn lối vào
 
 ```markdown
 日期：
@@ -37,11 +37,11 @@ updated: 2026-09-02
 今天可用的时间与容量：
 ```
 
-不要写“我想变优秀”。写一个能够发生的场景，例如：“我需要把项目风险交接给同事，但现有记录只有聊天和零散截图。”
+Đừng viết “Tôi muốn trở nên xuất sắc hơn”. Hãy viết một tình huống có thể thực sự xảy ra, chẳng hạn: “Tôi cần bàn giao rủi ro của dự án cho đồng nghiệp, nhưng hồ sơ hiện có chỉ gồm các đoạn trò chuyện và ảnh chụp màn hình rời rạc.”
 
-### 2. 用自己的话复述
+### 2. Diễn đạt lại bằng lời của mình
 
-合上页面，用不超过三句话写：
+Gập trang lại, viết không quá ba câu:
 
 ```markdown
 我理解的核心判断：
@@ -49,11 +49,11 @@ updated: 2026-09-02
 它仍然不能替我证明什么：
 ```
 
-如果只能复制原句，先不要急着评价好坏。写下“我还不能用自己的话说明”，这会比一段漂亮摘抄更准确。
+Nếu chỉ có thể sao chép nguyên văn, trước hết đừng vội đánh giá hay dở. Hãy viết “Tôi vẫn chưa thể giải thích bằng lời của mình”; điều này sẽ chính xác hơn một đoạn trích dẫn trau chuốt.
 
-### 3. 做一个最小行动
+### 3. Thực hiện một hành động tối thiểu
 
-选择一个 10–45 分钟可以结束的动作。动作必须留下可查看的痕迹。
+Chọn một hành động có thể hoàn thành trong 10–45 phút. Hành động đó phải để lại dấu vết có thể kiểm tra.
 
 ```markdown
 我要完成的最小动作：
@@ -64,9 +64,9 @@ updated: 2026-09-02
 停止条件：
 ```
 
-可用动作包括：重写一封邮件、录一段说明、修复一个测试、建立一页学习状态、删除一项无效要求，或向一个受影响的人确认边界。继续收藏资料不算行动。
+Các hành động có thể thực hiện gồm: viết lại một email, ghi âm một đoạn giải thích, sửa một bài kiểm thử, lập một trang theo dõi tình trạng học tập, xóa một yêu cầu không hiệu quả, hoặc xác nhận ranh giới với một người bị ảnh hưởng. Tiếp tục lưu thêm tài liệu không được tính là hành động.
 
-### 4. 保存即时结果
+### 4. Lưu lại kết quả tức thời
 
 ```markdown
 实际完成了什么：
@@ -77,13 +77,13 @@ updated: 2026-09-02
 下一次复测日期：
 ```
 
-即时顺利只能说明这一次在当前条件下发生了什么。若使用 AI，请把辅助版和关闭 AI 后的独立版分开保存。
+Việc diễn ra suôn sẻ ngay lập tức chỉ cho biết điều gì đã xảy ra trong lần này và với các điều kiện hiện tại. Nếu sử dụng AI, hãy lưu riêng bản có hỗ trợ và bản độc lập sau khi tắt AI.
 
-## 第二次填写：三到七天后
+## Lần điền thứ hai: Sau ba đến bảy ngày
 
-### 5. 不重读，先复测
+### 5. Kiểm tra lại trước, không đọc lại
 
-先不要打开原章节、聊天记录或答案。完成一个相近任务，再填写：
+Trước tiên đừng mở chương gốc, lịch sử trò chuyện hay câu trả lời. Hãy hoàn thành một nhiệm vụ tương tự, rồi điền:
 
 ```markdown
 复测日期与间隔：
@@ -95,21 +95,21 @@ updated: 2026-09-02
 证据位置：
 ```
 
-如果完全记不起来，也不要把失败改成“最近太忙”。先记录事实，再决定任务是否过大、入口是否不清，或内容只制造了短期认同。
+Nếu hoàn toàn không nhớ gì, cũng đừng biến thất bại thành “Gần đây tôi quá bận”. Trước hết hãy ghi lại sự thật, rồi quyết định xem nhiệm vụ có quá lớn không, lối vào có rõ ràng không, hay nội dung chỉ tạo ra sự đồng tình trong ngắn hạn.
 
-### 6. 换一个条件
+### 6. Thay đổi một điều kiện
 
-迁移只改变一个条件即可：主题、受众、时间限制、材料、工具权限或任务目的。
+Khi chuyển đổi bối cảnh, chỉ cần thay đổi một điều kiện: chủ đề, đối tượng, giới hạn thời gian, tài liệu, quyền sử dụng công cụ hoặc mục đích của nhiệm vụ.
 
-| 改变的条件 | 新任务 | 独立结果 | 失败在哪里 | 下一步 |
+| Điều kiện thay đổi | Nhiệm vụ mới | Kết quả độc lập | Thất bại ở đâu | Bước tiếp theo |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
-迁移失败不是差评。它能指出一个方法的适用边界，也能帮助作者区分“句子听起来正确”和“读者真的能够使用”。
+Chuyển đổi thất bại không phải là một đánh giá tiêu cực. Nó có thể chỉ ra ranh giới áp dụng của một phương pháp, đồng thời giúp tác giả phân biệt giữa “câu chữ nghe có vẻ đúng” và “độc giả thực sự có thể sử dụng”.
 
-### 7. 写出对书稿的反馈
+### 7. Viết phản hồi về bản thảo
 
-请尽量指向具体段落、标题、例子或工具：
+Hãy cố gắng chỉ rõ đoạn văn, tiêu đề, ví dụ hoặc công cụ cụ thể:
 
 ```markdown
 最帮助我行动的一处：
@@ -120,39 +120,39 @@ updated: 2026-09-02
 我希望下一版回答的问题：
 ```
 
-“写得很好”让作者开心，却很难改变下一版。“我按第三步做了，但不知道完成标准怎么写”更有编辑价值。
+“Viết rất hay” khiến tác giả vui, nhưng khó giúp thay đổi phiên bản tiếp theo. “Tôi đã làm theo bước thứ ba, nhưng không biết phải viết tiêu chuẩn hoàn thành như thế nào” có giá trị biên tập hơn.
 
-## 把事实、解释和愿望分开
+## Tách bạch sự thật, cách diễn giải và mong muốn
 
-分享前，检查三层是否混在一起：
+Trước khi chia sẻ, hãy kiểm tra xem ba tầng có bị trộn lẫn hay không:
 
-| 层 | 示例 |
+| Tầng | Ví dụ |
 | --- | --- |
-| 事实 | 我在七天后没有看原文，完成了两项要求，第三项需要提示 |
-| 解释 | 可能因为示例让我记住了结构，但边界部分仍然抽象 |
-| 愿望 | 我希望下一版增加一个完整填写样例 |
+| Sự thật | Sau bảy ngày, tôi không xem lại bản gốc, đã hoàn thành hai yêu cầu, còn yêu cầu thứ ba cần có gợi ý |
+| Cách diễn giải | Có thể vì ví dụ giúp tôi ghi nhớ cấu trúc, nhưng phần ranh giới vẫn còn trừu tượng |
+| Mong muốn | Tôi hy vọng phiên bản tiếp theo sẽ bổ sung một mẫu điền hoàn chỉnh |
 
-不要把一次个人结果写成“所有人都会有效”，也不要把一次失败写成“这个方法完全无用”。保留任务、条件和样本，结论才有边界。
+Đừng biến một kết quả cá nhân thành “mọi người đều sẽ thấy hiệu quả”, cũng đừng biến một lần thất bại thành “phương pháp này hoàn toàn vô dụng”. Giữ lại nhiệm vụ, điều kiện và mẫu quan sát thì kết luận mới có giới hạn rõ ràng.
 
-## 分享前的隐私门
+## Cánh cửa riêng tư trước khi chia sẻ
 
-只有全部通过，才考虑公开：
+Chỉ khi vượt qua tất cả các mục, bạn mới nên cân nhắc công khai:
 
-- [ ] 已删除密码、密钥、证件、精确地址和私人联系方式；
-- [ ] 已删除客户数据、公司机密、医疗记录和未公开财务信息；
-- [ ] 已删除不必要的第三方姓名、照片、关系与可识别细节；
-- [ ] 涉及他人的内容已经获得授权，或改写为不可识别的最少事实；
-- [ ] 已区分直接观察、个人解释与下一步假设；
-- [ ] 我接受这份记录可能长期公开并被搜索。
+- [ ] Đã xóa mật khẩu, khóa bảo mật, giấy tờ tùy thân, địa chỉ cụ thể và thông tin liên hệ riêng tư;
+- [ ] Đã xóa dữ liệu khách hàng, bí mật công ty, hồ sơ y tế và thông tin tài chính chưa công khai;
+- [ ] Đã xóa tên, ảnh, mối quan hệ và các chi tiết có thể nhận diện không cần thiết của bên thứ ba;
+- [ ] Nội dung liên quan đến người khác đã được cho phép, hoặc đã được viết lại thành những sự thật tối thiểu không thể nhận diện;
+- [ ] Đã phân biệt quan sát trực tiếp, cách diễn giải cá nhân và giả định cho bước tiếp theo;
+- [ ] Tôi chấp nhận rằng bản ghi này có thể được công khai lâu dài và xuất hiện trong kết quả tìm kiếm.
 
-若任何一项不能确认，就保留在私有笔记。作者不需要通过获得你的隐私来改进一本书。
+Nếu không thể xác nhận bất kỳ mục nào, hãy giữ lại trong ghi chú riêng tư. Tác giả không cần xâm phạm quyền riêng tư của bạn để cải thiện một cuốn sách.
 
-## 什么时候转入证据链
+## Khi nào chuyển sang chuỗi bằng chứng
 
-读者回执适合回答“这一次阅读有没有进入行动”。当同一能力需要比较多个样本、评分条件、延迟保持和跨场景迁移时，把记录转入[证据链模板](evidence-chain.md)。
+Phiếu phản hồi của độc giả phù hợp để trả lời câu hỏi “Lần đọc này có dẫn đến hành động hay không”. Khi cùng một năng lực cần được so sánh qua nhiều mẫu, các điều kiện chấm điểm, khả năng duy trì sau một khoảng trì hoãn và việc chuyển đổi giữa các bối cảnh, hãy chuyển bản ghi sang[mẫu chuỗi bằng chứng](evidence-chain.md).
 
-如果你需要看一份完整填写过程，先读[工具箱实战：让 AI 跨会话继续一项 90 天学习](toolkit-walkthrough.md)。它使用合成数据演示如何把学习状态、AI 任务、作品、复测和这张回执串起来。
+Nếu bạn cần xem một quy trình điền hoàn chỉnh, trước tiên hãy đọc[Thực hành với hộp công cụ: Để AI tiếp tục một quá trình học tập 90 ngày qua nhiều phiên](toolkit-walkthrough.md). Nội dung này dùng dữ liệu tổng hợp để minh họa cách kết nối tình trạng học tập, nhiệm vụ AI, sản phẩm, kiểm tra lại và phiếu phản hồi này.
 
-完成隐私检查后，可以选择提交[公开读者回执](https://github.com/byoungd/up/issues/new?template=reader-field-note.yml)。公开与否不会改变这次实践的价值。
+Sau khi hoàn tất kiểm tra quyền riêng tư, bạn có thể chọn gửi[phiếu phản hồi công khai của độc giả](https://github.com/byoungd/up/issues/new?template=reader-field-note.yml). Việc công khai hay không sẽ không làm thay đổi giá trị của lần thực hành này.
 
-相关入口：[案例篇：让这本书证明它的方法](../threads/part-5/book-as-proof.md) ｜ [工具箱总览](toolkit.md) ｜ [每周复盘](weekly-review.md)
+Lối vào liên quan: [Bài viết案例：Để cuốn sách này chứng minh phương pháp của nó](../threads/part-5/book-as-proof.md) ｜ [Tổng quan hộp công cụ](toolkit.md) ｜ [Tổng kết hằng tuần](weekly-review.md)

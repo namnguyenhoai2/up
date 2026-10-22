@@ -1,6 +1,6 @@
 ---
-title: Lộ trình thực hành: Khởi nghiệp, tính tự giác và AI
-description: Chọn lộ trình tiếng Anh, AI, khởi nghiệp hoặc tính tự giác dựa trên vấn đề hiện tại; dùng bốn tuần thực hành tối thiểu để tạo ra sản phẩm, phản hồi và quyết định bước tiếp theo.
+title: "Lộ trình thực hành: Khởi nghiệp, tính tự giác và AI"
+description: "Chọn lộ trình tiếng Anh, AI, khởi nghiệp hoặc tính tự giác dựa trên vấn đề hiện tại; dùng bốn tuần thực hành tối thiểu để tạo ra sản phẩm, phản hồi và quyết định bước tiếp theo."
 updated: 2026-09-19
 ---
 

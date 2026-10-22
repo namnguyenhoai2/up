@@ -1,14 +1,14 @@
 ---
-title: 语法证据卡：从规则识别到真实表达
-description: 用真实任务、原始样本、意义对比、错误影响、输出修订、延迟复测和迁移判断一个语法结构是否已经进入使用，而不是只记录规则和正确率。
+title: "Thẻ bằng chứng ngữ pháp: từ nhận diện quy tắc đến diễn đạt thực tế"
+description: "Dùng nhiệm vụ thực tế, mẫu nguyên bản, đối chiếu ý nghĩa, tác động của lỗi, chỉnh sửa đầu ra, kiểm tra lại sau một khoảng thời gian và đánh giá khả năng chuyển giao để xác định một cấu trúc ngữ pháp đã thực sự đi vào sử dụng hay chưa, thay vì chỉ ghi lại quy tắc và tỷ lệ chính xác."
 updated: 2026-09-02
 ---
 
-# 语法证据卡：从规则识别到真实表达
+# Thẻ bằng chứng ngữ pháp: từ nhận diện quy tắc đến diễn đạt thực tế
 
-这张卡每次只追踪一个高影响结构。复制到私有笔记，保留原始句子与修改理由。不要记录客户、公司、学校、医疗或第三方的敏感内容；使用合成事实或最小化片段练习。
+Mỗi lần, thẻ này chỉ theo dõi một cấu trúc có ảnh hưởng lớn. Hãy sao chép vào ghi chú riêng tư, giữ lại câu gốc và lý do chỉnh sửa. Không ghi lại nội dung nhạy cảm của khách hàng, công ty, trường học, y tế hoặc bên thứ ba; hãy sử dụng sự kiện tổng hợp hoặc các đoạn trích tối giản để luyện tập.
 
-## 1. 定义真实任务
+## 1. Xác định nhiệm vụ thực tế
 
 ```markdown
 日期：
@@ -19,7 +19,7 @@ updated: 2026-09-02
 原始样本位置：
 ```
 
-## 2. 找到一个结构问题
+## 2. Tìm một vấn đề về cấu trúc
 
 ```markdown
 我的原句/片段：
@@ -29,13 +29,13 @@ updated: 2026-09-02
 本轮只追踪的结构：
 ```
 
-| 样本 | 结构选择 | 表达的现实关系 | 是否符合任务 |
+| Mẫu | Lựa chọn cấu trúc | Mối quan hệ thực tế được diễn đạt | Có phù hợp với nhiệm vụ không |
 | --- | --- | --- | --- |
-| 原句 | | | |
-| 对比 A | | | |
-| 对比 B | | | |
+| Câu gốc | | | |
+| Đối chiếu A | | | |
+| Đối chiếu B | | | |
 
-## 3. 写一张意义对比卡
+## 3. Viết một thẻ đối chiếu ý nghĩa
 
 ```markdown
 我要表达的意义：
@@ -45,15 +45,15 @@ updated: 2026-09-02
 反例或适用边界：
 ```
 
-解释应回答“为什么这个形式适合这个事实”，而不是只复制术语定义。
+Phần giải thích cần trả lời câu hỏi “tại sao hình thức này phù hợp với sự việc này”, thay vì chỉ sao chép định nghĩa thuật ngữ.
 
-## 4. 保存修改与理由
+## 4. Lưu lại phần chỉnh sửa và lý do
 
-| 版本 | 条件 | 句子/输出位置 | 修改了什么 | 为什么 |
+| Phiên bản | Điều kiện | Vị trí câu/đầu ra | Đã chỉnh sửa gì | Tại sao |
 | --- | --- | --- | --- | --- |
-| 首版 | 无提示 | | | |
-| 修改版 | 看过讲解/反馈 | | | |
-| 独立重做 | 合上材料 | | | |
+| Bản đầu tiên | Không có gợi ý | | | |
+| Bản đã chỉnh sửa | Đã xem phần giải thích/phản hồi | | | |
+| Làm lại độc lập | Đã đóng tài liệu | | | |
 
 ```markdown
 修改后对方如何理解：
@@ -61,18 +61,18 @@ updated: 2026-09-02
 被建议但我没有采纳的风格修改：
 ```
 
-## 5. 在四项能力中调用
+## 5. Vận dụng trong bốn năng lực
 
-| 能力 | 小任务 | 结果 | 证据 |
+| Năng lực | Nhiệm vụ nhỏ | Kết quả | Bằng chứng |
 | --- | --- | --- | --- |
-| 听力 | 听出同一结构承担的关系 | | |
-| 阅读 | 标出范围、指向或逻辑连接 | | |
-| 口语 | 限时使用并在出错后修复 | | |
-| 写作 | 比较两个版本对读者理解的影响 | | |
+| Nghe | Nghe ra mối quan hệ mà cùng một cấu trúc đảm nhiệm | | |
+| Đọc | Đánh dấu phạm vi, quy chiếu hoặc mối liên kết logic | | |
+| Nói | Sử dụng trong thời gian giới hạn và sửa lỗi sau khi mắc lỗi | | |
+| Viết | So sánh ảnh hưởng của hai phiên bản đối với sự hiểu của người đọc | | |
 
-不必每轮都完成四项。至少保留一项输入观察和一项主动输出。
+Không nhất thiết phải hoàn thành cả bốn năng lực trong mỗi vòng. Ít nhất hãy lưu lại một quan sát đầu vào và một lần chủ động tạo đầu ra.
 
-## 6. AI 与反馈记录
+## 6. Ghi chép về AI và phản hồi
 
 ```markdown
 工具/反馈者与日期：
@@ -83,13 +83,13 @@ updated: 2026-09-02
 我采纳/拒绝什么，为什么：
 ```
 
-## 7. 延迟复测
+## 7. Kiểm tra lại sau một khoảng thời gian
 
-| 时间点 | 提示条件 | 新任务 | 独立选择 | 结果 |
+| Thời điểm | Điều kiện gợi ý | Nhiệm vụ mới | Lựa chọn độc lập | Kết quả |
 | --- | --- | --- | --- | --- |
-| 第 1 天 | 原任务、无提示 | | | |
-| 第 3–7 天 | 撤掉规则与原答案 | 平行主题 | | |
-| 第 14 天 | 新受众或时间压力 | 迁移任务 | | |
+| Ngày 1 | Nhiệm vụ gốc, không có gợi ý | | | |
+| Ngày 3–7 | Bỏ quy tắc và đáp án ban đầu | Chủ đề song song | | |
+| Ngày 14 | Đối tượng tiếp nhận mới hoặc áp lực thời gian | Nhiệm vụ chuyển giao | | |
 
 ```markdown
 第 7 天仍然保留的判断：
@@ -97,17 +97,17 @@ updated: 2026-09-02
 换条件后失败在哪里：
 ```
 
-## 8. 评分与去留
+## 8. Chấm điểm và quyết định giữ hay loại
 
-每项 0–2：`0=未完成`，`1=依赖提示或不稳定`，`2=当前条件下完成`。
+Mỗi mục 0–2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
 
-| 项目 | 第 1 天 | 第 7 天 | 第 14 天 | 证据理由 |
+| Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | --- |
-| 能说明形式与意义差异 | | | | |
-| 能在新句子中识别 | | | | |
-| 能在输出中调用 | | | | |
-| 出错后能自我修复 | | | | |
-| 不再持续改变关键意思 | | | | |
+| Có thể giải thích sự khác biệt giữa hình thức và ý nghĩa | | | | |
+| Có thể nhận diện trong câu mới | | | | |
+| Có thể vận dụng trong đầu ra | | | | |
+| Có thể tự sửa sau khi mắc lỗi | | | | |
+| Không còn liên tục làm thay đổi ý nghĩa then chốt | | | | |
 
 ```markdown
 当前最支持：继续同一结构 / 增加变式 / 转向另一问题 / 暂停
@@ -117,4 +117,4 @@ updated: 2026-09-02
 下一次复查日期：
 ```
 
-相关章节：[语法篇：让结构服务于意思](../threads/part-1/grammar.md) ｜ [认知与训练原则](../threads/part-1/1-understanding.md) ｜ [证据链模板](evidence-chain.md)
+Các chương liên quan: [Phần ngữ pháp: để cấu trúc phục vụ ý nghĩa](../threads/part-1/grammar.md) ｜ [Nguyên tắc nhận thức và luyện tập](../threads/part-1/1-understanding.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

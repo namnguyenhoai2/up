@@ -1,16 +1,16 @@
 ---
-title: 学习状态模板
-description: 用一页状态文件保存目标、基线、完成内容、错误证据与下一步，让人和 AI 都能跨会话继续工作。
+title: "Mẫu trạng thái học tập"
+description: "Dùng một tệp trạng thái duy nhất để lưu mục tiêu, đường cơ sở, nội dung đã hoàn thành, bằng chứng về lỗi và bước tiếp theo. Cả con người lẫn AI đều có thể tiếp tục công việc qua nhiều phiên."
 updated: 2026-10-06
 ---
 
-# 学习状态模板
+# Mẫu trạng thái học tập
 
-复制下列模板到自己的私有笔记。它是跨会话的事实源，不是展示自律的日记。不要写入密码、证件、精确住址、医疗隐私或未获授权的第三方信息。
+Sao chép mẫu dưới đây vào ghi chú riêng tư của bạn. Đây là nguồn sự thật dùng xuyên suốt các phiên, không phải nhật ký thể hiện tính kỷ luật. Không ghi mật khẩu, giấy tờ tùy thân, địa chỉ chính xác, thông tin riêng tư về y tế hoặc thông tin của bên thứ ba khi chưa được cho phép.
 
-## 如果今天只有五分钟
+## Nếu hôm nay chỉ có năm phút
 
-不要先把整张表填完。复制下面的最小版本，写完就去做动作；只有当任务需要跨会话、交接或复盘时，再补充完整模板。
+Đừng vội điền đầy đủ cả bảng. Hãy sao chép phiên bản tối thiểu bên dưới, viết xong rồi bắt tay vào hành động; chỉ bổ sung mẫu đầy đủ khi nhiệm vụ cần tiếp tục qua nhiều phiên, bàn giao hoặc xem xét lại.
 
 ```markdown
 # Learning State — minimum
@@ -23,7 +23,7 @@ updated: 2026-10-06
 我不会上传或公开的内容：
 ```
 
-最小版本的完成标准是：另一个未来的自己能看懂现在要解决什么、已经知道什么、下一步做什么，以及哪些边界不能越过。它不是完整计划，也不能替代独立复测；它只是让行动先发生。
+Tiêu chuẩn hoàn thành của phiên bản tối thiểu là: một phiên bản tương lai khác của chính bạn có thể hiểu hiện tại cần giải quyết điều gì, đã biết những gì, bước tiếp theo là gì và những ranh giới nào không được vượt qua. Đây không phải là kế hoạch hoàn chỉnh, cũng không thể thay thế việc kiểm tra lại một cách độc lập; nó chỉ giúp hành động diễn ra trước.
 
 ```markdown
 # Learning State
@@ -86,7 +86,7 @@ updated: 2026-10-06
 5. 下次复查日期：
 ```
 
-## AI 跨会话恢复提示词
+## Lời nhắc khôi phục AI qua nhiều phiên
 
 ```text
 下面是我的学习状态文件。先用不超过 6 条要点复述状态版本、目标、当前证据、主要错误、边界和下一步，指出信息冲突或缺口，不要假装记得其他会话，也不要补写文件里没有的事实。然后只为“下一项最小任务”设计一次练习：先让我作答，再按完成标准反馈；除非我请求，不要直接给完整答案。结束时输出可粘贴回状态文件的“本次完成、证据、错误/风险、交接、下一步”五项更新。
@@ -94,4 +94,4 @@ updated: 2026-10-06
 [粘贴 Learning State]
 ```
 
-AI 生成的状态摘要不是事实来源。每次恢复时都以你保存的文件、作品、来源和版本号为准；完成一次周复盘后，按文件职责更新[每周复盘](weekly-review.md)、[证据链](evidence-chain.md)和[九十日行动总表](90-day-cycle.md)，不要复制同一段记录。
+Bản tóm tắt trạng thái do AI tạo ra không phải là nguồn sự thật. Mỗi lần khôi phục, hãy lấy tệp, sản phẩm, nguồn và số phiên bản bạn đã lưu làm chuẩn; sau khi hoàn thành một lần xem xét hằng tuần, hãy cập nhật [bản xem xét hằng tuần](weekly-review.md), [chuỗi bằng chứng](evidence-chain.md) và [bảng hành động chín mươi ngày](90-day-cycle.md) theo đúng chức năng của từng tệp, đừng sao chép cùng một đoạn ghi chép.

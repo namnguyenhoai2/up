@@ -1,16 +1,16 @@
 ---
-title: 英语能力诊断：四项基线与迁移记录
-description: 在同一真实主题下保存听说读写首版、条件、错误、反馈、延迟复测与 CEFR 方向，避免用平均分或润色成品代替能力证据。
+title: "Chẩn đoán năng lực tiếng Anh: đường cơ sở và hồ sơ chuyển giao của bốn kỹ năng"
+description: "Lưu lại phiên bản đầu tiên, điều kiện, lỗi, phản hồi, kiểm tra lại sau một khoảng trì hoãn và định hướng CEFR của nghe, nói, đọc, viết trong cùng một chủ đề thực tế; tránh dùng điểm trung bình hoặc sản phẩm đã được trau chuốt để thay thế cho bằng chứng về năng lực."
 updated: 2026-10-19
 ---
 
-# 英语能力诊断：四项基线与迁移记录
+# Chẩn đoán năng lực tiếng Anh: đường cơ sở và hồ sơ chuyển giao của bốn kỹ năng
 
-这是完整的四项诊断工作表，不是五分钟起步任务，也不是一次把人钉在 A1-C2 上的考试。只想先开始时，去[英语诊断入口](../topics/english-diagnostic.md)任选一项完成五分钟单项基线。需要整体诊断时，选一个真实主题，在相近时间和明确限制下完成听、读、说、写的首版；保存原始样本，分别记录障碍，七天后撤掉最近提示做平行任务，三十天后重复一项真实交付。
+Đây là phiếu công tác chẩn đoán đầy đủ cho bốn kỹ năng, không phải nhiệm vụ khởi động trong năm phút, cũng không phải bài thi gắn một người cố định vào mức A1-C2 chỉ trong một lần. Nếu chỉ muốn bắt đầu, hãy vào [cổng chẩn đoán tiếng Anh](../topics/english-diagnostic.md) và chọn một kỹ năng để hoàn thành đường cơ sở trong năm phút. Khi cần chẩn đoán tổng thể, hãy chọn một chủ đề thực tế, hoàn thành phiên bản đầu tiên của nghe, đọc, nói, viết trong khoảng thời gian tương tự và với các giới hạn rõ ràng; lưu mẫu nguyên bản, ghi lại riêng từng trở ngại, sau bảy ngày bỏ các gợi ý gần đây nhất và thực hiện một nhiệm vụ song song, sau ba mươi ngày lặp lại một sản phẩm thực tế.
 
-把这张卡复制到私有笔记中。不要写入密码、客户资料、证件、医疗隐私、未授权的第三方内容或禁止记录的考试材料。
+Hãy sao chép thẻ này vào ghi chú riêng tư. Không ghi mật khẩu, thông tin khách hàng, giấy tờ tùy thân, thông tin y tế riêng tư, nội dung của bên thứ ba chưa được cho phép hoặc tài liệu thi cấm ghi chép.
 
-## 1. 先定义诊断边界
+## 1. Xác định ranh giới chẩn đoán trước
 
 ```markdown
 # English Diagnostic - YYYY-MM-DD
@@ -29,41 +29,41 @@ updated: 2026-10-19
 第 12 周真实任务日期：
 ```
 
-四项不必使用完全同一种材料，但要让主题、难度、时间和完成标准可比较。若真实目标是岗位，不要让一个综合等级替代岗位描述中的具体语言动作。
+Bốn kỹ năng không nhất thiết phải sử dụng hoàn toàn cùng một loại tài liệu, nhưng chủ đề, độ khó, thời gian và tiêu chuẩn hoàn thành phải có tính so sánh. Nếu mục tiêu thực tế là công việc, đừng để một cấp độ tổng hợp thay thế cho các hành động ngôn ngữ cụ thể được mô tả trong yêu cầu công việc.
 
-## 2. 四项首版任务
+## 2. Nhiệm vụ phiên bản đầu tiên của bốn kỹ năng
 
-第一版尽量不查词、不让 AI 代写或代答。先完成，再标出哪里需要帮助。
+Ở phiên bản đầu tiên, cố gắng không tra từ, không nhờ AI viết hoặc trả lời thay. Hãy hoàn thành trước, sau đó đánh dấu những chỗ cần trợ giúp.
 
-| 能力 | 建议首版 | 最低交付 |
+| Kỹ năng | Phiên bản đầu tiên được đề xuất | Sản phẩm tối thiểu |
 | --- | --- | --- |
-| 听力 | 听 2-4 分钟真实音频一次 | 写主旨、3 个确定细节、责任/下一步并复述 60 秒 |
-| 阅读 | 读 600-1000 词真实文本 | 写五句主线、一个证据位置、一个质疑或未知 |
-| 口语 | 不看稿录 2 分钟解释、经历或流程 | 听众能复述目的、关键事实和下一步 |
-| 写作 | 20 分钟完成 180-250 词邮件、说明或短文 | 受众知道结论、依据、限制和行动 |
+| Nghe | Nghe một lần đoạn âm thanh thực tế dài 2-4 phút | Viết chủ đề chính, 3 chi tiết chắc chắn, trách nhiệm/bước tiếp theo và tóm tắt lại trong 60 giây |
+| Đọc | Đọc văn bản thực tế dài 600-1000 từ | Viết năm câu về mạch chính, một vị trí bằng chứng, một điểm nghi vấn hoặc điều chưa biết |
+| Nói | Không nhìn稿, ghi âm 2 phút giải thích, kể trải nghiệm hoặc trình bày quy trình | Người nghe có thể nhắc lại mục đích, sự kiện chính và bước tiếp theo |
+| Viết | Hoàn thành trong 20 phút một email, bản giải thích hoặc bài viết ngắn dài 180-250 từ | Người đọc biết kết luận, căn cứ, giới hạn và hành động cần thực hiện |
 
-不要为了让四项“公平”而削掉真实任务的差异。诊断要显示能力在哪些条件下工作，而不是制造一张漂亮的平均表。
+Đừng cắt giảm sự khác biệt giữa các nhiệm vụ thực tế chỉ để làm cho bốn kỹ năng “công bằng”. Chẩn đoán cần cho thấy năng lực hoạt động trong những điều kiện nào, chứ không phải tạo ra một bảng điểm trung bình đẹp mắt.
 
-## 2A. 按需记录协作维度
+## 2A. Ghi nhận các khía cạnh cộng tác khi cần
 
-如果你的目标包含远程协作、客户沟通、课堂讨论或家庭学习，再补做下面的任务。它们不是新的等级，也不必每次都测；只在现实中确实影响结果时保存证据。
+Nếu mục tiêu của bạn bao gồm cộng tác từ xa, giao tiếp với khách hàng, thảo luận trên lớp hoặc học tập gia đình, hãy làm thêm các nhiệm vụ dưới đây. Đây không phải là cấp độ mới và cũng không cần kiểm tra mỗi lần; chỉ lưu bằng chứng khi chúng thực sự ảnh hưởng đến kết quả trong thực tế.
 
-| 任务维度 | 10–15 分钟样本 | 证据位置与结果 |
+| Khía cạnh nhiệm vụ | Mẫu 10–15 phút | Vị trí bằng chứng và kết quả |
 | --- | --- | --- |
-| 转述与调解 | 读两段立场不同的短材料，说明各自主张、差异和未知 | 听众能分清原文、你的转述和你的推断； |
-| 在线互动 | 写一条进展、一项阻塞和下一步，让对方无需开会也能继续 | 对方知道负责人、时间和缺失信息； |
-| 误解修复 | 请求澄清，再复述共识与未决问题 | 对方确认复述准确，下一步没有因猜测改变； |
+| Tường thuật và điều phối | Đọc hai tài liệu ngắn có quan điểm khác nhau, trình bày lập luận, điểm khác biệt và điều chưa biết của mỗi bên | Người nghe có thể phân biệt nguyên văn, phần tường thuật của bạn và suy luận của bạn; |
+| Tương tác trực tuyến | Viết một cập nhật tiến độ, một điểm bị đình trệ và bước tiếp theo để đối phương có thể tiếp tục mà không cần họp | Đối phương biết người phụ trách, thời hạn và thông tin còn thiếu; |
+| Khắc phục hiểu lầm | Yêu cầu làm rõ, sau đó nhắc lại điểm thống nhất và các vấn đề còn bỏ ngỏ | Đối phương xác nhận phần nhắc lại là chính xác, bước tiếp theo không thay đổi vì suy đoán; |
 
-若其中一项是高风险环节，不要用口语或写作分数替代它。把样本、听众反馈和下一次平行任务一起保存。
+Nếu một trong các khía cạnh này là mắt xích có rủi ro cao, đừng dùng điểm nói hoặc viết để thay thế cho nó. Hãy lưu cùng nhau mẫu, phản hồi của người nghe và nhiệm vụ song song tiếp theo.
 
-## 3. 保存首版与条件
+## 3. Lưu phiên bản đầu tiên và các điều kiện
 
-| 能力 | 首版位置 | 开始/结束 | 工具与提示 | 完成/未完成 | 我最不确定什么 |
+| Kỹ năng | Vị trí phiên bản đầu tiên | Bắt đầu/kết thúc | Công cụ và gợi ý | Hoàn thành/chưa hoàn thành | Điều tôi không chắc chắn nhất |
 | --- | --- | --- | --- | --- | --- |
-| 听力 | | | | | |
-| 阅读 | | | | | |
-| 口语 | | | | | |
-| 写作 | | | | | |
+| Nghe | | | | | |
+| Đọc | | | | | |
+| Nói | | | | | |
+| Viết | | | | | |
 
 ```markdown
 首版之后我仍能独立说明的内容：
@@ -71,39 +71,39 @@ updated: 2026-10-19
 不能从首版推出的结论：
 ```
 
-## 4. 按影响评分，不按感觉评分
+## 4. Chấm điểm theo mức độ ảnh hưởng, không theo cảm giác
 
-每项 `0-2` 分：`0=没有证据或未完成`，`1=部分完成、依赖提示或不稳定`，`2=在当前条件下独立完成`。每个分数都写证据位置。
+Mỗi mục `0-2` điểm: `0=没有证据或未完成`, `1=部分完成、依赖提示或不稳定`, `2=在当前条件下独立完成`. Với mỗi điểm, hãy ghi rõ vị trí bằng chứng.
 
-| 能力 | 任务完成 | 可理解度 | 准确与范围 | 组织/流畅 | 独立与迁移 | 证据理由 |
+| Kỹ năng | Hoàn thành nhiệm vụ | Mức độ dễ hiểu | Độ chính xác và phạm vi | Tổ chức/lưu loát | Tính độc lập và chuyển giao | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| 听力 | | | | | | |
-| 阅读 | | | | | | |
-| 口语 | | | | | | |
-| 写作 | | | | | | |
+| Nghe | | | | | | |
+| Đọc | | | | | | |
+| Nói | | | | | | |
+| Viết | | | | | | |
 
-### 分数解释
+### Giải thích điểm số
 
-- **任务完成**：信息和意图是否到达，动作是否能继续；
-- **可理解度**：真实读者/听众是否无需过度猜测；
-- **准确与范围**：词汇、语法、发音、拼写和细节是否支持任务；
-- **组织/流畅**：结构、顺序、停顿或版面是否妨碍使用；
-- **独立与迁移**：撤掉最近提示、改变一个条件后能否再次完成。
+- **Hoàn thành nhiệm vụ**: thông tin và ý định có được truyền đạt không, hành động có thể tiếp tục không;
+- **Mức độ dễ hiểu**: người đọc/người nghe thực tế có cần suy đoán quá nhiều không;
+- **Độ chính xác và phạm vi**: từ vựng, ngữ pháp, phát âm, chính tả và chi tiết có hỗ trợ nhiệm vụ không;
+- **Tổ chức/lưu loát**: cấu trúc, trình tự, khoảng ngừng hoặc bố cục có gây trở ngại cho việc sử dụng không;
+- **Tính độc lập và chuyển giao**: sau khi bỏ các gợi ý gần đây nhất và thay đổi một điều kiện, có thể hoàn thành lại không.
 
-总分只用于同一个人的纵向比较，不是人格、智力或录用资格。CEFR 方向请结合[CEFR 目标与英语能力自测](../threads/part-1/0-cefr.md)，不要把一次诊断写成永久等级。
+Tổng điểm chỉ dùng để so sánh theo chiều dọc của cùng một người, không phải là thước đo nhân cách, trí tuệ hay tư cách tuyển dụng. Về định hướng CEFR, hãy kết hợp [mục tiêu CEFR và bài tự đánh giá năng lực tiếng Anh](../threads/part-1/0-cefr.md), đừng biến một lần chẩn đoán thành cấp độ vĩnh viễn.
 
-## 5. 为每项只选一个首要障碍
+## 5. Chỉ chọn một trở ngại chính cho mỗi kỹ năng
 
-| 能力 | 首要障碍 | 样本/时间段 | 任务影响 | 下一项最小修复 | 对应证据卡 |
+| Kỹ năng | Trở ngại chính | Mẫu/khoảng thời gian | Ảnh hưởng đến nhiệm vụ | Khắc phục tối thiểu tiếp theo | Thẻ bằng chứng tương ứng |
 | --- | --- | --- | --- | --- | --- |
-| 听力 | 词汇 / 声音 / 句法 / 背景 / 注意 / 设备 | | | | [听力证据卡](listening-audit.md) |
-| 阅读 | 词汇 / 结构 / 背景 / 证据 / 版面 / 容量 | | | | [阅读证据卡](reading-evidence.md) |
-| 口语 | 词块 / 发音 / 组织 / 互动 / 语域 / 追问 | | | | [口语证据卡](speaking-evidence.md) |
-| 写作 | 任务 / 事实 / 结构 / 句子 / 语域 / 交付 | | | | [写作证据卡](writing-evidence.md) |
+| Nghe | Từ vựng / âm thanh / cú pháp / kiến thức nền / chú ý / thiết bị | | | | [Thẻ bằng chứng nghe](listening-audit.md) |
+| Đọc | Từ vựng / cấu trúc / kiến thức nền / bằng chứng / bố cục / dung lượng | | | | [Thẻ bằng chứng đọc](reading-evidence.md) |
+| Nói | Cụm từ cố định / phát âm / tổ chức / tương tác / ngữ vực / câu hỏi tiếp nối | | | | [Thẻ bằng chứng nói](speaking-evidence.md) |
+| Viết | Nhiệm vụ / sự kiện / cấu trúc / câu / ngữ vực / sản phẩm | | | | [Thẻ bằng chứng viết](writing-evidence.md) |
 
-若一个障碍无法指出样本或时间段，先不要把它当作结论。一个人可以“知道很多词”却在听力切分上失败，也可以语法准确却无法组织异步交接。
+Nếu không thể chỉ ra mẫu hoặc khoảng thời gian cho một trở ngại, trước hết đừng coi đó là kết luận. Một người có thể “biết rất nhiều từ” nhưng vẫn thất bại trong việc phân tách âm thanh khi nghe, cũng có thể chính xác về ngữ pháp nhưng không thể tổ chức một nội dung bàn giao không đồng bộ.
 
-## 6. 设计一次定向修复
+## 6. Thiết kế một lần khắc phục có định hướng
 
 ```markdown
 我只要修复的一个障碍：
@@ -115,16 +115,16 @@ updated: 2026-10-19
 哪条反馈会让我改变方案：
 ```
 
-顺序通常是：先保证意思和任务完成，再修事实与结构，之后处理高影响词汇、语法、发音或写作语域，最后才做不改变结果的风格细节。
+Trình tự thường là: trước tiên bảo đảm ý nghĩa và việc hoàn thành nhiệm vụ, sau đó sửa sự kiện và cấu trúc, tiếp theo xử lý từ vựng, ngữ pháp, phát âm hoặc ngữ vực viết có ảnh hưởng lớn, cuối cùng mới chỉnh các chi tiết phong cách không làm thay đổi kết quả.
 
-## 7. 延迟复测与迁移
+## 7. Kiểm tra lại sau một khoảng trì hoãn và chuyển giao
 
-| 时间 | 撤掉什么 | 改变什么 | 输出 | 结果/证据 |
+| Thời gian | Bỏ điều gì | Thay đổi điều gì | Sản phẩm đầu ra | Kết quả/bằng chứng |
 | --- | --- | --- | --- | --- |
-| 第 1 天 | 首版之后的答案 | 原条件 | 修复版 | |
-| 第 7 天 | 最近提示和旧句 | 平行主题或受众 | 同类任务 | |
-| 第 30 天 | 工具对话和批注 | 真实材料或时间压力 | 一项真实交付 | |
-| 第 12 周 | 旧任务与旧评分 | 目标岗位/课程/生活场景 | 完整任务 | |
+| Ngày 1 | Câu trả lời sau phiên bản đầu tiên | Điều kiện ban đầu | Phiên bản đã khắc phục | |
+| Ngày 7 | Gợi ý gần đây và câu cũ | Chủ đề hoặc đối tượng song song | Nhiệm vụ cùng loại | |
+| Ngày 30 | Cuộc hội thoại với công cụ và chú thích | Tài liệu thực tế hoặc áp lực thời gian | Một sản phẩm thực tế | |
+| Tuần 12 | Nhiệm vụ và điểm số cũ | Bối cảnh công việc/khóa học/cuộc sống mục tiêu | Nhiệm vụ hoàn chỉnh | |
 
 ```markdown
 第 7 天仍然能独立完成：
@@ -134,7 +134,7 @@ updated: 2026-10-19
 我不能从这次复测推出什么：
 ```
 
-## 8. 记录 AI、翻译和人工反馈
+## 8. Ghi lại phản hồi của AI, bản dịch và con người
 
 ```markdown
 工具 / 模型 / 版本与日期：
@@ -147,9 +147,9 @@ updated: 2026-10-19
 按学校、客户、雇主或考试规则需要怎样披露：
 ```
 
-模型答案、语音识别分数和润色终稿都不能单独证明能力。重要判断必须回到原始材料、实际回应和具名责任人。
+Câu trả lời của mô hình, điểm nhận dạng giọng nói và bản thảo cuối đã được trau chuốt đều không thể tự mình chứng minh năng lực. Những nhận định quan trọng phải quay về tài liệu nguyên bản, phản hồi thực tế và người chịu trách nhiệm được nêu tên.
 
-## 9. 形成下一周期决定
+## 9. Đưa ra quyết định cho chu kỳ tiếp theo
 
 ```markdown
 当前分项方向（不是永久等级）：
@@ -163,4 +163,4 @@ updated: 2026-10-19
 下一次复查日期：
 ```
 
-相关入口：[认知篇：把努力变成可验证的学习](../threads/part-1/1-understanding.md) ｜ [词汇证据卡](vocabulary-audit.md) ｜ [语法证据卡](grammar-evidence.md) ｜ [听力证据卡](listening-audit.md) ｜ [阅读证据卡](reading-evidence.md) ｜ [口语证据卡](speaking-evidence.md) ｜ [写作证据卡](writing-evidence.md) ｜ [证据链模板](evidence-chain.md)
+Lối vào liên quan: [Chuyên đề nhận thức: biến nỗ lực thành việc học có thể kiểm chứng](../threads/part-1/1-understanding.md) ｜ [Thẻ bằng chứng từ vựng](vocabulary-audit.md) ｜ [Thẻ bằng chứng ngữ pháp](grammar-evidence.md) ｜ [Thẻ bằng chứng nghe](listening-audit.md) ｜ [Thẻ bằng chứng đọc](reading-evidence.md) ｜ [Thẻ bằng chứng nói](speaking-evidence.md) ｜ [Thẻ bằng chứng viết](writing-evidence.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

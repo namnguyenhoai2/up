@@ -1,76 +1,76 @@
 ---
-title: 工具箱总览：先选问题，再选工具
+title: "Tổng quan về bộ công cụ: chọn vấn đề trước, rồi chọn công cụ"
 socialImage: /assets/social/templates-zh.png
-socialImageAlt: 从基线、练习、复测到下一步的实践模板
-description: 按起点、能力训练、AI 协作、作品交付、复盘与恢复分流全部模板，帮助读者用最少记录建立一次完整行动闭环。
+socialImageAlt: Các mẫu thực hành từ đường cơ sở, luyện tập, kiểm tra lại đến bước tiếp theo
+description: "Phân loại toàn bộ mẫu theo điểm xuất phát, rèn luyện năng lực, cộng tác với AI, bàn giao sản phẩm, nhìn lại và phục hồi, giúp người đọc tạo thành một vòng khép kín hành động hoàn chỉnh với số lần ghi chép tối thiểu."
 updated: 2026-10-04
 ---
 
-# 工具箱总览：先选问题，再选工具
+# Tổng quan về bộ công cụ: chọn vấn đề trước, rồi chọn công cụ
 
-模板不是另一套需要收集的课程。它们是几张可以反复使用的工作纸：把眼前的问题写清楚，留下一个未经修饰的样本，做一次行动，再让反馈决定下一步。
+Mẫu không phải là một bộ khóa học khác cần sưu tầm. Chúng là những phiếu làm việc có thể sử dụng nhiều lần: làm rõ vấn đề trước mắt, để lại một mẫu chưa qua chỉnh sửa, thực hiện một hành động, rồi để phản hồi quyết định bước tiếp theo.
 
-如果你不知道从哪里开始，只选一张。写得不完整也可以；一张真实使用过的工作纸，比十张空白模板更有价值。
+Nếu bạn không biết bắt đầu từ đâu, chỉ cần chọn một phiếu. Viết chưa đầy đủ cũng không sao; một phiếu đã được sử dụng thật sự có giá trị hơn mười mẫu còn để trống.
 
-## 先回答：我现在卡在哪里？
+## Trước tiên hãy trả lời: hiện tôi đang mắc kẹt ở đâu?
 
-| 当前卡点 | 第一个工具 | 接着打开 | 这张工具不能替你证明什么 |
+| Điểm mắc kẹt hiện tại | Công cụ đầu tiên | Mở tiếp | Công cụ này không thể chứng minh điều gì thay cho bạn |
 | --- | --- | --- | --- |
-| 工具很多，不知道实际怎样填写 | [工具箱实战](toolkit-walkthrough.md) | [学习状态](learning-state.md) | 合成示例不能证明同样的计划适合你 |
-| 不知道目标或基线 | [学习状态](learning-state.md) | [英语能力诊断](english-diagnostic.md) | 不能替你决定一个永远正确的方向 |
-| 准备海外岗位、英文面试或远程协作 | [求职英语证据卡](interview-evidence.md) | [求职英语篇](../threads/part-1/8-job-search-english.md) | 不能保证 offer，也不能把一个等级变成统一录用线 |
-| 想开始一个 90 天周期 | [九十日行动总表](90-day-cycle.md) | [节律账本](rhythm-ledger.md) | 不能保证计划一定成功或持续 |
-| 每周节奏反复中断 | [节律账本](rhythm-ledger.md) | [每周复盘](weekly-review.md) | 不能把疲惫、疾病或责任解释成懒惰 |
-| 有样本却说不清是否真的改变 | [证据链](evidence-chain.md) | [证据篇](../threads/part-3/5-evidence-and-transfer.md) | 不能把一次顺利表现推成稳定能力 |
-| 读完有感触，却不知道七天后是否留下什么 | [读者实践回执](reader-field-note.md) | [证据链](evidence-chain.md) | 不能把一次个人体验推成普遍效果 |
-| 正在帮助初中阶段的孩子学习 | [家庭学习共同协议](family-learning-agreement.md) | [家庭学习篇](../threads/part-4/family-learning.md) | 不能替孩子选择人生、替代学校或诊断困难 |
-| 单词认识却不会使用 | [词汇证据卡](vocabulary-audit.md) | [词汇篇](../threads/part-1/2-vocabulary.md) | 不能用卡片数量替代语境中的表现 |
-| 规则似乎懂了，真实表达仍反复出错 | [语法证据卡](grammar-evidence.md) | [语法篇](../threads/part-1/grammar.md) | 不能把一次改对、风格偏好或 AI 润色当成稳定语法能力 |
-| 收藏了很多音频，仍靠字幕或不知道每一遍做什么 | [听力证据卡](listening-audit.md) | [听力篇](../threads/part-1/3-listening.md) | 不能把播放时长、重复次数、字幕理解或跟读顺畅当成稳定听力 |
-| 技术文档读得慢、逐词翻译或读完无法交付 | [阅读证据卡](reading-evidence.md) | [阅读篇](../threads/part-1/4-reading.md) | 不能把页数、划线数量、翻译或工具摘要当成独立理解与验证 |
-| 只在背稿时流畅、害怕口音或遇到追问就卡住 | [口语证据卡](speaking-evidence.md) | [口语篇](../threads/part-1/5-speaking.md) | 不能把口音相似度、语音识别分数或一次重录当成稳定互动能力 |
-| 写不出自己的初稿、依赖整句翻译或只剩工具成品 | [写作证据卡](writing-evidence.md) | [写作篇](../threads/part-1/6-writing.md) | 不能把流畅终稿、自动评分或一次修订当成署名能力与迁移 |
-| 不知道怎样让 AI 参与 | [AI 任务简报](ai-task-brief.md) | [AI 学习记录](ai-learning-log.md) | 不能把模型回答自动变成事实或最终判断 |
-| 新工具太多，不知道该学什么 | [AI 趋势实验卡](ai-trend-radar.md) | [AI 趋势与学习路线](../threads/part-3/6-ai-trends-and-learning-roadmap.md) | 不能把发布演示或未来假设当成自己的任务收益 |
-| 有想法却没有可交付作品 | [作品简报与交付卡](artifact-brief.md) | [AI 项目评分卡](ai-project-scorecard.md) | 不能替你找到用户、承担责任或证明商业结果 |
-| 想分析一个人物或项目故事 | [AI 经历案例复盘](ai-case-review.md) | [叙事与证据篇](../threads/part-2/narrative-and-evidence.md) | 不能把公开叙事当成独立审计 |
-| 正在处理选择、注意力、关系或恢复 | [生活进阶工作表](life-practice-toolkit.md) | [选择篇](../threads/part-2/decision.md) · [注意力篇](../threads/part-3/3-attention-and-judgment.md) · [关系篇](../threads/part-2/relationships.md) · [恢复篇](../threads/part-2/recovery.md) | 不能替代医疗、心理、法律或财务专业支持 |
-| 想关心身边人、接受支持或重新分担生活负担 | [关心与分担卡](life-practice-toolkit.md) | [珍惜篇](../threads/part-2/care-and-carry-on.md) | 不能给爱打分，也不能要求别人承担超出意愿和容量的支持 |
-| 需要验证创业想法而非继续加功能 | [创业实验卡](startup-experiment.md) | [客户验证实操](../threads/practice/customer-discovery.md) | 不能把赞美、免费试用或一次付款当成可持续需求 |
-| 想排查启动困难或做一次中断重启 | [持续行动计划](consistency-plan.md) | [自律与坚持实操](../threads/practice/discipline-and-consistency.md) | 不能把一次中断解释成意志或人格失败 |
-| 要判断 AI 新版本能否交付 | [AI 评测记录](ai-evaluation.md) | [AI 评测与可靠性](../threads/practice/ai-evaluation.md) | 不能用小样本或人工修订后的正确率保证线上可靠性 |
+| Có quá nhiều công cụ, không biết điền trên thực tế như thế nào | [Thực hành với bộ công cụ](toolkit-walkthrough.md) | [Trạng thái học tập](learning-state.md) | Ví dụ tổng hợp không thể chứng minh cùng một kế hoạch phù hợp với bạn |
+| Không biết mục tiêu hoặc đường cơ sở | [Trạng thái học tập](learning-state.md) | [Chẩn đoán năng lực tiếng Anh](english-diagnostic.md) | Không thể quyết định thay bạn một hướng đi luôn đúng |
+| Chuẩn bị cho vị trí ở nước ngoài, phỏng vấn bằng tiếng Anh hoặc cộng tác từ xa | [Phiếu bằng chứng tiếng Anh xin việc](interview-evidence.md) | [Tiếng Anh xin việc](../threads/part-1/8-job-search-english.md) | Không thể bảo đảm bạn nhận được offer, cũng không thể biến một cấp độ thành tiêu chuẩn tuyển dụng thống nhất |
+| Muốn bắt đầu một chu kỳ 90 ngày | [Bảng tổng hợp hành động 90 ngày](90-day-cycle.md) | [Sổ cái nhịp độ](rhythm-ledger.md) | Không thể bảo đảm kế hoạch nhất định sẽ thành công hoặc được duy trì |
+| Nhịp độ hằng tuần liên tục bị gián đoạn | [Sổ cái nhịp độ](rhythm-ledger.md) | [Nhìn lại hằng tuần](weekly-review.md) | Không thể quy sự mệt mỏi, bệnh tật hoặc trách nhiệm thành sự lười biếng |
+| Có mẫu nhưng không nói rõ được liệu mình có thật sự thay đổi hay chưa | [Chuỗi bằng chứng](evidence-chain.md) | [Phần về bằng chứng](../threads/part-3/5-evidence-and-transfer.md) | Không thể suy rộng một lần thể hiện suôn sẻ thành năng lực ổn định |
+| Đọc xong có nhiều cảm nhận nhưng không biết bảy ngày sau còn lại điều gì | [Phiếu phản hồi thực hành của độc giả](reader-field-note.md) | [Chuỗi bằng chứng](evidence-chain.md) | Không thể suy rộng một trải nghiệm cá nhân thành hiệu quả phổ quát |
+| Đang hỗ trợ trẻ ở bậc trung học cơ sở học tập | [Thỏa thuận chung về việc học trong gia đình](family-learning-agreement.md) | [Phần về học tập trong gia đình](../threads/part-4/family-learning.md) | Không thể chọn cuộc đời thay trẻ, thay thế nhà trường hoặc chẩn đoán khó khăn |
+| Biết từ nhưng không biết sử dụng | [Phiếu bằng chứng từ vựng](vocabulary-audit.md) | [Phần về từ vựng](../threads/part-1/2-vocabulary.md) | Không thể dùng số lượng thẻ để thay thế khả năng thể hiện trong ngữ cảnh |
+| Có vẻ hiểu quy tắc nhưng khi diễn đạt thực tế vẫn liên tục mắc lỗi | [Phiếu bằng chứng ngữ pháp](grammar-evidence.md) | [Phần về ngữ pháp](../threads/part-1/grammar.md) | Không thể xem một lần sửa đúng, sở thích phong cách hoặc việc AI trau chuốt là năng lực ngữ pháp ổn định |
+| Đã lưu rất nhiều đoạn âm thanh nhưng vẫn phải dựa vào phụ đề hoặc không biết mỗi lượt nghe để làm gì | [Phiếu bằng chứng nghe](listening-audit.md) | [Phần về nghe](../threads/part-1/3-listening.md) | Không thể xem thời lượng phát, số lần lặp lại, mức hiểu phụ đề hoặc độ trôi chảy khi nhại theo là năng lực nghe ổn định |
+| Đọc tài liệu kỹ thuật chậm, dịch từng từ hoặc đọc xong vẫn không thể bàn giao | [Phiếu bằng chứng đọc](reading-evidence.md) | [Phần về đọc](../threads/part-1/4-reading.md) | Không thể xem số trang, số lượng gạch chân, bản dịch hoặc phần tóm tắt của công cụ là khả năng tự mình hiểu và kiểm chứng |
+| Chỉ trôi chảy khi học thuộc lời thoại, sợ giọng của mình hoặc bị khựng khi gặp câu hỏi truy vấn thêm | [Phiếu bằng chứng nói](speaking-evidence.md) | [Phần về nói](../threads/part-1/5-speaking.md) | Không thể xem độ tương đồng giọng, điểm nhận dạng giọng nói hoặc một lần thu lại là năng lực tương tác ổn định |
+| Không viết được bản nháp của mình, phụ thuộc vào bản dịch nguyên câu hoặc chỉ còn sản phẩm do công cụ tạo ra | [Phiếu bằng chứng viết](writing-evidence.md) | [Phần về viết](../threads/part-1/6-writing.md) | Không thể xem bản cuối trôi chảy, điểm tự động hoặc một lần chỉnh sửa là năng lực đứng tên và chuyển giao |
+| Không biết làm thế nào để AI tham gia | [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md) | [Nhật ký học tập với AI](ai-learning-log.md) | Không thể tự động biến câu trả lời của mô hình thành sự thật hoặc phán đoán cuối cùng |
+| Có quá nhiều công cụ mới, không biết nên học gì | [Phiếu thử nghiệm xu hướng AI](ai-trend-radar.md) | [Xu hướng AI và lộ trình học tập](../threads/part-3/6-ai-trends-and-learning-roadmap.md) | Không thể xem phần trình diễn khi ra mắt hoặc giả định về tương lai là lợi ích cho nhiệm vụ của chính mình |
+| Có ý tưởng nhưng không có sản phẩm có thể bàn giao | [Bản tóm tắt và phiếu bàn giao sản phẩm](artifact-brief.md) | [Phiếu chấm điểm dự án AI](ai-project-scorecard.md) | Không thể tìm người dùng thay bạn, gánh trách nhiệm hoặc chứng minh kết quả kinh doanh |
+| Muốn phân tích câu chuyện về một nhân vật hoặc dự án | [Nhìn lại trường hợp trải nghiệm với AI](ai-case-review.md) | [Phần về tự sự và bằng chứng](../threads/part-2/narrative-and-evidence.md) | Không thể xem lời kể công khai là một cuộc kiểm toán độc lập |
+| Đang xử lý việc lựa chọn, sự chú ý, các mối quan hệ hoặc phục hồi | [Phiếu làm việc nâng cao chất lượng cuộc sống](life-practice-toolkit.md) | [Phần về lựa chọn](../threads/part-2/decision.md) · [Phần về sự chú ý](../threads/part-3/3-attention-and-judgment.md) · [Phần về các mối quan hệ](../threads/part-2/relationships.md) · [Phần về phục hồi](../threads/part-2/recovery.md) | Không thể thay thế sự hỗ trợ chuyên môn về y tế, tâm lý, pháp lý hoặc tài chính |
+| Muốn quan tâm đến người bên cạnh, đón nhận sự hỗ trợ hoặc cùng gánh vác lại những trách nhiệm trong cuộc sống | [Phiếu quan tâm và cùng gánh vác](life-practice-toolkit.md) | [Phần về trân trọng](../threads/part-2/care-and-carry-on.md) | Không thể chấm điểm tình yêu, cũng không thể yêu cầu người khác cung cấp sự hỗ trợ vượt quá mong muốn và khả năng của họ |
+| Cần kiểm chứng ý tưởng khởi nghiệp thay vì tiếp tục bổ sung tính năng | [Phiếu thử nghiệm khởi nghiệp](startup-experiment.md) | [Thực hành kiểm chứng khách hàng](../threads/practice/customer-discovery.md) | Không thể xem lời khen, dùng thử miễn phí hoặc một lần thanh toán là nhu cầu bền vững |
+| Muốn tìm hiểu khó khăn khi bắt đầu hoặc thực hiện một lần khởi động lại sau gián đoạn | [Kế hoạch hành động bền bỉ](consistency-plan.md) | [Thực hành kỷ luật và kiên trì](../threads/practice/discipline-and-consistency.md) | Không thể giải thích một lần gián đoạn là thất bại của ý chí hoặc nhân cách |
+| Cần đánh giá liệu phiên bản AI mới có thể được đưa vào bàn giao hay không | [Nhật ký đánh giá AI](ai-evaluation.md) | [Đánh giá và độ tin cậy của AI](../threads/practice/ai-evaluation.md) | Không thể dùng độ chính xác trên mẫu nhỏ hoặc sau khi con người chỉnh sửa để bảo đảm độ tin cậy khi vận hành thực tế |
 
-## 把工具串成一次闭环
+## Kết nối các công cụ thành một vòng khép kín
 
-第一次使用工具箱时，可以先完整走一遍[跨会话 AI 学习合成案例](toolkit-walkthrough.md)。不要同时填写全部模板。按下面的顺序，每一步只留下最必要的一份证据：
+Lần đầu sử dụng bộ công cụ, bạn có thể đi trọn một vòng theo [trường hợp tổng hợp học tập với AI qua nhiều phiên](toolkit-walkthrough.md). Đừng điền tất cả các mẫu cùng lúc. Theo trình tự dưới đây, mỗi bước chỉ để lại một bằng chứng thiết yếu nhất:
 
-1. **定位**：用[学习状态](learning-state.md)或[英语能力诊断](english-diagnostic.md)写清真实场景、当前基线和完成标准；
-2. **选择**：如果周期较长，用[九十日行动总表](90-day-cycle.md)；如果只安排本周，用[节律账本](rhythm-ledger.md)；
-3. **练习**：按任务选择词汇、语法、听力、阅读、口语或写作证据卡；若目标是岗位面试，用[求职英语证据卡](interview-evidence.md)把陌生追问和异步写作一起纳入，先完成自己的第一版；
-4. **协作**：需要 AI 时，先填[AI 任务简报](ai-task-brief.md)，再把协作过程和关闭 AI 后的表现写进[AI 学习记录](ai-learning-log.md)；
-5. **交付**：有真实受众时使用[作品简报与交付卡](artifact-brief.md)，发布或试点后用[AI 项目评分卡](ai-project-scorecard.md)记录质量、成本、风险和回滚；
-6. **复查**：用[证据链](evidence-chain.md)把首版、即时表现、延迟保持与迁移放在一起，再用[每周复盘](weekly-review.md)决定只改变哪一个条件；
-7. **回执**：如果这次行动来自书中一章，用[读者实践回执](reader-field-note.md)记录哪一处真正进入行动、哪一处仍然不会用。
+1. **Định vị**: dùng [Trạng thái học tập](learning-state.md) hoặc [Chẩn đoán năng lực tiếng Anh](english-diagnostic.md) để viết rõ bối cảnh thực tế, đường cơ sở hiện tại và tiêu chuẩn hoàn thành;
+2. **Lựa chọn**: nếu chu kỳ tương đối dài, dùng [Bảng tổng hợp hành động 90 ngày](90-day-cycle.md); nếu chỉ sắp xếp cho tuần này, dùng [Sổ cái nhịp độ](rhythm-ledger.md);
+3. **Luyện tập**: tùy nhiệm vụ mà chọn phiếu bằng chứng từ vựng, ngữ pháp, nghe, đọc, nói hoặc viết; nếu mục tiêu là phỏng vấn xin việc, dùng [Phiếu bằng chứng tiếng Anh xin việc](interview-evidence.md) để đưa cả những câu hỏi truy vấn bất ngờ và bài viết không đồng bộ vào kế hoạch, trước tiên hãy hoàn thành phiên bản đầu tiên của chính mình;
+4. **Cộng tác**: khi cần AI, trước tiên điền [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md), sau đó ghi quá trình cộng tác và phần thể hiện sau khi tắt AI vào [Nhật ký học tập với AI](ai-learning-log.md);
+5. **Bàn giao**: khi có đối tượng tiếp nhận thực tế, sử dụng [Bản tóm tắt và phiếu bàn giao sản phẩm](artifact-brief.md); sau khi công bố hoặc thử nghiệm, dùng [Phiếu chấm điểm dự án AI](ai-project-scorecard.md) để ghi lại chất lượng, chi phí, rủi ro và phương án quay lui;
+6. **Kiểm tra lại**: dùng [Chuỗi bằng chứng](evidence-chain.md) để đặt phiên bản đầu tiên, phần thể hiện tức thời, khả năng duy trì sau một khoảng thời gian và khả năng chuyển giao cạnh nhau; sau đó dùng [Nhìn lại hằng tuần](weekly-review.md) để quyết định chỉ thay đổi một điều kiện nào;
+7. **Phản hồi**: nếu hành động lần này bắt nguồn từ một chương trong sách, dùng [Phiếu phản hồi thực hành của độc giả](reader-field-note.md) để ghi lại điều nào thật sự đã đi vào hành động và điều nào vẫn chưa biết sử dụng.
 
-这是一条可往返的路径。任何一步发现风险、容量下降或证据不足，都可以退回上一步缩小任务；退回不是浪费，而是让下一次行动更可信。
+Đây là một lộ trình có thể đi tới đi lui. Bất cứ bước nào phát hiện rủi ro, khả năng giảm sút hoặc bằng chứng chưa đủ, bạn đều có thể quay lại bước trước để thu nhỏ nhiệm vụ; quay lại không phải là lãng phí, mà là làm cho hành động tiếp theo đáng tin cậy hơn.
 
-## 三条使用规则
+## Ba quy tắc sử dụng
 
-### 只追踪会改变决定的内容
+### Chỉ theo dõi những gì sẽ làm thay đổi quyết định
 
-如果一个数字不能帮助你决定继续、降档、改变变量或停止，就不必长期记录。记录的目的不是让页面变满，而是让下一步变清楚。
+Nếu một con số không giúp bạn quyết định tiếp tục, hạ mức, thay đổi biến số hoặc dừng lại, thì không cần ghi chép lâu dài. Mục đích của việc ghi chép không phải là làm cho trang giấy đầy lên, mà là làm cho bước tiếp theo rõ ràng hơn.
 
-### 第一版必须尽量由人完成
+### Phiên bản đầu tiên nhất định phải do con người hoàn thành nhiều nhất có thể
 
-模板中的基线、首版和独立复测，应尽量在 AI 介入前或关闭 AI 后完成。工具可以帮助解释、比较和指出问题，但不能替你制造“我已经会了”的感觉。
+Đường cơ sở, phiên bản đầu tiên và lần kiểm tra lại độc lập trong mẫu nên được hoàn thành trước khi AI can thiệp hoặc sau khi tắt AI. Công cụ có thể giúp giải thích, so sánh và chỉ ra vấn đề, nhưng không thể tạo thay cho bạn cảm giác “mình đã biết rồi”.
 
-### 记录必须守住边界
+### Việc ghi chép phải giữ được ranh giới
 
-不要把密码、证件、精确住址、客户资料、医疗隐私或未授权的第三方内容粘贴进模板或模型。涉及健康、安全、法律、财务和持续失控时，先联系合格的专业人士或可信的支持者。
+Đừng dán mật khẩu, giấy tờ tùy thân, địa chỉ chính xác, thông tin khách hàng, dữ liệu y tế riêng tư hoặc nội dung của bên thứ ba chưa được cấp phép vào mẫu hay mô hình. Khi liên quan đến sức khỏe, an toàn, pháp lý, tài chính hoặc tình trạng mất kiểm soát kéo dài, hãy liên hệ trước với chuyên gia đủ điều kiện hoặc người hỗ trợ đáng tin cậy.
 
-## 一个最小开始
+## Một khởi đầu tối giản
 
-今天只做四行：
+Hôm nay chỉ cần làm bốn dòng:
 
 ```markdown
 我现在要解决的真实问题：
@@ -79,6 +79,6 @@ updated: 2026-10-04
 完成后我会把证据保存在：
 ```
 
-完成后，选择最贴近任务的一张工具，给它一个日期和下一次复查时间。不要等所有栏目都填满才开始；开始之后，缺口才会变得具体。
+Sau khi hoàn thành, chọn công cụ phù hợp nhất với nhiệm vụ, đặt cho nó một ngày và thời điểm kiểm tra lại tiếp theo. Đừng chờ đến khi điền đầy tất cả các mục mới bắt đầu; chỉ sau khi bắt đầu, những chỗ còn thiếu mới trở nên cụ thể.
 
-相关入口：[工具箱实战](toolkit-walkthrough.md) ｜ [阅读指南：把书放回生活](../threads/part-0/reader-guide.md) ｜ [术语与方法索引](../reference/glossary.md) ｜ [节律篇：让小事穿过时间](../threads/part-4/rhythm-and-compounding.md)
+Lối vào liên quan: [Thực hành với bộ công cụ](toolkit-walkthrough.md) ｜ [Hướng dẫn đọc: Đưa sách trở lại với cuộc sống](../threads/part-0/reader-guide.md) ｜ [Mục lục thuật ngữ và phương pháp](../reference/glossary.md) ｜ [Phần về nhịp độ: Để những việc nhỏ đi xuyên qua thời gian](../threads/part-4/rhythm-and-compounding.md)

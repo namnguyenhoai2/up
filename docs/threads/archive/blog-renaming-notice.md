@@ -1,14 +1,14 @@
 ---
-title: 博客临时更名公告
-description: 2016 年 5 月的一则短博客公告，按历史快照完整保存。
+title: Thông báo tạm thời đổi tên blog
+description: Một thông báo ngắn trên blog vào tháng 5 năm 2016, được lưu giữ đầy đủ theo bản chụp lịch sử.
 updated: 2026-08-31
 ---
 
-# 博客临时更名公告
+# Thông báo tạm thời đổi tên blog
 
-**编者说明（2026-08-31）：** 这只是一则 2016 年的历史改名公告，不代表当前站点的品牌、服务或备案状态。名称与链接如需核验，请以本书首页和项目披露页的现行信息为准。
+**Ghi chú của biên tập viên (2026-08-31):** Đây chỉ là một thông báo đổi tên trong lịch sử từ năm 2016, không phản ánh thương hiệu, dịch vụ hoặc tình trạng đăng ký hiện tại của trang. Nếu cần xác minh tên và liên kết, vui lòng căn cứ vào thông tin hiện hành trên trang chủ của cuốn sách và trang công bố dự án.
 
-> 原文日期：2016-05-21（按可恢复的 Wayback 快照标注）
-> 归档来源：[Wayback Machine 快照](https://web.archive.org/web/20160521100054/http://zb.gs/%E5%8D%9A%E5%AE%A2%E4%B8%B4%E6%97%B6%E6%9B%B4%E5%90%8D%E5%85%AC%E5%91%8A)
+> Ngày đăng nguyên bản: 2016-05-21 (ghi theo bản chụp Wayback có thể khôi phục)
+> Nguồn lưu trữ: [bản chụp Wayback Machine](https://web.archive.org/web/20160521100054/http://zb.gs/%E5%8D%9A%E5%AE%A2%E4%B8%B4%E6%97%B6%E6%9B%B4%E5%90%8D%E5%85%AC%E5%91%8A)
 
-本博客原名--“治病高手”，最近半个月为了配合备案，临时更名为直播公社，如带来困扰，我道歉。
+Blog này trước đây có tên là “Cao thủ chữa bệnh”; trong nửa tháng gần đây, để phối hợp làm thủ tục đăng ký, blog tạm thời đổi tên thành “Cộng đồng phát trực tiếp”. Nếu điều này gây bất tiện, tôi xin lỗi.

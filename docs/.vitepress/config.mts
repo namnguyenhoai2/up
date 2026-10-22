@@ -37,7 +37,7 @@ const socialImages: Record<string, { zh: string; en: string }> = {
   templates: { zh: "assets/social/templates-zh.png", en: "assets/social/templates-en.png" },
 };
 const defaultDescription =
-  "《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。";
+  "Cẩm nang Nâng cấp Cuộc sống giúp mọi người học tập liên tục, hoàn thành các dự án thực tế, vượt qua giai đoạn khó khăn và lưu lại bằng chứng trưởng thành trong thời đại AI.";
 const defaultDescriptionEn =
   "Life Level-up Guide helps ordinary people learn continuously, complete real projects, move through difficult seasons, and preserve evidence of growth in the AI era.";
 const editLinkPattern = "https://github.com/byoungd/up/edit/main/docs/:path";
@@ -243,7 +243,7 @@ const legacyHashRedirect = `
 
 export default defineConfig({
   lang: "zh-CN",
-  title: "人生进阶指南｜AI 时代终身学习",
+  title: "Cẩm nang Nâng cấp Cuộc sống | Học tập suốt đời trong thời đại AI",
   description: defaultDescription,
   base,
   cleanUrls: true,
@@ -303,80 +303,81 @@ export default defineConfig({
   ],
   locales: {
     root: {
-      label: "简体中文",
-      lang: "zh-CN",
-      title: "人生进阶指南｜AI 时代终身学习",
+      label: "Tiếng Việt",
+      // lang: "zh-CN",
+      lang: "vi-VN",
+      title: "Cẩm nang Nâng cấp Cuộc sống | Học tập suốt đời trong thời đại AI",
       description: defaultDescription,
       themeConfig: {
-        siteTitle: "人生进阶指南",
+        siteTitle: "Cẩm nang Nâng cấp Cuộc sống",
         nav: [
-          { text: "终身学习", link: "/templates/learning-state" },
-          { text: "AI 学习", link: "/threads/part-3/1-ai-learning" },
-          { text: "实践路线", link: "/practice" },
-          { text: "英语专题", link: "/threads/part-1/0-cefr" },
+          { text: "Học tập suốt đời", link: "/templates/learning-state" },
+          { text: "Học với AI", link: "/threads/part-3/1-ai-learning" },
+          { text: "Lộ trình thực hành", link: "/practice" },
+          { text: "Chuyên đề tiếng Anh", link: "/threads/part-1/0-cefr" },
         ],
         sidebar: toSidebar(zhNavigation),
-        outline: { label: "本页目录", level: [2, 3] },
-        docFooter: { prev: "上一篇", next: "下一篇" },
-        editLink: { pattern: editLinkPattern, text: "编辑本页" },
-        lastUpdated: { text: "最后更新" },
-        returnToTopLabel: "返回顶部",
-        sidebarMenuLabel: "目录",
-        darkModeSwitchLabel: "外观",
-        lightModeSwitchTitle: "切换到浅色模式",
-        darkModeSwitchTitle: "切换到深色模式",
-        langMenuLabel: "切换语言",
-        skipToContentLabel: "跳转到正文",
+        outline: { label: "Mục lục trang này", level: [2, 3] },
+        docFooter: { prev: "Bài trước", next: "Bài tiếp theo" },
+        editLink: { pattern: editLinkPattern, text: "Chỉnh sửa trang này" },
+        lastUpdated: { text: "Cập nhật lần cuối" },
+        returnToTopLabel: "Về đầu trang",
+        sidebarMenuLabel: "Mục lục",
+        darkModeSwitchLabel: "Giao diện",
+        lightModeSwitchTitle: "Chuyển sang chế độ sáng",
+        darkModeSwitchTitle: "Chuyển sang chế độ tối",
+        langMenuLabel: "Đổi ngôn ngữ",
+        skipToContentLabel: "Chuyển đến nội dung chính",
         notFound: {
-          title: "页面没有找到",
-          quote: "有时不是路消失了，只是这一页已经搬走。回到主线，继续向前。",
-          linkLabel: "返回《人生进阶指南》首页",
-          linkText: "返回首页",
+          title: "Không tìm thấy trang",
+          quote: "Đôi khi con đường không biến mất; chỉ là trang này đã chuyển đi. Hãy quay lại tuyến chính và tiếp tục tiến lên.",
+          linkLabel: "Quay lại trang chủ Cẩm nang Nâng cấp Cuộc sống",
+          linkText: "Về trang chủ",
         },
       },
     },
-    en: {
-      label: "English",
-      lang: "en-US",
-      link: "/en/",
-      title: "Life Level-up Guide | Lifelong Learning in the AI Era",
-      description: defaultDescriptionEn,
-      themeConfig: {
-        siteTitle: "Life Level-up Guide",
-        nav: [
-          { text: "Lifelong Learning", link: "/en/templates/learning-state" },
-          { text: "AI Learning", link: "/en/threads/part-3/1-ai-learning" },
-          { text: "Practice Map", link: "/en/practice" },
-          { text: "English", link: "/en/threads/part-1/0-cefr" },
-        ],
-        sidebar: toSidebar(enNavigation),
-        outline: { label: "On this page", level: [2, 3] },
-        docFooter: { prev: "Previous", next: "Next" },
-        editLink: { pattern: editLinkPattern, text: "Edit this page" },
-        lastUpdated: { text: "Last updated" },
-        returnToTopLabel: "Back to top",
-        sidebarMenuLabel: "Menu",
-        darkModeSwitchLabel: "Appearance",
-        lightModeSwitchTitle: "Switch to light theme",
-        darkModeSwitchTitle: "Switch to dark theme",
-        langMenuLabel: "Change language",
-        skipToContentLabel: "Skip to content",
-        notFound: {
-          title: "PAGE NOT FOUND",
-          quote: "Sometimes the road remains after a page has moved. Return to the guide and continue from there.",
-          linkLabel: "Return to the Life Level-up Guide home page",
-          linkText: "Return home",
-        },
-        footer: {
-          message: "Content CC BY-NC 4.0; site and tooling code MIT.",
-          copyright: "Copyright © 2017-present byoungd and contributors",
-        },
-      },
-    },
+    // en: {
+    //   label: "English",
+    //   lang: "en-US",
+    //   link: "/en/",
+    //   title: "Life Level-up Guide | Lifelong Learning in the AI Era",
+    //   description: defaultDescriptionEn,
+    //   themeConfig: {
+    //     siteTitle: "Life Level-up Guide",
+    //     nav: [
+    //       { text: "Lifelong Learning", link: "/en/templates/learning-state" },
+    //       { text: "AI Learning", link: "/en/threads/part-3/1-ai-learning" },
+    //       { text: "Practice Map", link: "/en/practice" },
+    //       { text: "English", link: "/en/threads/part-1/0-cefr" },
+    //     ],
+    //     sidebar: toSidebar(enNavigation),
+    //     outline: { label: "On this page", level: [2, 3] },
+    //     docFooter: { prev: "Previous", next: "Next" },
+    //     editLink: { pattern: editLinkPattern, text: "Edit this page" },
+    //     lastUpdated: { text: "Last updated" },
+    //     returnToTopLabel: "Back to top",
+    //     sidebarMenuLabel: "Menu",
+    //     darkModeSwitchLabel: "Appearance",
+    //     lightModeSwitchTitle: "Switch to light theme",
+    //     darkModeSwitchTitle: "Switch to dark theme",
+    //     langMenuLabel: "Change language",
+    //     skipToContentLabel: "Skip to content",
+    //     notFound: {
+    //       title: "PAGE NOT FOUND",
+    //       quote: "Sometimes the road remains after a page has moved. Return to the guide and continue from there.",
+    //       linkLabel: "Return to the Life Level-up Guide home page",
+    //       linkText: "Return home",
+    //     },
+    //     footer: {
+    //       message: "Content CC BY-NC 4.0; site and tooling code MIT.",
+    //       copyright: "Copyright © 2017-present byoungd and contributors",
+    //     },
+    //   },
+    // },
   },
   themeConfig: {
     logo: "/assets/logo.svg",
-    siteTitle: "人生进阶指南",
+    siteTitle: "Cẩm nang Nâng cấp Cuộc sống",
     search: {
       provider: "local",
       options: {
@@ -421,20 +422,20 @@ export default defineConfig({
         locales: {
           root: {
             translations: {
-              button: { buttonText: "搜索", buttonAriaLabel: "搜索" },
+              button: { buttonText: "Tìm kiếm", buttonAriaLabel: "Tìm kiếm" },
               modal: {
-                displayDetails: "显示详细结果",
-                resetButtonTitle: "清除搜索",
-                backButtonTitle: "关闭搜索",
-                noResultsText: "没有找到相关内容",
+                displayDetails: "Hiển thị kết quả chi tiết",
+                resetButtonTitle: "Xóa tìm kiếm",
+                backButtonTitle: "Đóng tìm kiếm",
+                noResultsText: "Không tìm thấy nội dung liên quan",
                 footer: {
-                  selectText: "选择",
-                  selectKeyAriaLabel: "按回车键选择",
-                  navigateText: "切换",
-                  navigateUpKeyAriaLabel: "按上箭头选择上一项",
-                  navigateDownKeyAriaLabel: "按下箭头选择下一项",
-                  closeText: "关闭",
-                  closeKeyAriaLabel: "按 Esc 键关闭",
+                  selectText: "Chọn",
+                  selectKeyAriaLabel: "Nhấn Enter để chọn",
+                  navigateText: "Điều hướng",
+                  navigateUpKeyAriaLabel: "Nhấn mũi tên lên để chọn mục trước",
+                  navigateDownKeyAriaLabel: "Nhấn mũi tên xuống để chọn mục sau",
+                  closeText: "Đóng",
+                  closeKeyAriaLabel: "Nhấn Esc để đóng",
                 },
               },
             },
@@ -443,7 +444,7 @@ export default defineConfig({
       },
     },
     footer: {
-      message: "正文 CC BY-NC 4.0；站点与工具代码 MIT。",
+      message: "Nội dung theo CC BY-NC 4.0; mã nguồn trang web và công cụ theo MIT.",
       copyright: "Copyright © 2017-present byoungd and contributors",
     },
   },
@@ -473,7 +474,7 @@ export default defineConfig({
     const topics = metadataValues(pageData.frontmatter.topic);
     const intents = metadataValues(pageData.frontmatter.intent);
     const title = pageData.title ||
-      (isEnglish ? "Life Level-up Guide | Lifelong Learning in the AI Era" : "人生进阶指南｜AI 时代终身学习");
+      (isEnglish ? "Life Level-up Guide | Lifelong Learning in the AI Era" : "Cẩm nang Nâng cấp Cuộc sống | Học tập suốt đời trong thời đại AI");
     const description =
       pageData.frontmatter.description ||
       `${title}. ${isEnglish ? defaultDescriptionEn : defaultDescription}`;
@@ -484,8 +485,8 @@ export default defineConfig({
       (route.endsWith("/toolkit") ? socialImages.templates[isEnglish ? "en" : "zh"] : undefined);
     const image = absoluteAsset(pageData.frontmatter.socialImage || routeImage, defaultImage);
     const imageAlt = (typeof pageData.frontmatter.socialImageAlt === "string" && pageData.frontmatter.socialImageAlt.trim()) ||
-      (isEnglish ? "Life Level-up Guide book sharing cover" : "《人生进阶指南》书籍分享封面");
-    const bookName = isEnglish ? "Life Level-up Guide" : "人生进阶指南";
+      (isEnglish ? "Life Level-up Guide book sharing cover" : "Bìa chia sẻ sách Cẩm nang Nâng cấp Cuộc sống");
+    const bookName = isEnglish ? "Life Level-up Guide" : "Cẩm nang Nâng cấp Cuộc sống";
     const bookUrl = pageUrl(isEnglish ? "en" : "");
     const updated = pageData.frontmatter.updated;
     const dateModified =
@@ -532,7 +533,7 @@ export default defineConfig({
       license: "https://creativecommons.org/licenses/by-nc/4.0/",
       ...(isBookHome
         ? {
-            alternateName: isEnglish ? "人生进阶指南" : "Life Level-up Guide",
+            alternateName: isEnglish ? "Cẩm nang Nâng cấp Cuộc sống" : "Life Level-up Guide",
             bookFormat: "https://schema.org/EBook",
             encoding: [
               {

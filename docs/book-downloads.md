@@ -1,6 +1,6 @@
 ---
-title: Trung tâm tải xuống｜Cẩm nang nâng tầm cuộc sống
-description: Tải xuống các phiên bản PDF và EPUB tiếng Trung, tiếng Anh của 《Cẩm nang nâng tầm cuộc sống》, đồng thời kiểm tra giá trị xác minh của các tệp được công khai.
+title: "Trung tâm tải xuống｜Cẩm nang nâng tầm cuộc sống"
+description: "Tải xuống các phiên bản PDF và EPUB tiếng Trung, tiếng Anh của 《Cẩm nang nâng tầm cuộc sống》, đồng thời kiểm tra giá trị xác minh của các tệp được công khai."
 updated: 2026-10-02
 ---
 

@@ -1,14 +1,14 @@
 ---
-title: 听力证据卡：从播放时长到意义重构
-description: 保存材料条件、无字幕首听、六层错误地图、字幕支架、意义重构、行动输出和延迟迁移，避免把收藏、播放次数或跟读顺畅误当成听力能力。
+title: "Thẻ bằng chứng nghe: từ thời lượng phát đến tái cấu trúc ý nghĩa"
+description: "Lưu điều kiện của tài liệu, nghe lần đầu không phụ đề, bản đồ lỗi sáu tầng, giàn giáo phụ đề, tái cấu trúc ý nghĩa, đầu ra hành động và chuyển giao trì hoãn; tránh nhầm việc sưu tầm, số lần phát hoặc đọc nhại trôi chảy với năng lực nghe."
 updated: 2026-09-02
 ---
 
-# 听力证据卡：从播放时长到意义重构
+# Thẻ bằng chứng nghe: từ thời lượng phát đến tái cấu trúc ý nghĩa
 
-把这张卡复制到私有笔记中，一次只处理一份主材料与一份平行材料。不要记录密码、客户资料、未经许可的会议、学生或家庭录音；版权材料只在允许的个人学习范围内保存片段、转写和笔记。
+Sao chép thẻ này vào ghi chú riêng tư, mỗi lần chỉ xử lý một tài liệu chính và một tài liệu song song. Không ghi lại mật khẩu, thông tin khách hàng, các cuộc họp chưa được cho phép, hoặc bản ghi âm của học sinh hay gia đình; tài liệu có bản quyền chỉ được lưu các đoạn trích, bản chép lời và ghi chú trong phạm vi học tập cá nhân được phép.
 
-## 1. 定义任务与现实边界
+## 1. Xác định nhiệm vụ và ranh giới thực tế
 
 ```markdown
 # Listening Evidence — YYYY-MM-DD
@@ -21,9 +21,9 @@ updated: 2026-09-02
 录音、上传、转写和分享许可：
 ```
 
-训练可以撤掉支架，真实工作不能为了证明能力而放弃必要的安全确认。
+Việc luyện tập có thể tháo bỏ giàn giáo, nhưng công việc thực tế không thể từ bỏ những xác nhận an toàn cần thiết chỉ để chứng minh năng lực.
 
-## 2. 审计材料与条件
+## 2. Kiểm tra tài liệu và điều kiện
 
 ```markdown
 主材料标题、来源与访问日期：
@@ -36,17 +36,17 @@ updated: 2026-09-02
 我为什么愿意在七天内回来：
 ```
 
-| 条件 | 主材料 | 平行材料 | 是否可比较 |
+| Điều kiện | Tài liệu chính | Tài liệu song song | Có thể so sánh hay không |
 | --- | --- | --- | --- |
-| 任务与难度 | | | |
-| 时长与信息密度 | | | |
-| 转写质量 | | | |
-| 说话者/口音熟悉度 | | | |
-| 设备与环境 | | | |
+| Nhiệm vụ và độ khó | | | |
+| Thời lượng và mật độ thông tin | | | |
+| Chất lượng bản chép lời | | | |
+| Mức độ quen thuộc với người nói/giọng | | | |
+| Thiết bị và môi trường | | | |
 
-材料不同不等于迁移条件可比。至少保持任务和大致难度相近。
+Tài liệu khác nhau không có nghĩa là các điều kiện chuyển giao có thể so sánh được. Ít nhất phải giữ cho nhiệm vụ và độ khó đại khái tương đương.
 
-## 3. 保存无字幕首听
+## 3. Lưu lại lượt nghe đầu không phụ đề
 
 ```markdown
 首听允许：暂停 / 倍速 / 字幕 / 笔记 / 重播
@@ -59,13 +59,13 @@ updated: 2026-09-02
 首听答案位置：
 ```
 
-不要用第二遍或字幕后的答案覆盖首听。它是以后比较的基线。
+Đừng dùng đáp án sau lần nghe thứ hai hoặc sau khi xem phụ đề để ghi đè lên kết quả của lượt nghe đầu. Đây là đường cơ sở để so sánh về sau.
 
-## 4. 建立六层错误地图
+## 4. Lập bản đồ lỗi sáu tầng
 
-| 时间段 | 我以为听到 | 可靠内容 | 障碍层 | 任务影响 | 本轮动作 |
+| Khoảng thời gian | Tôi tưởng mình đã nghe thấy | Nội dung đáng tin cậy | Tầng trở ngại | Ảnh hưởng đến nhiệm vụ | Hành động trong lượt này |
 | --- | --- | --- | --- | --- | --- |
-| | | | 技术环境 / 语言未知 / 已知未听出 / 结构指向 / 背景推断 / 注意力容量 | 意思改变 / 任务阻断 / 高频重复 / 理解费力 / 低影响 | |
+| | | | Môi trường kỹ thuật / Ngôn ngữ chưa biết / Đã biết nhưng không nghe ra / Cấu trúc và quan hệ chỉ dẫn / Suy luận bối cảnh / Dung lượng chú ý | Thay đổi ý nghĩa / Cản trở nhiệm vụ / Lặp lại thường xuyên / Tốn sức để hiểu / Ảnh hưởng thấp | |
 
 ```markdown
 最影响任务的一到三个问题：
@@ -73,16 +73,16 @@ updated: 2026-09-02
 可能来自设备或疲劳、不能直接归因于能力的部分：
 ```
 
-## 5. 使用支架阶梯
+## 5. Sử dụng bậc thang giàn giáo
 
-| 阶段 | 动作 | 我新看见了什么 | 仍然不能证明什么 |
+| Giai đoạn | Hành động | Tôi mới nhận ra điều gì | Điều gì vẫn chưa thể chứng minh |
 | --- | --- | --- | --- |
-| 1 | 无字幕首听 | | |
-| 2 | 只重听 5-20 秒问题片段 | | |
-| 3 | 打开英文转写核对词界与结构 | | |
-| 4 | 只查最小定义、背景或翻译 | | |
-| 5 | 关闭文字按正常速度再听 | | |
-| 6 | 三到七天后用平行材料撤架复测 | | |
+| 1 | Nghe lần đầu không phụ đề | | |
+| 2 | Chỉ nghe lại đoạn có vấn đề trong 5-20 giây | | |
+| 3 | Mở bản chép lời tiếng Anh để kiểm tra ranh giới từ và cấu trúc | | |
+| 4 | Chỉ tra định nghĩa tối thiểu, bối cảnh hoặc bản dịch | | |
+| 5 | Tắt phần chữ và nghe lại ở tốc độ bình thường | | |
+| 6 | Sau ba đến bảy ngày, dùng tài liệu song song để kiểm tra lại mà không có giàn giáo | | |
 
 ```markdown
 自动字幕错误：
@@ -91,19 +91,19 @@ updated: 2026-09-02
 只在字幕可见时才理解的片段：
 ```
 
-## 6. 让每一遍产生不同证据
+## 6. Để mỗi lượt nghe tạo ra bằng chứng khác nhau
 
-| 遍次 | 问题 | 输出 | 结果 |
+| Lượt | Câu hỏi | Đầu ra | Kết quả |
 | --- | --- | --- | --- |
-| 1 | 我预测什么，首听恢复什么？ | 原始主旨与细节 | |
-| 2 | 差异出现在哪个时间段？ | 时间戳与障碍层 | |
-| 3 | 最小支架解释了什么？ | 听错、原文与原因 | |
-| 4 | 关闭支架后声音是否独立触发意思？ | 无文字复听 | |
-| 5 | 我能怎样重构并行动？ | 复述 / 流程 / 决定 / 交接 | |
+| 1 | Tôi dự đoán điều gì, và khôi phục được gì trong lượt nghe đầu? | Ý chính và chi tiết ban đầu | |
+| 2 | Sự khác biệt xuất hiện ở khoảng thời gian nào? | Dấu thời gian và tầng trở ngại | |
+| 3 | Giàn giáo tối thiểu đã giải thích điều gì? | Điều nghe nhầm, nguyên văn và nguyên nhân | |
+| 4 | Sau khi tắt giàn giáo, âm thanh có tự kích hoạt ý nghĩa hay không? | Nghe lại không có chữ | |
+| 5 | Tôi có thể tái cấu trúc và hành động như thế nào? | Diễn đạt lại / Quy trình / Quyết định / Bàn giao | |
 
-播放次数不是结果。每一遍都应留下新的判断，或证明不必继续重复。
+Số lần phát không phải là kết quả. Mỗi lượt nghe đều nên để lại một phán đoán mới hoặc chứng minh rằng không cần tiếp tục lặp lại.
 
-## 7. 从听写与跟读进入生成
+## 7. Từ chính tả và đọc nhại đến tạo lập
 
 ```markdown
 高影响 5-20 秒片段：
@@ -117,9 +117,9 @@ updated: 2026-09-02
 陌生追问与回答：
 ```
 
-跟读顺畅而复述空白时，减少模仿长度，增加关键词重构；每个词都写对却说不出主旨时，回到结构和关系。
+Khi đọc nhại trôi chảy nhưng không thể diễn đạt lại, hãy rút ngắn độ dài bắt chước và tăng cường tái cấu trúc bằng từ khóa; khi viết đúng từng từ nhưng không nói được ý chính, hãy quay lại với cấu trúc và mối quan hệ.
 
-## 8. 记录 AI、教师与真实任务反馈
+## 8. Ghi nhận phản hồi từ AI, giáo viên và nhiệm vụ thực tế
 
 ```markdown
 工具 / 反馈者 / 模型版本与日期：
@@ -131,16 +131,16 @@ updated: 2026-09-02
 我采纳 / 拒绝什么，为什么：
 ```
 
-AI 与自动转写可以提供候选，不是原音的最终裁判。
+AI và bản chép lời tự động có thể đưa ra phương án tham khảo, nhưng không phải là trọng tài cuối cùng của âm thanh gốc.
 
-## 9. 做延迟保持与迁移
+## 9. Thực hiện duy trì và chuyển giao trì hoãn
 
-| 时间 | 撤掉什么 | 改变的条件 | 输出 | 结果 |
+| Thời gian | Tháo bỏ điều gì | Điều kiện thay đổi | Đầu ra | Kết quả |
 | --- | --- | --- | --- | --- |
-| 第 1 天 | 不使用完整字幕 | 主材料 | 首听与意义重构 | |
-| 第 3-7 天 | 撤掉旧笔记与转写 | 平行材料 | 主旨、细节、行动 | |
-| 第 14 天 | 撤掉最近反馈 | 新说话者、口音或设备 | 复述 + 陌生追问 | |
-| 第 30 天 | 关闭全部练习提示 | 真实会议、课程或对话 | 完整任务 | |
+| Ngày 1 | Không sử dụng phụ đề đầy đủ | Tài liệu chính | Nghe lần đầu và tái cấu trúc ý nghĩa | |
+| Ngày 3-7 | Tháo bỏ ghi chú và bản chép lời cũ | Tài liệu song song | Ý chính, chi tiết, hành động | |
+| Ngày 14 | Tháo bỏ phản hồi gần nhất | Người nói, giọng hoặc thiết bị mới | Diễn đạt lại + câu hỏi truy vấn chưa quen thuộc | |
+| Ngày 30 | Tắt toàn bộ gợi ý luyện tập | Cuộc họp, khóa học hoặc cuộc trò chuyện thực tế | Nhiệm vụ hoàn chỉnh | |
 
 ```markdown
 七天后仍能使用的方法：
@@ -150,18 +150,18 @@ AI 与自动转写可以提供候选，不是原音的最终裁判。
 下一轮只改变的变量：
 ```
 
-## 10. 评分与去留
+## 10. Chấm điểm và quyết định giữ hay loại
 
-每项 0-2：`0=未完成`，`1=依赖提示或不稳定`，`2=当前条件下完成`。
+Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
 
-| 项目 | 第 1 天 | 第 7 天 | 第 14 天 | 证据理由 |
+| Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do bằng chứng |
 | --- | ---: | ---: | ---: | --- |
-| 首听保留主线 | | | | |
-| 恢复关键细节与关系 | | | | |
-| 能定位障碍层 | | | | |
-| 关闭字幕后仍能理解 | | | | |
-| 能重构、回应或执行 | | | | |
-| 换材料、说话者或设备后仍能完成 | | | | |
+| Giữ được mạch chính trong lượt nghe đầu | | | | |
+| Khôi phục được các chi tiết và mối quan hệ then chốt | | | | |
+| Có thể xác định tầng trở ngại | | | | |
+| Vẫn có thể hiểu sau khi tắt phụ đề | | | | |
+| Có thể tái cấu trúc, phản hồi hoặc thực hiện | | | | |
+| Vẫn hoàn thành được sau khi thay đổi tài liệu, người nói hoặc thiết bị | | | | |
 
 ```markdown
 当前证据支持：继续主材料 / 降级为泛听 / 更换材料 / 转向另一问题
@@ -171,4 +171,4 @@ AI 与自动转写可以提供候选，不是原音的最终裁判。
 下一次复查日期：
 ```
 
-相关章节：[听力篇：从声音辨认到真实理解](../threads/part-1/3-listening.md) ｜ [口语篇](../threads/part-1/5-speaking.md) ｜ [用 AI 学英语](../threads/part-1/7-ai.md) ｜ [证据链模板](evidence-chain.md)
+Các chương liên quan: [Phần nghe: từ nhận diện âm thanh đến hiểu thực tế](../threads/part-1/3-listening.md) ｜ [Phần nói](../threads/part-1/5-speaking.md) ｜ [Học tiếng Anh bằng AI](../threads/part-1/7-ai.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

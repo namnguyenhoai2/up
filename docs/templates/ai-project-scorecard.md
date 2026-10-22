@@ -1,12 +1,12 @@
 ---
-title: AI 项目评分卡模板
-description: 用质量、时间、返工、成本、安全、用户反馈和回滚状态评价 AI 项目，而不是只看生成速度。
+title: "Mẫu thẻ điểm dự án AI"
+description: "Đánh giá dự án AI dựa trên chất lượng, thời gian, công việc làm lại, chi phí, an toàn, phản hồi của người dùng và trạng thái khôi phục, thay vì chỉ xem xét tốc độ tạo."
 updated: 2026-08-31
 ---
 
-# AI 项目评分卡模板
+# Mẫu thẻ điểm dự án AI
 
-每次发布或试点后填写一次。数字应能回到测试、账本、反馈或运行记录。
+Điền một lần sau mỗi lần phát hành hoặc thí điểm. Các con số phải có thể đối chiếu với kết quả kiểm thử, sổ theo dõi, phản hồi hoặc nhật ký vận hành.
 
 ```markdown
 # AI Project Scorecard — YYYY-MM-DD

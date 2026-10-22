@@ -1,47 +1,47 @@
 ---
-title: 终于有了一个写字的地方
-description: 一篇关于写作、学校压力、长期失眠与寻找表达空间的 2016 年历史文章。
+title: Cuối cùng cũng có một nơi để viết
+description: Một bài viết lịch sử từ năm 2016 về việc viết lách, áp lực học đường, chứng mất ngủ kéo dài và hành trình tìm kiếm không gian để bộc lộ bản thân.
 updated: 2026-08-31
 ---
 
-# 终于有了一个写字的地方
+# Cuối cùng cũng có một nơi để viết
 
-**内容提示：** 本文包含严重失眠与轻生念头的历史叙述，不构成健康建议。处于紧迫危险时，请联系当地急救或合格的危机干预服务。
+**Lưu ý nội dung:** Bài viết có những lời kể trong quá khứ về chứng mất ngủ nghiêm trọng và ý nghĩ tự tử, không cấu thành lời khuyên về sức khỏe. Nếu đang ở trong tình huống nguy hiểm khẩn cấp, hãy liên hệ với dịch vụ cấp cứu địa phương hoặc dịch vụ can thiệp khủng hoảng đủ chuyên môn.
 
-> 原文日期：2016-04-23（按可恢复的 Wayback 快照标注）
+> Ngày đăng bản gốc: 2016-04-23 (theo dấu mốc của bản lưu Wayback có thể khôi phục)
 
-**编者说明（2026-08-31）：** 以下是 2016 年的个人记录，不是今天的心理健康、用药或睡眠指导。请不要模仿文中的私自用药、隐瞒症状或对老师与他人的判断；如果类似经历正在发生，应优先寻求可信任的人和专业支持。
-> 归档来源：[Wayback Machine 快照](https://web.archive.org/web/20160423145153/http://zb.gs/%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%86%99%E5%AD%97%E7%9A%84%E5%9C%B0%E6%96%B9)
+**Ghi chú của biên tập viên (2026-08-31):** Dưới đây là ghi chép cá nhân từ năm 2016, không phải hướng dẫn về sức khỏe tâm thần, thuốc men hay giấc ngủ ở thời điểm hiện tại. Xin đừng bắt chước việc tự ý dùng thuốc, che giấu triệu chứng hoặc những phán đoán về giáo viên và người khác trong bài; nếu đang trải qua những điều tương tự, hãy ưu tiên tìm kiếm sự hỗ trợ từ người đáng tin cậy và chuyên gia.
+> Nguồn lưu trữ: [bản lưu Wayback Machine](https://web.archive.org/web/20160423145153/http://zb.gs/%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E4%B8%80%E4%B8%AA%E5%86%99%E5%AD%97%E7%9A%84%E5%9C%B0%E6%96%B9)
 
-10年前，我开始写东西。记身边的人和事，不幸的是当时我成绩拔尖，班主任认为我应该走金榜题名之路，当着全班人的面，将我写作的本子撕成碎片。我把七零八碎的纸片收集好拼起来，用透明胶带一页一页给贴上，那大概是我的梦吧。
+Mười năm trước, tôi bắt đầu viết lách. Tôi ghi lại những người và sự việc xung quanh mình. Đáng tiếc là khi ấy thành tích của tôi đứng đầu lớp, nên giáo viên chủ nhiệm cho rằng tôi phải đi theo con đường đỗ đạt công danh. Trước mặt cả lớp, thầy xé nát quyển vở viết của tôi. Tôi nhặt những mảnh giấy vụn vỡ ấy lên, ghép lại rồi dùng băng keo trong dán từng trang một. Có lẽ đó chính là ước mơ của tôi.
 
-初三我哭着喊着闹着让我爸给我买了台笔记本电脑，并用它写了一部仙侠小说的开头，写到12万字的时候我选了放弃。每天熬夜写东西从一种乐趣变成了痛苦，加上爸妈也不太赞成，我也就成功地说服了自己选择放弃。
+Năm lớp 9, tôi khóc lóc, nằng nặc đòi bố mua cho một chiếc máy tính xách tay, rồi dùng nó để viết phần mở đầu một tiểu thuyết tiên hiệp. Viết đến 120.000 chữ thì tôi chọn từ bỏ. Việc thức đêm viết lách mỗi ngày dần biến từ niềm vui thành nỗi đau. Thêm vào đó, bố mẹ cũng không mấy ủng hộ, thế là tôi thành công thuyết phục chính mình từ bỏ.
 
-投入高中生活后，我失眠的情况加重了。老熬夜，神经衰弱了。第一次月考，全年级500多名。我爸知道后表示不再关注我的学习成绩，随我！不过这对我并没有造成太大的打击，初中三年几十次大考只有4次没拿第一，名次对我而言已经没有喜悦。
+Sau khi bước vào cuộc sống cấp ba, tình trạng mất ngủ của tôi trở nên nghiêm trọng hơn. Thường xuyên thức khuya khiến tôi suy nhược thần kinh. Trong kỳ thi tháng đầu tiên, tôi đứng thứ hơn 500 trong toàn khối. Biết chuyện, bố tôi nói từ nay sẽ không quan tâm đến thành tích học tập của tôi nữa, tùy tôi! Tuy nhiên, chuyện đó không gây cho tôi đả kích quá lớn. Trong ba năm cấp hai, tôi đã tham gia hàng chục kỳ thi lớn nhưng chỉ có bốn lần không đứng đầu; thứ hạng từ lâu đã không còn đem lại niềm vui cho tôi.
 
-家里人不知道我失眠，我拒绝和他们沟通，有一部分的考虑是不希望爸妈担心。我试了很多方法催眠自己，包括数一万只羊和盯着台灯看到天亮。这个极度糟糕的情况一直延续到高二上学期，从初三下学期开始已经失眠两年多了。
+Gia đình không biết tôi mất ngủ. Tôi từ chối giao tiếp với họ, một phần vì không muốn bố mẹ lo lắng. Tôi đã thử rất nhiều cách để tự ru mình ngủ, từ đếm một vạn con cừu đến nhìn chằm chằm vào đèn bàn cho tới sáng. Tình trạng tồi tệ đến cùng cực này kéo dài mãi đến học kỳ một lớp 11; tính từ học kỳ hai lớp 9, tôi đã mất ngủ hơn hai năm.
 
-我痛苦，我压抑，我想轻生。但我不愿意把自己失眠的事情说出来，甚至只是偷偷吃药，但不敢去医院做个检查。物理老师说我神经衰弱，我不知道神经衰弱到底是怎么一回事，以为自己药丸，索性就悄悄的死掉吧，不要给别人带来负担。
+Tôi đau khổ, tôi dồn nén, tôi muốn tự tử. Nhưng tôi không muốn nói ra chuyện mình mất ngủ, thậm chí chỉ lén lút uống thuốc mà không dám đến bệnh viện kiểm tra. Giáo viên Vật lý nói tôi bị suy nhược thần kinh. Tôi không biết suy nhược thần kinh rốt cuộc là gì, cứ nghĩ rằng mình tiêu rồi; thôi thì lặng lẽ chết đi, đừng trở thành gánh nặng cho người khác.
 
-在学校唯一的文科实验班，室友们夜里听新概念作文而入睡，而经常作为朗读者的我，只能默默羡慕他们。不到两个星期，那个我们用来看txt的mp3按键就报废了。
+Trong lớp thực nghiệm ban Tự nhiên duy nhất của trường, ban đêm các bạn cùng phòng nghe “Tân khái niệm văn” rồi chìm vào giấc ngủ, còn tôi, người thường xuyên làm người đọc, chỉ có thể âm thầm ngưỡng mộ họ. Chưa đầy hai tuần, chiếc MP3 mà chúng tôi dùng để nghe các tệp txt đã hỏng nút bấm.
 
-这个mp3的主人是我的下铺，他看起来像是小学五年级的样子，初考是全县第二。关于他，有件事情我记得非常清楚。那年初考后，他老爸逢人便夸，说自己儿子考的还行。直到有天他打车讲着同样的话，出租车师傅对他哈哈大笑，说自己女儿考了第一。嗯，真的是第一哈。这是我高中记住的第一个笑话。宿舍其他几个人和我交情也不算深，反正都是成绩还不错的，排名都在全县前20。我下铺和我有点交情是因为他集邮，然后我淘宝帮他买过一个相册。
+Chủ nhân của chiếc MP3 này là bạn nằm giường dưới tôi. Cậu ấy trông cứ như học sinh lớp năm tiểu học, nhưng trong kỳ thi đầu vào cấp ba lại đứng thứ hai toàn huyện. Có một chuyện về cậu ấy mà tôi nhớ rất rõ. Sau kỳ thi năm đó, bố cậu ấy gặp ai cũng khoe rằng con trai mình thi cũng khá. Cho đến một hôm, ông vừa đi taxi vừa nói những lời ấy, thì bác tài cười lớn, bảo con gái mình đứng nhất. Ừ, thật sự là đứng nhất đấy nhé. Đó là câu chuyện cười đầu tiên tôi nhớ được trong thời cấp ba. Mấy người khác trong phòng ký túc cũng không thân với tôi lắm; dù sao họ đều học khá, thứ hạng nằm trong top 20 toàn huyện. Tôi và người nằm giường dưới có chút giao tình vì cậu ấy sưu tầm tem, còn tôi từng giúp cậu ấy mua một cuốn album trên Taobao.
 
-后来我实在受不了有心理疾病的班主任的折磨，选择了调班。离开了那个下课都没人说话的异常安静的班级后，我的生活开始有了变化，我似乎找到了主场，班主任“徐公”实在太好“欺负”。我开始用一种不太优雅的方式来表达自己--与老师争辩，成绩倒数的我总是搞得课堂气氛很活跃。随着我在课堂上捣乱秩序的“影响力”扩大，全班成绩也直线下降。
+Về sau, tôi thật sự không chịu nổi sự hành hạ của giáo viên chủ nhiệm mắc bệnh tâm lý, nên đã chọn chuyển lớp. Sau khi rời khỏi lớp học yên tĩnh đến mức giờ ra chơi cũng chẳng ai nói chuyện ấy, cuộc sống của tôi bắt đầu thay đổi. Dường như tôi đã tìm thấy sân khấu của mình; giáo viên chủ nhiệm “Từ Công” thực sự quá dễ “bắt nạt”. Tôi bắt đầu thể hiện bản thân theo một cách không mấy tao nhã—tranh luận với giáo viên. Dù đứng chót lớp, tôi lúc nào cũng khiến không khí trong giờ học trở nên vô cùng sôi nổi. Khi “tầm ảnh hưởng” của tôi trong việc phá rối trật tự lớp học ngày càng lớn, thành tích của cả lớp cũng lao dốc.
 
-之后发生了很多有趣的事，这要等以后细述了。
+Sau đó đã xảy ra rất nhiều chuyện thú vị, để sau này tôi kể kỹ hơn.
 
-第一篇博客写了这么一堆尴尬无聊的事的确蛮尴尬的哈，要去公司了，先写到这吧。
+Bài blog đầu tiên đã viết cả đống chuyện vừa lúng túng vừa tẻ nhạt thế này, đúng là hơi ngượng thật. Tôi phải đến công ty rồi, tạm viết đến đây vậy.
 
-## 原文评论
+## Bình luận bài gốc
 
-大袋鼠：
+Đại Kangaroo:
 
-> 那个心理有疾病的班主任，能详细说说吗。xd
+> Giáo viên chủ nhiệm mắc bệnh tâm lý kia, kể chi tiết hơn được không? xd
 
-zb.gs 回复：
+zb.gs trả lời:
 
-> 1.他上的课我没记笔记，问我不记下来能记住么？然后我开始记笔记，又问我不用心听，只记笔记能学到什么？
-> 2.早操前检查宿舍，说我被子叠的不对，重叠，我重叠，他看都不看一眼让我重来，一直让我叠了十几遍，然后我把被子给扔了
-> 3.某学生课余时间在走道听mp3，他将人家mp3踩坏，然后从楼上扔下去，并叫学生跑下去把它捡回来
-> 还有好多 有时间写一篇他的故事
+> 1. Trong tiết của thầy, tôi không ghi chép. Thầy hỏi tôi rằng không ghi lại thì có nhớ được không? Sau đó tôi bắt đầu ghi chép, thầy lại hỏi nếu không tập trung nghe mà chỉ ghi chép thì học được gì?
+> 2. Trước giờ thể dục buổi sáng, thầy kiểm tra ký túc xá, nói chăn của tôi gấp không đúng, bắt tôi gấp lại. Tôi gấp lại, thầy chẳng thèm nhìn mà bảo làm lại. Cứ thế bắt tôi gấp hơn chục lần, rồi tôi ném luôn cái chăn đi.
+> 3. Có một học sinh nghe MP3 ngoài hành lang vào giờ nghỉ. Thầy giẫm hỏng chiếc MP3 của người ta, rồi ném nó xuống dưới tầng và bắt học sinh chạy xuống nhặt lại.
+> Còn nhiều chuyện lắm. Khi nào có thời gian tôi sẽ viết một bài về thầy.

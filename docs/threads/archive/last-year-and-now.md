@@ -1,42 +1,42 @@
 ---
-title: 简单介绍下去年和现在的我
-description: 一篇关于毕业、回家、首个网站与早期创业的 2016 年历史文章。
+title: Giới thiệu sơ lược về tôi năm ngoái và hiện tại
+description: Một bài viết lịch sử năm 2016 về việc tốt nghiệp, trở về nhà, trang web đầu tiên và những ngày đầu khởi nghiệp.
 updated: 2026-09-01
 ---
 
-# 简单介绍下去年和现在的我
+# Giới thiệu sơ lược về tôi năm ngoái và hiện tại
 
-**编者说明（2026-08-31）：** 文中的自我介绍、项目、公司、收入与身体状况都属于 2016 年的时间切片，不代表作者当前状态，也不构成创业、投资或职业建议。读者应把它当作回望材料，而不是可直接复制的路线图。
+**Ghi chú của biên tập viên (2026-08-31):** Những phần tự giới thiệu, dự án, công ty, thu nhập và tình trạng sức khỏe trong bài đều thuộc về một lát cắt thời gian của năm 2016, không phản ánh tình trạng hiện tại của tác giả và không cấu thành lời khuyên về khởi nghiệp, đầu tư hay nghề nghiệp. Độc giả nên xem đây là tư liệu hồi tưởng, không phải lộ trình có thể sao chép trực tiếp.
 
-> 原文日期：2016-04-24（按可恢复的 Wayback 快照标注）
-> 归档来源：原 Wayback Machine 快照当前返回 404；本页保留仓库中的历史文本，不把失效地址当作可复查证据。
+> Ngày bản gốc: 2016-04-24 (ghi theo bản chụp Wayback có thể khôi phục)
+> Nguồn lưu trữ: Bản chụp Wayback Machine gốc hiện trả về 404; trang này giữ lại văn bản lịch sử trong kho lưu trữ, không xem địa chỉ đã mất hiệu lực là bằng chứng có thể kiểm chứng.
 
-去年我大四。2015年3月7号我去了北京，本来是去找实习的，但成功率较高的面试给了我自信，我胃口变大，然后一直在面试...两个月大部分的时间都在面试。
+Năm ngoái tôi là sinh viên năm cuối. Ngày 7 tháng 3 năm 2015, tôi đến Bắc Kinh, vốn định tìm một chỗ thực tập, nhưng những buổi phỏng vấn có tỷ lệ thành công khá cao đã khiến tôi tự tin hơn, tham vọng của tôi cũng lớn dần, rồi cứ thế đi phỏng vấn mãi... Phần lớn thời gian trong hai tháng đó tôi đều dành cho việc phỏng vấn.
 
-正当我准备入职汽车之家之际，学校那边让我立马返校，因为我没有参加中期答辩，终辩再不去，那毕业证就不用拿了。
+Đúng lúc tôi chuẩn bị vào làm tại Autohome, phía nhà trường yêu cầu tôi lập tức quay về trường, vì tôi chưa tham gia buổi bảo vệ giữa kỳ; nếu không tham gia buổi bảo vệ cuối kỳ nữa thì đành khỏi lấy bằng tốt nghiệp.
 
-考虑到大四上学期重修13门课的确是为了能顺利毕业，就返校了。答辩的时候我坦言自己的电路板是淘宝买的，导致二辩。二辩在老师的指导下重做，完成了项目要求的大部分功能，加上答辩时临时发挥得还不错，也就过了。
+Xét thấy việc học lại 13 môn trong học kỳ đầu năm tư quả thực là để có thể thuận lợi tốt nghiệp, tôi đã quay về trường. Trong buổi bảo vệ, tôi thẳng thắn thừa nhận rằng bo mạch của mình mua trên Taobao, nên phải bảo vệ lại lần hai. Với sự hướng dẫn của giáo viên, tôi làm lại ở lần bảo vệ thứ hai, hoàn thành phần lớn chức năng theo yêu cầu của dự án. Thêm vào đó, lúc bảo vệ tôi ứng biến khá tốt, nên cuối cùng cũng qua.
 
-毕业后我并没有如期拿到毕业证，因为大三时有两个实习没有参加，需要等下一年跟下一届做。然后我就回了老家。
+Sau khi tốt nghiệp, tôi không thể nhận bằng đúng hạn, vì năm ba tôi đã bỏ qua hai kỳ thực tập và phải đợi đến năm sau để thực hiện cùng khóa sau. Sau đó tôi về quê.
 
-呆在家的这段时间，发生了很多事情。只记重要的两件：一件是学会了做饭，另一件是得了关节炎。
+Trong thời gian ở nhà, rất nhiều chuyện đã xảy ra. Chỉ kể hai chuyện quan trọng: một là tôi học được cách nấu ăn, hai là tôi mắc bệnh viêm khớp.
 
-2016开始，我决定不再颓废，开始捣鼓一个电影网站。折腾了一段时间，bt0.com（bt零）收获了第一批用户，用户反馈还不错。
+Bước sang năm 2016, tôi quyết định không tiếp tục sống uể oải nữa và bắt đầu mày mò làm một trang web phim. Sau một thời gian xoay xở, bt0.com (bt số không) đã có những người dùng đầu tiên, phản hồi của họ cũng khá tốt.
 
-之后接到了几个网站设计的单子，赚了点零花钱，然后我和初中同学翔子开始了创业之旅。
+Sau đó tôi nhận được vài hợp đồng thiết kế website, kiếm được một ít tiền tiêu vặt, rồi tôi và người bạn cấp hai Tường Tử bắt đầu hành trình khởi nghiệp.
 
-我们在3月份有了第一家公司，4月份在沈阳成立了另一家互联网公司，现在在南京申请第三家公司，公司的名字就用我一直很喜欢的“玩有引力”。
+Tháng 3, chúng tôi thành lập công ty đầu tiên; tháng 4, thành lập một công ty internet khác ở Thẩm Dương; hiện tại đang đăng ký công ty thứ ba tại Nam Kinh, và tên công ty sẽ dùng cái tên “玩有引力” mà tôi luôn yêu thích.
 
-短时间内，我们的发展的确很快，不过这都是有准备的。只能说厚积薄发，低调行事。
+Trong thời gian ngắn, tốc độ phát triển của chúng tôi quả thực khá nhanh, nhưng tất cả đều đã được chuẩn bị từ trước. Chỉ có thể nói là tích lũy đủ lâu thì sẽ bùng nổ, cứ hành sự kín đáo.
 
-在这里要感谢阿其哥哥、翔子，还有我的亲弟弟。
+Tại đây, xin cảm ơn anh A Kỳ, Tường Tử và em trai ruột của tôi.
 
-现在的我拥有两家规模不大的互联网公司，主营业务分别是比特币和游戏娱乐行业。
+Hiện tại, tôi sở hữu hai công ty internet quy mô không lớn, với lĩnh vực kinh doanh chính lần lượt là bitcoin và giải trí trò chơi.
 
-今年是本命年了，想踏踏实实把事情做好，不冒进，少装逼。
+Năm nay là năm tuổi của tôi, tôi muốn làm mọi việc thật chắc chắn, không nóng vội, bớt làm màu.
 
-## 原文评论
+## Bình luận nguyên bản
 
-不可能不确定：
+Không thể không chắc chắn:
 
-> bt0 太赞了，就凭这网站，你这牛B不是白吹的。
+> bt0 quá tuyệt, chỉ riêng trang web này thôi cũng đủ chứng minh cậu không hề khoác lác về bản thân.

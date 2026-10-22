@@ -1,56 +1,56 @@
 ---
-title: 工具箱实战：让 AI 跨会话继续一项 90 天学习
-description: 用一个明确标注为合成演示的 Python 学习案例，完整展示学习状态、AI 任务简报、独立基线、作品、证据链、每周复盘与读者回执怎样交接。
+title: "Thực hành với bộ công cụ: Giúp AI tiếp tục một quá trình học tập kéo dài 90 ngày qua nhiều phiên"
+description: "Trình bày đầy đủ, qua một trường hợp học Python được đánh dấu rõ ràng là minh họa tổng hợp, cách bàn giao trạng thái học tập, bản tóm lược nhiệm vụ AI, đường cơ sở độc lập, sản phẩm, chuỗi bằng chứng, tổng kết hằng tuần và phản hồi của độc giả."
 updated: 2026-09-02
 ---
 
-# 工具箱实战：让 AI 跨会话继续一项 90 天学习
+# Thực hành với bộ công cụ: Giúp AI tiếp tục một quá trình học tập kéo dài 90 ngày qua nhiều phiên
 
-很多人不是缺少计划，而是不知道这些表到底应该在什么时候打开。另一个常见问题是：一项学习进行三个月，AI 会话越来越长；换一个新会话，前面的状态又像全部消失。
+Nhiều người không thiếu kế hoạch, mà không biết nên mở những bảng này vào lúc nào. Một vấn đề phổ biến khác là: khi một quá trình học kéo dài ba tháng, các phiên AI ngày càng dài; đến khi đổi sang phiên mới, trạng thái trước đó lại như biến mất hoàn toàn.
 
-解决办法不是要求 AI 永远记住你。**让文件保存状态，让 AI 只处理当前任务。**
+Giải pháp không phải là yêu cầu AI nhớ bạn mãi mãi. **Hãy để tệp lưu trạng thái, còn AI chỉ xử lý nhiệm vụ hiện tại.**
 
-这一页用一个准备转行的 Python 学习者做完整演示。人物、任务、代码结果、分数和反馈全部是合成数据，只用于说明填写方法，不是实际读者成果，也不能证明九十天一定足以转行。
+Trang này dùng một người học Python đang chuẩn bị chuyển nghề để trình bày đầy đủ. Nhân vật, nhiệm vụ, kết quả mã, điểm số và phản hồi đều là dữ liệu tổng hợp, chỉ nhằm minh họa cách điền, không phải thành quả thực tế của độc giả và cũng không thể chứng minh rằng 90 ngày chắc chắn đủ để chuyển nghề.
 
-## 这不是成功案例
+## Đây không phải là câu chuyện thành công
 
-演示中的学习者拥有这些设定：
+Người học trong phần minh họa có những điều kiện sau:
 
-- 能看懂变量、条件和简单循环，但无法独立完成一个小程序；
-- 每周可稳定投入四次、每次 45 分钟；
-- 九十天目标是独立完成一个读取 CSV、检查数据并输出摘要的命令行工具；
-- 不上传公司数据，不让 AI 代写最终作品，不用熬夜补回中断；
-- 第十四天若仍无法解释核心代码，就不增加框架和新课程。
+- Có thể đọc hiểu biến, điều kiện và vòng lặp đơn giản, nhưng không thể tự mình hoàn thành một chương trình nhỏ;
+- Có thể ổn định dành 45 phút, bốn lần mỗi tuần;
+- Mục tiêu trong 90 ngày là tự mình hoàn thành một công cụ dòng lệnh có thể đọc CSV, kiểm tra dữ liệu và xuất bản tóm tắt;
+- Không tải dữ liệu công ty lên, không để AI viết thay sản phẩm cuối cùng, không thức đêm để bù cho thời gian gián đoạn;
+- Nếu đến ngày thứ 14 vẫn không thể giải thích mã cốt lõi, sẽ không thêm framework hay khóa học mới.
 
-这些条件只是演示边界。你的起点、时间、身体、工作和目标可能完全不同。
+Những điều kiện này chỉ là ranh giới của phần minh họa. Điểm xuất phát, thời gian, thể trạng, công việc và mục tiêu của bạn có thể hoàn toàn khác.
 
-## 场景：计划为什么会失忆
+## Bối cảnh: Vì sao kế hoạch lại mất trí nhớ
 
-最初的错误做法，是把所有事情留在一个聊天窗口：
+Cách làm sai ban đầu là giữ mọi thứ trong một cửa sổ trò chuyện:
 
-1. 让 AI 制定十二周计划；
-2. 每天在同一会话提问、练习、修改代码；
-3. 依靠上文记住错误、进度和下一步；
-4. 上下文过长后，新回答开始混入旧任务；
-5. 换会话时，再用一大段回忆重新介绍自己。
+1. Yêu cầu AI lập kế hoạch 12 tuần;
+2. Mỗi ngày đặt câu hỏi, luyện tập và sửa mã trong cùng một phiên;
+3. Dựa vào phần ngữ cảnh phía trên để ghi nhớ lỗi, tiến độ và bước tiếp theo;
+4. Khi ngữ cảnh quá dài, câu trả lời mới bắt đầu trộn lẫn các nhiệm vụ cũ;
+5. Khi đổi phiên, lại dùng một đoạn hồi tưởng dài để giới thiệu lại bản thân.
 
-问题不只是上下文长度。聊天记录没有稳定版本，也没有清楚区分“完成事实”“AI 的解释”“下次假设”。真正的学习状态不应该被困在任何一家工具或任何一次会话里。
+Vấn đề không chỉ nằm ở độ dài ngữ cảnh. Lịch sử trò chuyện không có phiên bản ổn định, cũng không phân biệt rõ “sự việc đã hoàn thành”, “lời giải thích của AI” và “giả định cho lần sau”. Trạng thái học tập thực sự không nên bị mắc kẹt trong bất kỳ công cụ hay phiên trò chuyện nào.
 
-## 五张工具各自做什么
+## Năm công cụ, mỗi công cụ làm gì
 
-| 工具 | 在这个案例中的职责 | 不负责什么 |
+| Công cụ | Vai trò trong trường hợp này | Không phụ trách việc gì |
 | --- | --- | --- |
-| [学习状态](learning-state.md) | 保存跨会话事实、证据、错误、边界和下一任务 | 不保存每一句聊天 |
-| [AI 任务简报](ai-task-brief.md) | 约束本次 45 分钟任务、输入、帮助方式和验收 | 不制定整个人生计划 |
-| [证据链](evidence-chain.md) | 比较独立基线、辅助版、延迟复测和迁移 | 不用一个分数证明“已经学会” |
-| [每周复盘](weekly-review.md) | 根据一周证据只改变一个变量 | 不把一次坏状态写成人格结论 |
-| [读者实践回执](reader-field-note.md) | 记录这套方法是否真的进入行动，以及哪里仍不会用 | 不要求公开隐私或给书打分 |
+| [Trạng thái học tập](learning-state.md) | Lưu các sự kiện, bằng chứng, lỗi, giới hạn và nhiệm vụ tiếp theo xuyên suốt nhiều phiên | Không lưu từng câu trò chuyện |
+| [Bản tóm lược nhiệm vụ AI](ai-task-brief.md) | Giới hạn nhiệm vụ 45 phút hiện tại, đầu vào, cách hỗ trợ và tiêu chí nghiệm thu | Không lập kế hoạch cho cả cuộc đời |
+| [Chuỗi bằng chứng](evidence-chain.md) | So sánh đường cơ sở độc lập, phiên bản có hỗ trợ, bài kiểm tra lại sau một khoảng trễ và khả năng chuyển giao | Không dùng một điểm số để chứng minh “đã học được” |
+| [Tổng kết hằng tuần](weekly-review.md) | Dựa trên bằng chứng trong một tuần để chỉ thay đổi một biến số | Không biến một trạng thái tồi tệ nhất thời thành kết luận về nhân cách |
+| [Phản hồi thực hành của độc giả](reader-field-note.md) | Ghi lại liệu phương pháp này có thực sự đi vào hành động hay không, và điểm nào vẫn chưa biết cách sử dụng | Không yêu cầu công khai thông tin riêng tư hoặc chấm điểm cuốn sách |
 
-如果第一次使用工具箱，先照着这一页完成一周，不要同时打开其余所有模板。
+Nếu lần đầu sử dụng bộ công cụ, trước hết hãy làm theo trang này trong một tuần, đừng mở tất cả các mẫu còn lại cùng lúc.
 
-## 第一步：把状态放到会话外
+## Bước một: Đưa trạng thái ra ngoài phiên trò chuyện
 
-学习者先建立 `python-learning-state.md`，而不是把 AI 会话当记忆：
+Trước tiên, người học tạo `python-learning-state.md`, thay vì coi phiên AI là bộ nhớ:
 
 ```markdown
 # Learning State — python-90d-v1
@@ -68,11 +68,11 @@ updated: 2026-09-02
 停止条件：45 分钟结束即保存状态，不用熬夜完成。
 ```
 
-状态文件只保留会改变下一次行动的内容。课程摘抄、完整聊天和每次尝试的所有细节放在证据文件夹，不塞进状态页。
+Tệp trạng thái chỉ giữ lại những nội dung có thể làm thay đổi hành động lần sau. Các trích đoạn khóa học, toàn bộ cuộc trò chuyện và mọi chi tiết của từng lần thử được đặt trong thư mục bằng chứng, không nhồi vào trang trạng thái.
 
-## 第二步：每次只给 AI 一个任务
+## Bước hai: Mỗi lần chỉ giao cho AI một nhiệm vụ
 
-新会话开始时，不要求 AI “记住我”。只提交最新状态和本次任务简报：
+Khi bắt đầu phiên mới, không yêu cầu AI “nhớ tôi”. Chỉ gửi trạng thái mới nhất và bản tóm lược nhiệm vụ lần này:
 
 ```markdown
 下面是我的学习状态文件。请先用不超过 6 条要点复述版本、目标、当前证据、主要错误、边界和下一任务，指出冲突或缺口。不要补写文件里没有的事实。
@@ -81,38 +81,38 @@ updated: 2026-09-02
 流程：先让我提交独立版；你最多指出 3 个影响结果的问题，不直接给完整代码；我修改后，再用两个测试检查。45 分钟结束时，输出“完成、证据、错误/风险、交接、下一步”五项更新。
 ```
 
-AI 的第一项工作是复述状态，不是立即讲课。复述错误时，先修状态或提示，不要在错误前提上继续生成计划。
+Công việc đầu tiên của AI là nhắc lại trạng thái, không phải lập tức giảng bài. Nếu phần nhắc lại có sai sót, trước hết hãy sửa trạng thái hoặc lời nhắc, đừng tiếp tục tạo kế hoạch dựa trên tiền đề sai.
 
-## 第三步：先做基线，再请求帮助
+## Bước ba: Làm đường cơ sở trước, rồi mới yêu cầu hỗ trợ
 
-合成演示中的独立版得到以下结果：
+Phiên bản độc lập trong phần minh họa tổng hợp cho kết quả sau:
 
-| 条件 | 结果 | 证据 |
+| Điều kiện | Kết quả | Bằng chứng |
 | --- | --- | --- |
-| 25 分钟、不看答案 | 能读取正常行；空金额导致异常；所有逻辑写在一个函数 | `evidence/week-01/baseline.py` |
-| AI 只指出三个问题 | 识别空值校验、函数职责和测试缺失 | `evidence/week-01/feedback.md` |
-| 修改后 | 通过正常行和空行测试；仍未处理非法金额格式 | `evidence/week-01/revision.py` |
+| 25 phút, không xem đáp án | Có thể đọc các dòng hợp lệ; giá trị tiền trống gây ra lỗi; toàn bộ logic nằm trong một hàm | `evidence/week-01/baseline.py` |
+| AI chỉ ra ba vấn đề | Nhận diện việc kiểm tra giá trị trống, trách nhiệm của hàm và phần kiểm thử còn thiếu | `evidence/week-01/feedback.md` |
+| Sau khi sửa | Vượt qua bài kiểm tra với dòng hợp lệ và dòng trống; vẫn chưa xử lý định dạng tiền tệ không hợp lệ | `evidence/week-01/revision.py` |
 
-这不是“AI 帮我写出了程序”。更准确的记录是：独立版暴露了三个问题，AI 帮助分类，学习者修复其中两个，第三个进入下一任务。
+Đây không phải là “AI đã giúp tôi viết xong chương trình”. Cách ghi chép chính xác hơn là: phiên bản độc lập làm lộ ra ba vấn đề, AI giúp phân loại, người học sửa được hai vấn đề, còn vấn đề thứ ba được đưa vào nhiệm vụ tiếp theo.
 
-若一开始就索要完整代码，最终文件可能更漂亮，却失去基线，也无法知道哪部分能力属于学习者。
+Nếu ngay từ đầu đã yêu cầu toàn bộ mã, tệp cuối cùng có thể đẹp hơn, nhưng sẽ mất đường cơ sở và không thể biết phần năng lực nào thuộc về người học.
 
-## 第四步：把作品放进证据链
+## Bước bốn: Đưa sản phẩm vào chuỗi bằng chứng
 
-第一周不保存“学了 CSV”这种结论，而是记录四个时间点：
+Trong tuần đầu tiên, đừng lưu kết luận kiểu “đã học CSV”, mà hãy ghi lại bốn thời điểm:
 
-| 时间点 | 条件 | 合成结果 | 仍不能说明什么 |
+| Thời điểm | Điều kiện | Kết quả tổng hợp | Vẫn chưa thể nói lên điều gì |
 | --- | --- | --- | --- |
-| 基线 | 无 AI，25 分钟 | 1/3 个验收条件通过 | 不能说明理解了错误处理 |
-| 即时辅助后 | 看过三条反馈 | 2/3 通过，能解释两个函数 | 不能说明几天后仍会写 |
-| 第 7 天延迟复测 | 不看旧代码，换一份同结构 CSV | 2/3 通过；再次漏掉非法金额 | 不能说明能应对新字段 |
-| 迁移 | 增加 `currency` 字段 | 能定位改动位置，未完成币种校验 | 说明结构开始迁移，但前置知识不足 |
+| Đường cơ sở | Không có AI, 25 phút | Đạt 1/3 tiêu chí nghiệm thu | Không thể chứng minh đã hiểu xử lý lỗi |
+| Sau khi được hỗ trợ ngay lập tức | Đã xem ba phản hồi | Đạt 2/3, có thể giải thích hai hàm | Không thể chứng minh vài ngày sau vẫn viết được |
+| Kiểm tra lại sau một khoảng trễ vào ngày thứ 7 | Không xem mã cũ, đổi sang một tệp CSV có cùng cấu trúc | Đạt 2/3; lại bỏ sót giá trị tiền tệ không hợp lệ | Không thể chứng minh có thể xử lý trường mới |
+| Chuyển giao | Thêm trường `currency` | Có thể xác định vị trí cần thay đổi, chưa hoàn thành kiểm tra loại tiền tệ | Cho thấy cấu trúc bắt đầu được chuyển giao, nhưng kiến thức nền còn thiếu |
 
-这个结果没有满分，却比“坚持了一周”更有信息。下一变量不是增加 pandas、Web 框架和数据库，而是专门练习输入校验与失败测试。
+Kết quả này không đạt điểm tối đa, nhưng cung cấp nhiều thông tin hơn “đã kiên trì một tuần”. Biến số tiếp theo không phải là thêm pandas, framework web và cơ sở dữ liệu, mà là chuyên tâm luyện tập kiểm tra đầu vào và kiểm thử thất bại.
 
-## 第五步：在新会话继续
+## Bước năm: Tiếp tục trong phiên mới
 
-周末复盘只把改变决定的内容写回状态文件：
+Cuối tuần, phần tổng kết chỉ ghi lại vào tệp trạng thái những nội dung làm thay đổi quyết định:
 
 ```markdown
 # Learning State — python-90d-v2
@@ -128,11 +128,11 @@ AI 的第一项工作是复述状态，不是立即讲课。复述错误时，�
 下一次复查：2026-09-15。
 ```
 
-旧会话可以关闭。新会话只需要 `v2` 和相关证据位置，不需要粘贴几万字聊天。**AI 没有跨会话跟踪学习；状态文件完成了跟踪，AI 读取并服务于它。**
+Có thể đóng phiên cũ. Phiên mới chỉ cần `v2` và vị trí của các bằng chứng liên quan, không cần dán hàng chục nghìn chữ trong cuộc trò chuyện. **AI không theo dõi việc học xuyên suốt các phiên; tệp trạng thái hoàn thành việc theo dõi, còn AI đọc và phục vụ tệp đó.**
 
-## 第六步：七天后填写读者回执
+## Bước sáu: Điền phản hồi của độc giả sau bảy ngày
 
-合成演示还需要检查：工具箱本身是否帮助了行动。
+Phần minh họa tổng hợp cũng cần kiểm tra: bản thân bộ công cụ có giúp thúc đẩy hành động hay không.
 
 ```markdown
 进入问题：不知道新 AI 会话怎样继续三个月计划。
@@ -144,11 +144,11 @@ AI 的第一项工作是复述状态，不是立即讲课。复述错误时，�
 不能推出：这套流程能保证九十天后达到就业要求。
 ```
 
-这份回执先保存在私有笔记。删除路径、身份和敏感内容后，才考虑是否提交公开版本。
+Phản hồi này trước tiên được lưu trong ghi chú riêng tư. Chỉ sau khi xóa đường dẫn, danh tính và nội dung nhạy cảm mới cân nhắc gửi phiên bản công khai.
 
-## 如果一周中断
+## Nếu bị gián đoạn trong một tuần
 
-状态文件不要求补回所有计划。中断后的第一步是写事实：
+Tệp trạng thái không yêu cầu bạn bù lại toàn bộ kế hoạch. Bước đầu tiên sau khi gián đoạn là ghi lại sự việc:
 
 ```markdown
 中断事实：七天没有练习。
@@ -158,9 +158,9 @@ AI 的第一项工作是复述状态，不是立即讲课。复述错误时，�
 24 小时完成标准：保存失败测试和下一次 25 分钟入口。
 ```
 
-若健康、安全、工作责任或关系需要优先处理，恢复本身可以成为本周结果。计划服务生活，不要求生活替计划道歉。
+Nếu sức khỏe, an toàn, trách nhiệm công việc hoặc các mối quan hệ cần được ưu tiên xử lý, việc khôi phục nhịp học cũng có thể trở thành kết quả của tuần đó. Kế hoạch phục vụ cuộc sống, không yêu cầu cuộc sống phải xin lỗi kế hoạch.
 
-## 你可以直接复制的会话协议
+## Giao thức phiên trò chuyện bạn có thể sao chép trực tiếp
 
 ```markdown
 1. 先复述我提交的状态版本、目标、证据、错误、边界和下一任务。
@@ -172,26 +172,26 @@ AI 的第一项工作是复述状态，不是立即讲课。复述错误时，�
 7. 所有长期状态以文件为准，不声称记得其他会话。
 ```
 
-这个协议不能保证 AI 永不出错。它让错误更容易被发现，也让学习者保留问题、状态和最终判断的所有权。
+Giao thức này không thể đảm bảo AI không bao giờ mắc lỗi. Nó giúp lỗi dễ được phát hiện hơn, đồng thời giúp người học giữ quyền sở hữu đối với vấn đề, trạng thái và mọi phán đoán cuối cùng.
 
-## 这个演示证明了什么，仍未证明什么
+## Phần minh họa này chứng minh điều gì, và vẫn chưa chứng minh điều gì
 
-它说明五张工具可以形成清楚交接：状态在会话外保存，任务被缩小，独立版与辅助版分开，七天后有复测，新会话有可靠入口。
+Nó cho thấy năm công cụ có thể tạo thành một quy trình bàn giao rõ ràng: trạng thái được lưu bên ngoài phiên, nhiệm vụ được thu hẹp, phiên bản độc lập và phiên bản có hỗ trợ được tách riêng, có kiểm tra lại sau bảy ngày, và phiên mới có điểm bắt đầu đáng tin cậy.
 
-它没有证明：
+Nó chưa chứng minh rằng:
 
-- 这位合成人物会坚持九十天；
-- 这个任务难度适合每一位初学者；
-- 使用 AI 一定比不用 AI 学得更快；
-- 完成命令行工具等于具备真实岗位能力；
-- 一周结果能够代表长期迁移。
+- Nhân vật tổng hợp này sẽ kiên trì trong 90 ngày;
+- Độ khó của nhiệm vụ này phù hợp với mọi người mới bắt đầu;
+- Học bằng AI chắc chắn nhanh hơn học không dùng AI;
+- Hoàn thành một công cụ dòng lệnh đồng nghĩa với việc có năng lực làm việc thực tế;
+- Kết quả của một tuần có thể đại diện cho khả năng chuyển giao dài hạn.
 
-真正使用时，请保留自己的基线、作品、时间、成本和失败。示例负责说明怎样填写，现实负责决定它是否有用。
+Khi thực sự áp dụng, hãy giữ lại đường cơ sở, sản phẩm, thời gian, chi phí và thất bại của chính bạn. Ví dụ chỉ có nhiệm vụ giải thích cách điền; thực tế mới quyết định nó có hữu ích hay không.
 
-## 结语：把记忆交给文件，把判断留给自己
+## Lời kết: Giao việc ghi nhớ cho tệp, giữ quyền phán đoán cho chính mình
 
-一项长期学习不该因为聊天窗口关闭就失去过去，也不该因为聊天窗口很长就假装拥有连续性。
+Một quá trình học tập dài hạn không nên đánh mất quá khứ chỉ vì cửa sổ trò chuyện bị đóng, cũng không nên giả vờ có tính liên tục chỉ vì cửa sổ trò chuyện rất dài.
 
-让状态文件记住已经发生的事实，让证据保存你真正做出的版本，让下一次会话只承担下一步。工具可以更换，模型可以更新，计划也可以缩小。只要你仍知道自己从哪里来、什么尚未证明、下一项任务在哪里，学习就没有被困在任何一次对话里。
+Hãy để tệp trạng thái ghi nhớ những sự việc đã xảy ra, để bằng chứng lưu lại các phiên bản bạn thực sự tạo ra, và để phiên tiếp theo chỉ đảm nhận bước tiếp theo. Công cụ có thể thay đổi, mô hình có thể được cập nhật, kế hoạch cũng có thể được thu nhỏ. Chỉ cần bạn vẫn biết mình đã đi từ đâu, điều gì chưa được chứng minh và nhiệm vụ tiếp theo nằm ở đâu, việc học sẽ không bị mắc kẹt trong bất kỳ cuộc trò chuyện nào.
 
-相关入口：[学习状态](learning-state.md) ｜ [AI 任务简报](ai-task-brief.md) ｜ [证据链](evidence-chain.md) ｜ [读者实践回执](reader-field-note.md)
+Lối vào liên quan: [Trạng thái học tập](learning-state.md) ｜ [Bản tóm lược nhiệm vụ AI](ai-task-brief.md) ｜ [Chuỗi bằng chứng](evidence-chain.md) ｜ [Phản hồi thực hành của độc giả](reader-field-note.md)

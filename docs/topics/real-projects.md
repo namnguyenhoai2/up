@@ -1,30 +1,30 @@
 ---
-title: 真实项目、求职与创业｜把学习变成证据
-description: 面向准备求职、远程协作或验证创业想法的自学者，从具体岗位、用户问题和交付物出发，用两周实验判断下一步，而不是先堆课程和计划。
+title: "Dự án thực tế, tìm việc và khởi nghiệp｜Biến việc học thành bằng chứng"
+description: "Dành cho người tự học đang chuẩn bị tìm việc, hợp tác từ xa hoặc xác thực ý tưởng khởi nghiệp: hãy bắt đầu từ một vị trí cụ thể, vấn đề của người dùng và sản phẩm bàn giao, rồi dùng một thử nghiệm kéo dài hai tuần để quyết định bước tiếp theo, thay vì vội vàng tích lũy các khóa học và kế hoạch."
 updated: 2026-10-14
 topic: real-projects
 intent: project-validation
 schema: Article
 socialImage: /assets/social/projects-zh.png
-socialImageAlt: 真实项目求职与创业验证分享图
+socialImageAlt: Hình chia sẻ về dự án thực tế, tìm việc và xác thực khởi nghiệp
 ---
 
-# 真实项目、求职与创业：把学习变成证据
+# Dự án thực tế, tìm việc và khởi nghiệp: Biến việc học thành bằng chứng
 
-如果你搜索的是如何做真实项目、准备英文求职或验证创业想法，不必先完成一套庞大的课程。先选择一个具体对象、约束和交付物，让反馈决定下一步。
+Nếu bạn đang tìm hiểu cách thực hiện dự án thực tế, chuẩn bị tìm việc bằng tiếng Anh hoặc xác thực ý tưởng khởi nghiệp, bạn không cần phải hoàn thành một chương trình học đồ sộ trước. Hãy chọn một đối tượng cụ thể, các ràng buộc và sản phẩm bàn giao, rồi để phản hồi quyết định bước tiếp theo.
 
-## 适合谁
+## Phù hợp với ai
 
-- 想把学习成果变成作品、案例、面试证据或第一批用户的人。
-- 需要英语参与跨国团队、客户沟通或远程求职的人。
-- 想低成本验证创业假设，并能接受被用户拒绝的人。
+- Những người muốn biến thành quả học tập thành sản phẩm, tình huống điển hình, bằng chứng khi phỏng vấn hoặc những người dùng đầu tiên.
+- Những người cần sử dụng tiếng Anh để tham gia đội ngũ quốc tế, giao tiếp với khách hàng hoặc tìm việc từ xa.
+- Những người muốn xác thực giả thuyết khởi nghiệp với chi phí thấp và có thể chấp nhận việc bị người dùng từ chối.
 
-## 三步开始
+## Bắt đầu với ba bước
 
-1. 从 [实践路线图：从问题开始](../practice.md) 选择一个真实问题，使用 [作品简报与交付卡](../templates/artifact-brief.md) 定义用户、交付物和完成标准。
-2. 求职时参考 [求职英语与远程协作](../threads/part-1/8-job-search-english.md) 和 [求职英语证据卡](../templates/interview-evidence.md)，把岗位描述转换成可展示的证据。
-3. 创业时用 [从问题到首批用户](../threads/practice/customer-discovery.md) 访谈，再用 [创业实验卡](../templates/startup-experiment.md) 记录假设、成本、反馈与停止条件。
+1. Bắt đầu từ [Lộ trình thực hành: Bắt đầu từ vấn đề](../practice.md), chọn một vấn đề thực tế, sử dụng [Bản tóm tắt sản phẩm và thẻ bàn giao](../templates/artifact-brief.md) để xác định người dùng, sản phẩm bàn giao và tiêu chuẩn hoàn thành.
+2. Khi tìm việc, tham khảo [Tiếng Anh tìm việc và hợp tác từ xa](../threads/part-1/8-job-search-english.md) cùng [Thẻ bằng chứng tiếng Anh tìm việc](../templates/interview-evidence.md), biến mô tả công việc thành những bằng chứng có thể trình bày.
+3. Khi khởi nghiệp, dùng [Từ vấn đề đến những người dùng đầu tiên](../threads/practice/customer-discovery.md) để phỏng vấn, sau đó dùng [Thẻ thử nghiệm khởi nghiệp](../templates/startup-experiment.md) để ghi lại giả thuyết, chi phí, phản hồi và điều kiện dừng.
 
-## 下一步
+## Bước tiếp theo
 
-两周后不要只问“我学会了吗”。检查作品是否被真实的人使用、面试回答是否更具体、用户是否愿意继续对话，以及成本是否可承受。把结果放入 [AI 开发与资源层创业](../threads/part-3/2-ai-development-and-resource-layer.md) 或 [最近更新](../recent-updates.md)，继续下一轮。
+Sau hai tuần, đừng chỉ hỏi “Tôi đã học được chưa?”. Hãy kiểm tra xem sản phẩm có được người thật sử dụng hay không, câu trả lời phỏng vấn có cụ thể hơn không, người dùng có sẵn lòng tiếp tục trao đổi hay không và chi phí có nằm trong khả năng chấp nhận hay không. Đưa kết quả vào [Khởi nghiệp với AI và tài nguyên](../threads/part-3/2-ai-development-and-resource-layer.md) hoặc [Cập nhật gần đây](../recent-updates.md), rồi tiếp tục vòng tiếp theo.

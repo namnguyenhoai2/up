@@ -1,6 +1,6 @@
 ---
-title: Dự án của tác giả và thực tiễn hiện thực
-description: Tập trung công khai các sản phẩm, công ty và hoạt động thực tiễn có sự tham gia của tác giả, đồng thời nêu rõ mối liên hệ, mục đích sử dụng, thời điểm cập nhật và quan hệ không tài trợ.
+title: "Dự án của tác giả và thực tiễn hiện thực"
+description: "Tập trung công khai các sản phẩm, công ty và hoạt động thực tiễn có sự tham gia của tác giả, đồng thời nêu rõ mối liên hệ, mục đích sử dụng, thời điểm cập nhật và quan hệ không tài trợ."
 updated: 2026-09-01
 ---
 

@@ -1,112 +1,112 @@
 ---
-title: 阅读指南：把书放回生活
-description: 给第一次打开《人生进阶指南》的读者一张可选择的阅读地图：按问题入场、按证据实践、按周期复盘，并在 AI 与低谷中保留边界。
+title: "Hướng dẫn đọc: Đưa sách trở lại với cuộc sống"
+description: "Trao cho những độc giả lần đầu mở 《Cẩm nang nâng cấp cuộc đời》 một bản đồ đọc có thể lựa chọn: bắt đầu từ vấn đề, thực hành dựa trên bằng chứng, nhìn lại theo chu kỳ, đồng thời giữ ranh giới trong thời đại AI và những giai đoạn sa sút."
 updated: 2026-10-06
 prev:
-  text: "人生进阶指南"
+  text: "Cẩm nang nâng cấp cuộc đời"
   link: /
 next:
-  text: "序章：先不要急着改变人生"
+  text: "Lời mở đầu: Đừng vội thay đổi cuộc đời"
   link: /threads/part-0/prologue
 ---
 
-# 阅读指南：把书放回生活
+# Hướng dẫn đọc: Đưa sách trở lại với cuộc sống
 
-这不是一本需要从第一页背到最后一页的教材，也不是一份等待你打卡完成的清单。它更像一间可以反复回来的工作室：你带着一个真实问题进来，拿走一个较小的动作，再把结果带回生活。
+Đây không phải là một cuốn giáo trình cần được học thuộc từ trang đầu đến trang cuối, cũng không phải một danh sách chờ bạn đánh dấu hoàn thành. Nó giống một xưởng thực hành mà bạn có thể quay lại nhiều lần hơn: bạn bước vào với một vấn đề thực tế, mang đi một hành động nhỏ hơn, rồi đưa kết quả trở lại cuộc sống.
 
-如果你第一次打开这里，不必先问“我应该读完多少”。先问：**我现在最需要看清什么，完成什么，或停止什么？** 这个问题会替你选择入口。
+Nếu đây là lần đầu bạn mở cuốn sách này, không cần hỏi trước rằng “Mình nên đọc hết bao nhiêu?”. Hãy hỏi trước: **Hiện giờ điều gì mình cần nhìn rõ nhất, hoàn thành, hoặc dừng lại?** Câu hỏi này sẽ giúp bạn chọn lối vào.
 
-## 先选择今天的入口
+## Trước hết, hãy chọn lối vào hôm nay
 
-### 我只是想重新开始
+### Tôi chỉ muốn bắt đầu lại
 
-先读[序章：先不要急着改变人生](prologue.md)，再打开[学习状态模板](../../templates/learning-state.md)。如果今天只有五分钟，先填模板里的最小版本：真实问题、已有证据、一个最小动作和必须守住的边界；完成动作后再决定是否需要完整的 25–45 分钟记录。不要急着设计三年计划。
+Trước tiên hãy đọc [Lời mở đầu: Đừng vội thay đổi cuộc đời](prologue.md), sau đó mở [mẫu trạng thái học tập](../../templates/learning-state.md). Nếu hôm nay chỉ có năm phút, hãy điền phiên bản tối giản trong mẫu trước: vấn đề thực tế, bằng chứng hiện có, một hành động nhỏ nhất và ranh giới bắt buộc phải giữ; sau khi hoàn thành hành động rồi mới quyết định có cần ghi chép đầy đủ trong 25–45 phút hay không. Đừng vội lập kế hoạch ba năm.
 
-### 我想提高一项具体能力
+### Tôi muốn nâng cao một năng lực cụ thể
 
-如果首遇时被大量生词拖住，却不知道哪些值得查、哪些可以放过，先读[词汇篇：从眼熟到在真实任务中调用](../part-1/2-vocabulary.md)，用[词汇证据卡](../../templates/vocabulary-audit.md)保存未知项决定、八维核验、无提示调用与延迟迁移。
+Nếu khi gặp lần đầu bạn bị cản trở bởi quá nhiều từ mới nhưng không biết từ nào đáng tra, từ nào có thể bỏ qua, hãy đọc [Phần từ vựng: Từ quen mắt đến vận dụng trong nhiệm vụ thực tế](../part-1/2-vocabulary.md), dùng [thẻ bằng chứng từ vựng](../../templates/vocabulary-audit.md) để lưu lại quyết định đối với mục chưa biết, kiểm chứng tám chiều, khả năng gọi lại không có gợi ý và sự chuyển giao trì hoãn.
 
-从[CEFR 目标与自测](../part-1/0-cefr.md)确认场景和基线，再进入英语的语法、听、读、说、写章节。若规则似乎懂了，但表达仍反复改变时间、责任、条件或确定性，先读[语法篇：让结构服务于意思](../part-1/grammar.md)，再用[语法证据卡](../../templates/grammar-evidence.md)追踪一项高影响结构。若收藏了很多音频、仍然只能看字幕理解或不知道每一遍应该做什么，进入[听力篇：从声音辨认到真实理解](../part-1/3-listening.md)，用[听力证据卡](../../templates/listening-audit.md)保存首听、错误地图、最小支架、意义重构和平行迁移。若技术文档读得慢、逐词翻译、概念背景不足或读完无法交付，进入[阅读篇：从逐词翻译到观点与证据](../part-1/4-reading.md)，用[阅读证据卡](../../templates/reading-evidence.md)保存版本、障碍地图、主张证据、最小技术事实与真实输出。若只在背熟稿件里流畅、害怕口音不同或遇到追问就退出，进入[口语篇：让意思清楚到达](../part-1/5-speaking.md)，用[口语证据卡](../../templates/speaking-evidence.md)保存参考变体、听众复述、互动修复和陌生问题迁移。若写不出自己的初稿、依赖整句翻译或只能展示 AI 润色后的成品，进入[写作篇：从初稿到可验证修订](../part-1/6-writing.md)，用[写作证据卡](../../templates/writing-evidence.md)保存事实来源、翻译意义变化、反馈吸收、异步交接和署名决定。每次只选一条主线，并用对应的[证据卡](../../reference/glossary.md#工具与交付)保存首版、反馈和复测。学得更多不等于学得更深；能够在新场景中完成，才开始接近能力。
+Hãy xác nhận bối cảnh và mức cơ sở từ [mục tiêu CEFR và tự đánh giá](../part-1/0-cefr.md), rồi mới đi vào các chương về ngữ pháp, nghe, đọc, nói và viết tiếng Anh. Nếu bạn tưởng như đã hiểu quy tắc nhưng cách diễn đạt vẫn liên tục thay đổi thời gian, trách nhiệm, điều kiện hoặc mức độ chắc chắn, hãy đọc trước [Phần ngữ pháp: Để cấu trúc phục vụ ý nghĩa](../part-1/grammar.md), sau đó dùng [thẻ bằng chứng ngữ pháp](../../templates/grammar-evidence.md) để theo dõi một cấu trúc có ảnh hưởng lớn. Nếu bạn đã lưu rất nhiều đoạn âm thanh nhưng vẫn chỉ có thể hiểu khi nhìn phụ đề, hoặc không biết mỗi lượt nghe cần làm gì, hãy vào [Phần nghe: Từ nhận diện âm thanh đến hiểu thực tế](../part-1/3-listening.md), dùng [thẻ bằng chứng nghe](../../templates/listening-audit.md) để lưu lại lần nghe đầu tiên, bản đồ lỗi, giàn giáo tối thiểu, tái cấu trúc ý nghĩa và chuyển giao song song. Nếu bạn đọc tài liệu kỹ thuật chậm, dịch từng từ, thiếu bối cảnh khái niệm hoặc đọc xong vẫn không thể bàn giao sản phẩm, hãy vào [Phần đọc: Từ dịch từng từ đến quan điểm và bằng chứng](../part-1/4-reading.md), dùng [thẻ bằng chứng đọc](../../templates/reading-evidence.md) để lưu lại phiên bản, bản đồ trở ngại, luận điểm và bằng chứng, sự thật kỹ thuật tối thiểu cùng đầu ra thực tế. Nếu bạn chỉ trôi chảy khi đọc thuộc kịch bản, sợ các giọng khác nhau hoặc gặp câu hỏi追问 là bỏ cuộc, hãy vào [Phần nói: Để ý nghĩa được truyền đạt rõ ràng](../part-1/5-speaking.md), dùng [thẻ bằng chứng nói](../../templates/speaking-evidence.md) để lưu lại biến thể tham chiếu, phần diễn đạt lại của người nghe, cách sửa chữa trong tương tác và sự chuyển giao sang câu hỏi lạ. Nếu bạn không viết được bản nháp của mình, phụ thuộc vào việc dịch nguyên câu hoặc chỉ có thể trình bày thành phẩm đã được AI trau chuốt, hãy vào [Phần viết: Từ bản nháp đến chỉnh sửa có thể kiểm chứng](../part-1/6-writing.md), dùng [thẻ bằng chứng viết](../../templates/writing-evidence.md) để lưu lại nguồn sự thật, những thay đổi về ý nghĩa qua bản dịch, việc tiếp thu phản hồi, bàn giao không đồng bộ và quyết định ghi tên. Mỗi lần chỉ chọn một tuyến chính, đồng thời dùng [thẻ bằng chứng](../../reference/glossary.md#工具与交付) tương ứng để lưu lại bản đầu tiên, phản hồi và lần kiểm tra lại. Học nhiều hơn không đồng nghĩa với học sâu hơn; chỉ khi có thể hoàn thành nhiệm vụ trong bối cảnh mới, bạn mới bắt đầu tiến gần đến năng lực thực sự.
 
-### 我正在准备海外岗位或远程面试
+### Tôi đang chuẩn bị cho vị trí ở nước ngoài hoặc phỏng vấn từ xa
 
-先读[求职英语篇：把能力带进面试与远程协作](../part-1/8-job-search-english.md)，不要先用一个 CEFR 标签决定自己是否“够格”。选择一个真实岗位，用[求职英语证据卡](../../templates/interview-evidence.md)保存无稿项目说明、陌生追问、异步更新和修复动作；十四天后再决定立即投递、先补一个高风险缺口，还是暂缓该岗位。
+Trước tiên hãy đọc [Phần tiếng Anh xin việc: Đưa năng lực vào phỏng vấn và cộng tác từ xa](../part-1/8-job-search-english.md), đừng vội dùng một nhãn CEFR để quyết định mình có “đủ tư cách” hay không. Hãy chọn một vị trí thực tế, dùng [thẻ bằng chứng tiếng Anh xin việc](../../templates/interview-evidence.md) để lưu lại phần giới thiệu dự án không có kịch bản, câu hỏi追问 lạ, cập nhật không đồng bộ và hành động khắc phục; sau mười bốn ngày mới quyết định nộp hồ sơ ngay, trước tiên bổ sung một thiếu sót rủi ro cao, hay tạm hoãn vị trí này.
 
-### 我有很多资料，却没有作品
+### Tôi có rất nhiều tài liệu nhưng không có sản phẩm
 
-先看[使用 AI 学习一切](../part-3/1-ai-learning.md)，把问题、来源、隐私边界和人工判断写进[AI 任务简报](../../templates/ai-task-brief.md)。随后用[作品简报与交付卡](../../templates/artifact-brief.md)规定受众、完成标准、验收人和回滚方式。聊天记录可以帮助你开始，不能替你交付。
+Trước tiên hãy xem [Học mọi thứ bằng AI](../part-3/1-ai-learning.md), ghi vấn đề, nguồn, ranh giới riêng tư và phán đoán của con người vào [bản tóm tắt nhiệm vụ AI](../../templates/ai-task-brief.md). Sau đó dùng [bản tóm tắt sản phẩm và thẻ bàn giao](../../templates/artifact-brief.md) để quy định đối tượng, tiêu chuẩn hoàn thành, người nghiệm thu và cách khôi phục. Lịch sử trò chuyện có thể giúp bạn bắt đầu, nhưng không thể thay bạn bàn giao sản phẩm.
 
-### 我有很多记录，却不知道自己是否真的改变
+### Tôi có rất nhiều ghi chép nhưng không biết mình có thực sự thay đổi hay không
 
-先打开[证据链模板](../../templates/evidence-chain.md)，把基线、即时表现、延迟保持和迁移放在同一页，再回到[证据篇：变化要如何被看见](../part-3/5-evidence-and-transfer.md)判断哪些结论已经有证据、哪些仍然只是解释。不要用更长的表格替代一次独立复测。
+Trước tiên hãy mở [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), đặt mức cơ sở, biểu hiện tức thời, khả năng duy trì sau trì hoãn và sự chuyển giao trên cùng một trang, sau đó quay lại [Phần bằng chứng: Làm thế nào để nhìn thấy sự thay đổi](../part-3/5-evidence-and-transfer.md) để phán đoán kết luận nào đã có bằng chứng, kết luận nào vẫn chỉ là cách diễn giải. Đừng dùng một bảng biểu dài hơn để thay thế cho một lần kiểm tra độc lập.
 
-### 我不知道该选哪张工作纸
+### Tôi không biết nên chọn phiếu thực hành nào
 
-第一次使用时，先看[工具箱实战](../../templates/toolkit-walkthrough.md)，跟着一个明确标注为合成演示的 90 天 Python 案例走完学习状态、AI 任务、独立基线、复测和新会话交接。之后再打开[工具箱总览](../../templates/toolkit.md)，按眼前的卡点选择一个入口；选定之后就离开总览，完成一次真实动作。
+Lần đầu sử dụng, hãy xem [Thực hành với hộp công cụ](../../templates/toolkit-walkthrough.md), làm theo một trường hợp Python 90 ngày được đánh dấu rõ là trình diễn tổng hợp, đi qua trạng thái học tập, nhiệm vụ AI, mức cơ sở độc lập, kiểm tra lại và bàn giao cho phiên làm việc mới. Sau đó mở [Tổng quan hộp công cụ](../../templates/toolkit.md), chọn một lối vào dựa trên điểm vướng trước mắt; sau khi chọn xong thì rời khỏi phần tổng quan và hoàn thành một hành động thực tế.
 
-### 我正在帮助一名初中阶段的学习者
+### Tôi đang hỗ trợ một học sinh trung học cơ sở
 
-先读[家庭学习篇：把成长还给孩子](../part-4/family-learning.md)，不要直接把成人的时间管理、职业项目和 AI 账户前提套给孩子。用[家庭学习共同协议](../../templates/family-learning-agreement.md)分别写下孩子的目标表达、家长的担心、学校要求、数据边界和十四天复查；孩子先说，成人负责安全与环境，不代做也不全天监控。
+Trước tiên hãy đọc [Phần học tập gia đình: Trao lại sự trưởng thành cho trẻ](../part-4/family-learning.md), đừng áp dụng trực tiếp các tiền đề về quản lý thời gian, dự án nghề nghiệp và tài khoản AI của người lớn cho trẻ. Dùng [thỏa thuận chung về học tập gia đình](../../templates/family-learning-agreement.md) để lần lượt viết ra cách trẻ diễn đạt mục tiêu, mối lo của cha mẹ, yêu cầu của nhà trường, ranh giới dữ liệu và lần xem xét sau mười bốn ngày; trẻ nói trước, người lớn chịu trách nhiệm về an toàn và môi trường, không làm thay cũng không giám sát cả ngày.
 
-### 我正在低谷，今天的容量很小
+### Tôi đang ở giai đoạn sa sút và hôm nay còn rất ít năng lượng
 
-先读[恢复篇：先把自己接住](../part-2/recovery.md)和[生活系统篇](../part-4/daily-system.md)。把目标缩小到安全、吃饭、睡眠、求助和一个最小输出。若低落、失眠、绝望或危险念头持续存在，优先联系可信的人并寻求当地合格的医疗或心理专业支持；本书不能替代照护。
+Trước tiên hãy đọc [Phần hồi phục: Trước hết hãy đỡ lấy chính mình](../part-2/recovery.md) và [Phần hệ thống cuộc sống](../part-4/daily-system.md). Thu nhỏ mục tiêu xuống còn an toàn, ăn uống, ngủ nghỉ, tìm kiếm trợ giúp và một đầu ra tối thiểu. Nếu cảm giác buồn bã, mất ngủ, tuyệt vọng hoặc ý nghĩ nguy hiểm kéo dài, hãy ưu tiên liên hệ với người đáng tin cậy và tìm kiếm sự hỗ trợ phù hợp từ chuyên gia y tế hoặc tâm lý có đủ năng lực tại địa phương; cuốn sách này không thể thay thế sự chăm sóc.
 
-## 两种读法，轮流使用
+## Luân phiên sử dụng hai cách đọc
 
-### 一条完整的阅读弧线
+### Một cung đọc hoàn chỉnh
 
-完整阅读不是把页码走完，而是让同一个问题经过四次变化：先看见自己，再打开输入，回到现实，最后把节奏交给时间。
+Đọc đầy đủ không phải là đi hết các số trang, mà là để cùng một vấn đề trải qua bốn lần biến đổi: trước tiên nhìn thấy chính mình, sau đó mở ra với đầu vào, trở về thực tế, cuối cùng trao nhịp độ cho thời gian.
 
-| 阶段 | 阅读范围 | 读完留下什么 |
+| Giai đoạn | Phạm vi đọc | Đọc xong để lại điều gì |
 | --- | --- | --- |
-| 看见起点 | [阅读指南](reader-guide.md) · [序章](prologue.md) | 一页读者承诺：真实问题、基线、最小动作和边界 |
-| 打开输入 | [CEFR 自测](../part-1/0-cefr.md)与词汇、语法、听、读、说、写章节 | 一份[英语能力诊断](../../templates/english-diagnostic.md)和一张对应的[证据卡](../../reference/glossary.md#工具与交付) |
-| 回到现实 | [我的故事](../part-2/my-story.md)、[叙事与证据](../part-2/narrative-and-evidence.md)、[回声](../part-2/x-misc.md)、[恢复](../part-2/recovery.md)、[选择](../part-2/decision.md)，以及[AI 学习](../part-3/1-ai-learning.md)、[作品](../part-3/4-artifacts-and-delivery.md)、[证据](../part-3/5-evidence-and-transfer.md) | 一次案例复盘或真实交付，并用[证据链模板](../../templates/evidence-chain.md)记录变化 |
-| 保持与交付 | [实践篇](../part-4/week-1.md)、按需使用的[家庭学习](../part-4/family-learning.md)、[生活系统](../part-4/daily-system.md)、[节律](../part-4/rhythm-and-compounding.md)、[九十天行动](../part-5/90-day-plan.md)、[本书案例](../part-5/book-as-proof.md)、[第六部：与自己做终身朋友](../part-6/1-understanding-yourself.md)、[后记](../part-6/afterword.md) | 一份第一周基线与复测、一页[节律账本](../../templates/rhythm-ledger.md)、一份周期计划、一份真实项目交接，以及下一次复查日期 |
+| Nhìn thấy điểm xuất phát | [Hướng dẫn đọc](reader-guide.md) · [Lời mở đầu](prologue.md) | Một trang cam kết của người đọc: vấn đề thực tế, mức cơ sở, hành động nhỏ nhất và ranh giới |
+| Mở ra với đầu vào | [Tự đánh giá CEFR](../part-1/0-cefr.md) cùng các chương về từ vựng, ngữ pháp, nghe, đọc, nói và viết | Một [chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md) và một [thẻ bằng chứng](../../reference/glossary.md#工具与交付) tương ứng |
+| Trở về thực tế | [Câu chuyện của tôi](../part-2/my-story.md), [Tường thuật và bằng chứng](../part-2/narrative-and-evidence.md), [Tiếng vọng](../part-2/x-misc.md), [Hồi phục](../part-2/recovery.md), [Lựa chọn](../part-2/decision.md), cùng với [Học tập với AI](../part-3/1-ai-learning.md), [Sản phẩm](../part-3/4-artifacts-and-delivery.md), [Bằng chứng](../part-3/5-evidence-and-transfer.md) | Một lần nhìn lại trường hợp hoặc một lần bàn giao thực tế, đồng thời dùng [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) để ghi lại sự thay đổi |
+| Duy trì và bàn giao | [Phần thực hành](../part-4/week-1.md), tùy nhu cầu sử dụng [Học tập gia đình](../part-4/family-learning.md), [Hệ thống cuộc sống](../part-4/daily-system.md), [Nhịp điệu](../part-4/rhythm-and-compounding.md), [Hành động chín mươi ngày](../part-5/90-day-plan.md), [Các trường hợp trong sách](../part-5/book-as-proof.md), [Phần sáu: Làm bạn trọn đời với chính mình](../part-6/1-understanding-yourself.md), [Lời bạt](../part-6/afterword.md) | Mức cơ sở và lần kiểm tra lại của tuần đầu tiên, một trang [sổ cái nhịp điệu](../../templates/rhythm-ledger.md), một kế hoạch theo chu kỳ, một lần bàn giao dự án thực tế và ngày xem xét tiếp theo |
 
-### 像读一本书一样读
+### Đọc như đọc một cuốn sách
 
-沿着[序章](prologue.md) → [第一部：打开输入](../part-1/open-input.md) → [第二部：把自己放回生活](../part-2/return-to-life.md) → [第三部：借工具放大能力](../part-3/amplify-ability.md) → [证据篇](../part-3/5-evidence-and-transfer.md) → [第四部：实践与恢复](../part-4/practice-and-recovery.md) → [第五部：行动与长期改变](../part-5/long-term-action.md) → [第六部：与自己做终身朋友](../part-6/1-understanding-yourself.md)阅读。这样读，你会看到同一个问题怎样从语言训练走到工作、关系、身体、责任和自我关系，再经过验证成为可以持续的节奏。
+Hãy đọc theo trình tự [Lời mở đầu](prologue.md) → [Phần một: Mở ra với đầu vào](../part-1/open-input.md) → [Phần hai: Đưa chính mình trở lại với cuộc sống](../part-2/return-to-life.md) → [Phần ba: Dùng công cụ để khuếch đại năng lực](../part-3/amplify-ability.md) → [Phần bằng chứng](../part-3/5-evidence-and-transfer.md) → [Phần bốn: Thực hành và hồi phục](../part-4/practice-and-recovery.md) → [Phần năm: Hành động và thay đổi dài hạn](../part-5/long-term-action.md) → [Phần sáu: Làm bạn trọn đời với chính mình](../part-6/1-understanding-yourself.md). Khi đọc như vậy, bạn sẽ thấy cùng một vấn đề đi từ việc rèn luyện ngôn ngữ đến công việc, các mối quan hệ, cơ thể, trách nhiệm và mối quan hệ với chính mình như thế nào, rồi qua kiểm chứng trở thành một nhịp điệu có thể duy trì.
 
-### 像使用一间工作室一样读
+### Đọc như sử dụng một xưởng thực hành
 
-从[工具箱总览](../../templates/toolkit.md)、目录或索引直接跳到眼前的卡点。读完一节就暂停，写下一句判断、做一次练习，或保存一份首版样本；一周后用[证据链模板](../../templates/evidence-chain.md)和[每周复盘模板](../../templates/weekly-review.md)检查它是否迁移到了新的任务。这样读，你不需要记住整本书，只需要让下一次行动更清楚。
+Từ [Tổng quan hộp công cụ](../../templates/toolkit.md), mục lục hoặc chỉ mục, hãy đi thẳng đến điểm vướng trước mắt. Đọc xong một mục thì tạm dừng, viết ra một nhận định, thực hiện một bài tập hoặc lưu lại một mẫu đầu tiên; một tuần sau, dùng [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) và [mẫu nhìn lại hằng tuần](../../templates/weekly-review.md) để kiểm tra xem nó đã chuyển giao sang nhiệm vụ mới hay chưa. Đọc như vậy, bạn không cần ghi nhớ cả cuốn sách, chỉ cần làm cho hành động tiếp theo rõ ràng hơn.
 
-这两种读法并不冲突。完整阅读帮助你理解方法为何这样安排，按需阅读帮助方法在今天就产生作用。
+Hai cách đọc này không mâu thuẫn. Đọc đầy đủ giúp bạn hiểu vì sao phương pháp được sắp xếp như vậy; đọc theo nhu cầu giúp phương pháp tạo ra tác dụng ngay hôm nay.
 
-## 每一章都留下四种痕迹
+## Mỗi chương đều để lại bốn loại dấu vết
 
-读完一个章节，不要只标记“已读”。请至少留下下面四项中的两项：
+Đọc xong một chương, đừng chỉ đánh dấu “đã đọc”. Hãy để lại ít nhất hai trong bốn mục dưới đây:
 
-| 痕迹 | 要回答的问题 | 例子 |
+| Dấu vết | Câu hỏi cần trả lời | Ví dụ |
 | --- | --- | --- |
-| 一个判断 | 我现在比读之前更确定什么？ | “这周只追踪一个主问题。” |
-| 一个样本 | 什么输出能证明我做过？ | 一段录音、一封邮件、一张错误清单 |
-| 一个边界 | 哪些事不能交给工具或想象？ | 不上传客户隐私；不把单一经历写成规律 |
-| 一个回访点 | 什么时候用什么条件复测？ | 七天后换主题重做同一任务 |
+| Một nhận định | Hiện giờ tôi chắc chắn hơn điều gì so với trước khi đọc? | “Tuần này chỉ theo dõi một vấn đề chính.” |
+| Một mẫu | Đầu ra nào có thể chứng minh tôi đã làm? | Một đoạn ghi âm, một email, một danh sách lỗi |
+| Một ranh giới | Những việc nào không thể giao cho công cụ hoặc trí tưởng tượng? | Không tải lên thông tin riêng tư của khách hàng; không biến một trải nghiệm đơn lẻ thành quy luật |
+| Một điểm quay lại | Khi nào và trong điều kiện nào sẽ kiểm tra lại? | Bảy ngày sau, đổi chủ đề và làm lại cùng một nhiệm vụ |
 
-如果一章读完只留下了“很有道理”，先不要继续收藏。把它改写成一项可以被别人看见、被自己复查的动作。
+Nếu đọc xong một chương mà chỉ còn lại cảm giác “rất có lý”, trước tiên đừng tiếp tục lưu thêm. Hãy viết lại nó thành một hành động có thể được người khác nhìn thấy và được chính bạn kiểm tra lại.
 
-## 这本书不替你做的事
+## Những việc cuốn sách này không làm thay bạn
 
-我不会替你挑一个永远正确的职业，也不会把个人故事包装成成功公式；不会把 AI 的回答当成事实，不会把一次顺利的体验当成能力证明，也不会用漂亮的日程掩盖身体、金钱、关系和隐私的成本。
+Tôi sẽ không chọn thay bạn một nghề nghiệp luôn đúng, cũng không biến câu chuyện cá nhân thành công thức thành công; tôi sẽ không coi câu trả lời của AI là sự thật, không coi một trải nghiệm thuận lợi là bằng chứng năng lực, cũng không dùng một thời khóa biểu đẹp đẽ để che giấu cái giá về cơ thể, tiền bạc, các mối quan hệ và quyền riêng tư.
 
-你可以质疑书中的判断。请先区分它属于研究结论、个人经验，还是等待验证的假设，再用自己的场景复测。不同的人拥有不同的资源、责任、身体和风险；同一条建议在你身上无效，并不说明你不够努力，也不自动说明建议本身错误。
+Bạn có thể chất vấn những nhận định trong sách. Trước hết hãy phân biệt đó là kết luận nghiên cứu, kinh nghiệm cá nhân hay giả thuyết đang chờ kiểm chứng, rồi dùng bối cảnh của mình để kiểm tra lại. Mỗi người có nguồn lực, trách nhiệm, cơ thể và rủi ro khác nhau; một lời khuyên không hiệu quả với bạn không có nghĩa là bạn chưa đủ nỗ lực, cũng không tự động có nghĩa bản thân lời khuyên đó sai.
 
-## 当计划被打断时，从这里回来
+## Khi kế hoạch bị gián đoạn, hãy quay lại từ đây
 
-中断不是这套方法的例外，而是它必须能够承受的现实。先打开[学习状态](../../templates/learning-state.md)，标记已经完成、尚未确认、发生的代价和下一步；如果能力下降来自容量变化，就回到[最小可行的一天](../part-4/daily-system.md)或[节律账本](../../templates/rhythm-ledger.md)，不要用羞耻把计划重新加重。
+Gián đoạn không phải ngoại lệ của phương pháp này, mà là thực tế mà nó buộc phải chịu đựng được. Trước tiên hãy mở [trạng thái học tập](../../templates/learning-state.md), đánh dấu những gì đã hoàn thành, chưa xác nhận, cái giá đã phát sinh và bước tiếp theo; nếu năng lực suy giảm do sức chứa thay đổi, hãy quay về [một ngày khả thi tối thiểu](../part-4/daily-system.md) hoặc [sổ cái nhịp điệu](../../templates/rhythm-ledger.md), đừng dùng cảm giác xấu hổ để làm kế hoạch nặng nề trở lại.
 
-等一个可重复的节奏回来，再把任务加回去。真正可靠的系统不是永远不断，而是中断之后仍然知道怎样回家。
+Đợi đến khi một nhịp điệu có thể lặp lại quay về, rồi mới đưa nhiệm vụ trở lại. Một hệ thống thực sự đáng tin cậy không phải là hệ thống không bao giờ gián đoạn, mà là sau khi gián đoạn vẫn biết cách trở về nhà.
 
-## 给读者的一页承诺
+## Một trang cam kết dành cho độc giả
 
-在继续下一页之前，你可以写下四句话：
+Trước khi sang trang tiếp theo, bạn có thể viết ra bốn câu:
 
-1. 我现在要处理的真实问题是：
-2. 我已经拥有的基线证据是：
-3. 这次阅读之后，我会在什么时候完成哪一个最小动作：
-4. 哪些信息、隐私、健康或关系边界必须由我自己守住：
+1. Vấn đề thực tế tôi muốn giải quyết lúc này là:
+2. Bằng chứng cơ sở tôi đang có là:
+3. Sau lần đọc này, tôi sẽ hoàn thành hành động nhỏ nhất nào vào thời điểm nào:
+4. Những ranh giới về thông tin, quyền riêng tư, sức khỏe hoặc các mối quan hệ nào bắt buộc tôi phải tự mình bảo vệ:
 
-这四句话足够成为一次开始。读书不是离开生活，读书是让生活重新获得可以被看见的方向。
+Bốn câu này đã đủ để trở thành một khởi đầu. Đọc sách không phải là rời xa cuộc sống; đọc sách là giúp cuộc sống một lần nữa có được phương hướng có thể nhìn thấy.
