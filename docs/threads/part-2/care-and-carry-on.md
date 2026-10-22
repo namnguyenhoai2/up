@@ -1,167 +1,167 @@
 ---
-title: 珍惜篇：从爱与牵挂中获得力量
-description: 把珍惜身边人落实为倾听、陪伴和照料，看见家庭中的隐形劳动，在尊重彼此容量与自由的前提下接受爱、分担责任，并在负重时保留求助与减重的空间。
+title: "Chương Trân trọng: Tìm thấy sức mạnh từ tình yêu và sự quan tâm"
+description: Biến việc trân trọng những người bên cạnh thành lắng nghe, đồng hành và chăm sóc; nhận thấy những lao động vô hình trong gia đình; đón nhận tình yêu và cùng chia sẻ trách nhiệm trên cơ sở tôn trọng năng lực và tự do của nhau; đồng thời giữ lại khoảng trống để tìm kiếm sự giúp đỡ và giảm bớt gánh nặng khi đang quá tải.
 updated: 2026-10-04
 ---
 
-# 珍惜篇：从爱与牵挂中获得力量
+# Chương Trân trọng: Tìm thấy sức mạnh từ tình yêu và sự quan tâm
 
-你也许经历过这样的晚上：白天回复了几十条工作消息，回到家却没有力气听完亲人的一句话。桌上的饭已经凉了，手机仍在亮；你说“等这阵忙完”，心里也相信自己以后会补回来。
+Có lẽ bạn từng trải qua những buổi tối như thế này: ban ngày trả lời hàng chục tin nhắn công việc, về đến nhà lại không còn sức để nghe trọn một câu của người thân. Cơm trên bàn đã nguội, điện thoại vẫn sáng; bạn nói “đợi qua đợt bận này”, và trong lòng cũng tin rằng sau này mình sẽ bù đắp được.
 
-工作常有明确的截止日期，家人的等待却很少发出同样响亮的提醒。于是，越是相信不会离开的人，越容易被安排在最后。直到一次错过的通话、一段已经记不清的近况，让人发现：关系里的时间也一直在走。
+Công việc thường có thời hạn rõ ràng, còn sự chờ đợi của người thân hiếm khi đưa ra lời nhắc nhở vang dội tương tự. Vì vậy, càng tin rằng một người sẽ không rời đi, ta càng dễ xếp họ ở vị trí sau cùng. Cho đến một cuộc gọi đã bỏ lỡ, một đoạn cập nhật về cuộc sống mà ta không còn nhớ rõ, khiến ta nhận ra: thời gian trong các mối quan hệ cũng vẫn đang trôi.
 
-人生进阶会谈能力、收入、判断和作品，也需要问一件更贴近日常的事：当我努力向前的时候，身边的人过得怎么样？他们为我的生活承担了什么？我能否在仍然有机会的时候，好好回应那些爱与牵挂？
+Trên hành trình trưởng thành, ta nói về năng lực, thu nhập, phán đoán và thành quả, nhưng cũng cần hỏi một điều gần gũi hơn với đời sống thường ngày: Khi tôi đang nỗ lực tiến về phía trước, những người bên cạnh tôi đang sống thế nào? Họ đang gánh vác điều gì cho cuộc sống của tôi? Khi vẫn còn cơ hội, liệu tôi có thể đáp lại thật tốt những tình yêu và sự quan tâm ấy không?
 
-这一章讨论日常关心与共同承担，提供的是生活思考和可尝试的练习。它不把家庭或爱情写成人人都拥有的条件。[关系篇](relationships.md)处理边界、冲突和修复；这里继续往前，看看关系安静的时候，我们怎样彼此照料。
+Chương này bàn về sự quan tâm hằng ngày và việc cùng nhau gánh vác, cung cấp những suy ngẫm về cuộc sống và các bài tập có thể thử. Chương không mặc định gia đình hay tình yêu là điều kiện mà ai cũng có. [Chương Quan hệ](relationships.md)xử lý ranh giới, xung đột và hàn gắn; còn ở đây, ta tiếp tục tiến về phía trước để xem khi mối quan hệ lắng xuống, chúng ta chăm sóc nhau như thế nào.
 
-## 本章速览
+## Tổng quan chương
 
-- 把“以后补偿”换成今天能够完成的一次联系、一段在场或一件照料；
-- 关心家人时，先了解对方的需要，保留其选择权；
-- 看见安排、记挂、提醒和收尾这些隐形劳动，接手一项完整责任；
-- 从家人和爱人那里接受支持，也听见他们的容量与需要；
-- 负重时辨认责任、协商分担、放下不必要的重量，让生活能够继续；
-- 没有安全的家庭或伴侣时，也可以从朋友、可信的共同体和合适的外部支持建立连接。
+- Thay “sau này sẽ bù đắp” bằng một lần liên lạc, một khoảng thời gian hiện diện hoặc một việc chăm sóc có thể hoàn thành hôm nay;
+- Khi quan tâm đến gia đình, trước hết hãy tìm hiểu nhu cầu của đối phương và giữ lại quyền lựa chọn cho họ;
+- Nhìn thấy những lao động vô hình như sắp xếp, ghi nhớ, nhắc nhở và xử lý phần việc còn lại; tiếp nhận trọn vẹn một trách nhiệm;
+- Đón nhận sự hỗ trợ từ gia đình và người yêu, đồng thời lắng nghe năng lực và nhu cầu của họ;
+- Khi đang quá tải, nhận diện trách nhiệm, thương lượng việc phân chia, buông bỏ những gánh nặng không cần thiết để cuộc sống có thể tiếp tục;
+- Khi không có gia đình hoặc bạn đời an toàn, ta vẫn có thể kết nối với bạn bè, cộng đồng đáng tin cậy và những hỗ trợ bên ngoài phù hợp.
 
-## 1. 珍惜，从不再把熟悉当成理所当然开始
+## 1. Trân trọng bắt đầu từ việc không còn xem sự thân thuộc là điều hiển nhiên
 
-一个人每天出现，很容易逐渐成为生活的背景。我们记得客户偏好的格式，却不知道父母最近在为什么事发愁；能在会议里耐心听陌生人解释十分钟，却在爱人开口时迅速给出一个答案。
+Một người xuất hiện mỗi ngày rất dễ dần trở thành phông nền của cuộc sống. Ta nhớ định dạng mà khách hàng ưa thích, nhưng lại không biết gần đây cha mẹ đang lo lắng chuyện gì; ta có thể kiên nhẫn nghe một người xa lạ giải thích mười phút trong cuộc họp, nhưng khi người yêu lên tiếng lại nhanh chóng đưa ra một câu trả lời.
 
-熟悉让人安心，也可能让注意力变得粗糙。珍惜需要重新看见：眼前的人也有今天，也会累，也有没说完的话。他们的价值不取决于是否照顾了你，近况也不该只在需要帮忙时才被想起。
+Sự thân thuộc khiến ta yên tâm, nhưng cũng có thể khiến sự chú ý trở nên hời hợt. Trân trọng đòi hỏi ta nhìn lại: người trước mắt cũng có ngày hôm nay, cũng biết mệt, cũng có những điều chưa nói hết. Giá trị của họ không phụ thuộc vào việc họ có chăm sóc bạn hay không, và tình hình gần đây của họ cũng không nên chỉ được nhớ đến khi bạn cần giúp đỡ.
 
-可以从一个小问题开始：“你最近哪件事最费心？”问完以后，留一点时间听答案。不要立刻把每个担心改造成建议，也不要把一次谈话办成检查。有人想聊，有人只想一起吃饭；有人愿意说出困难，也有人暂时不愿意。
+Bạn có thể bắt đầu bằng một câu hỏi nhỏ: “Gần đây chuyện gì khiến bạn bận tâm nhất?” Sau khi hỏi, hãy dành một chút thời gian để lắng nghe câu trả lời. Đừng lập tức biến mọi nỗi lo thành lời khuyên, cũng đừng biến một cuộc trò chuyện thành một cuộc kiểm tra. Có người muốn trò chuyện, có người chỉ muốn cùng nhau ăn một bữa; có người sẵn sàng nói ra khó khăn, cũng có người tạm thời chưa muốn nói.
 
-时间有限，不必因此制造倒计时般的愧疚。珍惜可以有不同形式：住得近时一起买菜，住得远时约一次双方方便的通话，关系需要距离时，让距离本身也得到尊重。它不要求每天报到，也不能用“以后你会后悔”迫使别人靠近。
+Thời gian có hạn, nhưng không cần vì thế mà tạo ra cảm giác tội lỗi như đang đếm ngược. Trân trọng có thể được thể hiện theo nhiều cách: ở gần thì cùng nhau đi mua đồ ăn, ở xa thì hẹn một cuộc gọi vào thời điểm thuận tiện cho cả hai, khi mối quan hệ cần khoảng cách thì cũng tôn trọng chính khoảng cách đó. Điều này không đòi hỏi phải điểm danh mỗi ngày, cũng không thể dùng câu “sau này bạn sẽ hối hận” để ép người khác lại gần.
 
-今天能够兑现的小安排，比没有日期的“忙完就陪你”更容易进入生活。若确实失约，及时说明，再约一个可行的时间。让对方知道自己被认真对待，而不必一直猜测你什么时候才有空。
+Một sắp xếp nhỏ có thể thực hiện hôm nay sẽ dễ đi vào cuộc sống hơn lời “đợi bận xong rồi sẽ ở bên bạn” không có ngày cụ thể. Nếu thực sự lỡ hẹn, hãy kịp thời giải thích, rồi hẹn lại một thời gian khả thi. Hãy để đối phương biết rằng họ được bạn nghiêm túc coi trọng, thay vì phải mãi đoán khi nào bạn mới có thời gian.
 
-## 2. 关心家人，也要承认他们拥有自己的生活
+## 2. Quan tâm đến gia đình, đồng thời thừa nhận họ có cuộc sống riêng
 
-小时候，我们可能习惯由家人照顾一切。长大后，关心常常只剩下几句熟悉的话：“吃好一点”“注意身体”“别舍不得花钱”。这些话里有爱，却未必接得住具体的难处。
+Khi còn nhỏ, ta có thể đã quen với việc gia đình chăm lo mọi thứ. Khi trưởng thành, sự quan tâm thường chỉ còn lại vài câu quen thuộc: “Ăn uống đầy đủ hơn”, “Giữ gìn sức khỏe”, “Đừng tiếc tiền”. Những lời ấy có tình yêu, nhưng chưa chắc đã đón đỡ được những khó khăn cụ thể.
 
-父母也许不会使用一项新服务，也许需要有人陪着处理一件事务，也许只是希望自己的意见能被听见。询问比猜测更有用：“这件事你想自己处理、让我陪着做，还是希望我负责其中一步？”对方的回答可能与你原先准备好的帮助不同。
+Cha mẹ có thể không biết sử dụng một dịch vụ mới, có thể cần người đồng hành xử lý một việc, hoặc đơn giản chỉ mong ý kiến của mình được lắng nghe. Hỏi han hữu ích hơn đoán ý: “Việc này cha/mẹ muốn tự xử lý, muốn con ở bên cùng làm, hay muốn con phụ trách một bước nào đó?” Câu trả lời của đối phương có thể khác với sự giúp đỡ mà ban đầu bạn đã chuẩn bị.
 
-关心可以落到小而完整的动作里：帮忙查清流程并把要带的东西列好，修好一个反复出问题的设备，陪同完成对方愿意接受的安排，或者找一个没有任务的下午一起坐坐。涉及账户、钱和私人信息时，先说明用途、征得同意，事情完成后归还资料与决定权。
+Sự quan tâm có thể được thể hiện qua những hành động nhỏ nhưng trọn vẹn: giúp tìm hiểu rõ quy trình và lập danh sách những thứ cần mang theo, sửa một thiết bị liên tục gặp trục trặc, đồng hành hoàn thành một sắp xếp mà đối phương sẵn lòng chấp nhận, hoặc tìm một buổi chiều không có nhiệm vụ nào để cùng ngồi bên nhau. Khi liên quan đến tài khoản, tiền bạc và thông tin riêng tư, hãy nói rõ mục đích trước, xin sự đồng ý, rồi trả lại tài liệu và quyền quyết định sau khi hoàn tất.
 
-远距离照料尤其需要诚实。你无法随叫随到，就说清楚哪段时间可以联系、临时状况可以找谁，以及哪项安排仍然没有解决。不要用一份很满的关心计划掩盖现实的距离，也不要替其他亲人承诺他们尚未答应的劳动。
+Chăm sóc từ xa đặc biệt cần sự thành thật. Nếu bạn không thể có mặt bất cứ lúc nào, hãy nói rõ khoảng thời gian nào có thể liên lạc, trong tình huống khẩn cấp có thể tìm ai, và việc sắp xếp nào vẫn chưa được giải quyết. Đừng dùng một kế hoạch quan tâm kín lịch để che giấu khoảng cách thực tế, cũng đừng thay mặt những người thân khác hứa hẹn về những việc họ chưa đồng ý làm.
 
-家人可能拒绝你的方案。只要没有需要另行处理的紧迫危险，拒绝本身不必被解释成“不理解你的好心”。父母年长，不等于失去表达偏好和做决定的资格；你有能力，也不等于可以接管他们全部的生活。
+Gia đình có thể từ chối phương án của bạn. Miễn là không có nguy hiểm cấp bách cần xử lý riêng, bản thân sự từ chối không nhất thiết phải được diễn giải thành “không hiểu tấm lòng của bạn”. Cha mẹ lớn tuổi không có nghĩa là mất quyền bày tỏ sở thích và đưa ra quyết định; bạn có năng lực cũng không có nghĩa là có thể tiếp quản toàn bộ cuộc sống của họ.
 
-成年人的照料可以很深，边界也可以很清楚。我们能承担自己的那一部分，同时承认彼此未必能满足所有期待。
+Sự chăm sóc giữa những người trưởng thành có thể rất sâu sắc, và ranh giới cũng có thể rất rõ ràng. Ta có thể gánh vác phần của mình, đồng thời thừa nhận rằng hai bên không nhất thiết đáp ứng được mọi kỳ vọng của nhau.
 
-## 3. 看见那些让日子得以继续的劳动
+## 3. Nhìn thấy những lao động giúp cuộc sống tiếp diễn
 
-一顿饭端上桌之前，有人留意冰箱里还有什么，决定买什么，记住谁吃不了什么。一次家庭出行之前，有人确认时间、安排路线、准备物品，再处理临时变化。表面上只发生了一件事，背后可能有许多没有署名的步骤。
+Trước khi một bữa ăn được dọn lên bàn, có người để ý trong tủ lạnh còn gì, quyết định mua gì, nhớ ai không ăn được món nào. Trước một chuyến đi của gia đình, có người xác nhận thời gian, sắp xếp lộ trình, chuẩn bị đồ đạc, rồi xử lý những thay đổi đột xuất. Bề ngoài chỉ xảy ra một việc, nhưng phía sau có thể là rất nhiều bước không được ghi nhận.
 
-如果这些步骤长期由同一个人记着，“你需要帮忙就叫我”仍然会把发现问题、安排任务和提醒执行留给对方。他既要做事，又要管理你的参与。
+Nếu những bước này lâu dài do một người ghi nhớ, câu “cần giúp thì cứ gọi tôi” vẫn để phần phát hiện vấn đề, phân công nhiệm vụ và nhắc nhở việc thực hiện cho đối phương. Người ấy vừa phải làm việc, vừa phải quản lý sự tham gia của bạn.
 
-试着接手一项完整责任：自己确认需要，准备资源，执行，收尾，及时告知变化。比如承担本周两次晚饭，就同时负责商量口味、采购、做饭和清理；若那天做不到，提前讨论替代安排，而非到了饭点才等另一个人补上。
+Hãy thử tiếp nhận trọn vẹn một trách nhiệm: tự xác định nhu cầu, chuẩn bị nguồn lực, thực hiện, hoàn tất và kịp thời thông báo thay đổi. Chẳng hạn, nếu nhận phụ trách hai bữa tối trong tuần này, bạn cũng đồng thời phụ trách bàn bạc khẩu vị, mua nguyên liệu, nấu ăn và dọn dẹp; nếu hôm đó không thể làm được, hãy bàn trước về phương án thay thế, thay vì đến giờ ăn mới chờ người khác bù vào.
 
-表达感谢时，也可以更具体：“这几天家里的事都是你在安排，我看见你已经很累。周四的这项事务，我想完整接过来，你愿意吗？”说完之后，允许对方说明哪些部分不合适。
+Khi bày tỏ lòng biết ơn, bạn cũng có thể nói cụ thể hơn: “Mấy ngày nay mọi việc trong nhà đều do bạn sắp xếp, tôi thấy bạn đã rất mệt. Việc này vào thứ Năm, tôi muốn hoàn toàn tiếp nhận, bạn thấy được không?” Sau đó, hãy cho đối phương cơ hội nói rõ phần nào không phù hợp.
 
-付出需要被看见，爱的深浅却不适合按工时结算。分担会随身体、工作和生活阶段改变，不必每天对半。更值得检查的是：安排是否出于双方意愿？同一个人是否总在被迫补位？谁能休息，谁能够提出调整？
+Sự đóng góp cần được nhìn nhận, nhưng độ sâu của tình yêu không thích hợp để tính bằng giờ công. Việc chia sẻ trách nhiệm sẽ thay đổi theo sức khỏe, công việc và từng giai đoạn của cuộc sống, không nhất thiết mỗi ngày phải chia đôi. Điều đáng kiểm tra hơn là: việc sắp xếp có xuất phát từ ý muốn của cả hai không? Có phải cùng một người luôn bị buộc phải lấp chỗ trống? Ai có thể nghỉ ngơi, ai có thể đề xuất điều chỉnh?
 
-有人因为你的努力生活得更安稳，也有人为了让你努力而暂时缩小了自己的生活。成长时回头看见这些人，才有机会把空间重新还给他们。
+Có người sống ổn định hơn nhờ nỗ lực của bạn, cũng có người đã tạm thu hẹp cuộc sống của mình để bạn có thể nỗ lực. Khi trưởng thành, ngoảnh lại và nhìn thấy những người ấy, ta mới có cơ hội trả lại không gian cho họ.
 
-## 4. 从爱人那里获得力量，先允许自己被看见
+## 4. Tìm thấy sức mạnh từ người yêu, trước hết cho phép bản thân được nhìn thấy
 
-在亲密关系里，我们有时把可靠理解成永远不露出困难：压力自己消化，坏消息尽量不说，等一切处理好再回家。这样做也许出于体谅，却可能让对方只能看见你的沉默，无法知道怎样靠近。
+Trong một mối quan hệ thân mật, đôi khi ta hiểu sự đáng tin cậy là không bao giờ để lộ khó khăn: tự tiêu hóa áp lực, cố gắng không nói tin xấu, đợi đến khi mọi việc được xử lý xong mới về nhà. Cách làm này có thể xuất phát từ sự thấu hiểu, nhưng cũng có thể khiến đối phương chỉ nhìn thấy sự im lặng của bạn và không biết phải đến gần thế nào.
 
-可以试着说一段有限而真实的话：
+Bạn có thể thử nói một đoạn ngắn, hữu hạn nhưng chân thật:
 
-> “我这周有件事一直没处理好，现在很累。你今晚有没有十分钟听我说说？我暂时不需要建议。如果你也很累，我们可以另约时间。”
+> “Tuần này có một việc tôi mãi chưa xử lý xong, bây giờ tôi rất mệt. Tối nay bạn có mười phút để nghe tôi nói không? Tạm thời tôi không cần lời khuyên. Nếu bạn cũng mệt, chúng ta có thể hẹn lúc khác.”
 
-这里有困难，有请求，也有拒绝的空间。对方不需要猜测自己应该安慰、解决还是离开；你也没有把全部压力交给他承担。
+Ở đây có khó khăn, có lời đề nghị, và cũng có khoảng trống để từ chối. Đối phương không cần phải đoán xem mình nên an ủi, giải quyết hay tránh đi; bạn cũng không giao toàn bộ áp lực cho họ gánh vác.
 
-有些力量来自很普通的时刻：有人记得你这周的难处，愿意陪你吃饭；你承认今天做不到，他不急着评判；两个人把一项共同事务重新安排好，今晚便少了一点慌乱。这些时刻不保证事业成功，却可能让下一天更容易进入。
+Một phần sức mạnh đến từ những khoảnh khắc rất bình thường: có người nhớ điều khó khăn của bạn trong tuần này và sẵn lòng ăn cùng bạn; bạn thừa nhận hôm nay mình không làm được, họ không vội phán xét; hai người sắp xếp lại một việc chung, để tối nay bớt đi một chút hoảng loạn. Những khoảnh khắc ấy không bảo đảm sự nghiệp thành công, nhưng có thể khiến ngày mai dễ bắt đầu hơn.
 
-也要问一句：“你最近怎样？我有什么一直没看见？”伴侣既有能力支持你，也有自己的困境与愿望。接受安慰以后，仍要面对自己需要承担的工作、说明和决定；需要更多帮助时，把支持延伸到朋友、同事或适合的外部资源，不让一个人承受全部。
+Cũng hãy hỏi một câu: “Gần đây bạn thế nào? Có điều gì tôi vẫn chưa nhìn thấy không?” Người bạn đời vừa có khả năng hỗ trợ bạn, vừa có những khó khăn và mong muốn riêng. Sau khi đón nhận sự an ủi, bạn vẫn cần đối diện với công việc, lời giải thích và quyết định mà mình phải chịu trách nhiệm; khi cần thêm giúp đỡ, hãy mở rộng sự hỗ trợ đến bạn bè, đồng nghiệp hoặc nguồn lực bên ngoài phù hợp, đừng để một người phải chịu đựng tất cả.
 
-共同生活还需要一些不以解决问题为目的的时间。散步、吃饭、分享一件有趣的小事，都可以不产出结论。人可以因为与你相处而被珍惜，不必一直为你的恢复和进步提供服务。
+Cuộc sống chung cũng cần những khoảng thời gian không nhằm giải quyết vấn đề. Đi dạo, ăn cơm, chia sẻ một chuyện nhỏ thú vị đều có thể không cần tạo ra kết luận. Một người có thể được trân trọng chỉ vì ở bên bạn, không cần luôn phải cung cấp dịch vụ giúp bạn hồi phục và tiến bộ.
 
-## 5. 学会接受爱，不急着用成功偿还
+## 5. Học cách đón nhận tình yêu, không vội dùng thành công để hoàn trả
 
-获得帮助时，有人首先感到的不是轻松，而是亏欠。“等我成功了，我一定报答”“我现在没有用，不能再麻烦他们”，这些念头可能让人一边需要支持，一边躲开支持。
+Khi nhận được sự giúp đỡ, điều đầu tiên một số người cảm thấy không phải là nhẹ nhõm mà là mắc nợ. Những suy nghĩ như “Đợi tôi thành công, tôi nhất định sẽ báo đáp”, “Bây giờ tôi chẳng có ích gì, không thể làm phiền họ thêm” có thể khiến người ta vừa cần hỗ trợ, vừa né tránh sự hỗ trợ.
 
-一份已经谈清楚、对方愿意提供的帮助，可以先被认真接受。吃完那顿饭，睡一个相对安稳的晚上，感谢那次陪伴，把答应完成的小事做好。你不必当场许诺一个遥远的逆转，也不必用自责证明自己懂得感恩。
+Một sự giúp đỡ đã được trao đổi rõ ràng và đối phương tự nguyện cung cấp có thể được nghiêm túc đón nhận trước. Ăn xong bữa cơm ấy, ngủ một đêm tương đối yên ổn, cảm ơn sự đồng hành đó, hoàn thành việc nhỏ đã hứa. Bạn không cần lập tức hứa hẹn một sự đảo chiều xa xôi, cũng không cần dùng cảm giác tội lỗi để chứng minh mình biết ơn.
 
-具体约定仍然需要清楚。借款要谈明双方理解的条件，共同开支要一起决定，长期照料要定期讨论容量。说明这些事项，能减少误解；把每一次关心都记成必须偿还的人情，则会让靠近越来越困难。
+Những thỏa thuận cụ thể vẫn cần rõ ràng. Khoản vay cần nói rõ các điều kiện mà hai bên hiểu, chi phí chung cần được cùng nhau quyết định, việc chăm sóc lâu dài cần định kỳ bàn bạc về năng lực của mỗi người. Nói rõ những điều này giúp giảm hiểu lầm; nhưng ghi nhớ mọi sự quan tâm như một món nợ bắt buộc phải trả sẽ khiến việc gần gũi ngày càng khó khăn.
 
-有时你今天只能接受照顾，暂时给不出同等的回馈。可以坦诚说明，也可以在能力允许时提供自己的支持。互相照料发生在不同时间、以不同形式出现，并不要求每一刻都等价交换。
+Có lúc hôm nay bạn chỉ có thể đón nhận sự chăm sóc và tạm thời chưa thể đáp lại tương đương. Bạn có thể thành thật nói rõ, và cũng có thể cung cấp sự hỗ trợ của mình khi đủ khả năng. Việc chăm sóc lẫn nhau diễn ra ở những thời điểm khác nhau và dưới những hình thức khác nhau, không đòi hỏi mỗi khoảnh khắc đều phải trao đổi ngang giá.
 
-失败后仍值得被关心，暂时没有成果时也仍是一个完整的人。家人或爱人的支持，不应该成为“必须成功才配回家”的新压力；你的感谢，也不需要附带他们有权决定你全部人生的承诺。
+Sau thất bại, bạn vẫn xứng đáng được quan tâm; khi tạm thời chưa có thành quả, bạn vẫn là một con người trọn vẹn. Sự hỗ trợ của gia đình hay người yêu không nên trở thành áp lực mới rằng “phải thành công mới xứng đáng trở về nhà”; lòng biết ơn của bạn cũng không cần đi kèm lời hứa trao cho họ quyền quyết định toàn bộ cuộc đời bạn.
 
-## 6. 负重前行之前，先辨认肩上的重量
+## 6. Trước khi tiếp tục gánh nặng tiến về phía trước, hãy nhận diện sức nặng trên vai
 
-成年人会遇到无法立刻卸下的责任：生活开支、照料、未完成的工作，以及需要面对的错误。它们有实际的期限和后果，仅仅告诉自己乐观，并不能让这些事情消失。
+Người trưởng thành sẽ gặp những trách nhiệm không thể lập tức trút bỏ: chi phí sinh hoạt, chăm sóc, công việc chưa hoàn tất và những sai lầm cần đối diện. Chúng có thời hạn và hậu quả thực tế; chỉ nói với bản thân rằng hãy lạc quan không thể khiến những việc ấy biến mất.
 
-“负重前行”可以描述处境，却不适合成为无限加重的要求。沉默地忍住一切，有时会让别人误以为安排仍然可行，直到身体、关系或交付一起失去秩序。
+“Gánh nặng tiến về phía trước” có thể mô tả một hoàn cảnh, nhưng không thích hợp để trở thành yêu cầu khiến gánh nặng tăng vô hạn. Im lặng chịu đựng tất cả đôi khi khiến người khác lầm tưởng rằng sắp xếp hiện tại vẫn khả thi, cho đến khi sức khỏe, mối quan hệ và việc bàn giao cùng lúc mất đi trật tự.
 
-先把重量写成具体事项：
+Trước hết, hãy viết những gánh nặng thành các việc cụ thể:
 
-| 肩上的事 | 值得问的问题 | 可以尝试的下一步 |
+| Việc trên vai | Câu hỏi đáng đặt ra | Bước tiếp theo có thể thử |
 | --- | --- | --- |
-| 自己应当承担的责任 | 最低需要完成什么？什么时候必须说明情况？ | 完成一小步，及时告知真实进度 |
-| 共同生活中的责任 | 谁受影响？谁愿意承担哪一部分？ | 商量分工、资源与复查时间 |
-| 原有承诺超出当前容量 | 哪个条件改变了？继续硬撑会让谁付出代价？ | 尽早协商缩小、延期或替代方案 |
-| 为证明价值追加的重量 | 如果无人赞赏，我还需要承担它吗？ | 暂停一项额外任务，观察实际影响 |
-| 无法独自处理的问题 | 谁拥有所需的资源、资格或权限？ | 联系合适的外部支持，说明具体困难 |
+| Trách nhiệm bản thân nên gánh vác | Tối thiểu cần hoàn thành điều gì? Khi nào nhất định phải thông báo tình hình? | Hoàn thành một bước nhỏ, kịp thời thông báo tiến độ thực tế |
+| Trách nhiệm trong cuộc sống chung | Ai bị ảnh hưởng? Ai sẵn lòng gánh phần nào? | Bàn bạc việc phân công, nguồn lực và thời điểm kiểm tra lại |
+| Cam kết cũ vượt quá năng lực hiện tại | Điều kiện nào đã thay đổi? Nếu tiếp tục cố chịu, ai sẽ phải trả giá? | Sớm thương lượng phương án thu hẹp, trì hoãn hoặc thay thế |
+| Gánh nặng thêm vào để chứng minh giá trị | Nếu không ai khen ngợi, tôi còn cần gánh việc này không? | Tạm dừng một nhiệm vụ thêm, quan sát ảnh hưởng thực tế |
+| Vấn đề không thể tự mình xử lý | Ai có nguồn lực, tư cách hoặc quyền hạn cần thiết? | Liên hệ hỗ trợ bên ngoài phù hợp, nói rõ khó khăn cụ thể |
 
-这张表不能自动免除责任。它帮助你决定今天做什么、需要与谁商量、哪些事情已经不该独自处理。处理专业问题时，家人的陪伴可以帮助你抵达支持，不能代替所需的专业工作。
+Bảng này không tự động miễn trừ trách nhiệm. Nó giúp bạn quyết định hôm nay cần làm gì, cần bàn bạc với ai, và việc nào không còn nên tự mình xử lý. Khi xử lý vấn đề chuyên môn, sự đồng hành của gia đình có thể giúp bạn tiếp cận hỗ trợ, nhưng không thể thay thế công việc chuyên môn cần thiết.
 
-继续向前，有时是完成一项必要任务，有时是停掉一个亏损安排，有时是向受影响的人说清楚自己现在做不到。有些日子，照料好基本生活已经占满容量。那一天仍然在生活里，不必额外制造一个成果来证明自己没有放弃。
+Tiếp tục tiến về phía trước đôi khi là hoàn thành một nhiệm vụ cần thiết, đôi khi là dừng một sắp xếp đang gây thua lỗ, đôi khi là nói rõ với người bị ảnh hưởng rằng hiện tại mình không thể làm được. Có những ngày, chăm sóc tốt những nhu cầu cơ bản của cuộc sống đã chiếm hết năng lực. Ngày ấy vẫn là một phần của cuộc sống, không cần tạo thêm một thành quả để chứng minh mình chưa từ bỏ.
 
-可以把牵挂当作愿意认真生活的理由，也要为自己保留活着与休息的价值。“他们需要我”之外，还有“我也值得被照顾”。如果继续承担正在造成伤害，就需要重新安排重量，而不是寻找更响亮的忍耐口号。
+Bạn có thể xem sự quan tâm là lý do khiến mình sẵn lòng sống nghiêm túc, đồng thời giữ lại cho bản thân giá trị của việc sống và nghỉ ngơi. Bên cạnh “họ cần tôi”, còn có “tôi cũng xứng đáng được chăm sóc”. Nếu việc tiếp tục gánh vác đang gây tổn thương, cần sắp xếp lại sức nặng, thay vì tìm kiếm một khẩu hiệu chịu đựng vang dội hơn.
 
-## 7. 一段普通生活里的分担
+## 7. Sự chia sẻ trong một cuộc sống bình thường
 
-下面是合成示例，用来说明可能的做法，不是真实家庭个案。
+Dưới đây là ví dụ tổng hợp nhằm minh họa cách làm có thể áp dụng, không phải trường hợp gia đình có thật.
 
-一个人白天工作很忙，周末要陪母亲处理一件事务，家里还有几项待办。伴侣也有自己的工作，两个人最近说话越来越急。谁都没有恶意，但每次计划变动，都由伴侣临时补位。
+Một người ban ngày làm việc rất bận, cuối tuần phải đi cùng mẹ xử lý một việc, trong nhà còn vài việc cần làm. Người bạn đời cũng có công việc riêng, gần đây hai người nói chuyện ngày càng gấp gáp. Không ai có ác ý, nhưng mỗi khi kế hoạch thay đổi, người bạn đời luôn phải tạm thời lấp chỗ trống.
 
-如果他只说“我这么拼都是为了家”，对方仍然不知道周末怎么办。他可以先说明事实：“我答应了周六陪母亲，工作又占了一段时间。我之前默认你会把家里的事补上，这一点没有和你商量。”
+Nếu anh ấy chỉ nói “Tôi cố gắng như vậy cũng là vì gia đình”, đối phương vẫn không biết cuối tuần sẽ xử lý thế nào. Anh ấy có thể trước hết nói rõ sự việc: “Tôi đã hứa sẽ đi cùng mẹ vào thứ Bảy, công việc lại chiếm thêm một khoảng thời gian. Trước đây tôi mặc định bạn sẽ bù vào những việc trong nhà, nhưng tôi đã không bàn với bạn về điều đó.”
 
-然后分别询问：母亲需要的是陪同、帮忙准备，还是某个具体步骤？伴侣这周还能承担多少？他自己可以取消哪项非必要安排？别人愿意帮忙的部分是什么？先听回答，再提出一个容量允许的方案。
+Sau đó lần lượt hỏi: Mẹ cần người đi cùng, cần giúp chuẩn bị hay cần hỗ trợ một bước cụ thể nào? Tuần này người bạn đời còn có thể gánh bao nhiêu? Anh ấy có thể hủy việc không cần thiết nào? Phần nào người khác sẵn lòng giúp? Hãy nghe câu trả lời trước, rồi đề xuất một phương án phù hợp với năng lực.
 
-最后，两人也许决定把一项家务延后，把陪同的准备工作交给他完整负责，保留周日晚的一顿饭。另一些请求可能被拒绝，某项事务仍然没有解决，需要继续寻找安排。
+Cuối cùng, hai người có thể quyết định hoãn một việc nhà, giao toàn bộ phần chuẩn bị cho buổi đi cùng cho anh ấy, và giữ lại một bữa tối vào tối Chủ nhật. Một số yêu cầu khác có thể bị từ chối, một việc nào đó vẫn chưa được giải quyết và cần tiếp tục tìm cách sắp xếp.
 
-一周后，工作压力未必下降，母亲也未必满意所有选择。但大家可以重新讨论，而不用等同一个人再次撑不住才知道分工有问题。这里的变化很小：默认的付出被说清楚，支持得到了确认，做不到的部分也有了名字。
+Một tuần sau, áp lực công việc có thể chưa giảm, mẹ cũng có thể chưa hài lòng với mọi lựa chọn. Nhưng mọi người có thể thảo luận lại mà không cần chờ đến khi cùng một người lần nữa không thể gắng gượng mới nhận ra việc phân chia có vấn đề. Thay đổi ở đây rất nhỏ: những đóng góp vốn được mặc định đã được nói rõ, sự hỗ trợ đã được xác nhận, phần không thể làm cũng đã có tên gọi.
 
-## 8. 当家庭或爱情暂时不能成为依靠
+## 8. Khi gia đình hoặc tình yêu tạm thời không thể trở thành chỗ dựa
 
-有人正在独居，有人失去了重要的人，有人的家庭关系疏远，也有人在亲密关系里受过伤。读到“从家人和爱人获得力量”时，可能首先感到空缺。
+Có người đang sống một mình, có người đã mất đi một người quan trọng, có người có quan hệ gia đình xa cách, cũng có người từng bị tổn thương trong một mối quan hệ thân mật. Khi đọc “tìm thấy sức mạnh từ gia đình và người yêu”, họ có thể trước hết cảm nhận sự trống vắng.
 
-这份空缺不证明你的人生缺少资格，也不要求你赶快建立一段关系。关心与支持可以来自朋友、可信赖的同事、共同生活的人、愿意接纳你的共同体，以及适合当前问题的外部支持。彼此愿意照料的人，也可以成为你选择的家人。
+Khoảng trống này không chứng minh rằng cuộc đời bạn thiếu tư cách, cũng không yêu cầu bạn phải nhanh chóng xây dựng một mối quan hệ. Sự quan tâm và hỗ trợ có thể đến từ bạn bè, đồng nghiệp đáng tin cậy, những người cùng chung sống, cộng đồng sẵn lòng đón nhận bạn và những hỗ trợ bên ngoài phù hợp với vấn đề hiện tại. Những người sẵn lòng chăm sóc lẫn nhau cũng có thể trở thành gia đình do bạn lựa chọn.
 
-存在持续伤害或无法安全拒绝的关系时，保持距离、寻求帮助或离开，仍然可以与珍惜并存。你能够感谢某段关系曾经给予的东西，同时拒绝今天的伤害。不要把“亲人总归是亲人”当成取消安全和自由的理由。
+Khi một mối quan hệ có sự tổn thương kéo dài hoặc bạn không thể an toàn từ chối, giữ khoảng cách, tìm kiếm sự giúp đỡ hoặc rời đi vẫn có thể cùng tồn tại với sự trân trọng. Bạn có thể biết ơn những gì một mối quan hệ từng trao cho mình, đồng thời từ chối tổn thương hiện tại. Đừng dùng câu “người thân thì mãi là người thân” làm lý do tước bỏ sự an toàn và tự do.
 
-重要的人已经离开时，也不必把余下的人生过成一场必须完成的纪念。可以保留一段记忆，照顾一件对你有意义的事，慢慢建立新的连接。你仍有权改变方向、快乐和继续生活，不需要时时证明自己没有忘记。
+Khi một người quan trọng đã rời đi, bạn cũng không cần biến phần đời còn lại thành một buổi tưởng niệm phải hoàn thành. Bạn có thể giữ lại một ký ức, chăm sóc một điều có ý nghĩa với mình, và từ từ xây dựng những kết nối mới. Bạn vẫn có quyền đổi hướng, vui vẻ và tiếp tục sống; không cần luôn chứng minh rằng mình chưa quên.
 
-## 9. 七天里，只做两件能够兑现的小事
+## 9. Trong bảy ngày, chỉ làm hai việc nhỏ có thể thực hiện
 
-从下面选一项关心、一项分担或求助。七天只是复查窗口，不要求逐日打卡，也不要求另一方配合你的练习。
+Hãy chọn một việc quan tâm, một việc chia sẻ trách nhiệm hoặc tìm kiếm sự giúp đỡ dưới đây. Bảy ngày chỉ là khoảng thời gian để xem lại, không yêu cầu phải điểm danh mỗi ngày, cũng không yêu cầu đối phương phối hợp với bài tập của bạn.
 
-| 可以选择的动作 | 把它落到生活里 |
+| Hành động có thể chọn | Đưa vào đời sống |
 | --- | --- |
-| 主动联系一个惦记的人 | 先确认对方方便，听一段近况，允许暂时不回复 |
-| 认真感谢一次具体付出 | 说清看见了什么，不附带要求对方继续付出 |
-| 接手一项完整事务 | 确认意愿与范围，完成准备、执行和收尾 |
-| 提出一次有限的求助 | 说明要什么、需要多久，并接受拒绝 |
-| 留下一段没有任务的相处 | 共同决定时间和方式，不强求谈出结论 |
-| 重新商量一项过重的安排 | 说明变化、影响和自己的容量，讨论下一步 |
+| Chủ động liên lạc với một người mình nhớ | Trước hết xác nhận đối phương có thuận tiện không, lắng nghe một đoạn cập nhật về cuộc sống của họ, cho phép họ tạm thời không trả lời |
+| Nghiêm túc cảm ơn một đóng góp cụ thể | Nói rõ bạn đã nhìn thấy điều gì, không kèm theo yêu cầu đối phương tiếp tục đóng góp |
+| Tiếp nhận trọn vẹn một việc | Xác nhận ý muốn và phạm vi, hoàn thành khâu chuẩn bị, thực hiện và kết thúc |
+| Đề nghị một lần nhờ giúp đỡ có giới hạn | Nói rõ cần gì, cần trong bao lâu, và chấp nhận lời từ chối |
+| Dành một khoảng thời gian bên nhau không có nhiệm vụ | Cùng quyết định thời gian và cách thức, không ép buộc phải đi đến kết luận |
+| Bàn bạc lại một sắp xếp quá nặng | Nói rõ thay đổi, ảnh hưởng và năng lực của mình, cùng thảo luận bước tiếp theo |
 
-可以使用[生活进阶工作表](../../templates/life-practice-toolkit.md)中的“关心与分担卡”。只记录自己的承诺、共同确认的安排和需要复查的部分；不要给亲人打分，也不要为完成记录而保存私密谈话。
+Bạn có thể sử dụng “Phiếu quan tâm và chia sẻ trách nhiệm” trong [Bảng tính Hành trình trưởng thành](../../templates/life-practice-toolkit.md). Chỉ ghi lại cam kết của bản thân, những sắp xếp đã được cùng xác nhận và phần cần xem lại; đừng chấm điểm người thân, cũng đừng lưu lại những cuộc trò chuyện riêng tư chỉ để hoàn thành việc ghi chép.
 
-一周后问：我答应的事兑现了吗？对方是否愿意接受这份帮助？有没有新增的劳动又落回同一个人？哪项安排需要缩小或停止？改变自己的动作，比证明“我已经足够关心”更有用。
+Sau một tuần, hãy hỏi: Việc tôi đã hứa có được thực hiện không? Đối phương có sẵn lòng đón nhận sự giúp đỡ này không? Có lao động mới nào lại rơi về cùng một người không? Sắp xếp nào cần thu hẹp hoặc dừng lại? Thay đổi hành động của mình hữu ích hơn việc chứng minh “tôi đã đủ quan tâm”.
 
-未成年读者可以选择容量允许的小事，不需要为成年人排解全部情绪、传递家庭冲突或承担家庭困境的解决责任。向可信成人寻求帮助，也是一种照顾自己的行动。
+Độc giả chưa thành niên có thể chọn những việc nhỏ trong khả năng, không cần phải giải tỏa toàn bộ cảm xúc cho người lớn, truyền đạt xung đột gia đình hay gánh trách nhiệm giải quyết khó khăn của gia đình. Tìm kiếm sự giúp đỡ từ một người lớn đáng tin cậy cũng là một hành động chăm sóc bản thân.
 
-## 结语：让向前的路也通向彼此
+## Lời kết: Để con đường tiến về phía trước cũng dẫn ta đến với nhau
 
-我们常常把更好的生活放在远处：完成这个项目，熬过这个阶段，等收入稳定，再来好好陪伴。未来值得建设，眼前的人也正在过他们无法重来的一天。
+Chúng ta thường đặt một cuộc sống tốt đẹp hơn ở nơi xa: hoàn thành dự án này, vượt qua giai đoạn này, đợi thu nhập ổn định rồi mới ở bên nhau thật tốt. Tương lai đáng được xây dựng, nhưng những người trước mắt cũng đang sống một ngày mà họ không thể sống lại.
 
-今天可以给那次通话留一个时间，把答应的事完成，问一句对方近来怎样。也可以说出自己的疲惫，接受一份已经谈清楚的帮助，和身边的人一起改掉一个过重的安排。
+Hôm nay bạn có thể dành thời gian cho cuộc gọi ấy, hoàn thành việc đã hứa, hỏi một câu xem gần đây đối phương thế nào. Bạn cũng có thể nói ra sự mệt mỏi của mình, đón nhận một sự giúp đỡ đã được trao đổi rõ ràng, và cùng những người bên cạnh thay đổi một sắp xếp quá nặng nề.
 
-爱与牵挂让人有理由继续，尊重与分担让这份继续有地方落脚。你可以努力走远，也可以在途中停下来吃饭、拥抱、休息；还可以为自己选择一条更能承受的路。
+Tình yêu và sự quan tâm cho ta lý do để tiếp tục, còn sự tôn trọng và sẻ chia giúp hành trình tiếp tục ấy có nơi neo đậu. Bạn có thể nỗ lực đi xa, cũng có thể dừng lại giữa đường để ăn uống, ôm nhau và nghỉ ngơi; bạn cũng có thể chọn cho mình một con đường dễ gánh vác hơn.
 
-当生活仍有重量，愿我们既能承担，也能彼此照料。路上的人，包括正在读到这里的你，都值得被看见。
+Khi cuộc sống vẫn còn sức nặng, mong rằng chúng ta vừa có thể gánh vác, vừa có thể chăm sóc lẫn nhau. Những người trên đường đi, bao gồm cả bạn đang đọc đến đây, đều xứng đáng được nhìn thấy.

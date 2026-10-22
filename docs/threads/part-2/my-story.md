@@ -1,241 +1,241 @@
 ---
-title: 我的故事：失败、恢复与重新出发
-description: 一段关于事业起落、创业失利、身体与生活失序，以及回家恢复后重新找回行动勇气的个人记录。
+title: "Câu chuyện của tôi: Thất bại, hồi phục và bắt đầu lại"
+description: Một ghi chép cá nhân về những thăng trầm trong sự nghiệp, thất bại khi khởi nghiệp, sự đảo lộn của sức khỏe và cuộc sống, cũng như việc sau khi trở về quê nhà hồi phục, tôi đã một lần nữa tìm lại được dũng khí hành động.
 updated: 2026-10-18
 ---
 
-# 我的故事：失败、恢复与重新出发
+# Câu chuyện của tôi: Thất bại, hồi phục và bắt đầu lại
 
-> 内容提示：本文包含创业失败、长期失眠、严重压力和曾经出现过的轻生念头。它是个人回忆，不构成医疗、心理、法律或财务建议。若你正处于紧迫危险，请联系身边可信任的人和当地专业支持；如果阅读让你不适，可以先停下来，找一个可信的人陪你。
+> Lưu ý về nội dung: Bài viết này đề cập đến thất bại khi khởi nghiệp, chứng mất ngủ kéo dài, áp lực nghiêm trọng và những suy nghĩ tự sát từng xuất hiện. Đây là hồi ức cá nhân, không cấu thành lời khuyên y tế, tâm lý, pháp lý hay tài chính. Nếu bạn đang ở trong tình huống nguy hiểm khẩn cấp, hãy liên hệ với người đáng tin cậy bên cạnh và các dịch vụ hỗ trợ chuyên môn tại địa phương; nếu việc đọc khiến bạn không thoải mái, bạn có thể dừng lại trước và tìm một người đáng tin ở bên.
 
-## 叙事边界
+## Ranh giới của câu chuyện
 
-这是一份从我个人位置写下的回忆，不是所有当事人的共同版本。文中的伴侣、合伙人和朋友使用化名或概括性称呼；孩子和其他第三方只保留理解事件所必需的细节。日期、金额和身体经历来自我的记忆与记录，仍可能存在误差；情绪判断不等于对他人的事实判决。涉及他人的照片和故事只在获得必要同意、尊重删除请求的前提下保留。
+Đây là hồi ức được viết từ góc nhìn cá nhân của tôi, không phải phiên bản chung của tất cả những người có liên quan. Bạn đời, đối tác và bạn bè trong bài sử dụng tên giả hoặc cách gọi khái quát; đối với trẻ em và các bên thứ ba khác, chỉ giữ lại những chi tiết cần thiết để hiểu sự việc. Ngày tháng, số tiền và trải nghiệm về thể chất đến từ ký ức và ghi chép của tôi, nên vẫn có thể tồn tại sai sót; nhận định cảm xúc không đồng nghĩa với phán quyết sự thật về người khác. Ảnh và câu chuyện liên quan đến người khác chỉ được giữ lại khi đã có sự đồng ý cần thiết và tôn trọng yêu cầu xóa bỏ.
 
-如果你想把这段回忆当作一次学习材料，可以先读[叙事与证据篇：不把经历写成命运](narrative-and-evidence.md)，再回来看哪些是事实、哪些是我的解释，以及哪些结论仍然需要保留。
+Nếu bạn muốn xem hồi ức này như một tài liệu học tập, có thể đọc trước [Phần câu chuyện và bằng chứng: không biến trải nghiệm thành số phận](narrative-and-evidence.md), rồi quay lại xem đâu là sự thật, đâu là cách diễn giải của tôi, và đâu là những kết luận vẫn cần được giữ lại.
 
-## 一家公司倒闭之后，我如何面对那些代价
+## Sau khi một công ty phá sản, tôi đã đối mặt với những cái giá ấy như thế nào
 
-朋友们，你们好，我是离谱。今天想把一段并不体面的互联网创业经历，尽量诚实地讲完。
+Chào các bạn, tôi là Lí Phổ. Hôm nay tôi muốn cố gắng kể lại một cách trung thực nhất có thể một trải nghiệm khởi nghiệp trên Internet không mấy vẻ vang.
 
-2017 年 4 月 1 日，我以普通前端开发的身份入职了南京 xx 科技有限公司，开始研发一款为律师/律所服务的软件。当时该软件的第一版是找外包公司做的，代码没有注释，没有项目管理，一塌糊涂。更糟糕的是，当时公司没有产品经理，所有的 idea 都靠老板拍脑袋。
+Ngày 1 tháng 4 năm 2017, tôi vào làm tại Công ty TNHH Công nghệ xx Nam Kinh với tư cách một lập trình viên front-end bình thường, bắt đầu phát triển một phần mềm phục vụ luật sư và công ty luật. Khi đó, phiên bản đầu tiên của phần mềm được thuê một công ty gia công thực hiện; mã nguồn không có chú thích, không có quản lý dự án, mọi thứ rối tung. Tệ hơn nữa, lúc đó công ty không có quản lý sản phẩm, mọi ý tưởng đều phụ thuộc vào quyết định tùy hứng của ông chủ.
 
-入职一个月，我负责的时间轴模块改了 20 多版，如此高频率的修改需求，真的把自己整麻了。
+Sau một tháng vào làm, mô-đun dòng thời gian do tôi phụ trách đã được sửa hơn 20 phiên bản. Những yêu cầu chỉnh sửa với tần suất cao như vậy thực sự khiến tôi tê liệt.
 
-好在一个月之后，第一个版本提测，效果基本符合老板的预期。之后我主导前端项目以 Vue 作为技术栈进行重构。经过半年多的努力，终于发版了。这个时候开始销售了，我们原本以为至少在行业里会有一点声响，然而结果却令人大失所望，很长一段时间都完全没有开单。
+May mắn là sau một tháng, phiên bản đầu tiên được đưa đi kiểm thử, hiệu quả nhìn chung phù hợp với kỳ vọng của ông chủ. Sau đó, tôi dẫn dắt việc tái cấu trúc dự án front-end, sử dụng Vue làm nền tảng công nghệ. Sau hơn nửa năm nỗ lực, cuối cùng sản phẩm cũng được phát hành. Khi ấy chúng tôi bắt đầu bán hàng, vốn nghĩ rằng ít nhất trong ngành cũng sẽ tạo được chút tiếng vang, nhưng kết quả lại vô cùng thất vọng: trong một thời gian dài hoàn toàn không bán được đơn hàng nào.
 
-![公司环境](../../assets/company.jpeg)
+![Môi trường công ty](../../assets/company.jpeg)
 
-由于公司发展不顺，大家的待遇没有随着工龄增长，很多同事带着失望陆续离开。看着昔日有说有笑的人一一离开，心里很不是滋味。我从一开始就看好这个产品，即便成员换了一轮又一轮，前几年我的待遇也没有增加，我还是选择留下。
+Do công ty phát triển không thuận lợi, chế độ đãi ngộ của mọi người không tăng theo thâm niên, nhiều đồng nghiệp lần lượt rời đi trong thất vọng. Nhìn những người từng vui vẻ chuyện trò lần lượt ra đi, trong lòng tôi thực sự rất buồn. Ngay từ đầu tôi đã tin tưởng sản phẩm này; dù nhân sự thay đổi hết lượt này đến lượt khác, những năm đầu đãi ngộ của tôi cũng không tăng, tôi vẫn lựa chọn ở lại.
 
-就这样，我成了公司唯二一直留下来的人。我也从普通员工做到部门 leader，再到公司总经理，并一步步走向合伙人的角色。离谱的故事就此拉开序幕。
+Cứ như vậy, tôi trở thành một trong hai người duy nhất luôn ở lại công ty. Tôi cũng tiến từ một nhân viên bình thường lên trưởng bộ phận, rồi trở thành tổng giám đốc công ty, từng bước bước vào vai trò đối tác. Câu chuyện của Lí Phổ từ đó mở ra.
 
-后来回看那段日子，我发现所谓“专心做事业”从来不是一个人的故事，爱情和家庭也一直在场。
+Sau này nhìn lại quãng thời gian ấy, tôi nhận ra cái gọi là “chuyên tâm làm sự nghiệp” chưa bao giờ là câu chuyện của riêng một người; tình yêu và gia đình cũng luôn hiện diện.
 
-### 爱情
+### Tình yêu
 
-感谢上天对鄙人的眷顾，让我在合适的年纪遇到了我喜欢的人。她叫若涵（化名）。我在 [离谱的英语学习指南](https://github.com/byoungd/up) 里用顾城的话描述过初见她时的感觉：草在结它的种子，风在摇它的叶子。我们站着，不说话，就十分美好。
+Cảm tạ ông trời đã ưu ái kẻ hèn này, để tôi gặp được người mình yêu ở độ tuổi thích hợp. Cô ấy tên Nhược Hàm (tên giả). Trong [Cẩm nang học tiếng Anh vô lý của Lí Phổ](https://github.com/byoungd/up), tôi từng dùng câu thơ của Cố Thành để miêu tả cảm giác khi lần đầu gặp cô ấy: Cỏ đang kết hạt của mình, gió đang lay lá của mình. Chúng tôi đứng đó, không nói gì, mà vẫn vô cùng tuyệt đẹp.
 
-2017 年 8 月 19 日，我陪她一起去上海完成一件意义非比寻常的事。那天我们在上海外滩拍了很多照片，那些照片，每次看到我都会忍不住流泪。所以时至今日，在手机里看到这部分的照片我都会刻意地快速滑走。我没有勇气再次去回忆那种痛苦。
+Ngày 19 tháng 8 năm 2017, tôi cùng cô ấy đến Thượng Hải để hoàn thành một việc có ý nghĩa vô cùng đặc biệt. Hôm đó chúng tôi chụp rất nhiều ảnh ở Bến Thượng Hải. Mỗi lần nhìn thấy những bức ảnh ấy, tôi đều không kìm được nước mắt. Vì vậy cho đến hôm nay, mỗi khi nhìn thấy những bức ảnh đó trong điện thoại, tôi đều cố tình lướt qua thật nhanh. Tôi không đủ can đảm để nhớ lại nỗi đau ấy.
 
-那晚，夜色正美，可是空气中弥漫着一种令人喘不过气来的压抑。看着外滩一排排的银行大楼，惬意地吹着晚风，我们都努力不让对方觉得自己情绪低落，因为我们都知道，有一件事正在发生，且我们无能为力。
+Đêm đó, cảnh đêm thật đẹp, nhưng trong không khí lại bao trùm một sự u uất khiến người ta nghẹt thở. Nhìn những tòa nhà ngân hàng nối tiếp nhau bên Bến Thượng Hải, thong thả đón làn gió đêm, cả hai chúng tôi đều cố không để đối phương nhận ra mình đang buồn, bởi chúng tôi đều biết có một chuyện đang xảy ra và chúng tôi bất lực trước nó.
 
-那天，在我滔滔不绝描述美好未来时，她忽然哭了，哭得没有声音。我过了好一会儿才发现。她似乎已经明白，我口中的未来未必真的有她的位置。她转过身去，背对着我。那一刻，我第一次看见她的脆弱。
+Hôm ấy, khi tôi đang thao thao mô tả về tương lai tươi đẹp, cô ấy bỗng bật khóc, khóc mà không phát ra tiếng. Một lúc lâu sau tôi mới nhận ra. Dường như cô ấy đã hiểu rằng tương lai tôi nói đến chưa chắc thực sự có chỗ cho cô ấy. Cô quay người đi, lưng hướng về phía tôi. Khoảnh khắc đó, lần đầu tiên tôi nhìn thấy sự yếu đuối của cô ấy.
 
-也就是在那一瞬间，我发现自己真的爱上了她，也第一次明白，爱不是替另一个人设计幸福，而是愿意和她一起面对生活的不确定。
+Cũng chính trong khoảnh khắc ấy, tôi nhận ra mình thật sự đã yêu cô ấy, và lần đầu tiên hiểu rằng yêu không phải là thay một người khác thiết kế hạnh phúc cho họ, mà là sẵn lòng cùng họ đối mặt với sự bất định của cuộc sống.
 
-#### 如果爱有回声
+#### Nếu tình yêu có tiếng vọng
 
-后来我常常想，爱情最虐人的地方，并不是两个人没有相爱过，而是明明相爱，却总有一些时刻，让你清楚地看见自己的无能为力。
+Sau này tôi thường nghĩ, điều tàn nhẫn nhất trong tình yêu không phải là hai người chưa từng yêu nhau, mà là rõ ràng yêu nhau, nhưng luôn có những khoảnh khắc khiến bạn nhìn thấy rõ sự bất lực của chính mình.
 
-我曾经以为，爱一个人就是带她去更远的地方，看更大的世界，吃更好的饭，过更体面的生活。可后来我才明白，爱有时候只是深夜里的一句“没事”，是她明明也很难过，却还要先把你的情绪接住；是你看见她偷偷咽下委屈，却连一句像样的安慰都说不出口。
+Tôi từng nghĩ yêu một người nghĩa là đưa cô ấy đến những nơi xa hơn, ngắm nhìn thế giới rộng lớn hơn, ăn những bữa ngon hơn, sống một cuộc đời đàng hoàng hơn. Nhưng sau này tôi mới hiểu, đôi khi tình yêu chỉ là một câu “Không sao đâu” giữa đêm khuya; là khi cô ấy cũng đang rất buồn nhưng vẫn phải đón lấy cảm xúc của bạn trước; là khi bạn nhìn thấy cô ấy âm thầm nuốt nỗi ấm ức vào lòng mà bản thân lại không thể nói nổi một lời an ủi tử tế.
 
-这张照片里的她，眼睛里还有很亮的光。那时候的我们，都还不知道未来会有多少风浪，不知道生活会把一个人逼到什么程度，也不知道有一天，连出去吃一顿饭、买一个蛋糕、说一句“以后会好的”，都会变得小心翼翼。
+Trong bức ảnh này, trong mắt cô ấy vẫn còn ánh sáng rạng rỡ. Khi ấy, cả hai chúng tôi đều chưa biết tương lai sẽ có bao nhiêu sóng gió, chưa biết cuộc sống sẽ dồn một người đến mức nào, cũng chưa biết sẽ có một ngày việc ra ngoài ăn một bữa, mua một chiếc bánh, hay nói một câu “Sau này mọi chuyện sẽ tốt đẹp thôi” đều trở nên dè dặt đến thế.
 
-我最难过的，从来不是自己吃过多少苦，而是我的决定让她也承担了不确定。我曾经替她想象“更轻盈的日子”，后来才知道，那仍然是我的想象；我能负责的，是承认自己造成的影响，不替她解释感受。
+Điều khiến tôi đau lòng nhất chưa bao giờ là bản thân đã chịu bao nhiêu khổ cực, mà là những quyết định của tôi đã khiến cô ấy cũng phải gánh chịu sự bất định. Tôi từng thay cô ấy tưởng tượng về “những ngày tháng nhẹ nhõm hơn”, sau này mới biết đó vẫn chỉ là tưởng tượng của tôi; điều tôi có thể chịu trách nhiệm là thừa nhận ảnh hưởng do mình gây ra, chứ không thay cô ấy giải thích cảm xúc của cô ấy.
 
-如果有一天，她问我这一切值不值得，我大概会沉默很久。因为那些狼狈、亏欠和遗憾，确实不值得。可如果问我遇见她值不值得，我一定会说，值得。
+Nếu một ngày cô ấy hỏi tôi tất cả chuyện này có đáng hay không, có lẽ tôi sẽ im lặng rất lâu. Bởi những nhếch nhác, mắc nợ và tiếc nuối ấy quả thực không đáng. Nhưng nếu cô ấy hỏi tôi gặp được cô ấy có đáng hay không, tôi nhất định sẽ nói là đáng.
 
-因为她让我知道，真正的爱情不是只在顺风顺水时说漂亮话。世界坍塌时，我不能替她消除所有阴影，但可以承认我制造的那一部分，并把能承担的责任留在自己手里。
+Bởi cô ấy khiến tôi hiểu rằng tình yêu đích thực không phải chỉ nói những lời hoa mỹ khi mọi chuyện thuận buồm xuôi gió. Khi thế giới sụp đổ, tôi không thể thay cô ấy xóa bỏ mọi bóng tối, nhưng có thể thừa nhận phần bóng tối do mình tạo ra và giữ lấy trách nhiệm mà mình có thể gánh vác.
 
-也许爱从来没有什么回声。你喊出的承诺，很多时候只会落进漫长的岁月里。但我仍然愿意相信，那些曾经认真爱过的人，终会在某个平凡的清晨，被生活轻轻归还一点温柔。
+Có lẽ tình yêu vốn chẳng có tiếng vọng nào. Những lời hứa bạn cất lên nhiều khi chỉ rơi vào dòng thời gian dài đằng đẵng. Nhưng tôi vẫn muốn tin rằng những người từng nghiêm túc yêu nhau rồi sẽ có một buổi sáng bình thường nào đó được cuộc sống nhẹ nhàng trả lại đôi chút dịu dàng.
 
-我们走进婚姻，也有了孩子。
+Chúng tôi bước vào hôn nhân và có con.
 
-### 更早的技术创业
+### Khởi nghiệp công nghệ từ trước đó
 
-大学期间，我做过一个 iOS 越狱插件，并把它发布在 Cydia 商店。它不再只是电脑里的练习，而是一个被陌生用户安装、使用，并为我带来比较可观收入的产品。后来我注意到 WordPress 在全世界范围内异常流行，于是开始开发和经营 WordPress 主题，也取得了很大的成功。再后来，比特币进入了我的视野：一位经营优质域名生意的前辈开始布局数字货币产业，我作为早期团队成员之一，在并未主动谋划的情况下意外获得了一些比特币，却没有持续关注，后来甚至忘了这件事。直到多年后我正式创业，才重新意识到，这段经历为我后来启动更大的事业埋下了伏笔。这里的“伏笔”是我对过去的回看，不是收益承诺或投资建议。
+Trong thời đại học, tôi từng làm một plugin jailbreak iOS và phát hành nó trên cửa hàng Cydia. Nó không còn chỉ là một bài tập trong máy tính, mà trở thành một sản phẩm được những người dùng xa lạ cài đặt, sử dụng và mang lại cho tôi nguồn thu nhập khá đáng kể. Sau đó tôi nhận thấy WordPress vô cùng phổ biến trên toàn thế giới, nên bắt đầu phát triển và kinh doanh giao diện WordPress, đồng thời cũng đạt được thành công lớn. Về sau, Bitcoin bước vào tầm mắt tôi: một tiền bối kinh doanh tên miền chất lượng bắt đầu triển khai ngành công nghiệp tiền kỹ thuật số. Là một trong những thành viên của đội ngũ thời kỳ đầu, tôi tình cờ nhận được một ít Bitcoin dù không chủ động lên kế hoạch, nhưng lại không tiếp tục theo dõi, thậm chí sau đó còn quên mất chuyện này. Mãi đến nhiều năm sau, khi chính thức khởi nghiệp, tôi mới một lần nữa nhận ra trải nghiệm ấy đã đặt nền móng cho việc khởi động sự nghiệp lớn hơn về sau. “Đặt nền móng” ở đây là cách tôi nhìn lại quá khứ, không phải cam kết lợi nhuận hay lời khuyên đầu tư.
 
-三十岁以前，我常觉得自己所向披靡，做什么都能得到不错的结果。大学期间的插件和主题业务，以及后来的网站设计和互联网项目，都让我拿到过真实用户和收入；小餐饮带来不错的现金流，我也在公司一路成长为合伙人。这些经历让我逐渐相信，只要敢闯、肯投入，下一件事也会成功。回头看，成果里有努力，也有时机和运气；那时的我却把前几次顺利当成了未来的保证。
+Trước năm 30 tuổi, tôi thường cảm thấy mình có thể làm được mọi thứ, làm gì cũng đạt kết quả khá tốt. Những hoạt động kinh doanh plugin và giao diện trong thời đại học, rồi thiết kế website và các dự án Internet sau này, đều từng mang lại cho tôi người dùng thực tế và doanh thu; hoạt động kinh doanh ăn uống quy mô nhỏ đem lại dòng tiền khá tốt, còn tôi cũng từng bước trưởng thành trong công ty để trở thành đối tác. Những trải nghiệm ấy dần khiến tôi tin rằng chỉ cần dám xông pha và chịu đầu tư, việc tiếp theo cũng sẽ thành công. Nhìn lại, thành quả có nỗ lực, nhưng cũng có thời cơ và may mắn; khi ấy tôi lại xem những lần thuận lợi trước đó như sự bảo đảm cho tương lai.
 
-后来为了拓宽事业，我投资过洗浴中心、温泉度假酒店，也尝试过会所项目，最终亏损惨重。面对这些亏损，我很难接受。过去那种“做了就能成”的确信被现实冲击后，我陷入恐惧、惊慌和焦虑，也一度只想着怎样才能把损失追回来。这里不补写未经核实的金额或单一原因；我能确认的是，亏损动摇的不只是财务，也包括我对自己判断的信任。
+Sau này, để mở rộng sự nghiệp, tôi từng đầu tư vào trung tâm tắm gội, khách sạn nghỉ dưỡng suối nước nóng, cũng thử sức với dự án câu lạc bộ, cuối cùng thua lỗ nặng nề. Đối mặt với những khoản lỗ ấy, tôi vô cùng khó chấp nhận. Sau khi niềm tin “làm là sẽ thành” trước đây bị hiện thực giáng một đòn mạnh, tôi rơi vào sợ hãi, hoảng loạn và lo âu, có một thời gian chỉ nghĩ làm sao để lấy lại khoản lỗ. Ở đây tôi không bổ sung những con số chưa được kiểm chứng hay một nguyên nhân duy nhất; điều tôi có thể xác nhận là khoản lỗ không chỉ làm lung lay tài chính, mà còn làm lung lay niềm tin của tôi vào phán đoán của chính mình.
 
-![折腾过的一些项目](../../assets/things.jpeg)
+![Một số dự án tôi từng mày mò](../../assets/things.jpeg)
 
-![度假酒店项目](../../assets/car.jpeg)
+![Dự án khách sạn nghỉ dưỡng](../../assets/car.jpeg)
 
-### 餐饮
+### Kinh doanh ăn uống
 
-我的亲戚在南京某地开了一家淮南牛肉汤店，生意相当不错，之后我表哥开了第二家，生意异常火爆。在研究了一下这个品类之后，我自己也开了一家，生意好得远超预期。
+Một người họ hàng của tôi mở một quán phở bò Hoài Nam ở một nơi nào đó tại Nam Kinh, việc kinh doanh khá tốt. Sau đó anh họ tôi mở cơ sở thứ hai và việc kinh doanh bùng nổ bất ngờ. Sau khi nghiên cứu một thời gian về loại hình này, tôi cũng tự mở một quán, việc kinh doanh tốt hơn kỳ vọng rất nhiều.
 
-接着我自己开始搞设计、搞装修，并适当地拓宽品类，开了第二家、第三家……
+Tiếp đó tôi tự mình thiết kế, sửa sang, đồng thời mở rộng danh mục sản phẩm một cách phù hợp, rồi mở cơ sở thứ hai, thứ ba…
 
-![自己折腾出来的工作台](../../assets/desk.jpeg)
+![Bàn làm việc tự mày mò lắp ráp](../../assets/desk.jpeg)
 
-为了在外卖平台能让店铺的产品有更好的展示，我自己摸索着摄影和 PS，亲手制作了一整套产品图。
+Để sản phẩm của quán được trưng bày đẹp hơn trên các nền tảng giao đồ ăn, tôi tự mày mò học chụp ảnh và Photoshop, tự tay làm trọn bộ hình ảnh sản phẩm.
 
-![餐饮产品图](../../assets/nrt.webp)
+![Hình ảnh sản phẩm ăn uống](../../assets/nrt.webp)
 
-这些小餐饮店，是真的辛苦，但是现金流却很不错。虽然我开的这些店随着“口罩”时期的到来而逐渐关门，但在这之前也让我小赚了一笔，这也为我成为公司合伙人做了资金上的铺垫。在此期间我也买了自己的 Dream Car。
+Những quán ăn nhỏ này thực sự rất vất vả, nhưng dòng tiền lại khá tốt. Dù những quán tôi mở dần đóng cửa khi thời kỳ “khẩu trang” bắt đầu, trước đó chúng cũng giúp tôi kiếm được một khoản lời nhỏ, tạo nền tảng tài chính để tôi trở thành đối tác của công ty. Trong thời gian này tôi cũng mua được chiếc Dream Car của mình.
 
-### 二次创业：进入娱乐行业
+### Khởi nghiệp lần hai: Bước vào ngành giải trí
 
-在洗浴中心和度假酒店项目之后，我又进行了一次创业，选择娱乐行业，经营胡桃里、奥斯卡等酒吧。项目初期都能盈利，但经营周期很短；经历疫情之后，最终又是血亏。短期盈利曾让我觉得自己找到了新的可行方向，后来我才看到，一个顺利的开头无法证明生意能穿过周期。关于亏损中各项因素的影响，我不想凭回忆编出结论，只能承认结果再次超出了当时的判断。
+Sau các dự án trung tâm tắm gội và khách sạn nghỉ dưỡng, tôi lại khởi nghiệp một lần nữa, lựa chọn ngành giải trí, kinh doanh các quán bar như Hutoli và Oscar. Các dự án đều có lợi nhuận trong giai đoạn đầu, nhưng chu kỳ kinh doanh rất ngắn; sau khi trải qua đại dịch, cuối cùng tôi lại thua lỗ nặng nề. Lợi nhuận ngắn hạn từng khiến tôi nghĩ mình đã tìm được một hướng đi khả thi mới, nhưng sau này tôi mới nhận ra một khởi đầu thuận lợi không thể chứng minh rằng việc kinh doanh có thể vượt qua các chu kỳ. Về ảnh hưởng của từng yếu tố đối với khoản lỗ, tôi không muốn dựa vào hồi ức để bịa ra kết luận, chỉ có thể thừa nhận rằng kết quả một lần nữa vượt quá phán đoán khi ấy.
 
-### 经营公司
+### Điều hành công ty
 
-在公司收支基本持平的时候，我们搬到了更大的办公室。在尚未装修的展台前，我畅想着美好的未来。
+Khi thu chi của công ty về cơ bản cân bằng, chúng tôi chuyển đến một văn phòng lớn hơn. Trước khu trưng bày còn chưa hoàn thiện, tôi mơ tưởng về một tương lai tươi đẹp.
 
-![新办公室](../../assets/office.jpg)
+![Văn phòng mới](../../assets/office.jpg)
 
-为了打造更好的工作环境，我们招募了更多年轻同事，逐步提高福利待遇，也隔三差五组织聚餐和休闲活动。
+Để tạo dựng môi trường làm việc tốt hơn, chúng tôi tuyển thêm nhiều đồng nghiệp trẻ, từng bước nâng cao chế độ phúc lợi, đồng thời thường xuyên tổ chức các buổi ăn uống và hoạt động thư giãn.
 
-上图是我跟前端 Leader Nas 一张珍贵的合影。
+Bức ảnh trên là một bức ảnh quý giá chụp chung giữa tôi và Nas, trưởng nhóm front-end.
 
-可是好景不长。2022 年初，软件销量明显下滑，我们迟迟找不到解决方案。产品功能大而全，缺陷密集，始终没有达到我希望的可靠程度。客户反馈频繁遇到问题，如果价格不是很低，后果可能会更严重。
+Nhưng những ngày tốt đẹp không kéo dài. Đầu năm 2022, doanh số phần mềm sụt giảm rõ rệt, chúng tôi mãi không tìm được giải pháp. Sản phẩm có quá nhiều chức năng, khiếm khuyết dày đặc,始终 chưa đạt đến mức độ đáng tin cậy mà tôi mong muốn. Khách hàng thường xuyên phản hồi rằng họ gặp vấn đề; nếu giá không đủ thấp, hậu quả có thể còn nghiêm trọng hơn.
 
-![软件产品页面](../../assets/product1.webp)
+![Trang sản phẩm phần mềm](../../assets/product1.webp)
 
-为了解决一些关键节点上的问题，我挖来了当时在字节搞容器安全的高中同桌。他一直是我心目中很特别的一个人。在他加入我们公司后，发现了一些非常关键的问题。
+Để giải quyết một số vấn đề tại các nút thắt quan trọng, tôi mời người bạn học cùng lớp thời trung học, khi ấy đang làm về an ninh container tại ByteDance, về công ty. Anh ấy luôn là một người rất đặc biệt trong lòng tôi. Sau khi gia nhập công ty, anh phát hiện ra một số vấn đề vô cùng then chốt.
 
-![产品设计稿](../../assets/product-ds.webp)
+![Bản thiết kế sản phẩm](../../assets/product-ds.webp)
 
-首先是项目结构老旧，很多地方存在性能和安全问题；一些被称作“大数据”和“AI”的功能，并没有建立在可用的数据集和训练流程上，本质上只是 Elasticsearch 搜索和预设结果。我们原以为拥有核心资产，后来才发现，许多东西只是堆叠出来的功能，而绝大部分精力都花在了多端适配和继续增加模块上。
+Trước hết, cấu trúc dự án đã lỗi thời, nhiều nơi tồn tại vấn đề về hiệu năng và bảo mật; một số chức năng được gọi là “dữ liệu lớn” và “AI” không hề được xây dựng trên tập dữ liệu và quy trình huấn luyện có thể sử dụng, về bản chất chỉ là tìm kiếm Elasticsearch và các kết quả được thiết lập sẵn. Chúng tôi từng nghĩ mình sở hữu tài sản cốt lõi, sau này mới phát hiện nhiều thứ chỉ là các chức năng được chồng chất lên nhau, còn phần lớn công sức lại được dành cho việc tương thích đa nền tảng và tiếp tục bổ sung mô-đun.
 
-我们不遗余力地在 UI 和很多细节体验方面进行迭代，然而核心的问题却因为缺少数据集，大数据提取的数据完全没有样本，根本无法进行训练。
+Chúng tôi không tiếc công sức lặp đi lặp lại việc cải tiến giao diện người dùng và nhiều chi tiết trải nghiệm, nhưng vấn đề cốt lõi lại không thể giải quyết vì thiếu tập dữ liệu: dữ liệu được trích xuất từ hệ thống dữ liệu lớn hoàn toàn không có mẫu, căn bản không thể huấn luyện.
 
-做了几年“大数据”，却没有把数据基础真正建起来。意识到问题的严重性后，我不禁后背发凉。
+Làm “dữ liệu lớn” suốt mấy năm nhưng vẫn chưa thực sự xây dựng được nền tảng dữ liệu. Nhận ra mức độ nghiêm trọng của vấn đề, tôi không khỏi lạnh toát sống lưng.
 
-到这个阶段，我们进退两难：继续迭代，旧架构会让每次修改都变得昂贵；重构，又需要公司账上难以承受的成本。
+Đến giai đoạn này, chúng tôi rơi vào thế tiến thoái lưỡng nan: tiếp tục lặp lại, kiến trúc cũ sẽ khiến mỗi lần chỉnh sửa đều trở nên đắt đỏ; tái cấu trúc lại cần một khoản chi phí mà sổ sách công ty khó lòng chịu nổi.
 
-那天我和另外两位合伙人在办公室讨论到很晚。公司最大的股东龚总（化名）情绪近乎崩溃，只反复追问一句：“你告诉我，这件事到底还能不能做？”
+Hôm đó tôi và hai đối tác khác thảo luận rất lâu trong văn phòng. Ông Cung, cổ đông lớn nhất của công ty (tên giả), gần như suy sụp về mặt cảm xúc, chỉ lặp đi lặp lại một câu hỏi: “Cậu nói cho tôi biết đi, rốt cuộc chuyện này còn làm được nữa hay không?”
 
-我很能理解他的心情。他已经为此投了一千多万，全是自己的钱，没有一分是投资人的。我也为此投入了几百万，当时大家的心情是很难用语言去描述的。
+Tôi rất hiểu tâm trạng của ông ấy. Ông đã đầu tư hơn mười triệu nhân dân tệ vào việc này, toàn bộ đều là tiền của ông, không có một xu nào từ nhà đầu tư. Tôi cũng đầu tư vài triệu, tâm trạng của mọi người khi ấy thực sự khó diễn tả bằng lời.
 
-之后龚总情绪失控，把他亲手制定的 40 多页《员工管理手册》摔在会议桌上，声音在办公室里回荡。有些事情其实早已难以继续，只是大家仍然舍不得放下幻想。
+Sau đó ông Cung mất kiểm soát, ném cuốn “Sổ tay quản lý nhân viên” hơn 40 trang do chính tay ông soạn lên bàn họp, tiếng động vang vọng trong văn phòng. Có những chuyện thực ra đã khó lòng tiếp tục từ lâu, chỉ là mọi người vẫn không nỡ từ bỏ ảo tưởng.
 
-随着公司入不敷出，工资开始无法按时发放，我们四处找钱、借贷。在极度高压下，管理逐渐转向抓考勤、减福利、要求无意义加班和细密汇报，团队越来越疲惫。我知道解散只是迟早的事。我极力反对这些形式，但龚总的一句话让我无法继续争辩：“我出钱最多，我说了算！”
+Khi công ty thu không đủ chi, lương bắt đầu không được trả đúng hạn, chúng tôi phải đi khắp nơi tìm tiền và vay nợ. Dưới áp lực cực độ, việc quản lý dần chuyển sang kiểm soát chấm công, cắt giảm phúc lợi, yêu cầu làm thêm giờ vô nghĩa và báo cáo chi li, khiến cả đội ngày càng mệt mỏi. Tôi biết giải tán chỉ còn là vấn đề sớm muộn. Tôi cực lực phản đối những hình thức ấy, nhưng một câu nói của ông Cung khiến tôi không thể tiếp tục tranh luận: “Tôi bỏ nhiều tiền nhất, tôi quyết định!”
 
-到了 9 月份，公司的氛围已经糟糕到没人愿意来上班，于是大家集体辞职，宣告了这场游戏的落幕。
+Đến tháng 9, bầu không khí trong công ty đã tệ đến mức không ai muốn đi làm, vì vậy mọi người cùng nộp đơn nghỉ việc, tuyên bố ván chơi này khép lại.
 
-公司倒闭，亏损的资金暂且不谈，我为此努力的五六年啊。那些每日每夜赶项目的日子，都能轻而易举地忘了吗？而且，我的同桌因此被我坑了一把，原本他留在字节可能会有个更好的发展吧。我曾幻想过公司成功后大家把酒言欢的场面，然而却事与愿违。
+Công ty phá sản, tạm thời chưa nói đến số tiền thua lỗ, nhưng còn năm sáu năm tôi đã nỗ lực vì nó. Những ngày đêm chạy dự án ấy, có thể dễ dàng quên đi như vậy sao? Hơn nữa, vì tôi mà người bạn học cùng lớp bị liên lụy một phen; nếu tiếp tục ở lại ByteDance, có lẽ anh ấy vốn đã có một hướng phát triển tốt hơn. Tôi từng tưởng tượng cảnh mọi người cùng nâng ly chúc mừng sau khi công ty thành công, nhưng mọi chuyện lại đi ngược mong muốn.
 
-在公司宣布倒闭后，我连向他说声抱歉的勇气都没有。我的内心是何等地难受，没法与人诉说。那些曾经和我一同奋战的小伙伴们，回想起那些难忘的点点滴滴，会想起我们曾经因为攻坚了一些重点难点而欢呼雀跃，甚至激动得彻夜难眠；会想起我的信誓旦旦；会想起我在开会时的豪言壮语……
+Sau khi công ty tuyên bố phá sản, tôi thậm chí không có can đảm nói với anh ấy một câu xin lỗi. Trong lòng tôi đau đớn đến mức nào, cũng không thể nói với ai. Những người bạn từng cùng tôi chiến đấu, khi nhớ lại từng khoảnh khắc khó quên ấy, có lẽ sẽ nhớ chúng ta từng vui sướng reo hò, thậm chí kích động đến mất ngủ cả đêm vì đã vượt qua một số vấn đề trọng điểm và khó khăn; sẽ nhớ những lời thề son sắt của tôi; sẽ nhớ những lời hùng hồn tôi từng nói trong các cuộc họp…
 
-对此，我真的心存歉疚。
+Về chuyện này, tôi thực sự cảm thấy có lỗi.
 
-在这里，我想对他们说一句：“I'm so sorry!” 虽然，他们也许永远都看不到这个。
+Ở đây, tôi muốn nói với họ một câu: “Tôi thực sự xin lỗi!” Dù có lẽ họ sẽ không bao giờ nhìn thấy điều này.
 
-### 身体垮掉
+### Cơ thể suy sụp
 
-我从 6 月份开始，因为与龚总在管理公司的理念有着严重冲突，且在被粗暴干预公司管理的情况下，我的身体产生了一些反应。胃开始变得不舒服，之后患上了糜烂性胃炎且久治不愈。再之后开始失眠，胃病不断恶化。再之后阳了，整个人似乎得了各种病。视力变得模糊不清，食欲不振加上长期失眠，浑身多处游走性疼痛，整个人快要不行了。
+Từ tháng 6, vì có xung đột nghiêm trọng với ông Cung trong quan niệm quản lý công ty, lại bị can thiệp thô bạo vào việc điều hành, cơ thể tôi bắt đầu xuất hiện một số phản ứng. Dạ dày bắt đầu khó chịu, sau đó mắc viêm dạ dày trợt và mãi không khỏi. Tiếp đó tôi bắt đầu mất ngủ, bệnh dạ dày không ngừng trở nặng. Rồi tôi mắc COVID-19, cả người dường như mắc đủ thứ bệnh. Thị lực trở nên mờ nhòe, chán ăn cộng với mất ngủ kéo dài, nhiều nơi trên cơ thể đau nhức lan tỏa, cả người gần như không chịu nổi nữa.
 
-有一天夜里，我突然对若涵说，我可能快不行了，随后开始胡言乱语、交代后事。她哭了起来，也惊醒了孩子。那一晚我们都很害怕，过了很久才慢慢安静下来。
+Một đêm nọ, tôi đột nhiên nói với Nhược Hàm rằng có lẽ mình sắp không qua khỏi, sau đó bắt đầu nói năng lung tung và dặn dò hậu sự. Cô ấy bật khóc, đồng thời đánh thức cả đứa trẻ. Đêm hôm đó tất cả chúng tôi đều rất sợ hãi, mãi rất lâu sau mới dần bình tĩnh lại.
 
-之后的几个月，我辗转于南京的各家医院，各种排队等待，各种拍片子/核磁/验血，整个人就像掉了魂一样。于我而言，我的世界已经蒙上了一层黑雾，看不到边。
+Trong vài tháng tiếp theo, tôi đi qua rất nhiều bệnh viện ở Nam Kinh, hết xếp hàng chờ đợi, chụp X-quang, MRI, xét nghiệm máu, cả người như mất hồn. Đối với tôi, thế giới đã bị phủ một lớp sương mù đen tối, không nhìn thấy điểm cuối.
 
-检查出来一些小毛病，但是医生都非常确定地告诉我，我没啥事。但我自己的感觉却认为，一定有什么没有检查出来的病症。每天还是在医院里挂号、等待、检查、等结果，再找医生咨询，排除了这个病症再去检查别的。我会在各种网站上查询类似的症状，一边暗自告诉自己没事的，一边又自我怀疑。
+Kết quả kiểm tra cho thấy một số vấn đề nhỏ, nhưng các bác sĩ đều khẳng định chắc chắn rằng tôi không sao. Thế nhưng cảm giác của bản thân lại khiến tôi tin rằng nhất định có căn bệnh nào đó chưa được phát hiện. Mỗi ngày tôi vẫn đăng ký khám, chờ đợi, kiểm tra, chờ kết quả ở bệnh viện, rồi tìm bác sĩ tư vấn; loại trừ căn bệnh này xong lại đi kiểm tra căn bệnh khác. Tôi tra cứu những triệu chứng tương tự trên đủ loại website, một mặt thầm tự nhủ rằng mình không sao, mặt khác lại tự nghi ngờ bản thân.
 
-长期编程也让我出现了持续的腰背问题。这段经历提醒我：身体不是可以无限透支的资产，反复出现的症状应该交给专业人士评估，也值得在日常工作中提前照顾。
+Lập trình trong thời gian dài cũng khiến tôi gặp vấn đề dai dẳng ở vùng thắt lưng và lưng. Trải nghiệm này nhắc nhở tôi rằng cơ thể không phải tài sản có thể bị bòn rút vô hạn; những triệu chứng lặp đi lặp lại nên được giao cho chuyên gia đánh giá, và cũng đáng được chăm sóc từ sớm trong công việc hằng ngày.
 
-在最慌乱的时候，我尝试过不同的治疗方式，家人甚至带我寻求民间帮助。现在回头看，那更多是无助之下的本能反应，而不是可靠的解决方案。
+Trong lúc hoảng loạn nhất, tôi đã thử nhiều phương pháp điều trị khác nhau, gia đình thậm chí còn đưa tôi đi tìm sự giúp đỡ trong dân gian. Bây giờ nhìn lại, đó phần nhiều là phản ứng bản năng trong sự bất lực, chứ không phải giải pháp đáng tin cậy.
 
-虽然我深知这样下去不是办法，但是我就是整夜整夜地失眠，毫无精气神。
+Dù hiểu rất rõ cứ tiếp tục như vậy không phải là cách, nhưng tôi vẫn mất ngủ hết đêm này đến đêm khác, không còn chút tinh thần nào.
 
-我们几个人合计亏损超过 2000 万，加上度假酒店和会所项目的损失，压力极大。最艰难的时候，我甚至考虑过出售若涵老家的房子。我没有向亲戚借钱，一方面是难以开口，另一方面也害怕把无法兑现的压力转嫁给关系。借钱之前，至少要诚实评估还款能力、关系成本和退出方案。
+Mấy người chúng tôi cộng lại thua lỗ hơn 20 triệu nhân dân tệ, cộng thêm tổn thất từ các dự án khách sạn nghỉ dưỡng và câu lạc bộ, áp lực vô cùng lớn. Trong thời gian khó khăn nhất, tôi thậm chí từng cân nhắc bán căn nhà ở quê của Nhược Hàm. Tôi không vay tiền họ hàng; một mặt là khó mở lời, mặt khác cũng sợ chuyển áp lực không thể hoàn trả sang cho các mối quan hệ. Trước khi vay tiền, ít nhất phải thành thật đánh giá khả năng trả nợ, cái giá của mối quan hệ và phương án thoát ra.
 
-我甚至动过把刚开了一年多的车子卖掉的念头，但被家里人劝住了。房子已经卖了，再卖车的话，多少对生活会有影响，毕竟孩子要上学了，而且卖车的话也收不回多少资金。
+Tôi thậm chí từng nghĩ đến việc bán chiếc xe mới mua hơn một năm, nhưng bị người nhà khuyên can. Nhà đã bán rồi, nếu bán cả xe thì ít nhiều cũng ảnh hưởng đến cuộc sống, dù sao con cũng sắp đi học, hơn nữa bán xe cũng không thu hồi được bao nhiêu tiền.
 
-![曾经的 Dream Car](../../assets/bmw.webp)
+![Chiếc Dream Car trước đây](../../assets/bmw.webp)
 
-### 回老家之后
+### Sau khi trở về quê
 
-2023 年 3 月底，我转让掉了最后一家小餐饮店。6 月底，收拾好东西，回老家了。
+Cuối tháng 3 năm 2023, tôi sang nhượng quán ăn nhỏ cuối cùng. Cuối tháng 6, thu dọn đồ đạc và trở về quê.
 
-带着三岁的儿子离开自己待了十几年的城市，多少有些伤感吧。
+Rời thành phố nơi mình đã sống hơn mười năm cùng cậu con trai ba tuổi, ít nhiều cũng có chút buồn.
 
-由于身体的不适持续恶化，我变得沉默寡言。从不愿出门，到不愿意说话，甚至到了饭都懒得吃的地步。
+Vì cơ thể ngày càng khó chịu, tôi trở nên ít nói và trầm lặng. Từ không muốn ra ngoài đến không muốn nói chuyện, thậm chí còn lười đến mức chẳng buồn ăn cơm.
 
-要不是老妈每天微信喊我吃饭，我估计连饭都不吃了吧。
+Nếu không phải mẹ tôi ngày nào cũng gọi WeChat giục tôi ăn cơm, có lẽ tôi đến cơm cũng chẳng ăn.
 
-那时我已经快 30 岁，却还要让母亲每天提醒我吃饭。这让我惭愧，也让我第一次承认，自己确实需要别人帮忙。
+Khi ấy tôi đã gần 30 tuổi nhưng vẫn phải để mẹ hằng ngày nhắc mình ăn cơm. Điều đó khiến tôi hổ thẹn, đồng thời cũng khiến tôi lần đầu tiên thừa nhận rằng mình thực sự cần người khác giúp đỡ.
 
-我也很讨厌这样的自己，可我感觉就是非常无力、无助，就像身处漩涡的中心，无论怎么挣扎都爬不出来。
+Tôi cũng rất ghét bản thân như vậy, nhưng cảm giác thực sự bất lực và vô vọng, giống như đang ở giữa tâm xoáy nước, dù vùng vẫy thế nào cũng không thể trèo ra.
 
-长时间不做任何事情也非常无聊。有一天我把台式机重新组装起来，玩起了英雄联盟。我没日没夜地玩，玩到自己都觉得无聊。因为睡不着，我索性任由自己继续下沉。
+Không làm bất cứ việc gì trong thời gian dài cũng vô cùng chán. Một hôm tôi lắp lại chiếc máy tính để bàn và bắt đầu chơi Liên Minh Huyền Thoại. Tôi chơi ngày đêm không nghỉ, đến mức chính mình cũng thấy chán. Vì không ngủ được, tôi mặc kệ bản thân tiếp tục chìm xuống.
 
-### 看不到希望的生活
+### Cuộc sống không nhìn thấy hy vọng
 
-我沉迷于游戏，日夜颠倒，一分钱不赚，与过往小确幸的生活有着巨大的落差。卖房度日、和父母同住，再加上我迟迟没有恢复行动，让生活充满失望。她也承受了很大压力，问我这样的日子还要持续多久。
+Tôi chìm đắm trong trò chơi, ngày đêm đảo lộn, không kiếm được một đồng nào, hoàn toàn tương phản với cuộc sống từng có những niềm vui nhỏ bé trước đây. Bán nhà để sống qua ngày, ở cùng cha mẹ, cộng thêm việc mãi chưa khôi phục được khả năng hành động, khiến cuộc sống tràn ngập thất vọng. Cô ấy cũng chịu áp lực rất lớn và hỏi tôi những ngày tháng như vậy còn kéo dài bao lâu nữa.
 
-我向她怒吼道：“你想要我怎么样？”
+Tôi gào lên với cô ấy: “Em muốn anh phải làm thế nào?”
 
-其实，真的很迷茫，不知道要怎么办。
+Thật ra tôi thực sự rất mơ hồ, không biết phải làm gì.
 
-软件公司倒闭了，我的程序员生涯也随之结束了。我默默地退出了很多群，关掉了 GitHub，屏蔽了一些联系人，一些以前每天必逛的网站也再也没有打开过了。
+Công ty phần mềm phá sản, sự nghiệp lập trình viên của tôi cũng kết thúc theo. Tôi lặng lẽ rời khỏi rất nhiều nhóm, đóng GitHub, chặn một số liên hệ, và không bao giờ mở lại một số website trước đây ngày nào cũng truy cập.
 
-创业期间，因为资金的事情还跟自己玩得最好的朋友乐乐闹掰了。那么多年的友谊，因为我的执着，兄弟反目，许久不再联系。失去的，有点多。
+Trong thời gian khởi nghiệp, vì chuyện tiền bạc mà tôi cũng cãi vã rồi cắt đứt với người bạn thân nhất là Lạc Lạc. Tình bạn nhiều năm, vì sự cố chấp của tôi mà anh em trở mặt, lâu ngày không còn liên lạc. Những gì đã mất đi quả thực quá nhiều.
 
-我不止一次问自己：“当初为什么要拼命坚持下去？”
+Không chỉ một lần tôi tự hỏi: “Tại sao lúc đó mình phải liều mạng kiên trì?”
 
-如果当初做一些其他的选择，结局会不会不一样？在公司发展的一些关键节点上，如果我更努力，会不会好一点？如果早一点或者晚一点做这个事情会不会好一点？如果我能……
+Nếu khi ấy tôi đưa ra những lựa chọn khác, kết cục liệu có khác không? Ở một số thời điểm then chốt trong quá trình phát triển công ty, nếu tôi nỗ lực hơn, liệu có tốt hơn không? Nếu làm việc này sớm hơn hoặc muộn hơn một chút, liệu có tốt hơn không? Nếu tôi có thể…
 
-仔细想想，做行业软件，真的不是靠着一腔热血和几个看似新奇的 idea 就能成的。每个创业者都曾认为自己了解用户的需求，认为自己的产品解决了行业痛点，认为自己的产品应该会迎来爆发式的增长。成功的条件，往往跟很多你无法把握的条件有关，如天时地利。比如我们当时花了很大精力研发的智能问答机器人，如果在 ChatGPT 出来之后我们搞，完全就是两码事。可是我们并不会恰好等到一个会和我们有关的 ChatGPT。
+Nghĩ kỹ lại, làm phần mềm cho một ngành thực sự không thể thành công chỉ nhờ một bầu nhiệt huyết và vài ý tưởng có vẻ mới lạ. Mỗi doanh nhân từng tin rằng mình hiểu nhu cầu người dùng, tin sản phẩm của mình giải quyết được nỗi đau của ngành, tin sản phẩm của mình sẽ đón nhận sự tăng trưởng bùng nổ. Điều kiện để thành công thường liên quan đến rất nhiều yếu tố mà bạn không thể nắm bắt, chẳng hạn như thiên thời và địa lợi. Ví dụ, chatbot hỏi đáp thông minh mà khi ấy chúng tôi dồn rất nhiều công sức nghiên cứu, nếu làm sau khi ChatGPT xuất hiện thì hoàn toàn là một câu chuyện khác. Nhưng chúng tôi đâu thể tình cờ chờ đến một ChatGPT có liên quan đến mình.
 
-### 感悟
+### Điều rút ra
 
-如果你要问我，公司做倒闭了，是什么体验？
+Nếu bạn hỏi tôi, cảm giác công ty phá sản là như thế nào?
 
-我只能告诉你，年轻的时候摔一跤，也未尝不是好事，这只不过是生活的一个小插曲而已。
+Tôi chỉ có thể nói rằng, vấp ngã một lần khi còn trẻ cũng chưa chắc là chuyện xấu; đó chẳng qua chỉ là một khúc nhạc dạo nhỏ trong cuộc đời.
 
-那是我嘴硬的说法。真实感受只有一个：很难受。
+Đó là cách nói cứng miệng của tôi. Cảm giác chân thật chỉ có một: rất khó chịu.
 
-我清楚地记得儿子生日那天一大早，若涵跟我说，今晚去吃火锅吧。我却犹豫了许久，说了句：“没必要吧，咱们买个小蛋糕在家过就行了。”这样的回答显然出乎她的意料。她沉默下来，努力掩饰低落的情绪。那时我才意识到，出去吃一顿饭已经成了需要反复权衡的奢侈，而这一天本来应该被好好庆祝。我从没想过自己会走到这里。
+Tôi nhớ rất rõ, sáng sớm ngày sinh nhật con trai, Nhược Hàm nói với tôi: “Tối nay mình đi ăn lẩu nhé.” Nhưng tôi do dự rất lâu rồi nói: “Không cần đâu, mình mua một chiếc bánh nhỏ về nhà ăn mừng là được rồi.” Câu trả lời ấy rõ ràng nằm ngoài dự đoán của cô. Cô im lặng, cố gắng che giấu sự hụt hẫng. Khi ấy tôi mới nhận ra ra ngoài ăn một bữa đã trở thành một sự xa xỉ cần cân nhắc đi cân nhắc lại, trong khi ngày này vốn nên được ăn mừng tử tế. Tôi chưa từng nghĩ mình sẽ rơi vào hoàn cảnh này.
 
-那天晚上我们还是去吃了海底捞，但是基本没有点菜。当服务员唱生日歌唱到“跟所有的烦恼说拜拜”的时候，我彻底破防了。哪有这么容易的事啊。当家人因为你的决定承受委屈时，自己的辛苦并不会抵消那份愧疚。一件不起眼的小事，也可能击穿你努力维持的坚强，让难过和沮丧一起涌上来。
+Tối hôm đó chúng tôi vẫn đến Haidilao, nhưng hầu như không gọi món. Khi nhân viên phục vụ hát đến câu “Nói lời tạm biệt với mọi phiền muộn”, tôi hoàn toàn sụp đổ. Làm gì có chuyện dễ dàng như vậy. Khi người nhà phải chịu ấm ức vì quyết định của bạn, sự vất vả của bản thân không thể xóa đi cảm giác áy náy ấy. Một chuyện nhỏ không đáng kể cũng có thể xuyên thủng sự mạnh mẽ mà bạn cố gắng duy trì, khiến nỗi buồn và sự chán nản cùng lúc trào lên.
 
-### 重新接受平淡
+### Học cách đón nhận sự bình dị
 
-后来我才慢慢明白，生活会回到平淡。看淡得失，是承认亏损的重量、承担自己该承担的责任，也不让一次输赢替整个人生下结论。妈妈在微信里叫我吃饭，重新装好电脑、打开一个小文件，再回到 GitHub，这些都不壮烈，却让我一点点重新碰到日常。
+Sau này tôi mới dần hiểu rằng cuộc sống sẽ trở lại bình dị. Nhìn nhẹ được mất không có nghĩa là phủ nhận sức nặng của khoản lỗ, mà là thừa nhận nó, gánh vác trách nhiệm thuộc về mình, đồng thời không để một lần thắng thua đưa ra kết luận cho cả cuộc đời. Mẹ gọi tôi ăn cơm trên WeChat, lắp lại máy tính, mở một tệp nhỏ, rồi trở lại GitHub — những việc ấy không hề hào hùng, nhưng giúp tôi từng chút một chạm lại vào cuộc sống thường nhật.
 
-我开始接受先把今天过好，有力气时再做一件小事，没力气时就停下来求助。勇气也变了：不再是确信下一次一定会赢，而是在结果未知时，仍愿意一步一步重来。
+Tôi bắt đầu chấp nhận việc trước hết sống tốt ngày hôm nay, khi có sức thì làm thêm một việc nhỏ, khi không có sức thì dừng lại và tìm kiếm sự giúp đỡ. Dũng khí cũng thay đổi: không còn là sự chắc chắn rằng lần tới nhất định sẽ thắng, mà là dù kết quả chưa biết ra sao, vẫn sẵn lòng từng bước bắt đầu lại.
 
-如果你也正在经历失利，愿你记得人生是一段很长的路，一次挫折不能替整个人生下结论。韧性不必表现为硬撑到底；照顾身体、承认需要帮助、重新选择下一步，也是在继续向前。今天只能走一小段，也算走过了这一段。
+Nếu bạn cũng đang trải qua thất bại, mong bạn nhớ rằng cuộc đời là một chặng đường rất dài; một lần vấp ngã không thể thay bạn đưa ra kết luận cho cả cuộc đời. Sức bền không nhất thiết phải biểu hiện bằng việc cố gắng chịu đựng đến cùng; chăm sóc cơ thể, thừa nhận mình cần giúp đỡ, lựa chọn lại bước tiếp theo cũng là đang tiếp tục tiến về phía trước. Hôm nay chỉ có thể đi được một đoạn nhỏ thì cũng đã đi qua được đoạn ấy.
 
-## 2026-04-22 更新
+## Cập nhật ngày 2026-04-22
 
-很多人关心我现在怎么样，我还在，我很好。
+Nhiều người quan tâm hiện giờ tôi thế nào, tôi vẫn ở đây, tôi vẫn ổn.
 
-补充说明：本文有限的文字主要记录了我与合伙人龚总（化名）在公司后期的冲突，容易让他看起来像一个单一的对立面。那只是我的视角，不是对他的完整判断；他也有许多值得肯定的品质。公开叙事应当给他人留下不被我的版本完全定义的空间。
+Giải thích bổ sung: Phần chữ có hạn của bài viết này chủ yếu ghi lại những xung đột giữa tôi và đối tác Cung tổng (tên giả) trong giai đoạn cuối của công ty, dễ khiến ông ấy trông như một phía đối lập đơn nhất. Đó chỉ là góc nhìn của tôi, không phải nhận định đầy đủ về ông ấy; ông cũng có nhiều phẩm chất đáng được ghi nhận. Khi kể chuyện công khai, nên để lại cho người khác khoảng không để họ không bị phiên bản của tôi định nghĩa hoàn toàn.
 
-## 2026-06-16 更新
+## Cập nhật ngày 2026-06-16
 
-2026 年 6 月 16 日，我以中国词元云计算有限公司董事长的身份，受杭州阿里巴巴邀请，前往阿里云杭州总部参观考察。
+Ngày 16 tháng 6 năm 2026, với tư cách Chủ tịch Công ty TNHH Điện toán đám mây Từ Nguyên Trung Quốc, tôi được Alibaba Hàng Châu mời đến tham quan và khảo sát trụ sở Alibaba Cloud tại Hàng Châu.
 
-![参观阿里云杭州总部](../../assets/aliyun-hangzhou-2026-06-16-1.webp)
+![Tham quan trụ sở Alibaba Cloud tại Hàng Châu](../../assets/aliyun-hangzhou-2026-06-16-1.webp)
 
-这次参访让我更愿意相信：AI 不应只停留在概念里，也不应只是少数人手里的工具。我希望它能在获得授权、承担责任并经受真实验证之后，进入产业、土地和普通人的生活。
+Chuyến thăm này khiến tôi càng tin rằng AI không nên chỉ dừng lại ở khái niệm, cũng không nên chỉ là công cụ trong tay một số ít người. Tôi hy vọng sau khi được cấp quyền, gánh vác trách nhiệm và trải qua kiểm chứng thực tế, AI có thể đi vào các ngành công nghiệp, đất đai và cuộc sống của người bình thường.
 
-![了解千问大模型](../../assets/aliyun-hangzhou-2026-06-16-2.jpg)
+![Tìm hiểu mô hình ngôn ngữ lớn Qianwen](../../assets/aliyun-hangzhou-2026-06-16-2.jpg)
 
-接下来，我希望继续探索 AI 赋能农、林、牧、渔等实体产业的具体路径，支持实体经济发展。尤其是在农村合作社方向，我也计划开办 AI 免费培训，让更多普通老百姓能真正理解 AI、使用 AI，用技术提高生产效率、拓宽经营思路。
+Tiếp theo, tôi hy vọng tiếp tục khám phá những hướng đi cụ thể để AI trao quyền cho các ngành kinh tế thực như nông nghiệp, lâm nghiệp, chăn nuôi, ngư nghiệp, qua đó hỗ trợ phát triển kinh tế thực. Đặc biệt trong lĩnh vực hợp tác xã nông thôn, tôi cũng dự định tổ chức các khóa đào tạo AI miễn phí, để nhiều người dân bình thường hơn có thể thực sự hiểu và sử dụng AI, dùng công nghệ để nâng cao hiệu quả sản xuất và mở rộng tư duy kinh doanh.
 
-为老百姓谋福利，做实事，这不是一句口号。经历过低谷之后，我越来越相信，能把自己重新站起来的能力，变成对别人有用的东西，才是继续往前走最踏实的意义。
+Mưu cầu phúc lợi cho người dân, làm những việc thiết thực — đó không phải một khẩu hiệu. Sau khi trải qua giai đoạn chạm đáy, tôi ngày càng tin rằng biến khả năng tự vực dậy của bản thân thành thứ có ích cho người khác mới là ý nghĩa vững chắc nhất để tiếp tục bước về phía trước.
 
-## 结语：重来不是凯旋
+## Lời kết: Bắt đầu lại không phải là khải hoàn
 
-我不想把 2026 年写成对 2022 年的胜利。一次参访、一个头衔和一个重新开始的方向，不能替过去偿还代价，也不能证明未来已经兑现。它们只说明，我又有力气走到桌前，面对一个问题，并愿意让现实回答它。
+Tôi không muốn viết năm 2026 như một chiến thắng trước năm 2022. Một chuyến tham quan, một chức danh và một hướng đi mới không thể thay quá khứ trả hết cái giá đã phải trả, cũng không thể chứng minh tương lai đã được hiện thực hóa. Chúng chỉ cho thấy tôi lại có đủ sức bước đến trước bàn làm việc, đối diện với một vấn đề và sẵn lòng để hiện thực đưa ra câu trả lời.
 
-重来不是变回那个相信自己可以解决一切的人。它是带着另一种记忆继续生活：知道公司会倒，身体会记账，关系会被选择压伤，家人的沉默不会因为后来成功就自动消失。知道这些以后，仍然愿意做事，但不再把所有人的明天押在自己的确信上。
+Bắt đầu lại không có nghĩa là trở về thành người từng tin rằng mình có thể giải quyết mọi thứ. Đó là tiếp tục sống với một ký ức khác: biết rằng công ty sẽ phá sản, cơ thể sẽ ghi sổ, các mối quan hệ sẽ bị tổn thương bởi những lựa chọn, và sự im lặng của gia đình sẽ không tự động biến mất chỉ vì sau này thành công. Biết tất cả những điều đó, tôi vẫn sẵn lòng làm việc, nhưng không còn đặt ngày mai của tất cả mọi người vào sự chắc chắn của riêng mình.
 
-这篇故事写到这里，没有凯旋，也没有彻底和解。我仍在学习怎样承担、怎样修复，怎样让新的工作不重复旧的伤害。所谓重新出发，也许只是今天比过去更早看见代价，更愿意求助，并在必须停下时，给自己和别人留一条回去的路。
+Câu chuyện viết đến đây không có khải hoàn, cũng chưa có sự hòa giải triệt để. Tôi vẫn đang học cách gánh vác, cách sửa chữa, cách để công việc mới không lặp lại những tổn thương cũ. Cái gọi là bắt đầu lại có lẽ chỉ là hôm nay nhìn thấy cái giá phải trả sớm hơn trước, sẵn lòng tìm kiếm sự giúp đỡ hơn, và khi buộc phải dừng lại, vẫn để lại cho mình và người khác một con đường trở về.

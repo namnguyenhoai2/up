@@ -1,77 +1,77 @@
 ---
-title: 认知篇：把努力变成可验证的学习
-description: 用真实任务、首版基线、主动回忆、反馈、间隔、恢复和跨会话状态，把努力变成可比较、可迁移的学习证据。
+title: "Phần nhận thức: Biến nỗ lực thành việc học có thể kiểm chứng"
+description: Dùng nhiệm vụ thực tế, đường cơ sở ban đầu, hồi tưởng chủ động, phản hồi, giãn cách, phục hồi và trạng thái ngoài phiên để biến nỗ lực thành bằng chứng học tập có thể so sánh và chuyển giao.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 认知篇：把努力变成可验证的学习
+# Phần nhận thức: Biến nỗ lực thành việc học có thể kiểm chứng
 
-学习最容易被误认成两件事：花了很多时间，或者已经很熟悉。一个视频看完、一个章节划线、一个答案读懂，都可能让人感觉“我会了”；可当材料合上、提示撤掉、题目换了，能力是否还在，必须由新的动作回答。
+Việc học thường dễ bị nhầm thành hai điều: đã bỏ ra rất nhiều thời gian, hoặc đã cảm thấy rất quen thuộc. Xem xong một video, gạch chân một chương, đọc hiểu một đáp án đều có thể khiến ta cảm thấy “mình biết rồi”; nhưng khi đóng tài liệu lại, bỏ gợi ý đi và thay đổi đề bài, năng lực còn tồn tại hay không phải được trả lời bằng một hành động mới.
 
-我也曾把可见的努力当作学习本身。高中时，我清晨 5:20 起床，午间不休息，熄灯后继续看书。时间越来越多，成绩却下降。我把失败解释成“不够拼”，于是继续加码。后来才承认：对我而言，长期睡眠不足、没有诊断错误、只有机械时长，组成了一条越来越贵却没有变好的路。
+Tôi cũng từng xem nỗ lực hữu hình là bản thân việc học. Hồi trung học, tôi thức dậy lúc 5:20 sáng, không nghỉ trưa và tiếp tục đọc sách sau khi tắt đèn. Thời gian bỏ ra ngày càng nhiều, nhưng thành tích lại giảm sút. Tôi giải thích thất bại là do “chưa đủ cố gắng”, rồi tiếp tục tăng cường độ. Mãi sau tôi mới thừa nhận rằng: đối với tôi, thiếu ngủ kéo dài, không chẩn đoán lỗi sai và chỉ có số giờ học máy móc đã tạo thành một con đường ngày càng tốn kém nhưng không hề tốt lên.
 
-这段经历不能证明早起无效，也不能为任何人开出作息处方。它只留下一个值得复测的问题：当投入增加时，任务表现、错误类型、保持和身体容量有没有一起改善？如果没有，下一步不是立刻再加时间，而是回到任务、基线和错误。
+Trải nghiệm này không thể chứng minh rằng dậy sớm là vô ích, cũng không thể kê một lịch sinh hoạt cho bất kỳ ai. Nó chỉ để lại một câu hỏi đáng được kiểm tra lại: khi mức đầu tư tăng lên, thành tích nhiệm vụ, loại lỗi, khả năng duy trì và sức chứa của cơ thể có cùng cải thiện không? Nếu không, bước tiếp theo không phải là lập tức tăng thêm thời gian, mà là quay về với nhiệm vụ, đường cơ sở và lỗi sai.
 
-本章是全书的总协议。它不要求把生活变成实验室，而是帮助你在有限精力里留下足够的证据：先定义一次真实交付，保存工具介入前的首版，做有针对性的输入与回忆，接受具体反馈，隔一段时间撤掉提示，换一个条件再做，并把状态写在会话之外。
+Chương này là giao thức tổng quát của cả cuốn sách. Nó không yêu cầu biến cuộc sống thành phòng thí nghiệm, mà giúp bạn để lại đủ bằng chứng trong giới hạn năng lượng: trước hết xác định một sản phẩm bàn giao thực tế, lưu lại bản đầu tiên trước khi công cụ can thiệp, thực hiện đầu vào và hồi tưởng có mục tiêu, tiếp nhận phản hồi cụ thể, sau một khoảng thời gian thì bỏ gợi ý, làm lại trong một điều kiện khác và ghi trạng thái bên ngoài phiên học.
 
-## 本章速览
+## Tóm tắt chương
 
-- 把“我想进步”改写成受众、动作、质量门槛、期限和证据；
-- 区分研究结论、个人经验和等待检验的假设；
-- 保存未经修饰的首版，避免成品覆盖起点；
-- 用输入、主动回忆、输出、反馈和记录组成一次完整学习回路；
-- 按任务影响分类错误，不把所有失败归因于懒惰或词汇量；
-- 让反馈改变下一次动作，而不是只增加笔记和建议；
-- 依据表现安排间隔，保护睡眠、身体和可回归的最低容量；
-- 把目标、样本、错误和下一步写进会话之外的学习状态；
-- 在新主题、受众、模态或时间压力下检验迁移。
+- Viết lại “tôi muốn tiến bộ” thành đối tượng tiếp nhận, hành động, ngưỡng chất lượng, thời hạn và bằng chứng;
+- Phân biệt kết luận nghiên cứu, kinh nghiệm cá nhân và giả thuyết đang chờ kiểm chứng;
+- Lưu bản đầu tiên chưa chỉnh sửa để tránh thành phẩm ghi đè điểm xuất phát;
+- Tạo thành một vòng học tập hoàn chỉnh bằng đầu vào, hồi tưởng chủ động, đầu ra, phản hồi và ghi chép;
+- Phân loại lỗi theo ảnh hưởng đến nhiệm vụ, không quy mọi thất bại cho sự lười biếng hay vốn từ;
+- Để phản hồi thay đổi hành động tiếp theo, thay vì chỉ làm tăng ghi chú và đề xuất;
+- Sắp xếp khoảng cách dựa trên thành tích, bảo vệ giấc ngủ, cơ thể và năng lực tối thiểu có thể quay lại;
+- Ghi mục tiêu, mẫu, lỗi và bước tiếp theo vào trạng thái học tập bên ngoài phiên;
+- Kiểm tra khả năng chuyển giao dưới chủ đề, đối tượng tiếp nhận, phương thức hoặc áp lực thời gian mới.
 
-## 1. 先定义一次真实交付
+## 1. Trước hết, xác định một sản phẩm bàn giao thực tế
 
-“学英语”“学编程”“提高表达”都太大，无法决定今天做什么。先写清楚：
+“Học tiếng Anh”, “học lập trình”, “cải thiện khả năng diễn đạt” đều quá rộng, không thể quyết định hôm nay cần làm gì. Trước hết hãy viết rõ:
 
-| 要素 | 问题 | 示例 |
+| Yếu tố | Câu hỏi | Ví dụ |
 | --- | --- | --- |
-| 受众 | 谁会据此理解、决定或行动？ | 新同事、客户、老师、自己 |
-| 动作 | 对方读完、听完或看完要做什么？ | 复述、回复、运行、选择、继续 |
-| 输入 | 你要处理哪份具体材料？ | 2 分钟音频、API 文档、一封邮件 |
-| 质量门槛 | 什么算完成，什么风险不能接受？ | 说出主旨和责任；不漏掉限制 |
-| 条件 | 时限、设备、背景、允许工具是什么？ | 20 分钟、无字幕、可查词 |
-| 证据 | 哪个作品、测试或真实回应能留下来？ | 录音、复述、运行结果、邮件回复 |
+| Đối tượng tiếp nhận | Ai sẽ dựa vào đó để hiểu, quyết định hoặc hành động? | Đồng nghiệp mới, khách hàng, giáo viên, chính mình |
+| Hành động | Sau khi đọc, nghe hoặc xem xong, đối phương cần làm gì? | Diễn đạt lại, trả lời, chạy, lựa chọn, tiếp tục |
+| Đầu vào | Bạn cần xử lý tài liệu cụ thể nào? | Một đoạn âm thanh 2 phút, tài liệu API, một email |
+| Ngưỡng chất lượng | Thế nào được xem là hoàn thành, rủi ro nào không thể chấp nhận? | Nêu được ý chính và trách nhiệm; không bỏ sót hạn chế |
+| Điều kiện | Thời hạn, thiết bị, bối cảnh và công cụ được phép là gì? | 20 phút, không phụ đề, được tra từ |
+| Bằng chứng | Sản phẩm, bài kiểm tra hoặc phản hồi thực tế nào có thể lưu lại? | Bản ghi âm, phần diễn đạt lại, kết quả chạy, thư trả lời |
 
-目标句可以这样写：
+Bạn có thể viết mục tiêu như sau:
 
-> 在 12 周内，我能在一次 5 分钟工作汇报中说明背景、进展和风险；听众无需切换语言就能复述要点；我保存第 1、4、8、12 周的录音和反馈。
+> Trong vòng 12 tuần, tôi có thể trình bày bối cảnh, tiến độ và rủi ro trong một buổi báo cáo công việc kéo dài 5 phút; người nghe có thể diễn đạt lại các ý chính mà không cần chuyển sang ngôn ngữ khác; tôi lưu bản ghi âm và phản hồi của tuần 1, 4, 8 và 12.
 
-它比“从 B1 到 B2”更能指导行动。等级可以描述某些条件下的表现，但不能代替场景、任务、期限和证据。
+Cách viết này định hướng hành động tốt hơn “từ B1 lên B2”. Cấp độ có thể mô tả thành tích trong một số điều kiện nhất định, nhưng không thể thay thế bối cảnh, nhiệm vụ, thời hạn và bằng chứng.
 
-## 2. 分开三类话
+## 2. Tách biệt ba loại phát biểu
 
-这份指南会把不同证据放在不同位置：
+Hướng dẫn này đặt các loại bằng chứng khác nhau vào những vị trí khác nhau:
 
-- **研究支持**：在特定样本、条件和测量下观察到的结果；它告诉你值得尝试什么，不保证每个人得到相同结果；
-- **个人经验**：说明我为什么做出某个选择；它有叙事价值，也是设计实验的线索，但不是普遍规律；
-- **待检验假设**：目前证据不足的判断；把它写成下一次行动、反例或暂停条件。
+- **Được nghiên cứu ủng hộ**: kết quả được quan sát trong một mẫu, điều kiện và phép đo cụ thể; nó cho biết điều gì đáng thử, nhưng không đảm bảo mọi người đều nhận được kết quả giống nhau;
+- **Kinh nghiệm cá nhân**: giải thích vì sao tôi đưa ra một lựa chọn nào đó; nó có giá trị tự sự và cũng là manh mối để thiết kế thí nghiệm, nhưng không phải quy luật phổ quát;
+- **Giả thuyết chờ kiểm chứng**: nhận định hiện chưa có đủ bằng chứng; hãy chuyển nó thành hành động tiếp theo, phản ví dụ hoặc điều kiện tạm dừng.
 
-当一句建议没有说明对象、条件、结果指标和来源时，把它放回假设区。一个方法听起来有道理，不等于它已经适合你的任务。
+Khi một lời khuyên không nêu rõ đối tượng, điều kiện, chỉ số kết quả và nguồn, hãy đưa nó trở lại khu vực giả thuyết. Một phương pháp nghe có vẻ hợp lý không có nghĩa là nó đã phù hợp với nhiệm vụ của bạn.
 
-## 3. 一次完整学习回路
+## 3. Một vòng học tập hoàn chỉnh
 
-每次 25-45 分钟，尽量经过以下六步：
+Mỗi lần kéo dài 25-45 phút, cố gắng trải qua sáu bước sau:
 
-1. **定义**：写出任务、受众、条件和完成标准；
-2. **首版**：在允许的最低帮助下独立完成一次，保存原始样本；
-3. **诊断**：把失败定位到语言、结构、背景、策略、注意力、容量或设备；
-4. **定向输入**：只补当前错误所需的信息，避免无边界地继续看；
-5. **主动产出**：合上材料，复述、写作、说话、运行或做决定；
-6. **反馈与状态**：记录结果、帮助、仍然未知和下一次要改变的一个条件。
+1. **Xác định**: viết ra nhiệm vụ, đối tượng tiếp nhận, điều kiện và tiêu chuẩn hoàn thành;
+2. **Bản đầu tiên**: tự hoàn thành một lần với mức hỗ trợ tối thiểu được phép, lưu lại mẫu nguyên bản;
+3. **Chẩn đoán**: xác định thất bại nằm ở ngôn ngữ, cấu trúc, kiến thức nền, chiến lược, sự chú ý, năng lực hay thiết bị;
+4. **Đầu vào có mục tiêu**: chỉ bổ sung thông tin cần thiết cho lỗi hiện tại, tránh tiếp tục xem không giới hạn;
+5. **Tạo đầu ra chủ động**: đóng tài liệu lại rồi diễn đạt lại, viết, nói, chạy hoặc đưa ra quyết định;
+6. **Phản hồi và trạng thái**: ghi lại kết quả, sự hỗ trợ, điều vẫn chưa biết và một điều kiện cần thay đổi ở lần sau.
 
-“看完”不是第七步。学习回路的终点是：工具和材料离开后，你仍然能完成一个相近动作，或者更准确地知道为什么还不能完成。
+“Xem xong” không phải là bước thứ bảy. Điểm kết thúc của vòng học là: sau khi công cụ và tài liệu rời đi, bạn vẫn có thể hoàn thành một hành động tương tự, hoặc biết chính xác hơn vì sao mình vẫn chưa thể hoàn thành.
 
-## 4. 首版是测量，不是判决
+## 4. Bản đầu tiên là phép đo, không phải phán quyết
 
-首版不必漂亮，但必须可比较。记录：
+Bản đầu tiên không cần đẹp, nhưng phải có thể so sánh. Hãy ghi lại:
 
 ```markdown
 真实任务与受众：
@@ -84,65 +84,65 @@ sources_checked: 2026-09-02
 当时最不确定什么：
 ```
 
-不要用后来润色过的版本覆盖首版，也不要把首次失败写成稳定能力。首版只回答一个问题：在这些条件下，我当时能够独立做什么？
+Đừng dùng phiên bản đã được chỉnh sửa sau đó để ghi đè bản đầu tiên, cũng đừng biến thất bại ban đầu thành năng lực ổn định. Bản đầu tiên chỉ trả lời một câu hỏi: trong những điều kiện này, khi đó tôi có thể tự mình làm được gì?
 
-如果是四项英语能力，使用[英语能力诊断](../../templates/english-diagnostic.md)记录听、读、说、写；如果某一项的瓶颈更具体，再进入对应证据卡。
+Nếu là bốn năng lực tiếng Anh, hãy sử dụng [chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md) để ghi lại nghe, đọc, nói và viết; nếu điểm nghẽn của một năng lực cụ thể hơn, hãy chuyển sang thẻ bằng chứng tương ứng.
 
-## 5. 诊断错误，而不是审判自己
+## 5. Chẩn đoán lỗi thay vì phán xét bản thân
 
-一次表现不好，可能来自不同层：
+Một lần thể hiện không tốt có thể bắt nguồn từ những tầng khác nhau:
 
-| 层次 | 典型表现 | 下一步问题 |
+| Tầng | Biểu hiện điển hình | Câu hỏi cho bước tiếp theo |
 | --- | --- | --- |
-| 语言形式 | 词形、声音、语法或拼写没有识别 | 哪个形式改变了意思？ |
-| 结构与意义 | 知道词，却没解析主体、时间、条件或关系 | 哪一段关系无法解释？ |
-| 背景与概念 | 语言读得出，却不知道对象和前提 | 缺的是哪条领域知识？ |
-| 策略与工具 | 反复查同一处，或提示一直撤不掉 | 哪个支架该保留、何时撤？ |
-| 注意与容量 | 后半段错误集中出现，身体明显下降 | 今天可持续的最低任务是什么？ |
-| 环境与设备 | 声音、网络、字体、界面影响结果 | 换设备后表现是否改变？ |
+| Hình thức ngôn ngữ | Không nhận diện được dạng từ, âm thanh, ngữ pháp hoặc chính tả | Hình thức nào đã làm thay đổi ý nghĩa? |
+| Cấu trúc và ý nghĩa | Biết từ nhưng không phân tích được chủ thể, thời gian, điều kiện hoặc mối quan hệ | Mối quan hệ nào không thể giải thích? |
+| Bối cảnh và khái niệm | Đọc được ngôn ngữ nhưng không biết đối tượng và tiền đề | Thiếu kiến thức lĩnh vực nào? |
+| Chiến lược và công cụ | Liên tục tra cùng một chỗ, hoặc không thể bỏ gợi ý | Nên giữ khung hỗ trợ nào, và khi nào bỏ đi? |
+| Sự chú ý và năng lực | Lỗi tập trung ở nửa sau, thể trạng giảm rõ rệt | Nhiệm vụ tối thiểu nào có thể duy trì hôm nay? |
+| Môi trường và thiết bị | Âm thanh, mạng, phông chữ hoặc giao diện ảnh hưởng đến kết quả | Thành tích có thay đổi sau khi đổi thiết bị không? |
 
-“粗心”“没天赋”“词汇量不够”常常是过早结束诊断的标签。先保存错误样本，再只选择一个最影响任务的变量。诊断的目的不是为失败找性格解释，而是为下一次练习找一个可改变的条件。
+“Cẩu thả”, “không có năng khiếu”, “vốn từ không đủ” thường là những nhãn kết thúc chẩn đoán quá sớm. Trước hết hãy lưu mẫu lỗi, sau đó chỉ chọn một biến có ảnh hưởng lớn nhất đến nhiệm vụ. Mục đích của chẩn đoán không phải là tìm lời giải thích về tính cách cho thất bại, mà là tìm một điều kiện có thể thay đổi cho lần luyện tập tiếp theo.
 
-## 6. 主动回忆比熟悉感更严格
+## 6. Hồi tưởng chủ động nghiêm ngặt hơn cảm giác quen thuộc
 
-重复接触可以让材料变得熟悉，却不一定让你在需要时调用。主动回忆包括：
+Việc tiếp xúc lặp đi lặp lại có thể khiến tài liệu trở nên quen thuộc, nhưng không nhất thiết giúp bạn gọi ra khi cần. Hồi tưởng chủ động bao gồm:
 
-- 合上材料写三句摘要；
-- 听完后说出主旨、细节、责任和下一步；
-- 不看笔记解释一个概念；
-- 让一个词块进入两个新情境；
-- 在没有示例代码时重现最小运行步骤；
-- 让读者或同伴复述他们真正收到的意思。
+- Đóng tài liệu lại và viết ba câu tóm tắt;
+- Sau khi nghe, nói ra ý chính, chi tiết, trách nhiệm và bước tiếp theo;
+- Không xem ghi chú mà giải thích một khái niệm;
+- Đưa một cụm từ vào hai tình huống mới;
+- Tái hiện các bước chạy tối thiểu khi không có mã mẫu;
+- Để người đọc hoặc bạn học diễn đạt lại ý nghĩa mà họ thực sự tiếp nhận.
 
-回忆不必每次都困难到失败。理想的难度是让缺口出现，同时仍有能力修复。过于简单只制造流畅感，过于困难则测量的是挫败、背景或容量。记录“完成、提示、用时、错误和回应”，比记录“今天很努力”更有用。
+Mỗi lần hồi tưởng không cần khó đến mức thất bại. Mức độ lý tưởng là làm lộ ra khoảng trống nhưng vẫn đủ khả năng sửa chữa. Quá đơn giản chỉ tạo ra cảm giác trôi chảy; quá khó thì đo lường sự nản chí, kiến thức nền hoặc năng lực nhiều hơn. Ghi lại “hoàn thành, gợi ý, thời gian, lỗi và phản hồi” hữu ích hơn việc ghi “hôm nay đã rất cố gắng”.
 
-## 7. 反馈必须进入下一次动作
+## 7. Phản hồi phải đi vào hành động tiếp theo
 
-反馈不是越多越好。先处理会改变任务结果的 1-3 项：
+Phản hồi không phải càng nhiều càng tốt. Trước hết hãy xử lý 1-3 điểm có thể thay đổi kết quả nhiệm vụ:
 
-1. 受众是否理解、决定或完成了预期动作；
-2. 事实、结构或责任是否准确；
-3. 哪个反复错误最值得在下一次修复。
+1. Đối tượng tiếp nhận có hiểu, quyết định hoặc hoàn thành hành động dự kiến không;
+2. Sự thật, cấu trúc hoặc trách nhiệm có chính xác không;
+3. Lỗi lặp lại nào đáng được sửa nhất ở lần tiếp theo.
 
-句子层反馈还要区分：必要纠错、歧义、语域选择、可接受变体和风格偏好。让读者先复述，再讨论“是否自然”。反馈者可能发现盲点，也可能带着不同背景和目标；采纳、部分采纳、拒绝和延后都要有理由。
+Phản hồi ở cấp câu còn cần phân biệt: lỗi cần sửa, điểm mơ hồ, lựa chọn về văn phong, biến thể có thể chấp nhận và sở thích phong cách. Hãy để người đọc diễn đạt lại trước, rồi mới thảo luận xem cách diễn đạt có “tự nhiên” hay không. Người phản hồi có thể phát hiện điểm mù, nhưng cũng có thể mang theo bối cảnh và mục tiêu khác; việc tiếp nhận, tiếp nhận một phần, từ chối hay trì hoãn đều cần có lý do.
 
-如果反馈只让旧稿变漂亮，却没有改变新任务中的动作，不能算迁移。把一条反馈写成下一次平行任务的条件：换主题、受众、声音、时间或限制，只改变一个变量。
+Nếu phản hồi chỉ làm bản cũ đẹp hơn mà không thay đổi hành động trong nhiệm vụ mới, thì chưa thể xem là chuyển giao. Hãy biến một phản hồi thành điều kiện cho nhiệm vụ song song tiếp theo: thay đổi chủ đề, đối tượng tiếp nhận, giọng nói, thời gian hoặc giới hạn, và chỉ thay đổi một biến.
 
-## 8. 间隔、交错与睡眠
+## 8. Giãn cách, đan xen và giấc ngủ
 
-检索练习和分散练习在学习研究中得到较多支持，但没有一张适合所有人和所有材料的固定日历。可以用当天、第 1 天、第 3-7 天、第 14 天和第 30 天作提醒，再依据表现调整：
+Luyện tập truy hồi và luyện tập phân tán nhận được khá nhiều sự ủng hộ trong nghiên cứu học tập, nhưng không có một lịch cố định nào phù hợp với mọi người và mọi loại tài liệu. Có thể dùng cùng ngày, ngày 1, ngày 3-7, ngày 14 và ngày 30 làm các mốc nhắc lại, rồi điều chỉnh dựa trên thành tích:
 
-- 轻松且准确，还能在新情境使用：延长间隔或提高变化；
-- 费力但成功：保持相近间隔；
-- 反复失败：减少材料、缩短间隔或补先修知识；
-- 只会认不会用：增加产出和跨模态任务；
-- 身体容量持续下降：降档、暂停或求助，不把恢复解释成懒惰。
+- Dễ dàng và chính xác, đồng thời vẫn sử dụng được trong tình huống mới: kéo dài khoảng cách hoặc tăng mức độ biến đổi;
+- Tốn sức nhưng thành công: duy trì khoảng cách tương tự;
+- Liên tục thất bại: giảm lượng tài liệu, rút ngắn khoảng cách hoặc bổ sung kiến thức tiên quyết;
+- Chỉ nhận ra được chứ không sử dụng được: tăng đầu ra và nhiệm vụ liên phương thức;
+- Năng lực thể chất liên tục giảm: hạ mức, tạm dừng hoặc tìm kiếm hỗ trợ, không giải thích sự phục hồi là lười biếng.
 
-学习不同技能时可以交错，但不要让每次练习同时改变太多变量，否则不知道是哪一层造成变化。睡眠、进食、运动和无任务时间不是学习之后的奖励，而是记忆、注意和恢复下一次的输入。持续失眠、情绪或身体问题需要合格的医疗或心理专业支持，本书不做诊断。
+Có thể đan xen khi học các kỹ năng khác nhau, nhưng đừng thay đổi quá nhiều biến trong mỗi lần luyện tập; nếu không, bạn sẽ không biết tầng nào gây ra thay đổi. Giấc ngủ, ăn uống, vận động và thời gian không làm nhiệm vụ không phải là phần thưởng sau khi học, mà là nền tảng cho trí nhớ, sự chú ý và khả năng tiếp nhận ở lần sau. Mất ngủ kéo dài, các vấn đề cảm xúc hoặc thể chất cần được hỗ trợ bởi chuyên gia y tế hoặc tâm lý đủ năng lực; cuốn sách này không chẩn đoán.
 
-## 9. 把状态放在会话之外
+## 9. Đặt trạng thái bên ngoài phiên học
 
-聊天、课程或应用会结束，学习状态不能只存在其中。用[学习状态模板](../../templates/learning-state.md)留下：
+Trò chuyện, khóa học hoặc ứng dụng sẽ kết thúc, nhưng trạng thái học tập không thể chỉ tồn tại trong đó. Hãy dùng [mẫu trạng thái học tập](../../templates/learning-state.md) để lưu lại:
 
 ```markdown
 当前主问题：
@@ -156,89 +156,89 @@ sources_checked: 2026-09-02
 交接给谁、何时复查：
 ```
 
-下一次会话先读状态，再做动作；不要让模型替你从旧聊天中猜测进度。状态文件是事实页，不是展示学习努力的日记。
+Ở phiên tiếp theo, trước hết hãy đọc trạng thái rồi mới hành động; đừng để mô hình thay bạn đoán tiến độ từ những cuộc trò chuyện cũ. Tệp trạng thái là trang ghi sự thật, không phải nhật ký thể hiện nỗ lực học tập.
 
-## 10. AI 是支架，不是结果
+## 10. AI là khung hỗ trợ, không phải kết quả
 
-AI 可以提问、解释、分类错误、生成反例、模拟读者、提供平行任务和比较两个版本。一个可审计顺序是：
+AI có thể đặt câu hỏi, giải thích, phân loại lỗi, tạo phản ví dụ, mô phỏng người đọc, cung cấp nhiệm vụ song song và so sánh hai phiên bản. Một trình tự có thể kiểm toán là:
 
-1. 先保存自己的任务与首版；
-2. 只给模型完成当前诊断所需的最少内容；
-3. 要求它标出不确定、来源和可能误判；
-4. 回到一手材料、词典、运行结果、教师、同伴或真实受众核验；
-5. 关闭工具，在新条件下独立完成；
-6. 把采纳、拒绝和下一步写回状态文件。
+1. Trước hết lưu nhiệm vụ và bản đầu tiên của chính mình;
+2. Chỉ cung cấp cho mô hình lượng nội dung tối thiểu cần thiết để hoàn thành chẩn đoán hiện tại;
+3. Yêu cầu mô hình đánh dấu điều không chắc chắn, nguồn và khả năng phán đoán sai;
+4. Quay về tài liệu gốc, từ điển, kết quả chạy, giáo viên, bạn học hoặc đối tượng tiếp nhận thực tế để kiểm chứng;
+5. Tắt công cụ và tự hoàn thành trong điều kiện mới;
+6. Ghi việc tiếp nhận, từ chối và bước tiếp theo trở lại tệp trạng thái.
 
-模型不能替你证明事实、承担隐私责任、完成禁止外部帮助的考试或决定你是否真正学会。不要把客户资料、未公开文档、证件、医疗隐私或未授权的第三方内容粘贴进去。
+Mô hình không thể thay bạn chứng minh sự thật, chịu trách nhiệm về quyền riêng tư, hoàn thành bài thi cấm hỗ trợ bên ngoài hoặc quyết định bạn đã thực sự học được hay chưa. Đừng dán dữ liệu khách hàng, tài liệu chưa công bố, giấy tờ tùy thân, thông tin y tế riêng tư hoặc nội dung của bên thứ ba khi chưa được cho phép vào đó.
 
-## 11. 让能力跨条件移动
+## 11. Để năng lực chuyển dịch qua các điều kiện
 
-即时表现只说明一个条件下发生了什么。迁移至少改变一项：
+Thành tích tức thời chỉ cho biết điều gì đã xảy ra trong một điều kiện. Để kiểm tra chuyển giao, ít nhất hãy thay đổi một yếu tố:
 
-| 保留 | 改变 | 要观察什么 |
+| Giữ lại | Thay đổi | Cần quan sát điều gì |
 | --- | --- | --- |
-| 任务 | 主题 | 结构和策略是否仍然可用 |
-| 主题 | 受众 | 语域、背景和解释是否调整 |
-| 信息 | 模态 | 听、读、说、写之间是否互相支撑 |
-| 体裁 | 时间 | 能否在压力下保留主线和限制 |
-| 工具 | 支架 | 关闭提示后能否独立继续 |
+| Nhiệm vụ | Chủ đề | Cấu trúc và chiến lược còn sử dụng được không |
+| Chủ đề | Đối tượng tiếp nhận | Văn phong, kiến thức nền và cách giải thích có được điều chỉnh không |
+| Thông tin | Phương thức | Nghe, đọc, nói và viết có hỗ trợ lẫn nhau không |
+| Thể loại | Thời gian | Có thể giữ được mạch chính và các hạn chế dưới áp lực không |
+| Công cụ | Khung hỗ trợ | Sau khi tắt gợi ý, có thể tự tiếp tục không |
 
-每次只改变一个主要条件。若全都换，结果下降也不知道是难度、背景还是方法造成的。迁移不是要求新任务和旧任务一模一样，而是要求核心动作仍能被调用。
+Mỗi lần chỉ thay đổi một điều kiện chính. Nếu thay đổi tất cả, dù kết quả giảm cũng không biết nguyên nhân là độ khó, kiến thức nền hay phương pháp. Chuyển giao không đòi hỏi nhiệm vụ mới và cũ phải hoàn toàn giống nhau, mà đòi hỏi hành động cốt lõi vẫn có thể được gọi ra.
 
-## 12. 7 天、30 天、12 周
+## 12. 7 ngày, 30 ngày, 12 tuần
 
-### 7 天：让首版出现
+### 7 ngày: Để bản đầu tiên xuất hiện
 
-- 完成一项真实任务的首版；
-- 做三次完整学习回路；
-- 分类一个反复错误；
-- 第 7 天撤掉最近提示，做一次相近任务；
-- 只决定下周改变的一个条件。
+- Hoàn thành bản đầu tiên của một nhiệm vụ thực tế;
+- Thực hiện ba vòng học tập hoàn chỉnh;
+- Phân loại một lỗi lặp lại;
+- Đến ngày thứ 7, bỏ gợi ý gần nhất và thực hiện một nhiệm vụ tương tự;
+- Chỉ quyết định một điều kiện sẽ thay đổi vào tuần sau.
 
-### 30 天：让节奏可持续
+### 30 ngày: Để nhịp độ có thể duy trì
 
-- 每周保存一个可比较输出；
-- 在旧任务和平行任务之间交替；
-- 删除只制造熟悉感的活动；
-- 重复记录睡眠、容量、用时和真实回应；
-- 第 30 天按相近条件复测，并写明不可推出的结论。
+- Mỗi tuần lưu một đầu ra có thể so sánh;
+- Luân phiên giữa nhiệm vụ cũ và nhiệm vụ song song;
+- Loại bỏ những hoạt động chỉ tạo cảm giác quen thuộc;
+- Lặp lại việc ghi chép giấc ngủ, năng lực, thời gian sử dụng và phản hồi thực tế;
+- Đến ngày 30, kiểm tra lại trong điều kiện tương tự và ghi rõ những kết luận không thể rút ra.
 
-### 12 周：让能力进入生活
+### 12 tuần: Để năng lực đi vào cuộc sống
 
-- 第 1、4、8、12 周保存同类样本；
-- 中期加入陌生主题、真实受众或时间压力；
-- 末期完成会议、考试模拟、文档验证、邮件交付或作品发布；
-- 用结果决定继续、降档、换变量或停止，而不是自动升级难度。
+- Lưu các mẫu cùng loại ở tuần 1, 4, 8 và 12;
+- Ở giữa quá trình, thêm chủ đề xa lạ, đối tượng tiếp nhận thực tế hoặc áp lực thời gian;
+- Cuối kỳ hoàn thành một cuộc họp, bài thi mô phỏng, hoạt động kiểm chứng tài liệu, email bàn giao hoặc công bố sản phẩm;
+- Dựa vào kết quả để quyết định tiếp tục, hạ mức, thay đổi biến số hay dừng lại, thay vì tự động tăng độ khó.
 
-## 13. 一页总诊断
+## 13. Chẩn đoán tổng hợp trong một trang
 
-完成一次总诊断时，按下面顺序：
+Khi thực hiện chẩn đoán tổng hợp, hãy theo thứ tự sau:
 
-1. 选一个真实主题与四项任务；
-2. 记录条件，分别完成听、读、说、写首版；
-3. 每项只写一个最影响结果的错误；
-4. 为每项选择一个证据卡，做一次定向修复；
-5. 第 7 天完成平行任务，第 30 天重复一项真实交付；
-6. 写下哪项能力改变、哪项没有、哪项仍无证据。
+1. Chọn một chủ đề thực tế và bốn nhiệm vụ;
+2. Ghi lại các điều kiện, lần lượt hoàn thành bản đầu tiên của nghe, đọc, nói và viết;
+3. Với mỗi kỹ năng, chỉ ghi một lỗi có ảnh hưởng lớn nhất đến kết quả;
+4. Chọn một thẻ bằng chứng cho mỗi kỹ năng và thực hiện một lần sửa chữa có mục tiêu;
+5. Đến ngày thứ 7, hoàn thành nhiệm vụ song song; đến ngày thứ 30, lặp lại một sản phẩm bàn giao thực tế;
+6. Viết rõ kỹ năng nào đã thay đổi, kỹ năng nào chưa thay đổi và kỹ năng nào vẫn chưa có bằng chứng.
 
-不要把四项分数简单平均成一个人格判断。阅读 B2、口语 A2 的人，不需要先寻找一个“真实等级”，而需要让下一项任务与对应证据相匹配。
+Đừng lấy điểm của bốn kỹ năng cộng rồi chia trung bình để biến thành một phán đoán về con người. Người đọc ở B2 nhưng nói ở A2 không cần trước hết tìm một “cấp độ thực sự”, mà cần để nhiệm vụ tiếp theo khớp với bằng chứng tương ứng.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Dunlosky et al. (2013), Improving Students' Learning With Effective Learning Techniques](https://doi.org/10.1177/1529100612453266)：综述十种学习技术，并以学习条件、学习者、材料和测量任务讨论可推广性；对练习测试和分散练习评价较高，对复读和高亮等活动的效果更有条件。
-- [Roediger & Karpicke (2006), Test-Enhanced Learning](https://doi.org/10.1111/j.1467-9280.2006.01693.x)：在散文材料的研究中比较测试与重复学习，报告延迟保持上的差异；样本、材料和测量不能直接推出所有任务的相同效果。
-- [Cepeda et al. (2006), Distributed Practice in Verbal Recall Tasks](https://doi.org/10.1037/0033-2909.132.3.354)：对言语回忆任务的分散练习进行综述与量化综合；最佳间隔取决于保持目标、材料和任务。
-- [Hattie & Timperley (2007), The Power of Feedback](https://doi.org/10.3102/003465430298487)：分析反馈类型、时机和给法的差异；“反馈有效”不是不加区分地增加批注。
-- [Rasch & Born (2013), About Sleep's Role in Memory](https://doi.org/10.1152/physrev.00032.2012)：综述睡眠与记忆巩固的研究；个体需求、健康状况和现实作息仍需分别判断。
-- [Pashler et al. (2008), Learning Styles](https://doi.org/10.1111/j.1539-6053.2009.01038.x)：综述未发现足够证据支持按固定视觉/听觉标签匹配教学，同时提醒未测试的变体不能被一概否定。
-- 研究结论的样本、材料、测量和延迟时间各不相同。重要任务应回到当前事实、一手来源、真实受众和具名责任人验收。
+- [Dunlosky et al. (2013), Cải thiện việc học của học sinh bằng các kỹ thuật học tập hiệu quả](https://doi.org/10.1177/1529100612453266): Tổng quan mười kỹ thuật học tập, đồng thời thảo luận khả năng khái quát dựa trên điều kiện học tập, người học, tài liệu và nhiệm vụ đo lường; đánh giá cao bài kiểm tra luyện tập và luyện tập phân tán, trong khi hiệu quả của việc đọc lại và tô sáng có điều kiện hơn.
+- [Roediger & Karpicke (2006), Học tập được tăng cường bằng kiểm tra](https://doi.org/10.1111/j.1467-9280.2006.01693.x): So sánh việc kiểm tra với học lặp lại trong các nghiên cứu về tài liệu văn xuôi, và báo cáo sự khác biệt về khả năng duy trì sau một khoảng thời gian; không thể trực tiếp suy ra cùng một hiệu quả cho mọi nhiệm vụ từ mẫu, tài liệu và phép đo đó.
+- [Cepeda et al. (2006), Luyện tập phân tán trong các nhiệm vụ hồi tưởng bằng lời](https://doi.org/10.1037/0033-2909.132.3.354): Tổng quan và tổng hợp định lượng việc luyện tập phân tán trong các nhiệm vụ hồi tưởng bằng lời; khoảng cách tối ưu phụ thuộc vào mục tiêu duy trì, tài liệu và nhiệm vụ.
+- [Hattie & Timperley (2007), Sức mạnh của phản hồi](https://doi.org/10.3102/003465430298487): Phân tích sự khác biệt về loại phản hồi, thời điểm và cách đưa phản hồi; “phản hồi có hiệu quả” không có nghĩa là tăng chú thích một cách không phân biệt.
+- [Rasch & Born (2013), Về vai trò của giấc ngủ đối với trí nhớ](https://doi.org/10.1152/physrev.00032.2012): Tổng quan nghiên cứu về giấc ngủ và củng cố trí nhớ; nhu cầu cá nhân, tình trạng sức khỏe và lịch sinh hoạt thực tế vẫn cần được đánh giá riêng.
+- [Pashler et al. (2008), Các phong cách học tập](https://doi.org/10.1111/j.1539-6053.2009.01038.x): Tổng quan cho thấy chưa có đủ bằng chứng ủng hộ việc ghép phương pháp giảng dạy với các nhãn thị giác/thính giác cố định, đồng thời nhắc rằng không nên phủ nhận toàn bộ những biến thể chưa được kiểm tra.
+- Kết luận nghiên cứu có mẫu, tài liệu, phép đo và khoảng thời gian trì hoãn khác nhau. Những nhiệm vụ quan trọng cần quay về sự thật hiện tại, nguồn trực tiếp, đối tượng tiếp nhận thực tế và người chịu trách nhiệm được nêu rõ để nghiệm thu.
 
-相关入口：[CEFR 目标与自测](0-cefr.md) ｜ [词汇篇](2-vocabulary.md) ｜ [语法篇](grammar.md) ｜ [听力篇](3-listening.md) ｜ [阅读篇](4-reading.md) ｜ [口语篇](5-speaking.md) ｜ [写作篇](6-writing.md) ｜ [英语能力诊断](../../templates/english-diagnostic.md) ｜ [证据链模板](../../templates/evidence-chain.md)
+Lối vào liên quan: [Mục tiêu CEFR và tự đánh giá](0-cefr.md) ｜ [Phần từ vựng](2-vocabulary.md) ｜ [Phần ngữ pháp](grammar.md) ｜ [Phần nghe](3-listening.md) ｜ [Phần đọc](4-reading.md) ｜ [Phần nói](5-speaking.md) ｜ [Phần viết](6-writing.md) ｜ [Chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md) ｜ [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)
 
-## 结语：把方法交给下一次
+## Lời kết: Giao phương pháp cho lần tiếp theo
 
-学习方法最诱人的地方，是它看起来像一条捷径。可任何方法只有在资料合上、提示离开、题目更换以后仍然能帮助你完成任务，才开始真正属于你。
+Điều hấp dẫn nhất của phương pháp học là nó trông giống như một lối tắt. Nhưng bất kỳ phương pháp nào chỉ thực sự thuộc về bạn khi, sau khi tài liệu được đóng lại, gợi ý rời đi và đề bài thay đổi, nó vẫn giúp bạn hoàn thành nhiệm vụ.
 
-你不需要背下所有研究者的名字，也不必把生活变成一场持续测量。记住一个朴素的回路就够了：先独立做一次，让困难出现；获得具体反馈；隔一段时间再做；换一个条件，看看能力有没有跟过来。
+Bạn không cần ghi nhớ tên của tất cả các nhà nghiên cứu, cũng không cần biến cuộc sống thành một phép đo liên tục. Chỉ cần nhớ một vòng lặp giản dị: tự mình làm một lần trước để khó khăn xuất hiện; nhận phản hồi cụ thể; sau một khoảng thời gian làm lại; thay đổi một điều kiện để xem năng lực có theo kịp hay không.
 
-好的方法不会让你更擅长解释自己为什么努力，而会让你在无人提醒时，更有能力把一件事做完。最后留下来的，不是方法的名字，而是下一次面对陌生问题时，你仍然知道怎样开始。
+Một phương pháp tốt sẽ không khiến bạn giỏi hơn trong việc giải thích vì sao mình đã nỗ lực, mà sẽ giúp bạn có năng lực hơn để hoàn thành một việc khi không có ai nhắc nhở. Điều còn lại sau cùng không phải là tên của phương pháp, mà là khi đối mặt với một vấn đề xa lạ lần tới, bạn vẫn biết phải bắt đầu như thế nào.

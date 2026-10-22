@@ -1,199 +1,199 @@
 ---
-title: 沟通篇：让彼此被听见
-description: 借助观察、感受、需要与请求，把沟通从争输赢带回理解、选择、边界与共同承担。
+title: "Chương về giao tiếp: Để đôi bên được lắng nghe"
+description: Thông qua quan sát, cảm xúc, nhu cầu và đề nghị, đưa giao tiếp từ cuộc tranh giành hơn thua trở về với sự thấu hiểu, lựa chọn, ranh giới và cùng nhau承担 trách nhiệm.
 updated: 2026-10-12
 ---
 
-# 沟通篇：让彼此被听见
+# Chương về giao tiếp: Để đôi bên được lắng nghe
 
-有些话在开口以前，已经在心里排练了很多遍。我们想让对方明白自己的委屈，想证明自己没有恶意，也想在关系还没有走远以前，把真正重要的事情说出来。可话一旦带着指责、猜测或急于解决问题的冲动出去，听见的常常只剩下防备。
+Có những lời trước khi thốt ra đã được diễn tập rất nhiều lần trong lòng. Chúng ta muốn đối phương hiểu nỗi ấm ức của mình, muốn chứng minh mình không có ác ý, và cũng muốn nói ra những điều thực sự quan trọng trước khi mối quan hệ đi quá xa. Nhưng một khi lời nói được thốt ra cùng sự trách móc, phỏng đoán hoặc thôi thúc muốn giải quyết vấn đề ngay lập tức, thứ đối phương nghe thấy thường chỉ còn là sự phòng bị.
 
-本章参考《非暴力沟通》中“观察、感受、需要、请求”的思路，做一份适合日常生活的原创整理。它不是让你用一套句式赢得对方，也不是保证冲突一定会消失。它只帮助我们在情绪很满的时候慢一点，把事实、内心和选择重新分开，让彼此多一点听懂的机会。
+Chương này tham khảo tư tưởng “quan sát, cảm xúc, nhu cầu, đề nghị” trong cuốn *Giao tiếp bất bạo động*, đồng thời sắp xếp lại một cách nguyên bản để phù hợp với đời sống thường ngày. Nó không nhằm giúp bạn giành phần thắng trước đối phương bằng một bộ câu mẫu, cũng không đảm bảo xung đột nhất định sẽ biến mất. Nó chỉ giúp chúng ta chậm lại một chút khi cảm xúc đang dâng đầy, tách sự việc, nội tâm và lựa chọn ra một lần nữa, để đôi bên có thêm cơ hội hiểu nhau.
 
-沟通也不是一个人独自完成的技术。你可以表达得更清楚，却不能替对方同意；你可以认真倾听，却不能因此承担对方全部的人生。真正的连接同时需要诚实、边界、拒绝的自由和对安全的保护。
+Giao tiếp cũng không phải là một kỹ thuật mà một người có thể tự mình hoàn thành. Bạn có thể diễn đạt rõ ràng hơn, nhưng không thể thay đối phương đồng ý; bạn có thể chăm chú lắng nghe, nhưng không vì thế mà gánh thay toàn bộ cuộc đời của đối phương. Sự kết nối thực sự đồng thời cần đến sự chân thành, ranh giới, quyền tự do từ chối và sự bảo vệ an toàn.
 
-## 本章速览
+## Tóm lược chương
 
-- 先把事实从评价中分离出来，再说感受、需要和请求；
-- 把“你让我……”改写成对自己经验负责的表达；
-- 倾听不是急着给建议，而是先确认对方想被理解还是想一起解决；
-- 请求要具体，也要允许对方拒绝；拒绝之后仍然可以协商边界和下一步；
-- 情绪过满时先暂停，暴力、威胁、跟踪和强迫出现时优先保护安全；
-- 道歉面对影响，修复留下持续可观察的改变；
-- 用七天的小练习把一句新话带进真实关系，而不是把沟通变成表演。
+- Trước tiên tách sự việc khỏi đánh giá, rồi mới nói về cảm xúc, nhu cầu và đề nghị;
+- Viết lại câu “Bạn khiến tôi…” thành cách diễn đạt thể hiện trách nhiệm với trải nghiệm của chính mình;
+- Lắng nghe không phải là vội vàng đưa lời khuyên, mà trước hết cần xác nhận đối phương muốn được thấu hiểu hay muốn cùng nhau giải quyết;
+- Đề nghị cần cụ thể, đồng thời cho phép đối phương từ chối; sau lời từ chối, vẫn có thể thương lượng ranh giới và bước tiếp theo;
+- Khi cảm xúc quá đầy, hãy tạm dừng trước; khi xuất hiện bạo lực, đe dọa, theo dõi hoặc cưỡng ép, ưu tiên bảo vệ an toàn;
+- Lời xin lỗi cần đối diện với tác động, còn việc hàn gắn cần để lại những thay đổi có thể quan sát được và kéo dài;
+- Dùng bài tập nhỏ trong bảy ngày để đưa một cách nói mới vào các mối quan hệ thực tế, thay vì biến giao tiếp thành một màn trình diễn.
 
-## 1. 沟通不是赢得，而是共同看见
+## 1. Giao tiếp không phải là giành phần thắng, mà là cùng nhau nhìn thấy
 
-争论时，我们很容易把目标设成“让对方知道我是对的”。这会让每一句话都变成证据，让对方的解释听起来像辩解，让沉默像认输。可关系真正需要的，往往不是谁赢，而是两个人能否共同看见：发生了什么，各自受到了什么影响，现在需要什么，接下来有什么选择。
+Khi tranh luận, chúng ta rất dễ đặt mục tiêu là “khiến đối phương biết rằng mình đúng”. Điều này khiến mỗi câu nói đều trở thành bằng chứng, lời giải thích của đối phương nghe như ngụy biện, còn sự im lặng giống như chịu thua. Nhưng điều một mối quan hệ thực sự cần thường không phải là ai thắng, mà là hai người có thể cùng nhau nhìn thấy: chuyện gì đã xảy ra, mỗi người đã bị ảnh hưởng ra sao, hiện giờ cần gì, và tiếp theo có những lựa chọn nào.
 
-这不意味着放弃判断，也不意味着所有观点都同样可靠。事实仍然需要核对，伤害仍然需要停止，承诺仍然需要兑现。沟通只是为判断提供一条更诚实的路径：不把猜测当事实，不把情绪当罪证，不把请求藏在命令里。
+Điều này không có nghĩa là từ bỏ phán đoán, cũng không có nghĩa mọi quan điểm đều đáng tin như nhau. Sự việc vẫn cần được kiểm chứng, tổn hại vẫn cần được ngăn chặn, lời hứa vẫn cần được thực hiện. Giao tiếp chỉ cung cấp cho việc phán đoán một con đường thành thật hơn: không coi phỏng đoán là sự thật, không coi cảm xúc là bằng chứng buộc tội, không giấu lời đề nghị trong mệnh lệnh.
 
-可以在开口前问自己三个问题：
+Trước khi lên tiếng, bạn có thể tự hỏi mình ba câu:
 
-1. 我真正想让对方知道的，是哪一件具体的事？
-2. 这件事在我身上造成了什么感受，触动了什么需要？
-3. 我希望对方做什么，或者我准备为自己做什么？
+1. Điều cụ thể nào tôi thực sự muốn đối phương biết?
+2. Chuyện này gây ra cảm xúc gì trong tôi, chạm đến nhu cầu nào?
+3. Tôi mong đối phương làm gì, hoặc tôi chuẩn bị làm gì cho chính mình?
 
-如果暂时答不出来，也可以先说：“我现在很激动，想把这件事说好。让我先停十分钟，等我能分清事实和猜测再继续。”暂停不是逃避，而是给关系留下不被冲动继续扩大伤害的时间。
+Nếu tạm thời chưa thể trả lời, bạn cũng có thể nói trước: “Bây giờ tôi đang rất kích động và muốn nói cho rõ chuyện này. Hãy để tôi dừng lại mười phút, đợi đến khi tôi có thể phân biệt sự thật với phỏng đoán rồi chúng ta nói tiếp.” Tạm dừng không phải là trốn tránh, mà là để lại cho mối quan hệ một khoảng thời gian không bị sự bốc đồng tiếp tục làm tổn thương thêm.
 
-## 2. 四个动作：观察、感受、需要、请求
+## 2. Bốn hành động: Quan sát, cảm xúc, nhu cầu, đề nghị
 
-四个动作不是一张必须照读的表格，而是一种整理经验的顺序。生活中的句子可以很自然，不必每次都说出完整术语；重要的是不要让一个层次冒充另一个层次。
+Bốn hành động này không phải là một bảng biểu bắt buộc phải đọc theo, mà là một trình tự giúp sắp xếp trải nghiệm. Những câu nói trong đời sống có thể rất tự nhiên, không cần lần nào cũng nói đủ các thuật ngữ; điều quan trọng là không để tầng này giả mạo thành tầng khác.
 
-### 观察不等于评价
+### Quan sát không đồng nghĩa với đánh giá
 
-观察描述摄像机能够记录的事实，评价则加入了关于人格、动机和习惯的结论。
+Quan sát mô tả những sự thật mà máy quay có thể ghi lại, còn đánh giá đưa thêm vào đó kết luận về tính cách, động cơ và thói quen.
 
-| 评价 | 更接近观察的说法 |
+| Đánh giá | Cách nói gần với quan sát hơn |
 | --- | --- |
-| 你总是拖到最后一刻才做事。 | 这周有两次，你在截止时间前一小时才把文件发来。 |
-| 你根本不关心我。 | 我昨晚和你说话时，你看了三次手机，没有回应我的问题。 |
-| 孩子一点都不自觉。 | 约定的作业时间到了，他还没有打开练习册，也没有说明遇到了什么困难。 |
+| Bạn lúc nào cũng để đến phút cuối mới làm việc. | Tuần này có hai lần, bạn gửi tài liệu chỉ một giờ trước hạn chót. |
+| Bạn hoàn toàn không quan tâm đến tôi. | Tối qua khi tôi nói chuyện với bạn, bạn đã nhìn điện thoại ba lần và không trả lời câu hỏi của tôi. |
+| Đứa trẻ chẳng tự giác chút nào. | Đến giờ làm bài đã thỏa thuận, em vẫn chưa mở vở bài tập và cũng chưa nói mình đang gặp khó khăn gì. |
 
-评价有时包含真实的失望，但它把对方推向“证明自己不是这样的人”，谈话就很难回到事情本身。先说可核对的行为，才有机会一起讨论影响和责任。
+Đánh giá đôi khi chứa đựng sự thất vọng chân thật, nhưng nó đẩy đối phương vào thế phải “chứng minh mình không phải người như vậy”, khiến cuộc trò chuyện khó quay lại với chính sự việc. Chỉ khi trước hết nói về hành vi có thể kiểm chứng, chúng ta mới có cơ hội cùng nhau bàn về ảnh hưởng và trách nhiệm.
 
-### 感受不等于判断
+### Cảm xúc không đồng nghĩa với phán xét
 
-感受是你身体和情绪里的经验，不是对方应当被判定的罪名。“我感到被忽视”可以帮助你靠近自己的体验；“我感到你很自私”仍然是在评价对方。
+Cảm xúc là trải nghiệm trong cơ thể và tâm trạng của bạn, không phải tội danh mà đối phương phải nhận. “Tôi cảm thấy mình bị phớt lờ” có thể giúp bạn đến gần hơn với trải nghiệm của chính mình; còn “Tôi cảm thấy bạn rất ích kỷ” vẫn là đang đánh giá đối phương.
 
-可以尝试使用更具体的词：失望、紧张、孤单、害怕、委屈、疲惫、轻松、期待、困惑。说“我很生气”之后，再问一句：“生气下面还有什么？”有时那里是害怕失去联系，有时是需要可靠、尊重、休息或被认真对待。
+Bạn có thể thử dùng những từ cụ thể hơn: thất vọng, căng thẳng, cô đơn, sợ hãi, tủi thân, mệt mỏi, nhẹ nhõm, mong đợi, bối rối. Sau khi nói “Tôi rất tức giận”, hãy hỏi thêm một câu: “Bên dưới sự tức giận còn có điều gì?” Đôi khi đó là nỗi sợ mất kết nối, đôi khi là nhu cầu được tin cậy, tôn trọng, nghỉ ngơi hoặc được đối xử nghiêm túc.
 
-说出感受不是把责任推给对方。更完整的表达是：“当我看到这件事时，我感到失望，因为我很在意可靠的安排。”它承认事件有影响，也保留了你对自己内心的负责。
+Nói ra cảm xúc không phải là đẩy trách nhiệm sang cho đối phương. Một cách diễn đạt đầy đủ hơn là: “Khi nhìn thấy chuyện này, tôi cảm thấy thất vọng vì tôi rất coi trọng một sự sắp xếp đáng tin cậy.” Cách nói này thừa nhận sự việc có tác động, đồng thời vẫn giữ lại trách nhiệm của bạn với nội tâm mình.
 
-### 需要不等于策略
+### Nhu cầu không đồng nghĩa với chiến lược
 
-需要是人能够理解的基本愿望，例如安全、尊重、诚实、选择、休息、连接、支持和公平。策略是满足需要的一种具体办法。
+Nhu cầu là những mong muốn cơ bản mà con người có thể hiểu được, chẳng hạn như an toàn, tôn trọng, thành thật, lựa chọn, nghỉ ngơi, kết nối, hỗ trợ và công bằng. Chiến lược là một cách cụ thể để đáp ứng nhu cầu.
 
-“我需要你今晚必须留下来”更像策略或要求；“我需要陪伴，也需要知道我们什么时候能继续谈”才让双方看见了可以协商的需要。一个需要可能有很多满足方式，不能满足某一种策略，不等于拒绝了这个人。
+“Tôi cần bạn nhất định phải ở lại tối nay” giống một chiến lược hoặc yêu cầu hơn; còn “Tôi cần sự đồng hành, và cũng cần biết khi nào chúng ta có thể tiếp tục nói chuyện” giúp cả hai nhìn thấy nhu cầu có thể thương lượng. Một nhu cầu có thể được đáp ứng bằng nhiều cách; không đáp ứng một chiến lược cụ thể không có nghĩa là từ chối con người đó.
 
-把需要说清楚，也能减少道德压力。你可以需要支持，但不能因此要求某个特定的人随时有容量；你可以需要安全，但不能把控制对方的全部生活写成安全的唯一答案。
+Nói rõ nhu cầu cũng có thể giảm bớt áp lực đạo đức. Bạn có thể cần được hỗ trợ, nhưng không vì thế mà yêu cầu một người cụ thể lúc nào cũng có đủ năng lượng; bạn có thể cần sự an toàn, nhưng không thể biến việc kiểm soát toàn bộ cuộc sống của đối phương thành câu trả lời duy nhất cho an toàn.
 
-### 请求不等于命令
+### Đề nghị không đồng nghĩa với mệnh lệnh
 
-请求应当具体、可执行、带有时间或场景，并且允许对方回答“不”。“你以后多关心我”很难行动；“今晚吃饭后，你愿意给我十分钟，只听我说这周最难的一件事吗？”更容易被理解。
+Đề nghị cần cụ thể, có thể thực hiện, gắn với thời gian hoặc hoàn cảnh, đồng thời cho phép đối phương trả lời “không”. “Sau này hãy quan tâm đến tôi nhiều hơn” rất khó thực hiện; còn “Tối nay sau bữa ăn, bạn có sẵn lòng dành cho tôi mười phút, chỉ lắng nghe tôi kể về điều khó khăn nhất trong tuần này không?” thì dễ hiểu hơn.
 
-如果拒绝会带来惩罚、羞辱、冷暴力或关系威胁，那就算用了温柔的句子，也仍然更接近要求。真正的请求要为对方保留选择，也要为自己准备下一步：“如果今晚不方便，请告诉我你愿意在什么时候谈；如果我们暂时无法安排，我会先找朋友听我整理，并在周日再确认一次。”
+Nếu việc từ chối sẽ dẫn đến trừng phạt, làm nhục, bạo lực im lặng hoặc đe dọa mối quan hệ, thì dù dùng câu chữ nhẹ nhàng, đó vẫn gần với một yêu cầu hơn. Một đề nghị thực sự phải dành cho đối phương quyền lựa chọn, đồng thời giúp bạn chuẩn bị bước tiếp theo: “Nếu tối nay không tiện, hãy cho tôi biết khi nào bạn sẵn lòng nói chuyện; nếu tạm thời chúng ta chưa thể sắp xếp, trước hết tôi sẽ tìm một người bạn để giúp tôi sắp xếp lại suy nghĩ, rồi đến Chủ nhật tôi sẽ xác nhận lại một lần.”
 
-## 3. 把一句指责翻译成可以听见的话
+## 3. Dịch một lời trách móc thành điều có thể được lắng nghe
 
-下面的例子是合成示范，不代表某个真实家庭或工作个案。每个例子都保留了一个重要部分：对方可以拒绝，表达者也可以执行自己的边界。
+Các ví dụ dưới đây là những minh họa tổng hợp, không đại diện cho bất kỳ gia đình hay trường hợp công việc thực tế nào. Mỗi ví dụ đều giữ lại một phần quan trọng: đối phương có thể từ chối, và người nói cũng có thể thực hiện ranh giới của mình.
 
-### 家庭：从“你从来不帮忙”开始
+### Gia đình: Bắt đầu từ “Bạn chẳng bao giờ giúp đỡ”
 
-指责常常藏着疲惫和想要分担的愿望。可以这样转写：
+Lời trách móc thường che giấu sự mệt mỏi và mong muốn được san sẻ. Có thể chuyển thành lời như sau:
 
-> “这周一到周三，晚饭、采购和收拾都是我在安排和完成。我感到很累，也有点孤单，因为我需要共同生活里的责任被看见。我想请你从周四开始完整负责两次晚饭，包括决定吃什么、采购和收尾。你愿意吗？如果你这周做不到，我们今晚一起把替代安排和下次复查时间定下来。”
+> “Từ thứ Hai đến thứ Tư tuần này, tôi là người sắp xếp và hoàn thành mọi việc từ bữa tối, mua sắm đến dọn dẹp. Tôi cảm thấy rất mệt và hơi cô đơn, vì tôi cần trách nhiệm trong cuộc sống chung được nhìn nhận. Tôi muốn đề nghị từ thứ Năm, bạn chịu trách nhiệm trọn vẹn cho hai bữa tối, bao gồm quyết định ăn gì, mua sắm và dọn dẹp sau đó. Bạn có sẵn lòng không? Nếu tuần này bạn không thể làm được, tối nay chúng ta hãy cùng quyết định phương án thay thế và thời điểm xem xét lại.”
 
-这段话没有要求对方承认“从来没有帮忙”，而是指出具体劳动、感受、需要和可执行请求。若对方拒绝，可以继续问：“你现在能承担哪一部分？如果没有可承担的部分，我需要减少共同安排，或者找其他支持，不能继续默认由我补位。”
+Đoạn nói này không yêu cầu đối phương phải thừa nhận rằng “chưa bao giờ giúp đỡ”, mà chỉ ra lao động cụ thể, cảm xúc, nhu cầu và đề nghị có thể thực hiện. Nếu đối phương từ chối, bạn có thể hỏi tiếp: “Hiện giờ bạn có thể đảm nhận phần nào? Nếu không có phần nào bạn có thể đảm nhận, tôi cần giảm bớt những việc chung phải sắp xếp, hoặc tìm sự hỗ trợ khác; tôi không thể tiếp tục mặc định là người lấp chỗ trống.”
 
-### 亲密关系：从“你根本不在乎我”开始
+### Mối quan hệ thân mật: Bắt đầu từ “Bạn hoàn toàn không quan tâm đến tôi”
 
-“不在乎”可能是一个人在等待回应时感到孤单。可以这样说：
+“Không quan tâm” có thể là cảm giác cô đơn của một người khi chờ đợi phản hồi. Có thể nói như sau:
 
-> “我刚才讲到工作上的坏消息时，你看了几次手机，也没有回应我的问题。我感到失落和孤单，因为我需要在困难时先被听见。我想知道，你现在有十分钟只听我说吗？如果你今天没有力气，请直接告诉我，我们可以约明晚；我不会在你无法倾听时继续追问，但我也需要这件事有一个明确的时间。”
+> “Lúc nãy khi tôi kể về tin xấu ở chỗ làm, bạn đã nhìn điện thoại vài lần và không trả lời câu hỏi của tôi. Tôi cảm thấy thất vọng và cô đơn, vì tôi cần trước hết được lắng nghe khi đang gặp khó khăn. Tôi muốn biết bây giờ bạn có thể dành mười phút chỉ để nghe tôi nói không? Nếu hôm nay bạn không còn sức, hãy nói thẳng với tôi, chúng ta có thể hẹn tối mai; tôi sẽ không tiếp tục hỏi dồn khi bạn không thể lắng nghe, nhưng tôi cũng cần chuyện này có một thời điểm rõ ràng.”
 
-这里既没有把一次分心扩大成整个人格，也没有用“爱我就应该”逼迫对方。请求被拒绝时，失望仍然真实；你可以决定等待、寻找其他支持，或重新评估这段关系是否长期尊重你的需要。
+Ở đây, một lần mất tập trung không bị phóng đại thành toàn bộ tính cách, cũng không dùng câu “nếu yêu tôi thì phải…” để ép buộc đối phương. Khi đề nghị bị từ chối, nỗi thất vọng vẫn là thật; bạn có thể quyết định chờ đợi, tìm sự hỗ trợ khác, hoặc xem xét lại liệu mối quan hệ này có tôn trọng nhu cầu của bạn về lâu dài hay không.
 
-### 工作：从“你总是临时改需求”开始
+### Công việc: Bắt đầu từ “Bạn lúc nào cũng thay đổi yêu cầu vào phút chót”
 
-工作中的沟通要同时照顾交付、责任和时间：
+Giao tiếp trong công việc cần đồng thời quan tâm đến việc bàn giao, trách nhiệm và thời gian:
 
-> “过去两次发布前一天，需求在共享文档之外发生了变化，导致我返工并把测试推迟到晚上。我感到紧张，因为我需要稳定的验收标准和可预留的测试时间。我请求以后所有影响范围或截止日期的变更都写进文档，并标注负责人；如果今天五点前仍未确认，我会暂停发布，先提交风险说明，等负责人确认后再继续。”
+> “Trong hai lần vừa qua, vào ngày trước khi phát hành, yêu cầu đã thay đổi ngoài tài liệu dùng chung, khiến tôi phải làm lại và đẩy việc kiểm thử đến tối. Tôi cảm thấy căng thẳng vì tôi cần tiêu chuẩn nghiệm thu ổn định và có thời gian dành trước cho việc kiểm thử. Tôi đề nghị từ nay mọi thay đổi ảnh hưởng đến phạm vi hoặc thời hạn đều được ghi vào tài liệu và nêu rõ người phụ trách; nếu đến 5 giờ hôm nay vẫn chưa được xác nhận, tôi sẽ tạm dừng phát hành, trước tiên gửi báo cáo rủi ro và chỉ tiếp tục sau khi người phụ trách xác nhận.”
 
-这不是拒绝变化，而是让变化留下记录和决定权。对方仍然可以提出紧急变更，但也需要共同承担它对时间、质量和风险的影响。
+Đây không phải là từ chối thay đổi, mà là để thay đổi được ghi nhận và quyền quyết định được xác định rõ. Đối phương vẫn có thể đưa ra thay đổi khẩn cấp, nhưng cũng cần cùng nhau承担 trách nhiệm về ảnh hưởng của nó đối với thời gian, chất lượng và rủi ro.
 
-## 4. 先与自己站在一起
+## 4. Trước hết hãy đứng về phía chính mình
 
-很多人对别人很有耐心，对自己却只剩下命令：“不许难过”“立刻想开”“这点事有什么好生气”。这种内在对话会让情绪更用力，因为真正的经验没有被看见。
+Nhiều người rất kiên nhẫn với người khác nhưng chỉ còn lại những mệnh lệnh dành cho bản thân: “Không được buồn”, “Lập tức nghĩ thoáng ra”, “Có gì đâu mà phải tức giận”. Kiểu đối thoại nội tâm này khiến cảm xúc trở nên mạnh hơn, vì trải nghiệm thực sự chưa được nhìn nhận.
 
-自我共情不是替自己找借口，而是用同样的四个动作回到自己身上：
+Đồng cảm với chính mình không phải là tìm cớ cho bản thân, mà là dùng cùng bốn hành động ấy để quay về với chính mình:
 
-1. **观察**：我刚刚读到那条消息，手心发热，已经十分钟没有继续工作；
-2. **感受**：我感到害怕、委屈，也很疲惫；
-3. **需要**：我需要清楚的信息、休息和一点可预测的安排；
-4. **请求**：我现在先喝水、离开屏幕五分钟，随后只写下一个需要确认的问题。
+1. **Quan sát**: Tôi vừa đọc tin nhắn đó, lòng bàn tay nóng lên và đã mười phút rồi tôi không thể tiếp tục làm việc;
+2. **Cảm xúc**: Tôi cảm thấy sợ hãi, tủi thân và cũng rất mệt mỏi;
+3. **Nhu cầu**: Tôi cần thông tin rõ ràng, được nghỉ ngơi và một kế hoạch có thể dự đoán phần nào;
+4. **Đề nghị**: Bây giờ tôi sẽ uống nước, rời màn hình năm phút, sau đó chỉ viết ra một câu hỏi cần được xác nhận.
 
-这不保证问题会消失，却能让你停止把自己当成对手。情绪很满时，先处理身体和环境：离开争执现场，降低声音，喝水，慢慢呼吸，找一个可信的人，或者约定过一会儿再谈。若你已经无法安全控制自己的行为，优先寻求现实中的及时支持，不要只依赖文字技巧。
+Điều này không đảm bảo vấn đề sẽ biến mất, nhưng có thể giúp bạn ngừng coi chính mình là đối thủ. Khi cảm xúc quá đầy, trước hết hãy xử lý cơ thể và môi trường: rời khỏi nơi đang tranh cãi, hạ giọng, uống nước, hít thở chậm, tìm một người đáng tin, hoặc hẹn một lúc khác để nói chuyện. Nếu bạn đã không còn có thể kiểm soát hành vi của mình một cách an toàn, hãy ưu tiên tìm kiếm sự hỗ trợ kịp thời trong đời thực, đừng chỉ dựa vào kỹ thuật ngôn từ.
 
-也要承认容量。你可以说：“我愿意听，但我现在只能专心十五分钟。”有限而真实的承诺，比答应全天候在场后突然失联更能保护关系。
+Cũng cần thừa nhận giới hạn năng lượng của mình. Bạn có thể nói: “Tôi sẵn lòng lắng nghe, nhưng hiện giờ tôi chỉ có thể tập trung trong mười lăm phút.” Một lời hứa có giới hạn nhưng chân thật sẽ bảo vệ mối quan hệ tốt hơn việc hứa luôn có mặt rồi đột ngột mất liên lạc.
 
-## 5. 倾听：先理解，再决定是否回应
+## 5. Lắng nghe: Trước hết là thấu hiểu, rồi mới quyết định có回应 hay không
 
-倾听不是准备反驳，也不是等对方说完就把自己的故事盖上去。它首先是一种确认：我愿意暂时把你的经验放在眼前，看看自己是否理解准确。
+Lắng nghe không phải là chuẩn bị phản bác, cũng không phải đợi đối phương nói xong rồi phủ câu chuyện của mình lên trên. Trước hết, đó là một sự xác nhận: tôi sẵn lòng tạm thời đặt trải nghiệm của bạn trước mắt mình, xem mình đã hiểu chính xác hay chưa.
 
-可以使用三个轻量动作：
+Bạn có thể dùng ba hành động đơn giản:
 
-1. **复述事实**：“我听见你说，今天的会议没有提前告诉你变更。”
-2. **试着命名感受和需要**：“你可能既紧张，又希望自己的时间被尊重，对吗？”
-3. **询问谈话目的**：“你现在想让我陪你把这件事说完，还是一起想下一步？”
+1. **Nhắc lại sự việc**: “Tôi nghe bạn nói rằng hôm nay cuộc họp không báo trước cho bạn về sự thay đổi.”
+2. **Thử gọi tên cảm xúc và nhu cầu**: “Có lẽ bạn vừa căng thẳng, vừa mong thời gian của mình được tôn trọng, đúng không?”
+3. **Hỏi mục đích của cuộc trò chuyện**: “Bây giờ bạn muốn tôi ở bên để bạn nói hết chuyện này, hay muốn chúng ta cùng nghĩ về bước tiếp theo?”
 
-“对吗”很重要，因为你是在检查理解，不是在替对方宣布感受。对方可以修正你：“不是委屈，是我已经很生气了。”这时不必急着证明自己刚才没有错，只需说：“谢谢你纠正我，我再听听。”
+“Đúng không?” rất quan trọng, vì bạn đang kiểm tra mức độ hiểu của mình chứ không thay đối phương tuyên bố cảm xúc. Đối phương có thể sửa lại bạn: “Không phải tủi thân, mà là tôi đã rất tức giận rồi.” Khi đó không cần vội chứng minh rằng mình vừa rồi không sai, chỉ cần nói: “Cảm ơn bạn đã sửa cho tôi, tôi sẽ tiếp tục lắng nghe.”
 
-倾听也不等于同意所有事实或放弃自己的边界。你可以说：“我理解你很害怕，我不会因为你害怕就答应公开别人的隐私。我们可以一起找一个不越界的办法。”理解一个人的内心，不要求你接受所有行为。
+Lắng nghe cũng không có nghĩa là đồng ý với mọi sự việc hay từ bỏ ranh giới của mình. Bạn có thể nói: “Tôi hiểu bạn rất sợ, nhưng tôi sẽ không vì bạn sợ mà đồng ý công khai thông tin riêng tư của người khác. Chúng ta có thể cùng tìm một cách không vượt quá ranh giới.” Thấu hiểu nội tâm của một người không đòi hỏi bạn phải chấp nhận mọi hành vi của họ.
 
-在给建议前先征得同意：“我有一个想法，你现在愿意听吗？”对方说“不”时，可以回应：“好，我先陪你待一会儿。”对方的拒绝不是对你价值的判决，而是对当前谈话方式的选择。
+Trước khi đưa lời khuyên, hãy xin phép trước: “Tôi có một ý tưởng, bây giờ bạn có muốn nghe không?” Khi đối phương nói “không”, bạn có thể đáp: “Được, trước hết tôi sẽ ở đây cùng bạn một lúc.” Việc đối phương từ chối không phải là phán quyết về giá trị của bạn, mà là lựa chọn của họ đối với cách trò chuyện hiện tại.
 
-## 6. 请求、拒绝与边界
+## 6. Đề nghị, từ chối và ranh giới
 
-一段成熟的沟通同时容纳两个“是”和两个“不”：我可以请求，也可以拒绝；对方可以请求，也可以拒绝。没有拒绝空间的“沟通”，往往只是更柔和的服从要求。
+Một giao tiếp trưởng thành đồng thời chứa đựng hai chữ “có” và hai chữ “không”: tôi có thể đề nghị, cũng có thể từ chối; đối phương có thể đề nghị, cũng có thể từ chối. Một kiểu “giao tiếp” không có chỗ cho lời từ chối thường chỉ là một yêu cầu phục tùng được làm cho nhẹ nhàng hơn.
 
-提出请求时，尽量说明四件事：
+Khi đưa ra đề nghị, hãy cố gắng nêu rõ bốn điều:
 
-- 具体行为：希望对方做什么；
-- 场景和时间：什么时候、在哪里做；
-- 真实目的：这会帮助哪一个需要；
-- 拒绝后的路径：如果做不到，如何重新安排。
+- Hành vi cụ thể: mong đối phương làm gì;
+- Hoàn cảnh và thời gian: làm khi nào, ở đâu;
+- Mục đích thực sự: điều này sẽ giúp đáp ứng nhu cầu nào;
+- Con đường sau khi bị từ chối: nếu không làm được thì sắp xếp lại ra sao.
 
-拒绝请求时，也不必先证明对方不值得被帮助：“我今晚没有精力接这个电话，但我可以明天午休时听十五分钟。”如果连替代方案也没有，可以直接说：“我现在不能承担这件事。我知道你可能失望，但我的答案是拒绝。”
+Khi từ chối một đề nghị, bạn cũng không cần trước hết chứng minh rằng đối phương không đáng được giúp đỡ: “Tối nay tôi không còn sức để nghe cuộc gọi này, nhưng tôi có thể nghe bạn trong mười lăm phút vào giờ nghỉ trưa ngày mai.” Nếu không có cả phương án thay thế, bạn có thể nói thẳng: “Hiện giờ tôi không thể承担 việc này. Tôi biết bạn có thể thất vọng, nhưng câu trả lời của tôi là từ chối.”
 
-当对方拒绝你的请求，先把拒绝和否定人格分开：“我听到你现在不愿意，并不等于你不在乎我。我需要想想自己接下来怎么照顾这个需要。”如果同一问题反复发生，你可以把请求升级为边界：
+Khi đối phương từ chối đề nghị của bạn, trước hết hãy tách lời từ chối khỏi sự phủ định nhân cách: “Tôi nghe rằng hiện giờ bạn không muốn làm việc đó, điều này không có nghĩa là bạn không quan tâm đến tôi. Tôi cần suy nghĩ xem tiếp theo mình sẽ chăm sóc nhu cầu này thế nào.” Nếu cùng một vấn đề lặp đi lặp lại, bạn có thể nâng đề nghị thành ranh giới:
 
-> “如果谈话继续出现辱骂，我会结束今晚的通话。等我们都能保持尊重时，我愿意在周六下午继续；如果做不到，我会暂时减少这类谈话，并寻求外部支持。”
+> “Nếu cuộc trò chuyện tiếp tục xuất hiện những lời lăng mạ, tôi sẽ kết thúc cuộc gọi tối nay. Khi cả hai có thể giữ sự tôn trọng, tôi sẵn lòng tiếp tục vào chiều thứ Bảy; nếu không thể, tôi sẽ tạm thời giảm những cuộc trò chuyện kiểu này và tìm kiếm sự hỗ trợ bên ngoài.”
 
-边界描述的是你能执行的行动和后果，不是控制对方必须成为什么样的人。它也不需要等对方同意才成立，但需要你诚实评估自己是否有能力执行。
+Ranh giới mô tả hành động và hậu quả mà bạn có thể thực hiện, không phải việc kiểm soát đối phương phải trở thành người như thế nào. Ranh giới cũng không cần đợi đối phương đồng ý mới có hiệu lực, nhưng bạn cần thành thật đánh giá xem mình có khả năng thực hiện nó hay không.
 
-## 7. 冲突中的暂停与安全
+## 7. Tạm dừng và an toàn trong xung đột
 
-沟通框架适合帮助人表达和理解，不适合被拿来要求受伤的人与施害者“平静地互相理解”。如果出现暴力、威胁、跟踪、强迫、持续羞辱、经济控制，或一方无法安全说“不”，先离开危险、联系可信任的人和当地合格的专业支持。不要单独安排最后一次谈判，也不要把安全责任交给更会说话的一方。
+Khung giao tiếp phù hợp để giúp con người diễn đạt và thấu hiểu, nhưng không nên bị dùng để yêu cầu người bị tổn thương “bình tĩnh thấu hiểu lẫn nhau” với người gây hại. Nếu xuất hiện bạo lực, đe dọa, theo dõi, cưỡng ép, làm nhục liên tục, kiểm soát tài chính, hoặc một bên không thể an toàn nói “không”, hãy rời khỏi nơi nguy hiểm trước, liên hệ với người đáng tin cậy và các dịch vụ hỗ trợ chuyên môn đủ năng lực tại địa phương. Đừng tự mình sắp xếp một cuộc thương lượng cuối cùng, cũng đừng giao trách nhiệm an toàn cho bên nói năng khéo léo hơn.
 
-在相对安全但情绪升高的冲突里，可以约定暂停规则：任何一方说“暂停”，谈话就先停；说明大概何时回来；暂停期间不连续发消息、不公开争执、不用沉默惩罚对方；回来时先确认是否有足够容量。如果没有，就重新预约，而不是强行完成一次谈话。
+Trong những xung đột tương đối an toàn nhưng cảm xúc đang dâng cao, có thể thống nhất quy tắc tạm dừng: bất kỳ bên nào nói “tạm dừng” thì cuộc trò chuyện phải dừng lại; nêu rõ khoảng thời gian dự kiến quay lại; trong lúc tạm dừng không liên tục nhắn tin, không công khai tranh cãi, không dùng im lặng để trừng phạt đối phương; khi quay lại, trước hết xác nhận xem cả hai đã có đủ năng lượng chưa. Nếu chưa, hãy hẹn lại thay vì cố ép phải hoàn thành cuộc trò chuyện.
 
-暂停可以这样说：
+Bạn có thể nói khi tạm dừng:
 
-> “我现在已经听不清你的意思，也开始提高声音。我需要离开二十分钟，让身体先恢复。今晚九点我会发消息确认是否能继续；如果还不行，我们约明天下午。暂停不代表这件事不重要。”
+> “Bây giờ tôi đã không còn nghe rõ ý bạn và cũng bắt đầu cao giọng. Tôi cần rời đi hai mươi phút để cơ thể bình tĩnh lại trước. Chín giờ tối nay tôi sẽ nhắn tin xác nhận xem chúng ta có thể tiếp tục không; nếu vẫn chưa được, chúng ta sẽ hẹn chiều mai. Tạm dừng không có nghĩa là chuyện này không quan trọng.”
 
-权力不对等时，沟通还需要更多保护：私下表达的空间、明确的冷静期、可以撤回的同意、不由单方掌握的记录和不因拒绝而遭到报复的出口。一个人必须冒着失去住所、工作、照护或基本安全的风险才能说“不”时，重点已经不是练习更温柔的句子。
+Khi có sự bất cân xứng về quyền lực, giao tiếp còn cần nhiều sự bảo vệ hơn: không gian để bày tỏ riêng tư, khoảng thời gian bình tĩnh rõ ràng, sự đồng thuận có thể rút lại, hồ sơ không do một bên duy nhất nắm giữ, và một lối thoát không bị trả đũa vì từ chối. Khi một người phải mạo hiểm mất nhà ở, công việc, sự chăm sóc hoặc an toàn cơ bản mới có thể nói “không”, trọng tâm lúc đó không còn là luyện tập những câu nói dịu dàng hơn.
 
-## 8. 道歉与修复
+## 8. Xin lỗi và hàn gắn
 
-沟通不只发生在事情开始以前，也发生在我们已经造成伤害之后。道歉不是让对方尽快说“没关系”，而是承认自己做了什么、造成了什么影响，并允许对方决定是否需要距离。
+Giao tiếp không chỉ diễn ra trước khi sự việc bắt đầu, mà còn diễn ra sau khi chúng ta đã gây tổn thương. Xin lỗi không phải để khiến đối phương nhanh chóng nói “không sao”, mà là thừa nhận mình đã làm gì, gây ra ảnh hưởng nào, đồng thời cho phép đối phương quyết định liệu họ có cần khoảng cách hay không.
 
-一个负责任的道歉可以包含：
+Một lời xin lỗi có trách nhiệm có thể bao gồm:
 
-1. 说出具体行为，不用“如果你觉得受伤”模糊责任；
-2. 承认影响，不用压力、善意或疲惫替自己减刑；
-3. 询问对方现在需要什么，而不是要求对方安慰你；
-4. 提出一个可观察的修正动作；
-5. 接受对方可能暂时不回应、不原谅或选择离开。
+1. Nói rõ hành vi cụ thể, không dùng câu “nếu bạn cảm thấy bị tổn thương” để làm mờ trách nhiệm;
+2. Thừa nhận ảnh hưởng, không dùng thiện ý hoặc sự mệt mỏi để giảm nhẹ cho mình;
+3. Hỏi xem hiện giờ đối phương cần gì, thay vì yêu cầu họ an ủi bạn;
+4. Đưa ra một hành động sửa đổi có thể quan sát được;
+5. Chấp nhận việc đối phương có thể tạm thời không phản hồi, không tha thứ hoặc lựa chọn rời đi.
 
-例如：“我没有确认就把你的经历告诉了别人，让你失去了选择隐私范围的机会。这个影响是我造成的。我会今天删除我能控制的转发，并在以后公开任何涉及你的内容前先征得同意。你现在不需要回复我；如果有其他需要归还或修正的地方，请在你愿意时告诉我。”
+Ví dụ: “Tôi đã kể trải nghiệm của bạn cho người khác mà chưa xác nhận, khiến bạn mất đi cơ hội lựa chọn phạm vi riêng tư của mình. Ảnh hưởng này là do tôi gây ra. Hôm nay tôi sẽ xóa những nội dung chia sẻ lại mà tôi có thể kiểm soát, và sau này sẽ xin phép trước khi công khai bất kỳ nội dung nào liên quan đến bạn. Bây giờ bạn không cần trả lời tôi; nếu còn điều gì cần được trả lại hoặc sửa chữa, khi nào sẵn lòng bạn hãy nói cho tôi biết.”
 
-修复要经过时间验证。一次长篇解释不能抵消反复发生的伤害；真正的改变会出现在下一次决定、下一次冲突和下一次涉及隐私的时刻。对方愿意重新靠近，也不能被当成修复的验收条件。
+Việc hàn gắn cần được kiểm chứng theo thời gian. Một lần giải thích dài không thể xóa bỏ tổn thương lặp đi lặp lại; sự thay đổi thực sự sẽ xuất hiện trong quyết định tiếp theo, cuộc xung đột tiếp theo và thời điểm tiếp theo có liên quan đến quyền riêng tư. Việc đối phương sẵn lòng đến gần lại cũng không thể bị coi là điều kiện nghiệm thu cho việc hàn gắn.
 
-## 9. 七天沟通练习
+## 9. Bài tập giao tiếp trong bảy ngày
 
-1. **第 1 天：记录事实。** 写下一次让你不舒服的互动，只写摄像机能看见的行为，不写人格判断。
-2. **第 2 天：辨认感受。** 从“我觉得……”后面继续追问，找到一到两个真实情绪，并区分感受和评价。
-3. **第 3 天：寻找需要。** 写下这份情绪保护着什么需要，不急着决定由谁来满足。
-4. **第 4 天：提出一个请求。** 让请求具体、可执行、有时间和场景，并提前准备接受“不”。
-5. **第 5 天：练习倾听。** 在一段谈话中先复述事实，再询问对方想要倾听还是建议。
-6. **第 6 天：写出边界。** 说明反复发生的行为、你会采取的行动和下一次复查时间；只写自己能执行的部分。
-7. **第 7 天：复盘结果。** 记录对方的回应、自己的身体感受、事情是否更清楚，以及下周要继续、调整、求助还是保持距离。
+1. **Ngày 1: Ghi lại sự việc.** Viết về một tương tác khiến bạn khó chịu, chỉ viết những hành vi mà máy quay có thể nhìn thấy, không viết phán xét về tính cách.
+2. **Ngày 2: Nhận diện cảm xúc.** Tiếp tục hỏi sau câu “Tôi cảm thấy…”, tìm ra một hoặc hai cảm xúc chân thật, đồng thời phân biệt cảm xúc với đánh giá.
+3. **Ngày 3: Tìm kiếm nhu cầu.** Viết ra nhu cầu mà cảm xúc này đang bảo vệ, chưa cần vội quyết định ai sẽ đáp ứng nhu cầu đó.
+4. **Ngày 4: Đưa ra một đề nghị.** Làm cho đề nghị cụ thể, có thể thực hiện, có thời gian và hoàn cảnh, đồng thời chuẩn bị trước để đón nhận lời “không”.
+5. **Ngày 5: Luyện tập lắng nghe.** Trong một cuộc trò chuyện, trước hết nhắc lại sự việc, sau đó hỏi đối phương muốn được lắng nghe hay muốn nhận lời khuyên.
+6. **Ngày 6: Viết ra ranh giới.** Nêu rõ hành vi lặp đi lặp lại, hành động bạn sẽ thực hiện và thời điểm xem xét lại tiếp theo; chỉ viết phần bạn có thể thực hiện.
+7. **Ngày 7: Xem lại kết quả.** Ghi lại phản hồi của đối phương, cảm nhận của cơ thể, sự việc có rõ ràng hơn không, và tuần tới bạn sẽ tiếp tục, điều chỉnh, tìm kiếm sự giúp đỡ hay giữ khoảng cách.
 
-可以把第 2–7 天的记录复制到[生活进阶工作表](../../templates/life-practice-toolkit.md)中的关系沟通卡。练习不要求对方配合，也不要求你公开私密内容；如果对方不安全或不愿意参与，你仍然可以只记录自己的感受、边界、修复动作和求助路径。
+Bạn có thể sao chép ghi chép từ ngày 2–7 vào thẻ giao tiếp trong các mối quan hệ của[bảng bài tập nâng cao về đời sống](../../templates/life-practice-toolkit.md). Bài tập không yêu cầu đối phương phối hợp, cũng không yêu cầu bạn công khai nội dung riêng tư; nếu đối phương không an toàn hoặc không muốn tham gia, bạn vẫn có thể chỉ ghi lại cảm xúc, ranh giới, hành động hàn gắn và con đường tìm kiếm sự giúp đỡ của mình.
 
-## 结语：让语言为关系留一扇门
+## Lời kết: Để ngôn ngữ chừa lại một cánh cửa cho mối quan hệ
 
-我仍然会在情绪很满时说出过重的话，也仍然会把别人的沉默误读成拒绝，把自己的坚持误读成负责。练习沟通不是为了让自己从此完美，而是每次发现偏离以后，愿意回来看看：事实是什么，我感受到了什么，我真正需要什么，我能提出怎样的请求，又该为自己守住哪一条边界。
+Tôi vẫn sẽ nói ra những lời quá nặng khi cảm xúc dâng đầy, vẫn sẽ đọc sự im lặng của người khác thành lời từ chối, và đọc sự kiên định của mình thành trách nhiệm. Luyện tập giao tiếp không nhằm khiến bản thân từ nay trở nên hoàn hảo, mà là mỗi lần nhận ra mình đã lệch hướng, vẫn sẵn lòng quay lại nhìn xem: sự thật là gì, tôi đã cảm thấy gì, tôi thực sự cần gì, tôi có thể đưa ra đề nghị nào, và mình cần giữ vững ranh giới nào cho bản thân.
 
-愿我们慢一点说，也认真听见“不”。愿表达关心时不替别人安排人生，承担错误时不把道歉变成索取原谅，想要靠近时也为彼此留下自由。语言不能替我们完成关系，但它可以为诚实、尊重和下一次相遇留一扇门。
+Mong chúng ta nói chậm lại một chút, cũng nghiêm túc lắng nghe lời “không”. Mong khi bày tỏ sự quan tâm, chúng ta không thay người khác sắp đặt cuộc đời họ; khi nhận trách nhiệm về lỗi lầm, chúng ta không biến lời xin lỗi thành sự đòi hỏi được tha thứ; khi muốn đến gần, chúng ta vẫn để lại tự do cho đôi bên. Ngôn ngữ không thể thay chúng ta hoàn thành một mối quan hệ, nhưng có thể chừa lại một cánh cửa cho sự chân thành, tôn trọng và lần gặp gỡ tiếp theo.

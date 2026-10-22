@@ -1,120 +1,120 @@
 ---
-title: CEFR 目标与英语能力自测
-description: 用 A1-C2 的“能做什么”描述诊断听说读写起点，并把水平转成可检查的 7 天、30 天与 12 周任务。
+title: Mục tiêu CEFR và tự đánh giá năng lực tiếng Anh
+description: Dùng các mô tả “có thể làm gì” từ A1 đến C2 để chẩn đoán điểm xuất phát ở bốn kỹ năng nghe, nói, đọc, viết, rồi chuyển trình độ thành các nhiệm vụ có thể kiểm tra trong 7 ngày, 30 ngày và 12 tuần.
 updated: 2026-10-06
 ---
 
-# CEFR 目标与英语能力自测
+# Mục tiêu CEFR và tự đánh giá năng lực tiếng Anh
 
-CEFR（欧洲语言共同参考框架）描述的是**在具体情境中能完成什么语言任务**，不是某个 App 的积分，也不是一个固定词汇量。下面是基于欧洲委员会全球量表的简化自测；它适合确定训练起点，不能替代正式考试。
+CEFR (Khung tham chiếu chung châu Âu về ngôn ngữ) mô tả **bạn có thể hoàn thành nhiệm vụ ngôn ngữ nào trong những tình huống cụ thể**, chứ không phải điểm số của một ứng dụng nào đó hay một lượng từ vựng cố định. Dưới đây là bài tự đánh giá giản lược dựa trên Thang đo toàn cầu của Hội đồng châu Âu; bài này phù hợp để xác định điểm bắt đầu luyện tập nhưng không thể thay thế kỳ thi chính thức.
 
-## 本章速览
+## Tóm tắt chương
 
-- 分别为听、说、读、写保存未经修饰的基线；
-- 把 A1–C2 的方向翻译成具体场景、任务、质量门槛和期限；
-- 用 7 天、30 天和 12 周的节奏安排练习，而不是追逐一个平均等级；
-- 用相同条件、平行任务和外部反馈复测，决定下一项变量。
+- Lưu lại đường cơ sở chưa chỉnh sửa riêng cho nghe, nói, đọc và viết;
+- Chuyển định hướng A1–C2 thành các tình huống, nhiệm vụ, ngưỡng chất lượng và thời hạn cụ thể;
+- Sắp xếp việc luyện tập theo nhịp 7 ngày, 30 ngày và 12 tuần, thay vì chạy theo một trình độ trung bình;
+- Đánh giá lại trong cùng điều kiện, với các nhiệm vụ song song và phản hồi bên ngoài để quyết định biến số tiếp theo.
 
-## A1-C2：我能做到什么
+## A1-C2: Tôi có thể làm gì
 
-| 等级 | 可观察的综合表现 |
+| Trình độ | Biểu hiện tổng hợp có thể quan sát |
 | --- | --- |
-| A1 | 能理解和使用非常常见的表达；在对方说得慢、愿意帮助时进行简单互动。 |
-| A2 | 能处理个人信息、购物、地点、工作等熟悉主题的直接交流。 |
-| B1 | 能理解熟悉主题的主要意思；在旅行与日常场景中应对，并简单说明经历、计划和理由。 |
-| B2 | 能理解具体或抽象复杂文本的主要观点；与熟练使用者较自然地互动，并清楚表达立场。 |
-| C1 | 能理解要求高、篇幅长的材料并把握隐含意义；在学术、职业和社会场景中灵活表达。 |
-| C2 | 几乎能轻松理解听到或读到的内容；能综合不同来源、重构论点并精确表达细微差别。 |
+| A1 | Có thể hiểu và sử dụng những cách diễn đạt rất thông dụng; tương tác đơn giản khi đối phương nói chậm và sẵn lòng hỗ trợ. |
+| A2 | Có thể xử lý giao tiếp trực tiếp về những chủ đề quen thuộc như thông tin cá nhân, mua sắm, địa điểm và công việc. |
+| B1 | Có thể hiểu ý chính của những chủ đề quen thuộc; ứng phó trong các tình huống du lịch và đời sống hằng ngày, đồng thời trình bày đơn giản về trải nghiệm, kế hoạch và lý do. |
+| B2 | Có thể hiểu những luận điểm chính trong các văn bản phức tạp, dù cụ thể hay trừu tượng; tương tác tương đối tự nhiên với người sử dụng ngôn ngữ thành thạo và diễn đạt rõ lập trường. |
+| C1 | Có thể hiểu những tài liệu dài, có yêu cầu cao và nắm bắt ý nghĩa hàm ẩn; diễn đạt linh hoạt trong các bối cảnh học thuật, nghề nghiệp và xã hội. |
+| C2 | Gần như có thể dễ dàng hiểu mọi nội dung nghe hoặc đọc được; có thể tổng hợp nhiều nguồn, tái cấu trúc lập luận và diễn đạt chính xác những sắc thái tinh tế. |
 
-来源：[Council of Europe, CEFR 3.3 Global Scale](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)，访问日期 2026-08-16。上表为便于行动的中文概括，不是官方译文。
+Nguồn: [Council of Europe, CEFR 3.3 Global Scale](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale), ngày truy cập 2026-08-16. Bảng trên là phần khái quát bằng tiếng Trung nhằm thuận tiện cho hành động, không phải bản dịch chính thức.
 
-## 四项能力的快速证据
+## Bằng chứng nhanh cho bốn kỹ năng
 
-选一个与你真实生活相关的主题，完成以下任务。不要查词完成第一版，保存原始样本。
+Chọn một chủ đề liên quan đến đời sống thực tế của bạn và hoàn thành các nhiệm vụ sau. Không tra từ khi hoàn thành bản đầu tiên; hãy lưu lại mẫu gốc.
 
-| 能力 | 10–20 分钟任务 | 检查点 |
+| Kỹ năng | Nhiệm vụ 10–20 phút | Điểm kiểm tra |
 | --- | --- | --- |
-| 听力 | 听 2–4 分钟材料，写下主旨、3 个细节，再复述 | 主旨、细节、语块边界、漏听原因 |
-| 阅读 | 读 600–1000 词文章，写五句摘要和一个质疑 | 主要观点、证据、推断、生词是否妨碍理解 |
-| 口语 | 不读稿录 2 分钟，解释经历、观点或流程 | 可理解度、停顿、语法、词块、任务是否完成 |
-| 写作 | 20 分钟写 180–250 词邮件、说明或短文 | 目的、结构、论证、准确度、修订能力 |
+| Nghe | Nghe tài liệu dài 2–4 phút, viết lại ý chính và 3 chi tiết, sau đó kể lại | Ý chính, chi tiết, ranh giới cụm từ, nguyên nhân bỏ sót khi nghe |
+| Đọc | Đọc bài viết dài 600–1000 từ, viết bản tóm tắt năm câu và một điểm chất vấn | Luận điểm chính, bằng chứng, suy luận, từ mới có cản trở việc hiểu hay không |
+| Nói | Không đọc kịch bản, ghi âm 2 phút để giải thích một trải nghiệm, quan điểm hoặc quy trình | Mức độ dễ hiểu, độ ngập ngừng, ngữ pháp, cụm từ, nhiệm vụ có được hoàn thành hay không |
+| Viết | Viết email, bản giải thích hoặc bài ngắn dài 180–250 từ trong 20 phút | Mục đích, cấu trúc, lập luận, độ chính xác, khả năng chỉnh sửa |
 
-把样本和自评写入 [英语能力诊断](../../templates/english-diagnostic.md)。如果四项差异很大，分别定级，不要强行取平均值。
+Ghi mẫu và tự đánh giá vào [Chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md). Nếu bốn kỹ năng chênh lệch đáng kể, hãy xếp trình độ riêng cho từng kỹ năng, đừng cố lấy giá trị trung bình.
 
-## 别让四项平均分遮住协作能力
+## Đừng để điểm trung bình của bốn kỹ năng che khuất năng lực phối hợp
 
-听、读、说、写是必要的入口，但真实学习和工作还经常要求你把信息交给别人、在异步对话中推进事情，并在误解出现时及时修复。这些是**任务维度**，不是要在 A1–C2 之外再增加一个等级；可以在同一张诊断表里单独保存证据。
+Nghe, đọc, nói và viết là những cánh cửa cần thiết, nhưng trong học tập và công việc thực tế, bạn còn thường xuyên phải truyền đạt thông tin cho người khác, thúc đẩy công việc trong các cuộc trao đổi không đồng bộ và kịp thời khắc phục khi xảy ra hiểu lầm. Đây là **các khía cạnh của nhiệm vụ**, không phải một trình độ mới cần bổ sung ngoài A1–C2; bạn có thể lưu bằng chứng riêng cho chúng trong cùng một bảng chẩn đoán.
 
-| 任务维度 | 10–15 分钟样本 | 通过证据 |
+| Khía cạnh nhiệm vụ | Mẫu 10–15 phút | Bằng chứng đạt |
 | --- | --- | --- |
-| 转述与调解 | 读两段立场不同的短材料，用英文说明各自的主张、差异和仍然未知的地方 | 听众能分清两方观点、你的转述和你的推断，没有把冲突润色成一致 |
-| 在线互动 | 在一个真实或模拟的异步线程里，写一条进展、一个阻塞和下一步 | 对方无需开会就知道谁负责、什么时候继续、还缺什么信息 |
-| 误解修复 | 在对话中请求澄清，再用自己的话复述共识和未决问题 | 对方确认你的复述准确，下一步动作没有因为猜测而改变 |
+| Tường thuật và điều phối | Đọc hai tài liệu ngắn thể hiện các lập trường khác nhau, dùng tiếng Anh để trình bày quan điểm của mỗi bên, điểm khác biệt và những điều vẫn chưa biết | Người nghe phân biệt được quan điểm của hai bên, phần bạn tường thuật và phần bạn suy luận; không tô hồng xung đột thành sự nhất trí |
+| Tương tác trực tuyến | Trong một chuỗi trao đổi không đồng bộ có thật hoặc mô phỏng, viết một cập nhật tiến độ, một trở ngại và bước tiếp theo | Đối phương biết ai phụ trách, khi nào tiếp tục và còn thiếu thông tin gì mà không cần họp |
+| Khắc phục hiểu lầm | Trong cuộc đối thoại, yêu cầu làm rõ, sau đó dùng lời của mình để nhắc lại điểm thống nhất và những vấn đề còn bỏ ngỏ | Đối phương xác nhận phần nhắc lại của bạn là chính xác; hành động tiếp theo không thay đổi vì phỏng đoán |
 
-如果岗位、课程或家庭协作很少涉及其中一项，可以暂时不测；如果它正是现实中的高风险环节，就不要用口语或写作分数替代它。需要更具体的岗位样本时，进入[求职英语篇](8-job-search-english.md)，把这些维度放回真实岗位描述和证据卡。
+Nếu công việc, khóa học hoặc việc phối hợp trong gia đình hiếm khi liên quan đến một khía cạnh nào đó, bạn có thể tạm thời không kiểm tra khía cạnh ấy; nhưng nếu đó chính là mắt xích rủi ro cao trong thực tế, đừng dùng điểm nói hoặc viết để thay thế. Khi cần các mẫu cụ thể hơn cho công việc, hãy vào[Chuyên đề tiếng Anh xin việc](8-job-search-english.md), đưa các khía cạnh này trở lại mô tả công việc thực tế và thẻ bằng chứng.
 
-## 从级别到目标
+## Từ trình độ đến mục tiêu
 
-一个有效目标应同时包含：**场景、任务、质量门槛、期限和证据**。
+Một mục tiêu hiệu quả cần đồng thời bao gồm: **tình huống, nhiệm vụ, ngưỡng chất lượng, thời hạn và bằng chứng**.
 
-> 12 周后，我能在一次 5 分钟工作汇报中说明背景、进展和风险；听众无需切换中文也能复述要点；我保存第 1、4、8、12 周录音和反馈表。
+> Sau 12 tuần, tôi có thể trình bày bối cảnh, tiến độ và rủi ro trong một buổi báo cáo công việc kéo dài 5 phút; người nghe có thể nhắc lại các điểm chính mà không cần chuyển sang tiếng Trung; tôi lưu bản ghi âm và phiếu phản hồi ở tuần 1, 4, 8 và 12.
 
-“从 B1 到 B2”可以作为方向，但不能单独作为训练目标。进阶通常不是匀速的，也无法由学习小时数保证。
+“Tiến từ B1 lên B2” có thể làm định hướng, nhưng không thể tự nó trở thành mục tiêu luyện tập. Sự tiến bộ thường không diễn ra đều đặn và cũng không thể được bảo đảm chỉ bằng số giờ học.
 
-若真实目标是海外岗位或远程面试，不要把 B1、B2 或 C1 写成统一录用线。先进入[求职英语篇](8-job-search-english.md)，用一个真实岗位测试项目说明、陌生追问、互动修复和异步写作，再让分项表现决定下一变量。
+Nếu mục tiêu thực tế là một vị trí ở nước ngoài hoặc phỏng vấn từ xa, đừng viết B1, B2 hay C1 thành một ngưỡng tuyển dụng thống nhất. Trước tiên hãy vào[Chuyên đề tiếng Anh xin việc](8-job-search-english.md), dùng một dự án tuyển dụng thực tế để kiểm tra phần trình bày, câu hỏi truy vấn bất ngờ, khả năng khắc phục khi tương tác và viết không đồng bộ, rồi để kết quả từng phần quyết định biến số tiếp theo.
 
-## 7 天启动
+## Khởi động trong 7 ngày
 
-- 第 1 天：完成四项基线，各保存一个未经修饰的样本。
-- 第 2–5 天：每天选一项，做 25–45 分钟“输入 → 主动回忆 → 输出 → 反馈”。
-- 第 6 天：重复最弱任务，比较同类错误是否减少。
-- 第 7 天：填写 [每周复盘](../../templates/weekly-review.md)，只确定下周一个重点。
+- Ngày 1: Hoàn thành bốn bài kiểm tra đường cơ sở, mỗi kỹ năng lưu một mẫu chưa chỉnh sửa.
+- Ngày 2–5: Mỗi ngày chọn một kỹ năng, thực hiện 25–45 phút theo chu trình “tiếp nhận → nhớ lại chủ động → tạo đầu ra → phản hồi”.
+- Ngày 6: Lặp lại nhiệm vụ yếu nhất, so sánh xem các lỗi cùng loại có giảm hay không.
+- Ngày 7: Điền vào [Ôn tập hằng tuần](../../templates/weekly-review.md), chỉ xác định một trọng tâm cho tuần tiếp theo.
 
-## 30 天建立系统
+## Xây dựng hệ thống trong 30 ngày
 
-- 每周至少完成听、说、读、写各一个可检查任务；重点能力可增加频率。
-- 建立错误分类：理解、词汇/词块、发音、语法、结构、策略、注意力。
-- 每周重做一次旧任务或同难度平行任务，比较表现而不是比较感觉。
-- 第 30 天用同一主题和时长复测，保留前后样本与外部反馈。
+- Mỗi tuần hoàn thành ít nhất một nhiệm vụ có thể kiểm tra cho từng kỹ năng nghe, nói, đọc và viết; có thể tăng tần suất cho kỹ năng trọng tâm.
+- Xây dựng hệ thống phân loại lỗi: hiểu, từ vựng/cụm từ, phát âm, ngữ pháp, cấu trúc, chiến lược, sự chú ý.
+- Mỗi tuần làm lại một nhiệm vụ cũ hoặc một nhiệm vụ song song có độ khó tương đương, so sánh kết quả chứ không so sánh cảm giác.
+- Ngày 30 kiểm tra lại với cùng chủ đề và thời lượng, lưu các mẫu trước và sau cùng phản hồi bên ngoài.
 
-## 12 周完成迁移
+## Hoàn tất việc chuyển giao trong 12 tuần
 
-- 第 1–4 周：建立稳定节奏，任务略低于挫败阈值。
-- 第 5–8 周：增加材料复杂度和时间压力，练习跨主题迁移。
-- 第 9–11 周：模拟真实考试、会议、演讲、阅读或写作交付。
-- 第 12 周：完成最终任务，盲评或请真实读者/听众反馈，决定下一周期。
+- Tuần 1–4: Xây dựng nhịp độ ổn định, với nhiệm vụ thấp hơn một chút so với ngưỡng gây nản.
+- Tuần 5–8: Tăng độ phức tạp của tài liệu và áp lực thời gian, luyện chuyển giao giữa các chủ đề.
+- Tuần 9–11: Mô phỏng việc thi cử, họp, thuyết trình, đọc hoặc bàn giao bài viết trong thực tế.
+- Tuần 12: Hoàn thành nhiệm vụ cuối kỳ, đánh giá mù hoặc xin phản hồi từ độc giả/người nghe thực tế, rồi quyết định chu kỳ tiếp theo.
 
-## 反馈量表
+## Thang đo phản hồi
 
-每项 0–2 分：`0=未完成`，`1=部分完成`，`2=稳定完成`。
+Mỗi mục 0–2 điểm: `0=未完成`, `1=部分完成`, `2=稳定完成`.
 
-1. **任务完成**：信息和意图是否传达？
-2. **可理解度**：对方能否无需猜测地理解？
-3. **准确与范围**：词汇、语法、发音或拼写是否支持任务？
-4. **组织与流畅**：信息是否连贯，停顿是否破坏交流？
-5. **修订与迁移**：收到反馈后能否改进，并在新任务中复用？
+1. **Hoàn thành nhiệm vụ**: Thông tin và ý định có được truyền đạt không?
+2. **Mức độ dễ hiểu**: Đối phương có thể hiểu mà không cần phỏng đoán không?
+3. **Độ chính xác và phạm vi**: Từ vựng, ngữ pháp, phát âm hoặc chính tả có hỗ trợ nhiệm vụ không?
+4. **Tổ chức và độ trôi chảy**: Thông tin có mạch lạc không, sự ngập ngừng có cản trở giao tiếp không?
+5. **Chỉnh sửa và chuyển giao**: Sau khi nhận phản hồi, bạn có thể cải thiện và tái sử dụng trong nhiệm vụ mới không?
 
-总分只用于同一个人的纵向比较，不用于给别人贴标签。
+Tổng điểm chỉ dùng để so sánh theo chiều dọc của cùng một người, không dùng để dán nhãn người khác.
 
-若“准确与范围”持续失分，不要把全部问题统称为“语法差”。先确认错误是否改变时间、参与者、否定、条件或确定性，再用[语法篇](grammar.md)和[语法证据卡](../../templates/grammar-evidence.md)追踪一个会影响任务的结构；低影响偏差可以后置。
+Nếu “độ chính xác và phạm vi” liên tục bị mất điểm, đừng gọi chung mọi vấn đề là “ngữ pháp kém”. Trước tiên hãy xác định lỗi có làm thay đổi thời gian, người tham gia, phủ định, điều kiện hoặc mức độ chắc chắn hay không, sau đó dùng[Chuyên đề ngữ pháp](grammar.md) và[Thẻ bằng chứng ngữ pháp](../../templates/grammar-evidence.md) để theo dõi một cấu trúc có ảnh hưởng đến nhiệm vụ; có thể để các sai lệch ít ảnh hưởng lại xử lý sau.
 
-## 把自测带进下一周期
+## Đưa việc tự đánh giá vào chu kỳ tiếp theo
 
-这张量表只描述一次任务中的表现，不替你宣布已经“达到某个等级”。完成自测后，请把结果带进[证据篇：变化要如何被看见](../part-3/5-evidence-and-transfer.md)：
+Thang đo này chỉ mô tả kết quả thể hiện trong một nhiệm vụ, không thay bạn tuyên bố rằng mình đã “đạt một trình độ nào đó”. Sau khi hoàn thành tự đánh giá, hãy đưa kết quả vào[Chuyên đề bằng chứng: Làm thế nào để nhìn thấy sự thay đổi](../part-3/5-evidence-and-transfer.md):
 
-1. 保存今天的基线，不要用修订后的版本覆盖它；
-2. 练习后记录即时表现，并写下获得了哪些帮助；
-3. 七天后撤掉最近提示，完成一次延迟保持复测；
-4. 三十天或九十天后更换主题、听众或任务，检查是否发生迁移。
+1. Lưu đường cơ sở của hôm nay, đừng dùng bản đã chỉnh sửa để ghi đè lên nó;
+2. Sau khi luyện tập, ghi lại kết quả tức thời và viết ra bạn đã nhận được những hỗ trợ nào;
+3. Sau bảy ngày, bỏ các gợi ý gần đây nhất và thực hiện một lần kiểm tra khả năng duy trì sau trì hoãn;
+4. Sau ba mươi hoặc chín mươi ngày, thay đổi chủ đề, người nghe hoặc nhiệm vụ để kiểm tra xem việc chuyển giao có xảy ra hay không.
 
-如果四项能力差异很大，分别追踪它们的证据链。自测的价值不是给自己一个漂亮的标签，而是让下一次练习拥有可以比较的起点。
+Nếu bốn kỹ năng chênh lệch đáng kể, hãy theo dõi riêng chuỗi bằng chứng của từng kỹ năng. Giá trị của việc tự đánh giá không nằm ở việc tự gắn cho mình một nhãn đẹp, mà ở chỗ giúp lần luyện tập tiếp theo có một điểm xuất phát có thể so sánh.
 
-需要把四个时间点放在同一页时，使用[证据链模板](../../templates/evidence-chain.md)，不要只保留最终分数。
+Khi cần đặt bốn thời điểm trên cùng một trang, hãy sử dụng[Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), đừng chỉ lưu điểm số cuối cùng.
 
-## 结语：级别只是坐标
+## Lời kết: Trình độ chỉ là tọa độ
 
-一个等级可以告诉你，某项任务大概有多远，却不能告诉你为什么要走，也不能替你走。A2、B1 或 C1 都只是某些条件下的表现描述，不是一个人的上限，更不是值得被喜欢、被信任或被看见的资格证。
+Một trình độ có thể cho bạn biết một nhiệm vụ nào đó còn cách bao xa, nhưng không thể cho bạn biết vì sao phải đi, cũng không thể đi thay bạn. A2, B1 hay C1 chỉ là mô tả kết quả thể hiện trong một số điều kiện nhất định, không phải giới hạn của một con người, càng không phải giấy chứng nhận để được yêu mến, tin tưởng hay nhìn nhận.
 
-真正的变化往往比等级安静：第一次听懂陌生人的请求，第一次在会议里说完自己的理由，第一次写出一封不需要对方反复猜测的邮件。它们未必让标签立刻改变，却已经让你与世界之间多了一条可以通行的路。
+Sự thay đổi thực sự thường lặng lẽ hơn một trình độ: lần đầu hiểu được yêu cầu của một người xa lạ, lần đầu nói trọn lý do của mình trong cuộc họp, lần đầu viết được một email mà đối phương không cần liên tục đoán ý. Những điều ấy có thể chưa khiến nhãn trình độ thay đổi ngay lập tức, nhưng đã mở thêm một con đường có thể đi qua giữa bạn và thế giới.
 
-所以请保存今天的分数，也保存今天的笨拙。下一次回来，不是为了证明自己配得上某个字母，而是看见自己已经能把哪一件事做得更完整。坐标的意义，是帮助人找到路，不是把人钉在原地。
+Vì vậy, hãy lưu điểm số của hôm nay, đồng thời cũng lưu lại sự vụng về của hôm nay. Lần sau quay lại, không phải để chứng minh rằng mình xứng đáng với một chữ cái nào đó, mà để thấy mình đã có thể làm một việc nào đó trọn vẹn hơn ra sao. Ý nghĩa của tọa độ là giúp con người tìm thấy con đường, chứ không phải đóng đinh con người tại chỗ.

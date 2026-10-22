@@ -1,106 +1,106 @@
 ---
-title: 选择篇：在不确定中做决定
-description: 用事实、价值、决定权、代价、可逆性和停止门槛整理职业、金钱、关系、健康与 AI 时代的个人选择。
+title: "Phần Lựa chọn: Ra quyết định trong bất định"
+description: Dùng sự thật, giá trị, quyền quyết định, cái giá, khả năng đảo ngược và ngưỡng dừng để sắp xếp các lựa chọn cá nhân về nghề nghiệp, tiền bạc, các mối quan hệ, sức khỏe và thời đại AI.
 updated: 2026-09-03
 ---
 
-# 选择篇：在不确定中做决定
+# Phần Lựa chọn: Ra quyết định trong bất định
 
-人生很少在信息齐全的时候要求我们决定。更多时候，账单已经到期，机会只留给你三天，身体发出含混的信号，一段关系需要回应，而你手里只有一部分事实。
+Cuộc đời hiếm khi yêu cầu chúng ta quyết định khi thông tin đã đầy đủ. Phần lớn thời gian, hóa đơn đã đến hạn, cơ hội chỉ chờ bạn ba ngày, cơ thể phát ra những tín hiệu mơ hồ, một mối quan hệ cần được hồi đáp, còn trong tay bạn chỉ có một phần sự thật.
 
-我曾经把“敢不敢押上全部”误认为勇气，把“已经投入这么多”误认为继续的理由。后来才明白，成熟的选择不是消灭不确定，而是在不确定仍然存在时，知道自己愿意承担哪一种代价，并给下一次修正留下空间。
+Tôi từng nhầm việc “dám đặt cược tất cả hay không” với lòng can đảm, nhầm việc “đã đầu tư nhiều đến thế rồi” với lý do để tiếp tục. Sau này tôi mới hiểu, lựa chọn trưởng thành không phải là xóa bỏ sự bất định, mà là khi bất định vẫn còn đó, biết mình sẵn sàng gánh loại cái giá nào, đồng thời chừa lại không gian cho lần điều chỉnh tiếp theo.
 
-选择也不是一次性证明你是谁。它更像一份暂时的合同：在某些事实和假设下，先做一个决定，约定什么时候回来检查。
+Lựa chọn cũng không phải là một lần duy nhất để chứng minh bạn là ai. Nó giống một bản hợp đồng tạm thời hơn: dựa trên một số sự thật và giả định nhất định, trước hết đưa ra một quyết định, rồi thống nhất thời điểm quay lại kiểm tra.
 
-当一个决定来自一段复杂经历时，可以先用[叙事与证据篇：不把经历写成命运](narrative-and-evidence.md)拆开时间线、事实和事后解释，再回到本章整理选项与代价。
+Khi một quyết định bắt nguồn từ một trải nghiệm phức tạp, có thể bắt đầu với[Phần Tường thuật và Bằng chứng: Không viết trải nghiệm thành số phận](narrative-and-evidence.md)tách riêng dòng thời gian, sự thật và cách lý giải sau sự việc, rồi quay lại chương này để sắp xếp các lựa chọn và cái giá.
 
-## 本章速览
+## Tóm lược chương
 
-- 把事实、解释和愿望分开，避免用情绪替代信息；
-- 区分“还缺信息”和“价值正在冲突”，不让更多分析假装能够消除取舍；
-- 先判断选择是否可逆，再决定需要多快、多少证据；
-- 用最小实验替代“想清楚一切”之后才开始；
-- 把金钱、健康、关系和责任放进同一张代价表，写清决定权和承担者；
-- 提前写下暂停、停止与回滚信号，防止投入之后不断移动门槛；
-- 决定之后留下记录，让未来的自己可以复盘，而不是只凭结果审判过去。
+- Tách sự thật, cách lý giải và mong muốn ra khỏi nhau, tránh dùng cảm xúc thay cho thông tin;
+- Phân biệt “vẫn còn thiếu thông tin” với “các giá trị đang xung đột”, không để việc phân tích thêm giả vờ có thể xóa bỏ sự đánh đổi;
+- Trước hết đánh giá lựa chọn có thể đảo ngược hay không, rồi mới quyết định cần nhanh đến mức nào và cần bao nhiêu bằng chứng;
+- Dùng thử nghiệm tối thiểu thay cho việc chỉ bắt đầu sau khi đã “suy nghĩ thấu đáo mọi thứ”;
+- Đặt tiền bạc, sức khỏe, các mối quan hệ và trách nhiệm vào cùng một bảng cái giá, ghi rõ ai có quyền quyết định và ai là người gánh chịu;
+- Viết trước các tín hiệu tạm dừng, dừng hẳn và quay lui, ngăn việc liên tục dời ngưỡng sau khi đã đầu tư;
+- Để lại ghi chép sau khi quyết định, để bản thân trong tương lai có thể nhìn lại, thay vì chỉ phán xét quá khứ dựa trên kết quả.
 
-### 让信心决定动作大小
+### Để mức độ tự tin quyết định quy mô hành động
 
-不要把“我很有信心”当成一个数字。至少把它拆成三件事：事实是否可靠、关键假设是否被验证、选择是否容易撤回。三者不同，行动力度也应该不同。
+Đừng xem “tôi rất tự tin” là một con số. Ít nhất hãy tách nó thành ba việc: sự thật có đáng tin không, các giả định then chốt đã được kiểm chứng chưa, và lựa chọn có dễ rút lại không. Ba điều này khác nhau, nên mức độ hành động cũng cần khác nhau.
 
-| 事实把握 | 假设把握 | 可逆性 | 更合适的下一步 |
+| Mức độ chắc chắn về sự thật | Mức độ chắc chắn về giả định | Khả năng đảo ngược | Bước tiếp theo phù hợp hơn |
 | --- | --- | --- | --- |
-| 高 | 低 | 高 | 做一个小实验，尽快获得信息 |
-| 高 | 低 | 低 | 延长冷静期，征求相关专业意见，先不扩大承诺 |
-| 低 | 高 | 高 | 先补来源或样本，不把直觉当事实 |
-| 低 | 低 | 低 | 暂停高风险动作，保护安全、现金和关系边界 |
+| Cao | Thấp | Cao | Làm một thử nghiệm nhỏ để nhanh chóng thu thập thông tin |
+| Cao | Thấp | Thấp | Kéo dài thời gian bình tĩnh, xin ý kiến chuyên môn liên quan, trước mắt không mở rộng cam kết |
+| Thấp | Cao | Cao | Bổ sung nguồn hoặc mẫu, không coi trực giác là sự thật |
+| Thấp | Thấp | Thấp | Tạm dừng hành động rủi ro cao, bảo vệ sự an toàn, tiền mặt và ranh giới trong các mối quan hệ |
 
-这不是计算器，也不是替你做决定的评分表。它只提醒你：未知越贵、越难撤回，就越需要把动作缩小，把证据做厚。
+Đây không phải máy tính, cũng không phải bảng chấm điểm để quyết định thay bạn. Nó chỉ nhắc bạn rằng: điều chưa biết càng đắt giá và càng khó đảo ngược, bạn càng cần thu nhỏ hành động và làm dày bằng chứng.
 
-## 1. 先写事实，再写故事
+## 1. Viết sự thật trước, rồi mới viết câu chuyện
 
-人在压力下很容易把事实和解释混在一起：
+Khi chịu áp lực, con người rất dễ trộn lẫn sự thật với cách lý giải:
 
-> “这个项目一定会成功，因为我们已经投入了很多。”
+> “Dự án này nhất định sẽ thành công, vì chúng ta đã đầu tư rất nhiều.”
 
-其中“投入了很多”是事实，“一定会成功”是推断，真正没有被回答的是“接下来什么证据会支持或推翻它”。
+“Đã đầu tư rất nhiều” là sự thật, “nhất định sẽ thành công” là một suy luận; điều thực sự chưa được trả lời là “bằng chứng nào tiếp theo sẽ ủng hộ hoặc bác bỏ điều đó”.
 
-面对重要选择，先写三栏：
+Đối diện với một lựa chọn quan trọng, trước hết hãy viết thành ba cột:
 
-| 事实 | 我的解释 | 仍然未知 |
+| Sự thật | Cách tôi lý giải | Điều vẫn chưa biết |
 | --- | --- | --- |
-| 已经投入的时间、钱和人力 | 继续投入可以挽回损失 | 用户是否愿意持续付费 |
-| 医生目前排除的风险 | 我应该立刻恢复原来的工作量 | 症状为何持续、下一步如何评估 |
-| 对方明确说出的边界 | 再解释一次就能改变结果 | 对方未来是否愿意重新沟通 |
+| Thời gian, tiền bạc và nhân lực đã đầu tư | Tiếp tục đầu tư có thể thu hồi tổn thất | Người dùng có sẵn sàng tiếp tục trả tiền không |
+| Những rủi ro hiện đã được bác sĩ loại trừ | Tôi nên lập tức quay lại khối lượng công việc trước đây | Vì sao triệu chứng vẫn kéo dài, bước đánh giá tiếp theo là gì |
+| Ranh giới đối phương đã nói rõ | Giải thích thêm một lần nữa có thể thay đổi kết quả | Sau này đối phương có sẵn sàng trao đổi lại không |
 
-把未知写出来，不会让选择变得更轻松，却会阻止想象偷偷冒充证据。
+Viết ra những điều chưa biết sẽ không khiến lựa chọn trở nên nhẹ nhàng hơn, nhưng sẽ ngăn trí tưởng tượng lén giả dạng bằng chứng.
 
-## 2. 先判断：缺信息，还是价值冲突
+## 2. Trước hết hãy xác định: thiếu thông tin hay xung đột giá trị
 
-有些选择难，是因为事实还不够；另一些选择难，是因为两个都重要的东西无法同时保全。前者需要调查和实验，后者需要承认取舍。把价值冲突写成信息不足，会让人不断搜集材料，却始终不肯说出自己准备放弃什么。
+Có những lựa chọn khó vì sự thật vẫn chưa đủ; cũng có những lựa chọn khó vì hai điều đều quan trọng nhưng không thể đồng thời bảo toàn. Trường hợp trước cần điều tra và thử nghiệm; trường hợp sau cần thừa nhận sự đánh đổi. Biến xung đột giá trị thành tình trạng thiếu thông tin sẽ khiến người ta không ngừng thu thập tài liệu nhưng mãi không chịu nói ra mình chuẩn bị từ bỏ điều gì.
 
-| 困难类型 | 典型问题 | 更合适的动作 |
+| Loại khó khăn | Câu hỏi điển hình | Hành động phù hợp hơn |
 | --- | --- | --- |
-| 事实不确定 | 合同期限、真实价格、医生已经排除什么 | 回到原始文件或相关专业人员核验 |
-| 结果不确定 | 用户会不会续费、换工作后能否适应 | 做有限实验，写下预测和复查日期 |
-| 价值冲突 | 收入与陪伴、速度与隐私、增长与健康 | 排出优先级，承认每个选项会失去什么 |
-| 身份防卫 | “停止就证明我不是那种能坚持的人” | 把人格判断移出表格，重新检查现实任务 |
+| Sự thật không chắc chắn | Thời hạn hợp đồng, giá thực tế, bác sĩ đã loại trừ những gì | Quay lại tài liệu gốc hoặc xác minh với chuyên gia liên quan |
+| Kết quả không chắc chắn | Người dùng có gia hạn không, liệu có thích nghi được sau khi đổi việc không | Làm thử nghiệm có giới hạn, ghi lại dự đoán và ngày kiểm tra lại |
+| Xung đột giá trị | Thu nhập và sự hiện diện bên gia đình, tốc độ và quyền riêng tư, tăng trưởng và sức khỏe | Xếp hạng ưu tiên, thừa nhận mỗi lựa chọn sẽ khiến ta mất đi điều gì |
+| Phòng vệ bản sắc | “Nếu dừng lại thì chứng tỏ tôi không phải kiểu người có thể kiên trì” | Đưa phán xét về nhân cách ra khỏi bảng, kiểm tra lại nhiệm vụ thực tế |
 
-可以问自己两个问题：
+Bạn có thể tự hỏi hai câu:
 
-1. 如果明天得到一条可靠事实，我的选择可能改变吗？如果会，先补信息。
-2. 如果所有事实都已清楚，我是否仍会痛苦？如果会，眼前更可能是价值排序，而不是资料不足。
+1. Nếu ngày mai nhận được một sự thật đáng tin, lựa chọn của tôi có thể thay đổi không? Nếu có, hãy bổ sung thông tin trước.
+2. Nếu mọi sự thật đã rõ ràng, tôi vẫn đau khổ chứ? Nếu có, vấn đề trước mắt nhiều khả năng là sắp xếp thứ tự giá trị, chứ không phải thiếu tài liệu.
 
-价值不是一句适合公开展示的口号。它要进入代价：如果我说家庭重要，哪一段时间不再被项目无限占用？如果我说隐私重要，哪个增长机会即使有效也不会使用？如果我说健康重要，哪个身体信号一出现就会降低强度？
+Giá trị không phải là một khẩu hiệu phù hợp để trưng ra trước công chúng. Nó phải đi vào cái giá: nếu tôi nói gia đình quan trọng, khoảng thời gian nào sẽ không còn bị dự án chiếm dụng vô hạn? Nếu tôi nói quyền riêng tư quan trọng, cơ hội tăng trưởng nào dù hiệu quả đến đâu tôi cũng sẽ không sử dụng? Nếu tôi nói sức khỏe quan trọng, tín hiệu nào từ cơ thể xuất hiện là tôi sẽ lập tức giảm cường độ?
 
-没有一种排序可以让所有损失消失。成熟不是找到“毫无代价的正确答案”，而是不再让代价躲在决定之后。
+Không có cách sắp xếp nào có thể khiến mọi tổn thất biến mất. Trưởng thành không phải là tìm ra “đáp án đúng không phải trả giá”, mà là không còn để cái giá ẩn sau quyết định.
 
-## 3. 先判断可逆性
+## 3. Trước hết hãy xác định khả năng đảo ngược
 
-不是每个选择都值得同样长的讨论。可以先问：**如果结果不好，我能否在合理成本内撤回？**
+Không phải lựa chọn nào cũng đáng để thảo luận trong cùng một khoảng thời gian. Trước hết có thể hỏi: **Nếu kết quả xấu, tôi có thể rút lại với một cái giá hợp lý không?**
 
-- **高度可逆**：换一本教材、试一个两周的工具、安排一次访谈；
-- **部分可逆**：接受一份工作、签一个短期合同、搬到另一座城市；
-- **低度可逆**：大额借贷、出售重要资产、公开伤害他人的指控、严重影响健康的长期安排。
+- **Khả năng đảo ngược cao**: đổi một cuốn giáo trình, thử một công cụ trong hai tuần, sắp xếp một cuộc phỏng vấn;
+- **Có thể đảo ngược một phần**: nhận một công việc, ký hợp đồng ngắn hạn, chuyển đến một thành phố khác;
+- **Khả năng đảo ngược thấp**: vay một khoản lớn, bán tài sản quan trọng, công khai cáo buộc gây tổn hại cho người khác, sắp xếp dài hạn ảnh hưởng nghiêm trọng đến sức khỏe.
 
-可逆的选择应该更快进入实验；不可逆的选择应该增加冷静期、第二意见、书面边界和退出方案。所谓果断，不是所有事情都立刻拍板，而是知道哪些事情不该被冲动决定。
+Những lựa chọn có thể đảo ngược nên nhanh chóng chuyển sang giai đoạn thử nghiệm; những lựa chọn khó đảo ngược nên có thêm thời gian bình tĩnh, ý kiến thứ hai, ranh giới bằng văn bản và phương án rút lui. Quyết đoán không có nghĩa là lập tức chốt mọi việc, mà là biết việc gì không nên được quyết định trong lúc bốc đồng.
 
-## 4. 用最小实验替代豪赌
+## 4. Dùng thử nghiệm tối thiểu thay cho canh bạc lớn
 
-“做不做”常常不是唯一选项。更好的问题是：**我能否先用一小段时间和资源，买到下一条重要信息？**
+“Có làm hay không” thường không phải là lựa chọn duy nhất. Câu hỏi tốt hơn là: **Tôi có thể dùng một khoảng thời gian và nguồn lực nhỏ trước để mua lấy thông tin quan trọng tiếp theo không?**
 
-例如：
+Ví dụ:
 
-- 不要先投入半年开发完整产品，先用一周做一个能被三位目标用户试用的切片；
-- 不要先辞职证明决心，先用两周完成一项真实副业交付，观察自己是否愿意继续；
-- 不要先买十门课程，先完成一个任务，确认真正缺的是知识、反馈还是时间；
-- 不要先让 AI 生成完整方案，先让它列出假设，再由你设计一个能推翻方案的测试。
+- Đừng đầu tư nửa năm trước để phát triển một sản phẩm hoàn chỉnh; hãy dành một tuần làm một phần sản phẩm mà ba người dùng mục tiêu có thể thử;
+- Đừng nghỉ việc trước để chứng minh quyết tâm; hãy hoàn thành một sản phẩm phụ thực tế trong hai tuần, quan sát xem mình có muốn tiếp tục không;
+- Đừng mua mười khóa học trước; hãy hoàn thành một nhiệm vụ để xác định thứ thực sự còn thiếu là kiến thức, phản hồi hay thời gian;
+- Đừng để AI tạo ra một phương án hoàn chỉnh ngay từ đầu; hãy để nó liệt kê các giả định trước, rồi tự thiết kế một phép thử có thể bác bỏ phương án đó.
 
-最小实验不是胆小，而是把昂贵的未知拆成可以承受的未知。
+Thử nghiệm tối thiểu không phải là nhút nhát, mà là chia điều chưa biết đắt giá thành những phần chưa biết có thể chịu đựng được.
 
-## 5. 一页决策简报
+## 5. Bản tóm tắt quyết định một trang
 
-重要决定可以写成一页，不需要把所有可能性都分析完：
+Có thể viết một quyết định quan trọng trên một trang, không cần phân tích hết mọi khả năng:
 
 ```markdown
 # 决策简报 — YYYY-MM-DD
@@ -132,132 +132,132 @@ updated: 2026-09-03
 决定之后留下的证据：
 ```
 
-也可以复制[生活进阶工作表](../../templates/life-practice-toolkit.md)中的选择简报，把事实、成本、停止条件和复查日期保存到私有记录。
+Bạn cũng có thể sao chép[Bảng tính tiến bộ trong cuộc sống](../../templates/life-practice-toolkit.md)bản tóm tắt quyết định trong đó, lưu sự thật, chi phí, điều kiện dừng và ngày kiểm tra lại vào ghi chép riêng tư.
 
-“暂不行动”必须是一个正式选项。它不等于逃避，而是承认有些信息还没有值得支付的价格。
+“Chưa hành động” cũng phải là một lựa chọn chính thức. Điều đó không đồng nghĩa với trốn tránh, mà là thừa nhận rằng một số thông tin vẫn chưa đáng để trả giá.
 
-## 6. 四张代价表
+## 6. Bốn bảng cái giá
 
-只看收益的选择，通常会把代价转嫁给未来的自己或身边的人。至少检查四类成本：
+Những lựa chọn chỉ nhìn vào lợi ích thường sẽ chuyển cái giá sang cho bản thân tương lai hoặc những người xung quanh. Ít nhất hãy kiểm tra bốn loại chi phí:
 
-### 金钱
+### Tiền bạc
 
-除了购买或开发成本，还要算维护、返工、学习时间、机会成本和最坏情况下的退出成本。现金流紧张时，先保护生活必需和家庭责任，再谈扩大风险。
+Ngoài chi phí mua hoặc phát triển, còn phải tính chi phí bảo trì, làm lại, thời gian học, chi phí cơ hội và chi phí rút lui trong trường hợp xấu nhất. Khi dòng tiền eo hẹp, trước hết hãy bảo vệ các nhu cầu thiết yếu của cuộc sống và trách nhiệm gia đình, rồi mới nói đến việc mở rộng rủi ro.
 
-### 健康
+### Sức khỏe
 
-熬夜、长期疼痛、持续焦虑和没有恢复时间，都应该出现在计划表里。一个必须靠身体持续恶化才能成立的方案，不是高强度，而是设计失败。
+Thức khuya, đau đớn kéo dài, lo âu dai dẳng và không có thời gian phục hồi đều nên xuất hiện trong kế hoạch. Một phương án chỉ có thể tồn tại nhờ cơ thể không ngừng xấu đi không phải là cường độ cao, mà là thiết kế thất bại.
 
-### 关系
+### Các mối quan hệ
 
-谁会因为我的决定承担额外的不确定？我是否提前说清楚边界、时间和最坏结果？不要用“大家都支持我”替代具体的知情和同意。
+Ai sẽ phải gánh thêm sự bất định vì quyết định của tôi? Tôi đã nói rõ trước về ranh giới, thời gian và kết quả tệ nhất chưa? Đừng dùng “mọi người đều ủng hộ tôi” để thay thế cho sự hiểu biết đầy đủ và đồng thuận cụ thể.
 
-### 责任
+### Trách nhiệm
 
-如果结果不好，谁能暂停、通知、补救和承担后果？AI 可以帮你列选项，却不能替你签字、道歉或承诺。
+Nếu kết quả xấu, ai có thể tạm dừng, thông báo, khắc phục và gánh hậu quả? AI có thể giúp bạn liệt kê các lựa chọn, nhưng không thể thay bạn ký tên, xin lỗi hay cam kết.
 
-## 7. 把决定权、影响和执行分开
+## 7. Tách quyền quyết định, ảnh hưởng và việc thực thi
 
-一项决定可能由一个人提出、另一个人批准、第三个人执行，却让更多人承担后果。只写“我们决定了”，很容易把权力和责任藏进一个模糊的主语。
+Một quyết định có thể do một người đề xuất, người khác phê duyệt, người thứ ba thực hiện, nhưng lại khiến nhiều người hơn phải gánh hậu quả. Chỉ viết “chúng ta đã quyết định” rất dễ che giấu quyền lực và trách nhiệm trong một chủ thể mơ hồ.
 
-| 角色 | 必须回答的问题 |
+| Vai trò | Câu hỏi phải trả lời |
 | --- | --- |
-| 提议者 | 我提供了哪些事实，也隐去了哪些代价？ |
-| 决定者 | 我是否真的有权决定，还是需要他人的明确同意？ |
-| 受影响者 | 谁会失去时间、金钱、安全、隐私或选择空间？ |
-| 执行者 | 谁实际完成工作，是否拥有资源和拒绝不合理任务的通道？ |
-| 复查者 | 谁在什么日期查看证据，并有权暂停或升级问题？ |
+| Người đề xuất | Tôi đã cung cấp những sự thật nào, và đã che giấu những cái giá nào? |
+| Người quyết định | Tôi có thực sự có quyền quyết định không, hay cần sự đồng ý rõ ràng của người khác? |
+| Người bị ảnh hưởng | Ai sẽ mất thời gian, tiền bạc, sự an toàn, quyền riêng tư hoặc không gian lựa chọn? |
+| Người thực hiện | Ai thực sự hoàn thành công việc, họ có đủ nguồn lực và kênh từ chối nhiệm vụ bất hợp lý không? |
+| Người kiểm tra lại | Ai sẽ xem xét bằng chứng vào ngày nào, và có quyền tạm dừng hoặc nâng mức xử lý vấn đề? |
 
-意见多，不等于责任被平均分配。征求十个人的建议，最后签字的人仍要说明为什么采纳；团队投票，也不能替代客户授权、数据主体同意、劳动边界或一个人对自己身体和关系的决定。
+Nhiều ý kiến không có nghĩa là trách nhiệm được chia đều. Tham khảo ý kiến của mười người, người cuối cùng ký tên vẫn phải giải thích vì sao mình tiếp thu; bỏ phiếu trong nhóm cũng không thể thay thế sự ủy quyền của khách hàng, sự đồng ý của chủ thể dữ liệu, ranh giới lao động hoặc quyết định của một người về cơ thể và các mối quan hệ của chính mình.
 
-受影响者也不一定对所有事情拥有否决权，但影响必须进入决定。共同资金、共同照护、公开他人隐私和会改变基本安全的安排，不能用“这是我的人生”抹去他人的实际承担。反过来，家人、管理者或出资者受到影响，也不因此自动拥有另一个成年人的全部选择权。
+Người bị ảnh hưởng cũng không nhất thiết có quyền phủ quyết mọi việc, nhưng ảnh hưởng của họ phải được đưa vào quyết định. Tiền dùng chung, việc chăm sóc chung, công khai quyền riêng tư của người khác và những sắp xếp làm thay đổi sự an toàn căn bản không thể dùng câu “đây là cuộc đời của tôi” để xóa bỏ phần gánh chịu thực tế của người khác. Ngược lại, việc người thân, quản lý hoặc nhà đầu tư bị ảnh hưởng cũng không tự động trao cho họ toàn bộ quyền lựa chọn của một người trưởng thành khác.
 
-权力不对等时，回到[关系篇：在关系中成为成年人](relationships.md)检查拒绝是否安全、同意是否具体且可撤回。一个人只有在可以说“不”而不立刻失去基本安全时，参与才更接近真实选择。
+Khi quyền lực không cân bằng, hãy quay lại[Phần Quan hệ: Trở thành người trưởng thành trong các mối quan hệ](relationships.md)kiểm tra xem việc từ chối có an toàn không, sự đồng thuận có cụ thể và có thể rút lại không. Một người chỉ thực sự tham gia vào lựa chọn khi họ có thể nói “không” mà không lập tức mất đi sự an toàn căn bản.
 
-## 8. 不要用结果审判当时的决定
+## 8. Đừng dùng kết quả để phán xét quyết định lúc đó
 
-一个决定后来成功，不代表当时的判断没有运气；一个决定后来失败，也不代表当时所有信息都不值得相信。
+Một quyết định về sau thành công không có nghĩa là phán đoán khi ấy không nhờ may mắn; một quyết định về sau thất bại cũng không có nghĩa là mọi thông tin lúc đó đều không đáng tin.
 
-复盘时把问题拆成四个时间点：
+Khi nhìn lại, hãy tách câu hỏi thành bốn mốc thời gian:
 
-1. 当时知道什么？
-2. 当时不知道什么？
-3. 哪个假设被事实支持或推翻？
-4. 下一次在更早的哪一个节点可以获得信息？
+1. Khi đó tôi biết gì?
+2. Khi đó tôi chưa biết gì?
+3. Giả định nào được sự thật ủng hộ hoặc bác bỏ?
+4. Lần sau, ở thời điểm sớm hơn nào tôi có thể thu thập được thông tin?
 
-这样复盘，失败才有机会变成方法，成功也不会被误读成万能公式。
+Nhìn lại theo cách này, thất bại mới có cơ hội biến thành phương pháp, còn thành công cũng sẽ không bị hiểu sai thành công thức vạn năng.
 
-## 9. 把停止条件写成能被看见的信号
+## 9. Viết điều kiện dừng thành những tín hiệu có thể nhìn thấy
 
-“情况不好就停”不是停止条件。投入开始以后，坏消息很容易被解释成暂时波动，截止日期被一次次延长，原本的验证被换成更容易通过的指标。
+“Không ổn thì dừng” không phải là điều kiện dừng. Sau khi bắt đầu đầu tư, tin xấu rất dễ bị giải thích là biến động tạm thời, thời hạn liên tục được kéo dài, còn việc kiểm chứng ban đầu bị thay bằng những chỉ số dễ đạt hơn.
 
-在行动前写下四类门槛：
+Trước khi hành động, hãy viết ra bốn loại ngưỡng:
 
-| 门槛 | 可观察信号 | 对应动作 |
+| Ngưỡng | Tín hiệu có thể quan sát | Hành động tương ứng |
 | --- | --- | --- |
-| 证据门槛 | 到复查日仍没有约定数量的真实试用、付款或独立完成样本 | 停止扩张，复查问题与假设 |
-| 成本门槛 | 连续两周超过时间预算，现金低于安全线，或返工吞掉主要产出 | 降档、暂停或缩小范围 |
-| 安全门槛 | 持续失眠、疼痛、威胁、数据泄露或无法安全拒绝 | 立即暂停高风险动作并寻求相关支持 |
-| 责任门槛 | 无人负责故障、退款、说明、照护或退出后的交接 | 不进入下一阶段 |
+| Ngưỡng bằng chứng | Đến ngày kiểm tra lại vẫn chưa có số lượng lượt dùng thử thực tế, khoản thanh toán hoặc mẫu hoàn thành độc lập như đã thống nhất | Dừng mở rộng, kiểm tra lại vấn đề và các giả định |
+| Ngưỡng chi phí | Vượt ngân sách thời gian trong hai tuần liên tiếp, tiền mặt thấp hơn mức an toàn, hoặc việc làm lại nuốt chửng phần lớn thành quả | Hạ cấp, tạm dừng hoặc thu hẹp phạm vi |
+| Ngưỡng an toàn | Mất ngủ kéo dài, đau đớn, đe dọa, rò rỉ dữ liệu hoặc không thể từ chối một cách an toàn | Lập tức tạm dừng hành động rủi ro cao và tìm kiếm hỗ trợ phù hợp |
+| Ngưỡng trách nhiệm | Không ai chịu trách nhiệm về sự cố, hoàn tiền, giải trình, chăm sóc hoặc bàn giao sau khi rút lui | Không bước vào giai đoạn tiếp theo |
 
-四个动作不要混在一起：
+Đừng trộn lẫn bốn hành động:
 
-- **暂停**：暂时停止，先补安全、信息或资源；
-- **停止**：结束这条路径，不再用新投入维护旧承诺；
-- **回滚**：恢复到上一个可运行、可承担的状态；
-- **复查**：在约定日期根据同一组证据决定继续、修改或关闭。
+- **Tạm dừng**: tạm thời dừng lại, trước hết bổ sung sự an toàn, thông tin hoặc nguồn lực;
+- **Dừng hẳn**: kết thúc con đường này, không tiếp tục dùng đầu tư mới để duy trì cam kết cũ;
+- **Quay lui**: trở về trạng thái trước đó có thể vận hành và gánh chịu được;
+- **Kiểm tra lại**: vào ngày đã thống nhất, dựa trên cùng một nhóm bằng chứng để quyết định tiếp tục, điều chỉnh hay đóng lại.
 
-门槛可以因新事实调整，但调整也要留下日期、证据和责任人。不要等门槛被触发之后才把它改名为“只是过程的一部分”。
+Ngưỡng có thể được điều chỉnh bởi sự thật mới, nhưng việc điều chỉnh cũng phải để lại ngày tháng, bằng chứng và người chịu trách nhiệm. Đừng chờ đến khi ngưỡng bị chạm tới mới đổi tên nó thành “chỉ là một phần của quá trình”.
 
-## 10. AI 可以参与，但不能成为神谕
+## 10. AI có thể tham gia, nhưng không thể trở thành lời sấm
 
-让 AI 参与选择时，先划定它的角色：
+Khi để AI tham gia vào lựa chọn, trước hết hãy xác định vai trò của nó:
 
-- **整理者**：把散乱事实、选项和问题排成结构；
-- **反方**：主动寻找反例、遗漏和最坏情况；
-- **模拟者**：扮演客户、同事、读者或审阅人，提出追问；
-- **记录者**：保存假设、决定、证据和复查日期。
+- **Người sắp xếp**: cấu trúc hóa các sự thật, lựa chọn và câu hỏi rời rạc;
+- **Người phản biện**: chủ động tìm kiếm phản ví dụ, điểm bỏ sót và tình huống xấu nhất;
+- **Người mô phỏng**: đóng vai khách hàng, đồng nghiệp, độc giả hoặc người đánh giá để đặt câu hỏi tiếp nối;
+- **Người ghi chép**: lưu lại các giả định, quyết định, bằng chứng và ngày kiểm tra lại.
 
-不要让 AI 直接回答“我该不该辞职”“这个项目值不值得投”“这段关系要不要继续”。这些问题的事实、责任和价值排序属于你，工具最多帮助你把问题问得更清楚。
+Đừng để AI trực tiếp trả lời “tôi có nên nghỉ việc không”, “dự án này có đáng đầu tư không”, “mối quan hệ này có nên tiếp tục không”. Sự thật, trách nhiệm và thứ tự giá trị của những câu hỏi này thuộc về bạn; công cụ nhiều nhất chỉ có thể giúp bạn đặt câu hỏi rõ ràng hơn.
 
-可以这样提示：
+Có thể nhắc AI như sau:
 
-> 下面是我的事实、限制和三个选项。不要替我做决定。请先区分事实、推断和价值偏好，再列出每个选项最可能的收益、代价、未知项和一个能在两周内完成的验证。明确哪些结论需要专业人士或原始来源确认。
+> Dưới đây là sự thật, các giới hạn và ba lựa chọn của tôi. Đừng quyết định thay tôi. Trước tiên hãy phân biệt sự thật, suy luận và ưu tiên giá trị, sau đó liệt kê lợi ích, cái giá, điều chưa biết có khả năng xảy ra nhất của từng lựa chọn, cùng một phép kiểm chứng có thể hoàn thành trong hai tuần. Nêu rõ kết luận nào cần chuyên gia hoặc nguồn gốc xác nhận.
 
-再让 AI 回答三个反向问题：它根据什么假设给每个选项排序；什么证据会让排序改变；哪些受影响者和不可逆后果没有出现在输入里。模型写得越肯定，越需要把缺失条件重新放回桌面。
+Sau đó hãy yêu cầu AI trả lời ba câu hỏi ngược: nó dựa trên giả định nào để xếp hạng từng lựa chọn; bằng chứng nào sẽ khiến thứ hạng thay đổi; những người bị ảnh hưởng và hậu quả không thể đảo ngược nào chưa xuất hiện trong đầu vào. Mô hình viết càng chắc chắn, bạn càng cần đưa các điều kiện còn thiếu trở lại bàn.
 
-## 11. 七天决策整理
+## 11. Sắp xếp quyết định trong bảy ngày
 
-当你被一个决定反复占据注意力时，做一次七天整理：
+Khi một quyết định liên tục chiếm lấy sự chú ý của bạn, hãy thực hiện một lần sắp xếp trong bảy ngày:
 
-1. **第 1 天**：只写事实和截止时间，不做结论；
-2. **第 2 天**：区分缺信息、结果不确定、价值冲突和身份防卫；
-3. **第 3 天**：列出至少三个选项，包括暂不行动，并标注不可谈判的底线；
-4. **第 4 天**：写清决定者、受影响者、执行者和复查者，找一位真正相关的人核对遗漏；
-5. **第 5 天**：标注可逆性，设计一个有时间与成本上限的最小实验；
-6. **第 6 天**：用 AI 扮演反方，寻找遗漏的事实、承担者和推翻证据；
-7. **第 7 天**：做决定，写下复查日期以及可观察的暂停、停止和回滚条件。
+1. **Ngày 1**: chỉ viết sự thật và thời hạn, không đưa ra kết luận;
+2. **Ngày 2**: phân biệt thiếu thông tin, kết quả không chắc chắn, xung đột giá trị và phòng vệ bản sắc;
+3. **Ngày 3**: liệt kê ít nhất ba lựa chọn, bao gồm cả việc chưa hành động, và đánh dấu những giới hạn không thể thương lượng;
+4. **Ngày 4**: viết rõ người quyết định, người bị ảnh hưởng, người thực hiện và người kiểm tra lại; tìm một người thực sự liên quan để kiểm tra những điểm bỏ sót;
+5. **Ngày 5**: đánh dấu khả năng đảo ngược, thiết kế một thử nghiệm tối thiểu có giới hạn về thời gian và chi phí;
+6. **Ngày 6**: dùng AI đóng vai người phản biện, tìm kiếm những sự thật, người gánh chịu và bằng chứng bác bỏ còn bị bỏ sót;
+7. **Ngày 7**: đưa ra quyết định, ghi lại ngày kiểm tra lại cùng các điều kiện tạm dừng, dừng hẳn và quay lui có thể quan sát được.
 
-七天之后仍然可以选择等待，但等待必须有下一条信息和一个明确日期，而不是无限期拖延。
+Sau bảy ngày, bạn vẫn có thể chọn chờ đợi, nhưng chờ đợi phải gắn với thông tin tiếp theo và một ngày cụ thể, chứ không phải trì hoãn vô thời hạn.
 
-## 12. 一个好决定的阶段性标准
+## 12. Tiêu chuẩn theo từng giai đoạn của một quyết định tốt
 
-好决定不一定带来好结果，但它应该具备这些特征：
+Một quyết định tốt không nhất thiết mang lại kết quả tốt, nhưng nó nên có những đặc điểm sau:
 
-- 事实和假设被分开记录；
-- 信息不足与价值冲突没有被混为一谈；
-- 决定权、受影响者、执行者和复查者被分别写清；
-- 受影响的人知道边界和代价，需要同意的事项获得了真实同意；
-- 可逆与不可逆部分被区别对待；
-- 先用小实验购买信息，而不是用豪赌掩盖未知；
-- 暂停、停止、回滚和求助由可观察信号触发，而不是临时心情；
-- 写明什么证据会推翻当前选择；
-- 未来可以根据新证据修正，而不必维护“我当初绝不会错”的形象。
+- Sự thật và giả định được ghi lại riêng biệt;
+- Thiếu thông tin và xung đột giá trị không bị trộn lẫn;
+- Quyền quyết định, người bị ảnh hưởng, người thực hiện và người kiểm tra lại được viết rõ riêng rẽ;
+- Những người bị ảnh hưởng biết ranh giới và cái giá; các việc cần đồng ý đã nhận được sự đồng ý thực chất;
+- Phần có thể đảo ngược và phần không thể đảo ngược được đối xử khác nhau;
+- Trước hết dùng thử nghiệm nhỏ để mua thông tin, thay vì dùng canh bạc lớn che giấu điều chưa biết;
+- Việc tạm dừng, dừng hẳn, quay lui và tìm kiếm hỗ trợ được kích hoạt bởi các tín hiệu có thể quan sát, không phải cảm xúc nhất thời;
+- Ghi rõ bằng chứng nào sẽ bác bỏ lựa chọn hiện tại;
+- Trong tương lai có thể điều chỉnh theo bằng chứng mới mà không cần duy trì hình ảnh “tôi chưa từng có thể sai”.
 
-选择的成熟，不在于永远选对，而在于越来越早看见自己正在用什么代价购买什么结果。
+Sự trưởng thành trong lựa chọn không nằm ở việc luôn chọn đúng, mà ở chỗ ngày càng sớm nhìn thấy mình đang dùng cái giá nào để mua lấy kết quả nào.
 
-## 结语：让选择留下回来的路
+## Lời kết: Để lựa chọn chừa lại con đường quay về
 
-我仍然会做错决定，也仍然会在压力里高估自己的清醒。不同的是，我现在愿意把决定写下来，给它一个边界、一个实验和一个复查日期。
+Tôi vẫn sẽ đưa ra những quyết định sai, và vẫn sẽ đánh giá quá cao sự tỉnh táo của mình dưới áp lực. Điều khác biệt là giờ đây tôi sẵn sàng ghi lại quyết định, cho nó một ranh giới, một thử nghiệm và một ngày kiểm tra lại.
 
-人生不是一场只允许一次选择的考试。真正重要的，是在每次选择之后，仍然保留观察、道歉、修正和回来的能力。
+Cuộc đời không phải một kỳ thi chỉ cho phép lựa chọn một lần. Điều thực sự quan trọng là sau mỗi lựa chọn, ta vẫn giữ được khả năng quan sát, xin lỗi, điều chỉnh và quay về.

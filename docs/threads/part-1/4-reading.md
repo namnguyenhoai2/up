@@ -1,50 +1,50 @@
 ---
-title: 阅读篇：从逐词翻译到观点与证据
-description: 从真实阅读任务和首读基线出发，拆分语言、结构、背景与注意力障碍，训练技术文档、多来源比较、证据核验与真实交付。
+title: "Phần đọc: Từ dịch từng từ đến quan điểm và bằng chứng"
+description: Xuất phát từ các nhiệm vụ đọc thực tế và đường cơ sở ở lần đọc đầu tiên, phân tách những trở ngại về ngôn ngữ, cấu trúc, bối cảnh và sự chú ý; rèn luyện khả năng đọc tài liệu kỹ thuật, so sánh nhiều nguồn, kiểm chứng bằng chứng và tạo ra sản phẩm thực tế.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 阅读篇：从逐词翻译到观点与证据
+# Phần đọc: Từ dịch từng từ đến quan điểm và bằng chứng
 
-我曾经把读英文理解成一场耐力比赛：眼睛尽量快地向右移动，遇到生词就停下来翻译，遇到长句就把中文搬回去，再用越来越厚的笔记证明自己没有白读。可一篇文章读完，真正要说明作者在解决什么问题时，我常常只能复述几个词；打开技术文档，知道每个菜单在哪里，却不知道一个参数会改变什么。
+Trước đây, tôi từng hiểu việc đọc tiếng Anh như một cuộc thi sức bền: cố di chuyển mắt thật nhanh sang phải, gặp từ mới thì dừng lại dịch, gặp câu dài thì chuyển ngược sang tiếng Trung, rồi dùng những ghi chú ngày càng dày để chứng minh rằng mình không đọc uổng công. Thế nhưng sau khi đọc xong một bài, khi thật sự phải nói rõ tác giả đang giải quyết vấn đề gì, tôi thường chỉ có thể nhắc lại vài từ; mở một tài liệu kỹ thuật ra, tôi biết từng mục menu nằm ở đâu nhưng lại không biết một tham số sẽ thay đổi điều gì.
 
-阅读不是把每个词都搬成中文，而是在不确定中逐渐建立意义、结构和判断。你需要知道什么时候继续向前，什么时候停下来核对，什么时候把作者的观点和自己的意见分开，也需要在读完之后让一个决定、一个解释、一个测试或一份交接真正发生。
+Đọc không phải là chuyển từng từ thành tiếng Việt, mà là dần xây dựng ý nghĩa, cấu trúc và phán đoán trong điều kiện không chắc chắn. Bạn cần biết khi nào nên tiếp tục tiến lên, khi nào nên dừng lại để kiểm tra, khi nào cần tách biệt quan điểm của tác giả với ý kiến của mình; đồng thời cũng cần khiến một quyết định, một lời giải thích, một phép thử hoặc một lần bàn giao thực sự diễn ra sau khi đọc xong.
 
-本章不提供一张越来越长的书单。它给出一条可复测的路径：先保存首读，判断障碍属于语言、结构、背景、版面还是注意力；再用几遍不同问题的阅读建立主张地图、证据链和推断边界；最后合上原文，以自己的话解释、核验、执行或交付，并在平行材料中检查方法是否迁移。
+Chương này không cung cấp một danh sách sách đọc ngày càng dài. Nó đưa ra một lộ trình có thể kiểm tra lại: trước tiên lưu lại lần đọc đầu tiên, xác định trở ngại thuộc về ngôn ngữ, cấu trúc, bối cảnh, bố cục hay sự chú ý; sau đó dùng nhiều lượt đọc với những câu hỏi khác nhau để xây dựng bản đồ luận điểm, chuỗi bằng chứng và ranh giới suy luận; cuối cùng đóng văn bản gốc lại, dùng lời của mình để giải thích, kiểm chứng, thực hiện hoặc bàn giao, rồi kiểm tra xem phương pháp có chuyển giao được hay không trong các tài liệu song song.
 
-## 本章速览
+## Tóm lược chương
 
-- 先定义读完以后要回答、决定、执行、解释还是交接什么；
-- 保存限时首读，不让查词和 AI 改写覆盖真实起点；
-- 把“读不懂”拆成词汇/语法、句法结构、背景图式、版面技术和注意力容量；
-- 精读、泛读和窄读承担不同工作，不用一种速度评价所有材料；
-- 技术文档按版本、目标、前置条件、最小示例、限制、失败和验证结果阅读；
-- 翻译与词典用于解除关键障碍，不能替代英文结构、来源位置和独立重构；
-- 多来源阅读要比较定义、证据、时间、利益关系和未说出的假设；
-- AI 可以提取术语、追问证据、生成平行问题，但不能替你决定原文说了什么；
-- 十四天只追踪一份主材料、一份平行材料和一个真实输出。
+- Trước tiên xác định sau khi đọc xong bạn cần trả lời, quyết định, thực hiện, giải thích hay bàn giao điều gì;
+- Lưu lại lần đọc đầu tiên có giới hạn thời gian, không để việc tra từ và AI viết lại che phủ điểm xuất phát thực tế;
+- Phân tách “không đọc hiểu được” thành từ vựng/ngữ pháp, cấu trúc cú pháp, lược đồ bối cảnh, bố cục kỹ thuật và năng lực chú ý;
+- Đọc kỹ, đọc rộng và đọc theo chủ đề hẹp đảm nhiệm những công việc khác nhau; không dùng một tốc độ để đánh giá mọi loại tài liệu;
+- Đọc tài liệu kỹ thuật theo phiên bản, mục tiêu, điều kiện tiên quyết, ví dụ tối thiểu, giới hạn, lỗi và kết quả kiểm chứng;
+- Bản dịch và từ điển được dùng để tháo gỡ trở ngại then chốt, không thể thay thế cấu trúc tiếng Anh, vị trí nguồn và việc tự tái cấu trúc;
+- Khi đọc nhiều nguồn, cần so sánh định nghĩa, bằng chứng, thời điểm, mối quan hệ lợi ích và những giả định không được nói ra;
+- AI có thể trích xuất thuật ngữ, đặt câu hỏi truy tìm bằng chứng và tạo các câu hỏi song song, nhưng không thể thay bạn quyết định văn bản gốc đang nói gì;
+- Trong mười bốn ngày, chỉ theo dõi một tài liệu chính, một tài liệu song song và một sản phẩm đầu ra thực tế.
 
-## 1. 先把阅读任务写成结果
+## 1. Viết nhiệm vụ đọc thành kết quả cụ thể
 
-“提高阅读”太大，无法直接开始。先写声音或文字结束后你要完成的动作：
+“Cải thiện khả năng đọc” quá rộng nên không thể bắt đầu trực tiếp. Trước tiên hãy viết ra hành động bạn cần hoàn thành sau khi kết thúc việc đọc hoặc nghe:
 
-| 任务 | 材料与条件 | 完成证据 |
+| Nhiệm vụ | Tài liệu và điều kiện | Bằng chứng hoàn thành |
 | --- | --- | --- |
-| 定位信息 | 通知、说明、短报道或文档，带一个明确问题 | 标出原文位置，并用一句话说明依据 |
-| 理解论证 | 评论、报道、研究摘要或技术说明 | 画出主张、理由、证据、限制与未解决问题 |
-| 读懂技术文档 | 指南、API、迁移说明、错误文档或变更日志 | 能完成最小实验，记录版本、输入、输出与失败条件 |
-| 建立耐力 | 愿意连续读七天的小说、传记或长篇非虚构 | 保存章节主旨、人物/论点变化和延迟复述 |
-| 综合来源 | 同一主题的两到三份不同来源 | 写一页比较，区分事实、推断、立场和时间差 |
-| 支持决定 | 有成本、风险或责任的材料 | 写出选择、依据、未知项、下一步和退出条件 |
+| Định vị thông tin | Thông báo, hướng dẫn, tin ngắn hoặc tài liệu có một câu hỏi rõ ràng | Đánh dấu vị trí trong văn bản gốc và dùng một câu để nêu căn cứ |
+| Hiểu lập luận | Bình luận, bài đưa tin, tóm tắt nghiên cứu hoặc thuyết minh kỹ thuật | Vẽ ra luận điểm, lý do, bằng chứng, giới hạn và vấn đề chưa được giải quyết |
+| Đọc hiểu tài liệu kỹ thuật | Hướng dẫn, API, tài liệu di chuyển, tài liệu lỗi hoặc nhật ký thay đổi | Có thể hoàn thành thử nghiệm tối thiểu, ghi lại phiên bản, đầu vào, đầu ra và điều kiện thất bại |
+| Xây dựng sức bền | Tiểu thuyết, tiểu sử hoặc sách phi hư cấu dài mà bạn sẵn lòng đọc liên tục trong bảy ngày | Lưu lại chủ đề chính của chương, sự thay đổi của nhân vật/luận điểm và việc kể lại sau một khoảng trì hoãn |
+| Tổng hợp nguồn | Hai đến ba nguồn khác nhau về cùng một chủ đề | Viết một trang so sánh, phân biệt sự kiện, suy luận, lập trường và chênh lệch thời gian |
+| Hỗ trợ quyết định | Tài liệu có chi phí, rủi ro hoặc trách nhiệm | Viết ra lựa chọn, căn cứ, điều chưa biết, bước tiếp theo và điều kiện dừng |
 
-读给谁看也会改变标准。考试需要按题目定位，项目需要按版本验证，朋友的故事需要理解人物关系。不同任务需要不同精度，不必把每一页都做成论文。
+Đọc cho ai cũng sẽ thay đổi tiêu chuẩn. Thi cử cần định vị theo câu hỏi, làm dự án cần kiểm chứng theo phiên bản, còn câu chuyện của một người bạn cần hiểu mối quan hệ giữa các nhân vật. Những nhiệm vụ khác nhau cần độ chính xác khác nhau; không cần biến mọi trang thành một bài nghiên cứu.
 
-使用[阅读证据卡](../../templates/reading-evidence.md)保存任务、材料、首读、障碍、主张地图和交付结果。
+Sử dụng[thẻ bằng chứng đọc](../../templates/reading-evidence.md)để lưu lại nhiệm vụ, tài liệu, lần đọc đầu tiên, trở ngại, bản đồ luận điểm và kết quả bàn giao.
 
-## 2. 保存一次未经修饰的首读
+## 2. Lưu lại một lần đọc đầu tiên chưa qua chỉnh sửa
 
-选择一篇 300-1500 字的文章、一个技术文档小节或一个可在 20 分钟内完成的章节。开始前记录：
+Chọn một bài viết dài 300–1500 chữ, một mục nhỏ trong tài liệu kỹ thuật hoặc một chương có thể hoàn thành trong 20 phút. Trước khi bắt đầu, hãy ghi lại:
 
 ```markdown
 材料标题、作者、来源与版本：
@@ -56,7 +56,7 @@ sources_checked: 2026-09-02
 版权、隐私与保存边界：
 ```
 
-首读先不查每个词，读完立即写：
+Trong lần đọc đầu tiên, trước hết không tra từng từ; đọc xong hãy viết ngay:
 
 ```markdown
 一句话主旨：
@@ -68,62 +68,62 @@ sources_checked: 2026-09-02
 首读用时：
 ```
 
-首读不是能力判决，而是以后比较的起点。不要用翻译后更漂亮的摘要覆盖它。若是安全、医疗、法律、财务或生产环境内容，必要的专业核验优先于人为制造“无辅助”条件。
+Lần đọc đầu tiên không phải là phán quyết về năng lực, mà là điểm xuất phát để so sánh về sau. Đừng dùng bản tóm tắt đẹp hơn sau khi dịch để che lấp nó. Nếu nội dung thuộc lĩnh vực an toàn, y tế, pháp lý, tài chính hoặc môi trường sản xuất, việc kiểm chứng chuyên môn cần thiết phải được ưu tiên hơn việc cố tình tạo ra điều kiện “không hỗ trợ”.
 
-## 3. 把“读不懂”拆成六层
+## 3. Phân tách “không đọc hiểu được” thành sáu tầng
 
-同一句被卡住，下一步可能完全不同：
+Khi bị mắc ở cùng một câu, bước tiếp theo có thể hoàn toàn khác nhau:
 
-| 层次 | 典型表现 | 下一步 |
+| Tầng | Biểu hiện điển hình | Bước tiếp theo |
 | --- | --- | --- |
-| 词汇与语法 | 关键词形、搭配、句法从未掌握 | 查最小必要信息，回到词汇/语法证据 |
-| 结构与指向 | 单词认识，却不知道谁修饰谁、条件落在哪 | 画句子骨架、代词指向、连接关系 |
-| 背景与图式 | 语言能读，事件、领域或文化前提不明 | 补一小段可信背景，再回到原文 |
-| 论证与证据 | 看见句子，却分不清主张、例子、限制和推测 | 建主张地图，回到原文位置 |
-| 版面与技术 | PDF 字体小、链接断、代码折行、版本混杂 | 换格式、放大、检索当前版本或记录缺陷 |
-| 注意力与容量 | 疲劳、焦虑、信息密度过高、读到后面失去主线 | 缩短段落、减少同时任务、换更有容量的时间 |
+| Từ vựng và ngữ pháp | Chưa nắm được dạng từ, kết hợp từ hoặc cú pháp của từ khóa | Tra thông tin tối thiểu cần thiết, quay lại bằng chứng từ vựng/ngữ pháp |
+| Cấu trúc và quy chiếu | Biết các từ nhưng không biết từ nào bổ nghĩa cho từ nào, điều kiện áp vào đâu | Vẽ khung câu, hướng quy chiếu của đại từ và quan hệ liên kết |
+| Bối cảnh và lược đồ | Có thể đọc ngôn ngữ nhưng không rõ tiền đề về sự kiện, lĩnh vực hoặc văn hóa | Bổ sung một đoạn bối cảnh đáng tin cậy, rồi quay lại văn bản gốc |
+| Lập luận và bằng chứng | Nhìn thấy câu nhưng không phân biệt được luận điểm, ví dụ, giới hạn và suy đoán | Xây dựng bản đồ luận điểm, quay lại vị trí trong văn bản gốc |
+| Bố cục và kỹ thuật | Phông chữ PDF nhỏ, liên kết hỏng, mã bị xuống dòng, phiên bản trộn lẫn | Đổi định dạng, phóng to, tra cứu phiên bản hiện hành hoặc ghi lại khiếm khuyết |
+| Sự chú ý và năng lực xử lý | Mệt mỏi, lo âu, mật độ thông tin quá cao, mất mạch chính khi đọc đến cuối | Rút ngắn đoạn văn, giảm số nhiệm vụ đồng thời, chuyển sang thời điểm có năng lực xử lý tốt hơn |
 
-生词数量只说明材料与当前词汇的关系，不自动说明能力等级。若几乎每句都阻断主旨，先换更容易的平行材料；降低入口，不等于降低目标。
+Số lượng từ mới chỉ cho biết mối quan hệ giữa tài liệu và vốn từ hiện tại, không tự động cho biết trình độ năng lực. Nếu gần như câu nào cũng cản trở việc nắm bắt ý chính, trước tiên hãy đổi sang tài liệu song song dễ hơn; hạ thấp điểm tiếp cận không có nghĩa là hạ thấp mục tiêu.
 
-## 4. 五遍阅读法：每一遍回答不同问题
+## 4. Phương pháp đọc năm lượt: mỗi lượt trả lời một câu hỏi khác nhau
 
-机械重读十遍，不如让五遍各自承担工作：
+Đọc lại máy móc mười lần không hiệu quả bằng việc để mỗi lượt trong năm lượt đảm nhiệm một công việc riêng:
 
-### 第一遍：定位方向
+### Lượt thứ nhất: Xác định hướng
 
-看标题、版本、目录、图表和第一段，预测材料要解决的真实问题。限时读完，不查词，写一句主旨。
+Xem tiêu đề, phiên bản, mục lục, biểu đồ và đoạn đầu tiên, dự đoán vấn đề thực tế mà tài liệu muốn giải quyết. Đọc có giới hạn thời gian, không tra từ, viết một câu nêu chủ đề chính.
 
-### 第二遍：画结构
+### Lượt thứ hai: Vẽ cấu trúc
 
-给段落标注功能：背景、问题、主张、理由、例子、限制、行动或结论。遇到长句，先找主语、核心动词、条件与转折。
+Đánh dấu chức năng của các đoạn: bối cảnh, vấn đề, luận điểm, lý do, ví dụ, giới hạn, hành động hoặc kết luận. Khi gặp câu dài, trước hết tìm chủ ngữ, động từ cốt lõi, điều kiện và quan hệ chuyển ý.
 
-### 第三遍：核对关键证据
+### Lượt thứ ba: Kiểm tra bằng chứng then chốt
 
-只查反复出现、领域关键、影响推理或改变行动的词句。记录原文位置、定义来源和自己的理解，不要把整段翻译当作核验。
+Chỉ tra những từ và câu xuất hiện lặp lại, quan trọng với lĩnh vực, ảnh hưởng đến suy luận hoặc làm thay đổi hành động. Ghi lại vị trí trong văn bản gốc, nguồn của định nghĩa và cách hiểu của mình; đừng coi việc dịch cả đoạn là kiểm chứng.
 
-### 第四遍：合上工具重构
+### Lượt thứ tư: Đóng công cụ và tái cấu trúc
 
-不用原文和词典，用五句话重建推进顺序：作者遇到什么问题，提出什么主张，依据是什么，限制在哪里，接下来要做什么。再写一个原文支持的推断和一个可能反例。
+Không dùng văn bản gốc và từ điển, hãy dùng năm câu để tái dựng trình tự triển khai: tác giả gặp vấn đề gì, đưa ra luận điểm nào, căn cứ là gì, giới hạn nằm ở đâu và tiếp theo cần làm gì. Sau đó viết một suy luận được văn bản gốc hỗ trợ và một phản ví dụ có thể xảy ra.
 
-### 第五遍：进入任务
+### Lượt thứ năm: Bước vào nhiệm vụ
 
-把阅读转成行动：回答问题、运行最小示例、写确认邮件、做来源比较、向读者解释，或提出一个能减少不确定性的下一问题。
+Chuyển việc đọc thành hành động: trả lời câu hỏi, chạy ví dụ tối thiểu, viết email xác nhận, so sánh các nguồn, giải thích cho người đọc hoặc đặt ra một câu hỏi tiếp theo có thể làm giảm sự không chắc chắn.
 
-研究综述显示，二语阅读理解与词汇、语法、解码和听力等语言成分有密切关系；策略教学研究也提示，预测、监控、评估和问题解决可以成为可教的过程。但相关研究常是相关分析或特定课堂干预，不能替代你的材料、时间和任务条件下的延迟复测。
+Các tổng quan nghiên cứu cho thấy khả năng đọc hiểu ngôn ngữ thứ hai có mối quan hệ chặt chẽ với những thành phần ngôn ngữ như từ vựng, ngữ pháp, giải mã và nghe hiểu; các nghiên cứu về giảng dạy chiến lược cũng gợi ý rằng dự đoán, giám sát, đánh giá và giải quyết vấn đề có thể trở thành những quy trình có thể giảng dạy. Tuy nhiên, các nghiên cứu liên quan thường là phân tích tương quan hoặc can thiệp trong một lớp học cụ thể, không thể thay thế việc kiểm tra lại sau một khoảng trì hoãn trong điều kiện tài liệu, thời gian và nhiệm vụ của bạn.
 
-## 5. 技术文档：把页面读成可验证的事实
+## 5. Tài liệu kỹ thuật: Đọc trang tài liệu thành những sự thật có thể kiểm chứng
 
-技术文档读得慢，常常不是英语单词单独造成的。页面可能同时包含版本、默认值、前置条件、示例、例外、弃用信息和安全边界。按下面顺序读：
+Đọc tài liệu kỹ thuật chậm thường không chỉ do bản thân các từ tiếng Anh. Một trang có thể đồng thời chứa phiên bản, giá trị mặc định, điều kiện tiên quyết, ví dụ, ngoại lệ, thông tin ngừng sử dụng và ranh giới an toàn. Hãy đọc theo thứ tự sau:
 
-1. **目标**：这页解决谁的什么问题？完成后应当看到什么结果？
-2. **版本**：适用于哪个版本、平台、依赖和发布日期？
-3. **前置条件**：权限、环境、输入、数据、网络和已有知识是什么？
-4. **最小示例**：删掉装饰，只运行或手算最小可验证片段；
-5. **参数与约束**：默认值、类型、范围、顺序、成本、速率和副作用是什么？
-6. **失败与回滚**：错误信息怎样解释，什么情况不能继续，怎样恢复？
-7. **验证**：你的输出是否与文档声称一致？若不一致，是版本、环境、理解还是文档问题？
+1. **Mục tiêu**: Trang này giải quyết vấn đề gì của ai? Sau khi hoàn thành cần nhìn thấy kết quả gì?
+2. **Phiên bản**: Áp dụng cho phiên bản, nền tảng, phần phụ thuộc và ngày phát hành nào?
+3. **Điều kiện tiên quyết**: Quyền hạn, môi trường, đầu vào, dữ liệu, mạng và kiến thức sẵn có là gì?
+4. **Ví dụ tối thiểu**: Loại bỏ phần trang trí, chỉ chạy hoặc tính thủ công đoạn tối thiểu có thể kiểm chứng;
+5. **Tham số và ràng buộc**: Giá trị mặc định, kiểu, phạm vi, thứ tự, chi phí, tốc độ và tác dụng phụ là gì?
+6. **Lỗi và khôi phục**: Thông báo lỗi được giải thích thế nào, trong trường hợp nào không được tiếp tục và khôi phục ra sao?
+7. **Kiểm chứng**: Đầu ra của bạn có khớp với điều tài liệu tuyên bố không? Nếu không, vấn đề nằm ở phiên bản, môi trường, cách hiểu hay tài liệu?
 
-可以保存一张技术事实卡：
+Bạn có thể lưu một thẻ sự thật kỹ thuật:
 
 ```markdown
 目标与版本：
@@ -137,33 +137,33 @@ sources_checked: 2026-09-02
 下一项最小测试：
 ```
 
-这套顺序也适用于 SDK、API、迁移指南、命令行帮助和开源项目 README。读懂不是收藏链接，而是让一个小事实在当前版本和当前环境中被验证。
+Trình tự này cũng áp dụng cho SDK, API, hướng dẫn di chuyển, phần trợ giúp dòng lệnh và README của các dự án mã nguồn mở. Đọc hiểu không phải là sưu tầm liên kết, mà là khiến một sự thật nhỏ được kiểm chứng trong phiên bản và môi trường hiện tại.
 
-## 6. 生词、词族与翻译的边界
+## 6. Ranh giới của từ mới, họ từ và bản dịch
 
-遇到陌生词时先判断它在当前任务中的角色：
+Khi gặp từ xa lạ, trước hết hãy xác định vai trò của nó trong nhiệm vụ hiện tại:
 
-| 词的角色 | 处理方式 |
+| Vai trò của từ | Cách xử lý |
 | --- | --- |
-| 不影响主旨的低频修饰 | 先略过，在上下文中继续 |
-| 反复出现的核心词 | 查词义、词性、搭配、词族和原文例句 |
-| 技术或制度术语 | 查正式定义、版本、上位/下位关系和反例 |
-| 影响否定、条件、数字、责任的词 | 立即核对原句范围与行动后果 |
-| 只在翻译中显得自然的表达 | 回到英文结构和作者语气，不直接反推原意 |
+| Từ bổ nghĩa tần suất thấp, không ảnh hưởng đến chủ đề chính | Tạm bỏ qua, tiếp tục trong ngữ cảnh |
+| Từ cốt lõi xuất hiện lặp lại | Tra nghĩa, từ loại, kết hợp từ, họ từ và ví dụ trong văn bản gốc |
+| Thuật ngữ kỹ thuật hoặc thể chế | Tra định nghĩa chính thức, phiên bản, quan hệ thượng vị/hạ vị và phản ví dụ |
+| Từ ảnh hưởng đến phủ định, điều kiện, con số hoặc trách nhiệm | Lập tức kiểm tra phạm vi của câu gốc và hệ quả hành động |
+| Cách diễn đạt chỉ tự nhiên trong bản dịch | Quay lại cấu trúc tiếng Anh và giọng điệu của tác giả, không suy ngược trực tiếp ý gốc |
 
-词族有助于猜测和覆盖率，但派生词不一定自动可用。翻译可以提供背景地图，不能替代原文中的语气、逻辑、限定词和责任关系。读完后合上翻译，用英文或自己的母语都可以重构，但要能指出关键依据在原文哪里。
+Họ từ giúp ích cho việc phỏng đoán và tăng độ bao phủ, nhưng từ phái sinh không nhất thiết tự động có thể sử dụng được. Bản dịch có thể cung cấp bản đồ bối cảnh, nhưng không thể thay thế giọng điệu, logic, từ hạn định và quan hệ trách nhiệm trong văn bản gốc. Sau khi đọc xong, hãy đóng bản dịch lại và tái cấu trúc bằng tiếng Anh hoặc tiếng mẹ đẻ đều được, nhưng phải chỉ ra được căn cứ then chốt nằm ở đâu trong văn bản gốc.
 
-## 7. 精读、泛读与窄读
+## 7. Đọc kỹ, đọc rộng và đọc theo chủ đề hẹp
 
-**精读**提高分辨率：短、密、可核验，适合主张、证据、术语和句子结构。**泛读**建立耐力与连续性：较长、主旨优先，允许漏掉不影响故事或方向的词。**窄读**围绕同一主题或领域连续读多份材料，让背景和词块逐渐复用。
+**Đọc kỹ** nâng cao độ phân giải: ngắn, dày đặc, có thể kiểm chứng, phù hợp với luận điểm, bằng chứng, thuật ngữ và cấu trúc câu. **Đọc rộng** xây dựng sức bền và tính liên tục: dài hơn, ưu tiên chủ đề chính, cho phép bỏ qua những từ không ảnh hưởng đến câu chuyện hoặc phương hướng. **Đọc theo chủ đề hẹp** xoay quanh cùng một chủ đề hoặc lĩnh vực, đọc liên tục nhiều tài liệu để bối cảnh và các cụm từ dần được tái sử dụng.
 
-不要把休闲阅读伪装成精读，也不要把每本小说都变成作业。可以在散步时读喜欢的长篇，在工作中窄读一组技术文档，再选择一篇短文进入证据循环。材料应当略有挑战但能够回来；难度不是身份认证。
+Đừng ngụy trang việc đọc giải trí thành đọc kỹ, cũng đừng biến mọi tiểu thuyết thành bài tập. Bạn có thể đọc một tác phẩm dài yêu thích khi đi dạo, đọc hẹp một nhóm tài liệu kỹ thuật trong công việc, rồi chọn một bài ngắn để bước vào vòng lặp bằng chứng. Tài liệu nên có mức thách thức vừa phải nhưng vẫn có thể quay lại; độ khó không phải là một hình thức xác nhận danh tính.
 
-书、研究摘要、新闻、社区讨论、产品文档和开源 README 都可以使用。推荐材料时说明它适合定位、论证、技术验证、耐力还是综合，不用销量、榜单或“母语者必读”替代任务适配度。具体版本、访问日期、版权和作者利益关系要记录。
+Có thể sử dụng sách, tóm tắt nghiên cứu, tin tức, thảo luận cộng đồng, tài liệu sản phẩm và README mã nguồn mở. Khi giới thiệu tài liệu, hãy nói rõ nó phù hợp với việc định vị, lập luận, kiểm chứng kỹ thuật, xây dựng sức bền hay tổng hợp; đừng dùng doanh số, bảng xếp hạng hoặc “những cuốn người bản ngữ nhất định phải đọc” để thay thế mức độ phù hợp với nhiệm vụ. Cần ghi lại phiên bản cụ thể, ngày truy cập, bản quyền và mối quan hệ lợi ích của tác giả.
 
-## 8. 多来源与跨文化逻辑
+## 8. Nhiều nguồn và logic xuyên văn hóa
 
-同一主题的不同来源可能使用不同定义、时间点、证据标准和责任假设。比较时不要先问“谁更像我的观点”，而要逐项记录：
+Các nguồn khác nhau về cùng một chủ đề có thể sử dụng những định nghĩa, thời điểm, tiêu chuẩn bằng chứng và giả định về trách nhiệm khác nhau. Khi so sánh, đừng hỏi trước “ai giống quan điểm của tôi hơn”, mà hãy lần lượt ghi lại:
 
 ```markdown
 共同问题：
@@ -176,85 +176,85 @@ sources_checked: 2026-09-02
 什么新证据会改变我的判断：
 ```
 
-所谓“外国人的逻辑”常常是结构、背景、写作体裁或责任语境的差异。把它拆成主张、假设、证据、限定、例外和行动要求，通常比用国别标签解释更有用。先理解对方怎样组织问题，再决定是否同意。
+Cái gọi là “logic của người nước ngoài” thường là sự khác biệt về cấu trúc, bối cảnh, thể loại viết hoặc ngữ cảnh trách nhiệm. Phân tách nó thành luận điểm, giả định, bằng chứng, giới hạn, ngoại lệ và yêu cầu hành động thường hữu ích hơn việc giải thích bằng nhãn quốc gia. Trước tiên hãy hiểu đối phương tổ chức vấn đề như thế nào, rồi quyết định có đồng ý hay không.
 
-## 9. AI、搜索与阅读器怎样分工
+## 9. Phân công vai trò giữa AI, tìm kiếm và trình đọc
 
-| 工具/角色 | 适合做什么 | 不能单独证明什么 |
+| Công cụ/vai trò | Phù hợp để làm gì | Không thể tự mình chứng minh điều gì |
 | --- | --- | --- |
-| 阅读器 | 检索、批注、放大、记录版本和原文位置 | 标记数量不等于理解 |
-| 词典/搜索 | 核对定义、词族、搭配、版本和一手来源 | 一个释义不一定适合当前语境 |
-| AI | 提取候选术语、提出结构问题、比较你的主张地图、生成平行任务 | 可能编造摘要、引用、背景或作者意图 |
-| 教师/同伴 | 追问你为何这样理解，检查推断边界 | 一次解释仍需独立重构 |
-| 真实任务/读者 | 验证能否解释、执行、决定或交接 | 单次顺利不能证明长期迁移 |
+| Trình đọc | Tìm kiếm, chú thích, phóng to, ghi lại phiên bản và vị trí trong văn bản gốc | Số lượng đánh dấu không đồng nghĩa với hiểu |
+| Từ điển/tìm kiếm | Kiểm tra định nghĩa, họ từ, kết hợp từ, phiên bản và nguồn sơ cấp | Một nghĩa giải thích không nhất thiết phù hợp với ngữ cảnh hiện tại |
+| AI | Trích xuất các thuật ngữ ứng viên, đặt câu hỏi về cấu trúc, so sánh bản đồ luận điểm của bạn, tạo nhiệm vụ song song | Có thể bịa ra bản tóm tắt, trích dẫn, bối cảnh hoặc ý định của tác giả |
+| Giáo viên/bạn học | Hỏi sâu vì sao bạn hiểu như vậy, kiểm tra ranh giới suy luận | Một lần giải thích vẫn cần được tự tái cấu trúc |
+| Nhiệm vụ thực tế/người đọc | Kiểm chứng khả năng giải thích, thực hiện, quyết định hoặc bàn giao | Một lần thuận lợi không thể chứng minh khả năng chuyển giao lâu dài |
 
-向 AI 提问时先给自己的首读和原文位置：
+Khi đặt câu hỏi cho AI, trước tiên hãy cung cấp lần đọc đầu tiên của bạn và vị trí trong văn bản gốc:
 
 ```text
 这是我对第 3-5 段的主旨、证据和一个推断。请先指出我遗漏的原文位置，区分作者明确说出、原文支持的推断和无法推出的部分。不要先重写摘要；最后给一个平行材料问题和一个需要我独立回答的反例。
 ```
 
-不要把客户、同事、学生、家庭、医疗、合同或未公开项目材料上传到未经批准的工具。涉及付费、法律、安全或技术版本的结论，要回到当前官方文档或合格专业意见。
+Không tải tài liệu của khách hàng, đồng nghiệp, học sinh, gia đình, y tế, hợp đồng hoặc dự án chưa công khai lên các công cụ chưa được phê duyệt. Với kết luận liên quan đến thanh toán, pháp lý, an toàn hoặc phiên bản kỹ thuật, cần quay lại tài liệu chính thức hiện hành hoặc ý kiến chuyên môn đủ năng lực.
 
-## 10. 让阅读产生真实输出
+## 10. Khiến việc đọc tạo ra đầu ra thực tế
 
-阅读完成的证据不必总是一篇长摘要，可以是：
+Bằng chứng cho việc hoàn thành đọc không nhất thiết luôn là một bản tóm tắt dài; nó có thể là:
 
-- 给同事写一封确认邮件，指出版本、依据和下一步；
-- 运行技术文档的最小示例并记录输入、输出和失败；
-- 向没有读过原文的人口头解释主旨、证据和限制；
-- 为两个来源写一页决策备忘，列出未知项与退出条件；
-- 用新主题回答一个平行问题，检查结构是否迁移。
+- Viết email xác nhận cho đồng nghiệp, chỉ rõ phiên bản, căn cứ và bước tiếp theo;
+- Chạy ví dụ tối thiểu trong tài liệu kỹ thuật và ghi lại đầu vào, đầu ra và lỗi;
+- Giải thích bằng lời cho người chưa đọc văn bản gốc về chủ đề chính, bằng chứng và giới hạn;
+- Viết một bản ghi nhớ quyết định dài một trang cho hai nguồn, liệt kê điều chưa biết và điều kiện dừng;
+- Dùng chủ đề mới để trả lời một câu hỏi song song, kiểm tra xem cấu trúc có chuyển giao hay không.
 
-反馈先问任务是否完成、读者是否理解、依据是否可追溯，再处理低影响措辞。保留首读、重构、反馈和交付版，不能只展示被工具润色后的摘要。
+Phản hồi trước hết nên hỏi nhiệm vụ đã hoàn thành chưa, người đọc có hiểu không và căn cứ có thể truy nguyên không, rồi mới xử lý những cách diễn đạt ít ảnh hưởng. Hãy giữ lại lần đọc đầu tiên, bản tái cấu trúc, phản hồi và bản bàn giao; không chỉ trình bày bản tóm tắt đã được công cụ trau chuốt.
 
-## 11. 十四天阅读实验
+## 11. Thí nghiệm đọc trong mười bốn ngày
 
-| 天数 | 动作 | 留下的证据 |
+| Ngày | Hành động | Bằng chứng để lại |
 | --- | --- | --- |
-| 1 | 选择主材料与真实任务，完成限时首读 | 主旨、结构、细节、未知项和条件 |
-| 2 | 建立六层障碍地图 | 一到三个最影响任务的障碍 |
-| 3 | 做第二遍结构标记 | 段落功能、句子骨架和主张地图 |
-| 4 | 核对关键术语、版本与原文位置 | 定义、来源、词族和限制 |
-| 5 | 合上工具重构五句话 | 主张、证据、推断与反例 |
-| 6 | 完成一次真实解释、测试或确认 | 读后输出与读者回应 |
-| 7 | 撤掉旧笔记，读平行材料 | 速度、主旨、证据和障碍比较 |
-| 8 | 同主题更换体裁 | 背景与结构迁移 |
-| 9 | 同体裁更换主题 | 词汇与推断迁移 |
-| 10 | 比较第二个来源或不同立场 | 定义、证据和利益关系差异 |
-| 11 | 只修仍然反复的一项障碍 | 第三版重构或事实卡 |
-| 12 | 让 AI/同伴提出一个反例 | 采纳、拒绝与原文依据 |
-| 13 | 在时间压力下完成报告、测试或交接 | 真实受众结果 |
-| 14 | 关闭提示完成新任务并决定下一轮 | 保留、降级、更换或转向的依据 |
+| 1 | Chọn tài liệu chính và nhiệm vụ thực tế, hoàn thành lần đọc đầu tiên có giới hạn thời gian | Chủ đề chính, cấu trúc, chi tiết, điều chưa biết và điều kiện |
+| 2 | Xây dựng bản đồ trở ngại sáu tầng | Một đến ba trở ngại ảnh hưởng nhiều nhất đến nhiệm vụ |
+| 3 | Đánh dấu cấu trúc ở lượt đọc thứ hai | Chức năng đoạn văn, khung câu và bản đồ luận điểm |
+| 4 | Kiểm tra thuật ngữ then chốt, phiên bản và vị trí trong văn bản gốc | Định nghĩa, nguồn, họ từ và giới hạn |
+| 5 | Đóng công cụ và tái cấu trúc bằng năm câu | Luận điểm, bằng chứng, suy luận và phản ví dụ |
+| 6 | Hoàn thành một lần giải thích, thử nghiệm hoặc xác nhận thực tế | Đầu ra sau khi đọc và phản hồi của người đọc |
+| 7 | Bỏ ghi chú cũ, đọc tài liệu song song | So sánh tốc độ, chủ đề chính, bằng chứng và trở ngại |
+| 8 | Đổi thể loại trong cùng chủ đề | Sự chuyển giao của bối cảnh và cấu trúc |
+| 9 | Đổi chủ đề trong cùng thể loại | Sự chuyển giao của từ vựng và suy luận |
+| 10 | So sánh nguồn thứ hai hoặc lập trường khác | Khác biệt về định nghĩa, bằng chứng và mối quan hệ lợi ích |
+| 11 | Chỉ sửa một trở ngại vẫn lặp lại | Bản tái cấu trúc hoặc thẻ sự thật phiên bản thứ ba |
+| 12 | Để AI/bạn học đưa ra một phản ví dụ | Chấp nhận, bác bỏ và căn cứ trong văn bản gốc |
+| 13 | Hoàn thành báo cáo, thử nghiệm hoặc bàn giao dưới áp lực thời gian | Kết quả với người tiếp nhận thực tế |
+| 14 | Tắt gợi ý, hoàn thành nhiệm vụ mới và quyết định vòng tiếp theo | Căn cứ để giữ lại, hạ cấp, thay đổi hoặc chuyển hướng |
 
-十四天不是“读完多少页”的竞赛。它只回答：当材料、主题或受众改变后，你是否仍能找到主线、核对依据并完成一个真实动作？
+Mười bốn ngày không phải là cuộc thi xem ai đọc xong bao nhiêu trang. Nó chỉ trả lời một câu hỏi: khi tài liệu, chủ đề hoặc người tiếp nhận thay đổi, bạn vẫn có thể tìm ra mạch chính, kiểm tra căn cứ và hoàn thành một hành động thực tế hay không?
 
-## 12. 怎样判断阅读正在变成能力
+## 12. Cách nhận biết việc đọc đang trở thành năng lực
 
-- 首读能保留问题和主线，而不是被单个生词带走；
-- 能说清障碍来自语言、结构、背景、版面还是容量；
-- 能指出作者明确说了什么、哪些只是自己的推断；
-- 技术文档读完能在当前版本完成最小验证或发现缺失条件；
-- 读得更快时，主旨、证据和限制没有持续丢失；
-- 合上原文后能用自己的话重构，而非只复制句子；
-- 换主题、体裁、来源或设备后仍能迁移阅读动作；
-- 能把理解交还给真实读者、同伴、代码、决定或下一项任务。
+- Trong lần đọc đầu tiên có thể giữ được vấn đề và mạch chính, thay vì bị một từ mới đơn lẻ cuốn đi;
+- Có thể nói rõ trở ngại đến từ ngôn ngữ, cấu trúc, bối cảnh, bố cục hay năng lực xử lý;
+- Có thể chỉ ra tác giả nói rõ điều gì và điều gì chỉ là suy luận của bản thân;
+- Sau khi đọc tài liệu kỹ thuật, có thể hoàn thành kiểm chứng tối thiểu trong phiên bản hiện tại hoặc phát hiện điều kiện còn thiếu;
+- Khi đọc nhanh hơn, chủ đề chính, bằng chứng và giới hạn không liên tục bị bỏ sót;
+- Sau khi đóng văn bản gốc, có thể tái cấu trúc bằng lời của mình thay vì chỉ sao chép câu chữ;
+- Sau khi đổi chủ đề, thể loại, nguồn hoặc thiết bị, vẫn có thể chuyển giao các thao tác đọc;
+- Có thể trao lại sự hiểu biết cho người đọc thực tế, bạn học, mã nguồn, quyết định hoặc nhiệm vụ tiếp theo.
 
-真正的速度不是眼睛更快地逃离页面，而是更少在错误的地方停留。你开始知道哪些词可以放过，哪些限定不能漏，哪些漂亮的结论需要回到来源。当文字不再只是考试材料，它便成为进入知识、工作和他人经验的一条路。
+Tốc độ thực sự không phải là mắt rời khỏi trang nhanh hơn, mà là ít dừng lại sai chỗ hơn. Bạn bắt đầu biết từ nào có thể bỏ qua, giới hạn nào không được bỏ sót, kết luận nào nghe có vẻ đẹp nhưng cần quay lại nguồn. Khi văn bản không còn chỉ là tài liệu thi cử, nó trở thành một con đường bước vào tri thức, công việc và trải nghiệm của người khác.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Jeon & Yamashita (2014), L2 Reading Comprehension and Its Correlates](https://doi.org/10.1111/lang.12034)：元分析汇总段落层面的二语阅读理解与十类成分的关系；词汇、语法和解码等结果是相关证据，不应直接写成单一训练的因果保证。
-- [Jeon (2022), L2 Reading Comprehension and Its Correlates](https://doi.org/10.1075/bpa.13.03jeo)：更新了相关研究并区分语言知识变量与更一般的认知变量；不同年龄、语言距离、测量和熟练度会改变解释。
-- [Akkakoson (2013), The Relationship between Strategic Reading Instruction and L2 Reading Achievement](https://doi.org/10.1111/jrir.12004)：以泰国科技大学生为对象的 16 周研究比较策略教学与传统教学；本章保留其特定样本、课程和前后测边界。
-- 阅读材料的版本、权限、作者立场、网页可用性和技术事实会变化。重要工作应回到当前原文、一手来源、专业反馈和真实任务验收。
+- [Jeon & Yamashita (2014), L2 Reading Comprehension and Its Correlates](https://doi.org/10.1111/lang.12034): Phân tích gộp tổng hợp mối quan hệ giữa khả năng đọc hiểu ngôn ngữ thứ hai ở cấp độ đoạn văn và mười loại thành phần; các kết quả về từ vựng, ngữ pháp và giải mã là bằng chứng tương quan, không nên trực tiếp viết thành cam kết nhân quả của một hình thức rèn luyện duy nhất.
+- [Jeon (2022), L2 Reading Comprehension and Its Correlates](https://doi.org/10.1075/bpa.13.03jeo): Cập nhật các nghiên cứu tương quan và phân biệt các biến kiến thức ngôn ngữ với những biến nhận thức có tính khái quát hơn; độ tuổi, khoảng cách ngôn ngữ, phương pháp đo lường và trình độ khác nhau sẽ làm thay đổi cách diễn giải.
+- [Akkakoson (2013), The Relationship between Strategic Reading Instruction and L2 Reading Achievement](https://doi.org/10.1111/jrir.12004): Nghiên cứu kéo dài 16 tuần trên sinh viên công nghệ Thái Lan, so sánh việc giảng dạy chiến lược với phương pháp giảng dạy truyền thống; chương này giữ nguyên những giới hạn về mẫu nghiên cứu, khóa học và phép đo trước–sau của nghiên cứu.
+- Phiên bản, quyền truy cập, lập trường của tác giả, khả năng sử dụng trang web và các sự kiện kỹ thuật trong tài liệu đọc đều có thể thay đổi. Công việc quan trọng cần quay lại văn bản hiện hành, nguồn sơ cấp, phản hồi chuyên môn và nghiệm thu bằng nhiệm vụ thực tế.
 
-相关入口：[词汇篇](2-vocabulary.md) ｜ [语法篇](grammar.md) ｜ [听力篇](3-listening.md) ｜ [口语篇](5-speaking.md) ｜ [用 AI 学英语](7-ai.md) ｜ [阅读证据卡](../../templates/reading-evidence.md) ｜ [证据链模板](../../templates/evidence-chain.md)
+Các mục liên quan: [Phần từ vựng](2-vocabulary.md) ｜ [Phần ngữ pháp](grammar.md) ｜ [Phần nghe](3-listening.md) ｜ [Phần nói](5-speaking.md) ｜ [Học tiếng Anh với AI](7-ai.md) ｜ [Thẻ bằng chứng đọc](../../templates/reading-evidence.md) ｜ [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)
 
-## 结语：让文字重新有重量
+## Lời kết: Để văn bản lấy lại sức nặng
 
-阅读不是让眼睛尽快越过一行又一行。每一篇值得读的文字背后，都有人选择了什么要说、什么证据足够、什么仍然不确定，也有人可能遗漏、夸大或误解。
+Đọc không phải là khiến mắt nhanh chóng vượt qua hết dòng này đến dòng khác. Đằng sau mỗi văn bản đáng đọc đều có người lựa chọn điều gì cần nói, bằng chứng nào là đủ và điều gì vẫn chưa chắc chắn; cũng có thể có những điều bị bỏ sót, phóng đại hoặc hiểu sai.
 
-慢一点，问清作者在主张什么，理由从哪里来，哪些事实能够核对，哪些沉默也值得注意。速度会在熟悉之后自然出现，判断却只能在一次次停下来时长出来。
+Hãy chậm lại một chút, hỏi rõ tác giả đang khẳng định điều gì, lý do đến từ đâu, những sự kiện nào có thể kiểm tra và những điều im lặng nào cũng đáng chú ý. Tốc độ sẽ tự nhiên xuất hiện sau khi trở nên quen thuộc, nhưng phán đoán chỉ có thể lớn lên qua những lần dừng lại.
 
-有一天，你打开一份英文文档、一封邮件或一本书，它不再是一堵由生词砌成的墙。你开始看见结构、立场和证据，也能够带着自己的问题走进去。那时，阅读不是把别人的答案搬回家，而是让自己有能力进入一场更大的对话。
+Một ngày nào đó, khi mở một tài liệu tiếng Anh, một email hoặc một cuốn sách, nó sẽ không còn là bức tường xây bằng những từ mới. Bạn bắt đầu nhìn thấy cấu trúc, lập trường và bằng chứng, đồng thời có thể mang theo câu hỏi của mình để bước vào đó. Khi ấy, đọc không còn là mang câu trả lời của người khác về nhà, mà là giúp bản thân có năng lực bước vào một cuộc đối thoại lớn hơn.

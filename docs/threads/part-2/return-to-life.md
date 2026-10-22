@@ -1,61 +1,61 @@
 ---
-title: 第二部：把自己放回生活
-description: 把能力、事业、关系、身体、失败与选择重新放进同一段人生，在事实、责任、珍惜与分担之间寻找能够继续的路。
+title: "Phần II: Đưa bản thân trở lại với cuộc sống"
+description: Đặt năng lực, sự nghiệp, các mối quan hệ, cơ thể, thất bại và lựa chọn trở lại trong cùng một cuộc đời, tìm kiếm con đường có thể tiếp tục giữa sự thật, trách nhiệm, trân trọng và sẻ chia.
 updated: 2026-10-04
 ---
 
-# 第二部：把自己放回生活
+# Phần II: Đưa bản thân trở lại với cuộc sống
 
-学会更多东西，并不会自动让生活变得容易。
+Học thêm nhiều điều không tự động khiến cuộc sống trở nên dễ dàng.
 
-你仍然会做错决定，会高估一项事业，会在关系里把沉默误认成同意，也会在身体发出信号时继续要求自己证明什么。能力可以扩大一个人的行动范围，也会扩大选择造成的影响。如果没有边界和责任，跑得更快只会让某些代价更晚被看见。
+Bạn vẫn sẽ đưa ra những quyết định sai lầm, đánh giá quá cao một sự nghiệp, nhầm sự im lặng trong một mối quan hệ với sự đồng ý, và tiếp tục buộc bản thân phải chứng minh điều gì đó ngay cả khi cơ thể đã phát ra tín hiệu. Năng lực có thể mở rộng phạm vi hành động của một người, nhưng cũng mở rộng ảnh hưởng do các lựa chọn tạo ra. Nếu không có ranh giới và trách nhiệm, chạy nhanh hơn chỉ khiến một số cái giá phải trả được nhìn thấy muộn hơn.
 
-所以，打开世界之后，我们要把自己放回生活。不是把经历写成命运，也不是把失败包装成转折，而是重新辨认：发生了什么，我当时知道什么，谁承受了影响，哪些责任属于我，哪些部分仍然不能确定。
+Vì vậy, sau khi mở cửa với thế giới, chúng ta cần đưa bản thân trở lại với cuộc sống. Không phải biến trải nghiệm thành số phận, cũng không phải tô điểm thất bại thành một bước ngoặt, mà là nhận diện lại: chuyện gì đã xảy ra, khi ấy tôi biết những gì, ai đã chịu ảnh hưởng, những trách nhiệm nào thuộc về tôi, và những phần nào vẫn chưa thể xác định.
 
-这一部没有一条只向上的曲线。它更像回到一间曾经匆忙离开的房子，打开灯，看清桌上没有处理完的账、门边等过你的人，以及那个一直想逃去更远地方的自己。
+Phần này không có một đường cong chỉ đi lên. Nó giống như trở lại một căn nhà từng vội vã rời đi, bật đèn lên, nhìn rõ những hóa đơn chưa được xử lý trên bàn, những người từng chờ bạn bên cửa, và chính bản thân luôn muốn chạy trốn đến một nơi xa hơn.
 
-回到生活，也包括重新看见那些值得珍惜的人。家人、爱人、朋友或其他可信任的人，可能让我们获得力量；这份支持需要意愿、容量和边界，不是任何关系的强制义务。负重前行时，可以承担自己的责任，也可以停下来重新分担、减轻负荷，寻找家庭之外的支持。
+Trở lại với cuộc sống cũng bao gồm việc nhìn thấy một lần nữa những người đáng được trân trọng. Gia đình, người yêu, bạn bè hoặc những người khác mà ta có thể tin cậy có thể giúp ta có thêm sức mạnh; sự hỗ trợ này cần thiện chí, khả năng và ranh giới, chứ không phải nghĩa vụ bắt buộc của bất kỳ mối quan hệ nào. Khi vừa mang gánh nặng vừa tiến về phía trước, ta có thể gánh vác trách nhiệm của mình, đồng thời cũng có thể dừng lại để cùng nhau phân chia lại, giảm bớt gánh nặng và tìm kiếm sự hỗ trợ bên ngoài gia đình.
 
-## 本部要回答的问题
+## Những câu hỏi phần này cần trả lời
 
-- 怎样讲述个人经历，而不把后来知道的结果倒灌回过去？
-- 怎样承担自己的错误，同时不替越界、暴力或他人的选择辩护？
-- 在不确定中，怎样给决定留下边界、复查日期和可以回来的路？
-- 当事业、关系或身体失去秩序，什么应该先停止，什么需要求助，什么仍可以很小地继续？
-- 怎样把关心变成双方愿意的照料与分担，让牵挂带来力量，而不把爱变成责任债或硬撑的理由？
+- Làm thế nào kể lại trải nghiệm cá nhân mà không để những kết quả biết được về sau tràn ngược vào quá khứ?
+- Làm thế nào chịu trách nhiệm về lỗi lầm của mình mà không biện hộ cho hành vi vượt ranh giới, bạo lực hay lựa chọn của người khác?
+- Trong sự bất định, làm thế nào để để lại cho một quyết định những ranh giới, ngày xem xét lại và một con đường có thể quay về?
+- Khi sự nghiệp, mối quan hệ hoặc cơ thể mất đi trật tự, điều gì nên dừng trước, điều gì cần tìm kiếm sự giúp đỡ, và điều gì vẫn có thể tiếp tục ở quy mô thật nhỏ?
+- Làm thế nào biến sự quan tâm thành sự chăm sóc và sẻ chia mà cả hai bên đều tự nguyện, để nỗi lo lắng mang lại sức mạnh thay vì biến tình yêu thành món nợ trách nhiệm hoặc lý do để cố gắng chịu đựng?
 
-这些问题没有统一答案。不同的人拥有不同的身体、金钱、责任和安全条件。本部提供的是阅读过去的方法，不是要求所有人获得同一种结论。
+Những câu hỏi này không có một đáp án thống nhất. Mỗi người có cơ thể, tiền bạc, trách nhiệm và điều kiện an toàn khác nhau. Phần này cung cấp một phương pháp đọc lại quá khứ, chứ không yêu cầu tất cả mọi người đi đến cùng một kết luận.
 
-## 阅读路径
+## Lộ trình đọc
 
-| 路径 | 章节 | 要看见的东西 |
+| Lộ trình | Chương | Điều cần nhìn thấy |
 | --- | --- | --- |
-| 进入现场 | [我的故事](my-story.md) | 一段经历中的事实、代价、缺席者和未知 |
-| 重新认识身体与情绪 | [我还在这里：从抑郁焦虑的黑暗中走出来](depression-anxiety-recovery.md) | 抑郁、焦虑、停药风险、求助与恢复中的微小动作 |
-| 重读故事 | [叙事与证据](narrative-and-evidence.md) · [回声篇](x-misc.md) | 当时的版本、回望的解释和下一次可检验的动作 |
-| 先接住自己 | [恢复篇](recovery.md) | 安全、基本照料、支持网络和最小秩序 |
-| 重新选择 | [选择篇](decision.md) | 可逆性、代价、影响与复查条件 |
-| 让彼此被听见 | [沟通篇：让彼此被听见](communication.md) · [关系篇](relationships.md) | 观察、感受、需要、请求、边界与修复 |
-| 珍惜与分担 | [珍惜篇：从爱与牵挂中获得力量](care-and-carry-on.md) | 具体关心、照料劳动、双方容量、拒绝空间和可以减轻的负荷 |
-| 面对事业 | [创业篇](entrepreneurship.md) | 用户、现金流、技术债、团队责任和停止门槛 |
+| Bước vào hiện trường | [Câu chuyện của tôi](my-story.md) | Sự thật, cái giá phải trả, những người vắng mặt và những điều chưa biết trong một trải nghiệm |
+| Nhận biết lại cơ thể và cảm xúc | [Tôi vẫn còn ở đây: bước ra khỏi bóng tối của trầm cảm và lo âu](depression-anxiety-recovery.md) | Trầm cảm, lo âu, rủi ro khi ngừng thuốc, tìm kiếm sự giúp đỡ và những hành động nhỏ trong quá trình hồi phục |
+| Đọc lại câu chuyện | [Tường thuật và bằng chứng](narrative-and-evidence.md) · [Phần tiếng vọng](x-misc.md) | Phiên bản tại thời điểm đó, cách lý giải khi nhìn lại và hành động tiếp theo có thể kiểm chứng |
+| Trước hết, đỡ lấy chính mình | [Phần hồi phục](recovery.md) | An toàn, chăm sóc cơ bản, mạng lưới hỗ trợ và trật tự tối thiểu |
+| Lựa chọn lại | [Phần lựa chọn](decision.md) | Tính có thể đảo ngược, cái giá phải trả, ảnh hưởng và điều kiện xem xét lại |
+| Để đôi bên được lắng nghe | [Phần giao tiếp: Để đôi bên được lắng nghe](communication.md) · [Phần mối quan hệ](relationships.md) | Quan sát, cảm xúc, nhu cầu, yêu cầu, ranh giới và hàn gắn |
+| Trân trọng và sẻ chia | [Phần trân trọng: Tìm kiếm sức mạnh từ tình yêu và sự quan tâm](care-and-carry-on.md) | Sự quan tâm cụ thể, công việc chăm sóc, khả năng của cả hai bên, không gian để từ chối và những gánh nặng có thể giảm bớt |
+| Đối diện với sự nghiệp | [Phần khởi nghiệp](entrepreneurship.md) | Người dùng, dòng tiền, nợ kỹ thuật, trách nhiệm với đội ngũ và ngưỡng dừng |
 
-阅读个人故事时，请允许自己暂停。若内容引发持续失眠、惊恐、绝望或危险念头，先离开页面，联系可信任的人和当地合格专业支持。复盘不值得以再次伤害自己为代价。
+Khi đọc những câu chuyện cá nhân, hãy cho phép bản thân tạm dừng. Nếu nội dung gây ra tình trạng mất ngủ kéo dài, hoảng sợ, tuyệt vọng hoặc ý nghĩ nguy hiểm, trước hết hãy rời khỏi trang và liên hệ với người đáng tin cậy cùng dịch vụ hỗ trợ chuyên môn đủ tiêu chuẩn tại địa phương. Việc nhìn lại không đáng để bạn phải tự làm tổn thương mình thêm một lần nữa.
 
-## 读完留下什么
+## Điều còn lại sau khi đọc
 
-这一部结束时，请不要只留下一句“我释怀了”或“我应该更努力”。请留下一页可以在未来复查的记录：
+Khi kết thúc phần này, xin đừng chỉ giữ lại một câu như “Tôi đã buông bỏ được” hay “Tôi nên cố gắng hơn”. Hãy để lại một trang ghi chép có thể xem xét lại trong tương lai:
 
-1. 三项可确认的事实，以及仍然未知的部分；
-2. 一项需要承担、道歉、停止或修复的责任；
-3. 一个保护身体、关系或金钱的边界；
-4. 一次不依赖宏大转折的最小行动。
+1. Ba sự thật có thể xác nhận, cùng những phần vẫn chưa biết;
+2. Một trách nhiệm cần được gánh vác, xin lỗi, dừng lại hoặc khắc phục;
+3. Một ranh giới bảo vệ cơ thể, mối quan hệ hoặc tiền bạc;
+4. Một hành động nhỏ nhất không phụ thuộc vào một bước ngoặt lớn lao.
 
-涉及照料或共同负担时，还可以留下一项双方愿意的具体安排：谁承担什么，什么需要另找支持，什么时候检查是否太重。使用工作表中的“关心与分担卡”记录即可；对方可以拒绝参与，也不需要用配合记录来证明爱。
+Khi liên quan đến việc chăm sóc hoặc gánh vác chung, bạn cũng có thể để lại một thỏa thuận cụ thể mà cả hai bên đều tự nguyện: ai đảm nhận việc gì, điều gì cần tìm thêm sự hỗ trợ, và khi nào kiểm tra xem gánh nặng có quá sức hay không. Chỉ cần dùng “thẻ quan tâm và sẻ chia” trong bảng bài tập để ghi lại; đối phương có thể từ chối tham gia và cũng không cần dùng việc phối hợp ghi chép để chứng minh tình yêu.
 
-可以使用[生活进阶工作表](../../templates/life-practice-toolkit.md)保存它。记录应放在私有位置，并删除不必要的第三方身份、健康、财务和关系细节。
+Bạn có thể dùng[bảng bài tập nâng cao về cuộc sống](../../templates/life-practice-toolkit.md)để lưu lại. Bản ghi nên được đặt ở nơi riêng tư và xóa những thông tin không cần thiết về danh tính, sức khỏe, tài chính và các mối quan hệ của bên thứ ba.
 
-## 进入正文
+## Bước vào nội dung chính
 
-我们无法回到过去替当时的自己重新选择，却可以决定今天用什么方式理解他。
+Chúng ta không thể quay về quá khứ để lựa chọn lại thay cho bản thân khi ấy, nhưng có thể quyết định hôm nay sẽ thấu hiểu con người đó bằng cách nào.
 
-先不要急着寻找教训。让故事按它原来的重量落下来，听见其中的野心、沉默、疼痛和仍未消失的愿望。
+Trước hết, đừng vội tìm kiếm bài học. Hãy để câu chuyện rơi xuống theo đúng sức nặng vốn có của nó, lắng nghe tham vọng, sự im lặng, nỗi đau và những khát vọng vẫn chưa biến mất trong đó.

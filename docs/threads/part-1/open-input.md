@@ -1,61 +1,61 @@
 ---
-title: 第一部：打开输入
-description: 从英语能力的真实起点出发，建立通向知识、他人与世界的输入通道，并把理解推进到可以独立表达和完成任务。
+title: "Phần I: Mở rộng đầu vào"
+description: Xuất phát từ điểm bắt đầu thực tế của năng lực tiếng Anh, xây dựng con đường tiếp nhận kiến thức, kết nối với người khác và thế giới, đồng thời thúc đẩy việc hiểu đến mức có thể tự mình diễn đạt và hoàn thành nhiệm vụ.
 updated: 2026-09-02
 prev:
-  text: "序章：先不要急着改变人生"
+  text: "Lời mở đầu: Đừng vội thay đổi cuộc đời"
   link: /threads/part-0/prologue
 next:
-  text: "CEFR 目标与英语能力自测"
+  text: "Mục tiêu CEFR và tự đánh giá năng lực tiếng Anh"
   link: /threads/part-1/0-cefr
 ---
 
-# 第一部：打开输入
+# Phần I: Mở rộng đầu vào
 
-一扇门真正重要的地方，不是它看起来多么漂亮，而是它把你带到了哪里。
+Điều thực sự quan trọng ở một cánh cửa không phải là nó trông đẹp đến đâu, mà là nó đưa bạn đến nơi nào.
 
-对我来说，英语最初像一堵墙。墙的这一边是考试、单词和一次次对自己的怀疑；墙的另一边是技术文档、课程、研究、产品和那些尚未认识的人。我曾以为，只要记住更多词，墙就会自动倒下。后来才明白，语言不是等待囤积的知识，而是需要在真实场景中反复使用的能力。
+Đối với tôi, tiếng Anh ban đầu giống như một bức tường. Phía này của tường là các kỳ thi, từ vựng và hết lần này đến lần khác nghi ngờ chính mình; phía bên kia là tài liệu kỹ thuật, khóa học, nghiên cứu, sản phẩm và những người tôi chưa từng gặp. Tôi từng nghĩ rằng chỉ cần ghi nhớ thêm nhiều từ, bức tường sẽ tự động sụp đổ. Sau này tôi mới hiểu, ngôn ngữ không phải là kiến thức chờ được tích trữ, mà là một năng lực cần được sử dụng lặp đi lặp lại trong những bối cảnh thực tế.
 
-这一部从英语开始，却不把英语当成人的等级。它只问：当信息不再经过熟悉语言替你整理，你能否听见主要意思，读懂论证，提出问题，说明判断，并与另一个人一起把事情做完？
+Phần này bắt đầu từ tiếng Anh, nhưng không xem tiếng Anh là thước đo cấp bậc của một con người. Nó chỉ đặt câu hỏi: khi thông tin không còn được ngôn ngữ quen thuộc thay bạn sắp xếp, bạn có thể nghe ra ý chính, đọc hiểu lập luận, đặt câu hỏi, trình bày nhận định và cùng một người khác hoàn thành công việc hay không?
 
-打开输入，不是让更多信息涌进生活。它是学习选择什么值得进入，怎样理解，怎样回应，以及怎样在合上材料之后仍然保留一点属于自己的东西。
+Mở rộng đầu vào không có nghĩa là để nhiều thông tin hơn tràn vào cuộc sống. Đó là học cách lựa chọn điều gì đáng được tiếp nhận, cách hiểu, cách phản hồi, và cách sau khi khép tài liệu lại, vẫn giữ được một phần nhỏ thuộc về chính mình.
 
-## 本部要回答的问题
+## Những câu hỏi phần này cần trả lời
 
-- 我现在在听、说、读、写上分别能完成什么，而不是“总体大概几级”？
-- 一个词、一段声音或一篇文章，怎样从见过变成能在新场景中使用？
-- 输入如何经过回忆、表达和反馈，成为不依赖原材料的能力？
-- 当规则已经见过，结构为什么仍会在真实表达中改变时间、责任、条件或确定性？
-- AI 可以在哪一步帮助练习，又必须在哪一步退出，让我独立完成？
-- 当英语进入求职、面试和远程协作，怎样把等级方向改写成岗位任务与证据？
+- Hiện giờ tôi có thể hoàn thành được gì ở từng kỹ năng nghe, nói, đọc, viết, thay vì chỉ biết mình “đại khái ở cấp độ nào”?
+- Làm thế nào để một từ, một đoạn âm thanh hoặc một bài viết chuyển từ chỗ từng gặp thành có thể sử dụng trong bối cảnh mới?
+- Làm thế nào để đầu vào, thông qua hồi tưởng, diễn đạt và phản hồi, trở thành năng lực không phụ thuộc vào tài liệu gốc?
+- Khi các quy tắc đã từng gặp, tại sao cấu trúc vẫn thay đổi thời gian, trách nhiệm, điều kiện hoặc mức độ chắc chắn trong diễn đạt thực tế?
+- AI có thể hỗ trợ luyện tập ở bước nào, và phải rút lui ở bước nào để tôi tự mình hoàn thành?
+- Khi tiếng Anh đi vào quá trình tìm việc, phỏng vấn và cộng tác từ xa, làm thế nào để chuyển định hướng theo cấp độ thành nhiệm vụ và bằng chứng của vị trí công việc?
 
-不要用最弱的一项否定全部能力，也不要用最强的一项掩盖真实缺口。起点不是判决，而是一张让下一步拥有方向的地图。
+Đừng dùng một kỹ năng yếu nhất để phủ nhận toàn bộ năng lực, cũng đừng dùng một kỹ năng mạnh nhất để che đậy những thiếu hụt thực tế. Điểm xuất phát không phải là phán quyết, mà là một tấm bản đồ giúp bước tiếp theo có phương hướng.
 
-## 阅读路径
+## Lộ trình đọc
 
-| 路径 | 章节 | 要留下的东西 |
+| Lộ trình | Chương | Điều cần giữ lại |
 | --- | --- | --- |
-| 确认起点 | [CEFR 目标与英语能力自测](0-cefr.md) | 听、说、读、写各一份未经修饰的基线 |
-| 建立方法 | [认知与训练原则](1-understanding.md) · [词汇系统](2-vocabulary.md) · [语法篇](grammar.md) | 一个真实场景、一组可复用词块、一项高影响结构和复测日期 |
-| 打开理解 | [听力训练](3-listening.md) · [阅读训练](4-reading.md) | 主旨重构、困难分类和来源记录 |
-| 进入表达 | [口语训练](5-speaking.md) · [写作训练](6-writing.md) | 首版、反馈、修订版和新条件下的表达 |
-| 使用工具 | [用 AI 学英语](7-ai.md) | AI 介入边界、独立复测和真实受众反馈 |
-| 进入岗位 | [求职英语篇](8-job-search-english.md) | 岗位语言地图、陌生追问、异步写作和十四天证据 |
+| Xác nhận điểm xuất phát | [Mục tiêu CEFR và tự đánh giá năng lực tiếng Anh](0-cefr.md) | Một bản cơ sở chưa qua chỉnh sửa cho mỗi kỹ năng nghe, nói, đọc, viết |
+| Xây dựng phương pháp | [Nguyên tắc nhận thức và luyện tập](1-understanding.md) · [Hệ thống từ vựng](2-vocabulary.md) · [Phần ngữ pháp](grammar.md) | Một bối cảnh thực tế, một nhóm cụm từ có thể tái sử dụng, một cấu trúc có ảnh hưởng lớn và ngày kiểm tra lại |
+| Mở rộng khả năng hiểu | [Luyện nghe](3-listening.md) · [Luyện đọc](4-reading.md) | Tái cấu trúc ý chính, phân loại khó khăn và ghi lại nguồn |
+| Bước vào diễn đạt | [Luyện nói](5-speaking.md) · [Luyện viết](6-writing.md) | Bản đầu tiên, phản hồi, bản chỉnh sửa và cách diễn đạt trong điều kiện mới |
+| Sử dụng công cụ | [Học tiếng Anh bằng AI](7-ai.md) | Ranh giới can thiệp của AI, kiểm tra lại một cách độc lập và phản hồi từ đối tượng tiếp nhận thực tế |
+| Bước vào vị trí công việc | [Phần tiếng Anh tìm việc](8-job-search-english.md) | Bản đồ ngôn ngữ của vị trí công việc, câu hỏi truy vấn bất ngờ, viết không đồng bộ và bằng chứng trong mười bốn ngày |
 
-不用同时推进所有章节。先选择一个会在现实里发生的任务：一次会议、一封邮件、一篇文档、一段说明或一场对话。围绕它打开需要的能力，其余章节先保持安静。
+Không cần đồng thời triển khai tất cả các chương. Trước tiên hãy chọn một nhiệm vụ sẽ diễn ra trong thực tế: một cuộc họp, một email, một tài liệu, một phần hướng dẫn hoặc một cuộc trò chuyện. Xoay quanh nhiệm vụ đó để mở rộng những năng lực cần thiết; hãy tạm để các chương còn lại yên lặng.
 
-## 读完留下什么
+## Đọc xong cần giữ lại gì
 
-这一部结束时，请至少留下三件东西：
+Khi kết thúc phần này, hãy giữ lại ít nhất ba thứ:
 
-1. 一份能够在三十天后重做的起点样本，包含未经修饰的结构选择；
-2. 一项真实受众能够理解、回应或使用的英语输出；若目标是求职，至少包含一次陌生追问或异步交接；
-3. 一条写明时间、条件和下一变量的[证据链](../../templates/evidence-chain.md)。
+1. Một mẫu điểm xuất phát có thể làm lại sau ba mươi ngày, bao gồm những lựa chọn cấu trúc chưa qua chỉnh sửa;
+2. Một sản phẩm tiếng Anh mà đối tượng tiếp nhận thực tế có thể hiểu, phản hồi hoặc sử dụng; nếu mục tiêu là tìm việc, ít nhất phải bao gồm một câu hỏi truy vấn bất ngờ hoặc một lần bàn giao không đồng bộ;
+3. Một [chuỗi bằng chứng](../../templates/evidence-chain.md) ghi rõ thời gian, điều kiện và biến số tiếp theo.
 
-如果只留下了收藏、播放时长和“学了很多”的感觉，还没有完成这一部。把材料关掉，换一个相近任务，再独立做一次。能力是在提示离开之后仍然存在的部分。
+Nếu chỉ còn lại những thứ đã lưu, thời lượng phát và cảm giác “đã học được rất nhiều”, thì bạn vẫn chưa hoàn thành phần này. Hãy đóng tài liệu lại, đổi sang một nhiệm vụ tương tự, rồi tự mình thực hiện lại một lần. Năng lực là phần vẫn còn tồn tại sau khi những lời gợi ý rời đi.
 
-## 进入正文
+## Bước vào nội dung chính
 
-我们先不问自己是否“擅长英语”。先拿出一张纸，保存今天能够完成的版本。
+Trước hết, chúng ta không cần hỏi bản thân liệu mình có “giỏi tiếng Anh” hay không. Hãy lấy một tờ giấy ra và lưu lại phiên bản mà hôm nay bạn có thể hoàn thành.
 
-门不会在准备充分之后才打开。很多时候，是你先伸手推了一下，光才从缝隙里进来。
+Cánh cửa không đợi đến khi bạn chuẩn bị đầy đủ mới mở. Nhiều khi, chính vì bạn đưa tay đẩy trước một chút mà ánh sáng mới lọt vào từ khe cửa.

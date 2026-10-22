@@ -1,50 +1,50 @@
 ---
-title: 词汇篇：从眼熟到在真实任务中调用
-description: 从首遇基线、查词决策、义项与搭配核验出发，用无提示调用、误用修复和延迟迁移建立真正可用的词汇系统。
+title: "Chuyên đề từ vựng: từ quen mắt đến vận dụng trong nhiệm vụ thực tế"
+description: Bắt đầu từ đường cơ sở khi gặp lần đầu, quyết định tra từ, kiểm tra nghĩa và kết hợp từ, rồi xây dựng một hệ thống từ vựng thực sự hữu dụng thông qua việc gọi lại không có gợi ý, sửa lỗi dùng sai và chuyển giao sau trì hoãn.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 词汇篇：从眼熟到在真实任务中调用
+# Chuyên đề từ vựng: từ quen mắt đến vận dụng trong nhiệm vụ thực tế
 
-最早维护这份指南时，我也喜欢收集词表。列表每增加一页，进步仿佛就多了一层可以看见的刻度。可语言不会因为被收藏而在需要时自动出现。真正到了邮件、会议、代码评审或一次艰难的解释里，人缺的往往不是“见过这个词”，而是能否在有限时间里选对义项、搭配、语气和责任。
+Khi mới bắt đầu duy trì hướng dẫn này, tôi cũng thích sưu tầm các bảng từ vựng. Mỗi khi danh sách dài thêm một trang, tiến bộ dường như lại có thêm một nấc đo lường hữu hình. Nhưng ngôn ngữ không tự động xuất hiện khi cần chỉ vì đã được sưu tầm. Trong email, cuộc họp, buổi review code hay một lần giải thích khó khăn, điều con người thường thiếu không phải là “đã từng thấy từ này”, mà là khả năng chọn đúng nghĩa, cách kết hợp từ, sắc thái và mức độ trách nhiệm trong thời gian hạn chế.
 
-比如 `delay`、`block`、`risk` 都可以出现在项目更新里，却不是同一件事。一个任务已经停住、可能受影响，还是只是比计划晚，决定了谁需要行动、何时升级、是否等待。句子即使语法正确，词选错了，协作仍会走向错误的决定。
+Chẳng hạn, `delay`, `block`, `risk` đều có thể xuất hiện trong bản cập nhật dự án, nhưng không chỉ cùng một việc. Một nhiệm vụ đã bị đình trệ và có thể bị ảnh hưởng, hay chỉ đơn giản là chậm hơn kế hoạch, sẽ quyết định ai cần hành động, khi nào cần báo cáo cấp cao hơn và có nên chờ hay không. Ngay cả khi câu đúng ngữ pháp, nếu chọn sai từ thì sự phối hợp vẫn có thể dẫn đến quyết định sai.
 
-所以，词汇量不是仓库盘点。词汇能力是：在真实输入里认出一个表达，在上下文中判断它此刻的意思，在需要时迅速调用，并让另一个人据此理解、回应或继续工作。
+Vì vậy, vốn từ không phải là việc kiểm kê kho lưu trữ. Năng lực từ vựng là: nhận ra một cách diễn đạt trong đầu vào thực tế, xác định ý nghĩa của nó trong ngữ cảnh hiện tại, nhanh chóng gọi ra khi cần, và giúp người khác hiểu, phản hồi hoặc tiếp tục công việc dựa trên đó.
 
-本章给出一条可追踪的路径：先保存不查词的首遇样本，再决定哪些词应该放过、推断、查证或学习；把声音、词形、义项、搭配、语域和概念分开核对；最后撤掉原句与卡片，在新主题、新模态和真实任务里复测。
+Chương này đưa ra một lộ trình có thể theo dõi: trước tiên lưu lại mẫu gặp lần đầu mà không tra từ, sau đó quyết định từ nào nên bỏ qua, suy đoán, tra cứu, học hoặc xác minh; tách riêng việc kiểm tra âm thanh, dạng từ, nghĩa, kết hợp từ, văn phong và khái niệm; cuối cùng loại bỏ câu gốc và thẻ ghi nhớ để kiểm tra lại trong chủ đề mới, phương thức mới và nhiệm vụ thực tế.
 
-## 本章速览
+## Tổng quan chương
 
-- 先定义真实任务，不用孤立词汇量替代场景能力；
-- 保存首遇基线，区分“不认识词”和“认识却没有解析句子”；
-- 对未知项做放过、推断、速查、学习或专业核验的决定；
-- 把词形、声音、当前义项、搭配、语法行为、语域和概念分别学习；
-- 用无提示回忆、限时调用和真实受众结果验收，而不是看答案后的熟悉感；
-- 让间隔随错误和使用结果调整，不把固定日期冒充记忆定律；
-- 用词典、语料、现行文档与领域人员核对 AI 生成的候选；
-- 十四天只追踪一个主题、一个首遇样本和一次平行任务。
+- Trước hết xác định nhiệm vụ thực tế, không dùng vốn từ vựng biệt lập để thay thế năng lực trong bối cảnh;
+- Lưu đường cơ sở khi gặp lần đầu, phân biệt “không biết từ” với “biết từ nhưng không phân tích được câu”;
+- Đưa ra quyết định bỏ qua, suy đoán, tra nhanh, học hoặc xác minh chuyên môn đối với mục chưa biết;
+- Học riêng dạng từ, âm thanh, nghĩa hiện tại, kết hợp từ, hành vi ngữ pháp, văn phong và khái niệm;
+- Dùng việc nhớ lại không có gợi ý, gọi từ trong thời gian giới hạn và kết quả từ người tiếp nhận thực tế để nghiệm thu, thay vì dựa vào cảm giác quen thuộc sau khi xem đáp án;
+- Điều chỉnh khoảng cách theo lỗi và kết quả sử dụng, không giả định ngày cố định là quy luật ghi nhớ;
+- Kiểm tra các ứng viên do AI tạo ra bằng từ điển, ngữ liệu, tài liệu hiện hành và người trong lĩnh vực;
+- Trong mười bốn ngày chỉ theo dõi một chủ đề, một mẫu gặp lần đầu và một nhiệm vụ song song.
 
-## 1. 先定义任务，不先追求总量
+## 1. Xác định nhiệm vụ trước, đừng theo đuổi tổng số trước
 
-“扩大词汇量”不能告诉你今天该学什么。先写清楚语言将在什么条件下工作：
+“Mở rộng vốn từ” không cho bạn biết hôm nay nên học gì. Trước hết hãy viết rõ ngôn ngữ sẽ hoạt động trong điều kiện nào:
 
-| 任务 | 需要的词汇能力 | 可观察结果 |
+| Nhiệm vụ | Năng lực từ vựng cần có | Kết quả có thể quan sát |
 | --- | --- | --- |
-| 听会议 | 在自然语速里切分关键词块与责任关系 | 能复述决定、风险、负责人和期限 |
-| 读文档 | 识别当前版本里的术语、动作和限制 | 能完成最小验证并指出来源位置 |
-| 口头解释 | 在时间压力下调用合适的词块并修复 | 听众能复述主旨，不靠稿件猜测 |
-| 写邮件 | 选择准确义项、搭配与关系语气 | 收件人知道要做什么、何时回应 |
-| 参加考试 | 按题型辨认或产出规定范围 | 在新题中完成，而不只认出旧卡 |
+| Nghe cuộc họp | Phân tách các cụm từ khóa và quan hệ trách nhiệm ở tốc độ tự nhiên | Có thể nhắc lại quyết định, rủi ro, người phụ trách và thời hạn |
+| Đọc tài liệu | Nhận diện thuật ngữ, hành động và giới hạn trong phiên bản hiện tại | Có thể hoàn thành bước xác minh tối thiểu và chỉ ra vị trí nguồn |
+| Giải thích bằng lời | Gọi ra các cụm từ phù hợp và tự sửa dưới áp lực thời gian | Người nghe có thể nhắc lại ý chính mà không phải đoán dựa vào bản thảo |
+| Viết email | Chọn đúng nghĩa, cách kết hợp từ và sắc thái quan hệ | Người nhận biết cần làm gì và khi nào phản hồi |
+| Tham gia kỳ thi | Nhận diện hoặc tạo ra nội dung trong phạm vi quy định theo dạng câu hỏi | Hoàn thành được câu hỏi mới, không chỉ nhận ra thẻ cũ |
 
-同一个人可以读懂某领域的术语，却在会议里叫不出来；也可以会说日常词，却无法分辨合同中的近义项。先确定受众、材料、时间限制、允许工具和完成标准，才知道该测接受还是产出、广度还是精度。
+Một người có thể đọc hiểu thuật ngữ trong một lĩnh vực nhưng không thể gọi ra chúng trong cuộc họp; cũng có thể nói được các từ thường ngày nhưng không phân biệt được những từ gần nghĩa trong hợp đồng. Chỉ khi xác định trước người tiếp nhận, tài liệu, giới hạn thời gian, công cụ được phép dùng và tiêu chuẩn hoàn thành, bạn mới biết cần kiểm tra khả năng tiếp nhận hay sản sinh, độ rộng hay độ chính xác.
 
-使用[词汇证据卡](../../templates/vocabulary-audit.md)，把任务、首遇、查证、调用、反馈和延迟迁移放在同一页。
+Sử dụng[thẻ bằng chứng từ vựng](../../templates/vocabulary-audit.md), đặt nhiệm vụ, lần gặp đầu tiên, xác minh, gọi lại, phản hồi và chuyển giao sau trì hoãn trên cùng một trang.
 
-## 2. 保存一次未经修饰的首遇
+## 2. Lưu lại một lần gặp đầu tiên chưa qua chỉnh sửa
 
-选择一份与你真实任务相近的材料：150-300 词短文、60-90 秒音频、一封邮件、一段接口文档或一次简短说明。先记录允许的字幕、词典、翻译、搜索和 AI，然后在不查词的条件下完成第一次输入或输出。
+Chọn tài liệu gần với nhiệm vụ thực tế của bạn: một bài ngắn 150-300 từ, một đoạn âm thanh 60-90 giây, một email, một đoạn tài liệu API hoặc một phần giải thích ngắn. Trước tiên ghi lại các phụ đề, từ điển, bản dịch, tìm kiếm và AI được phép sử dụng, sau đó hoàn thành lần tiếp nhận hoặc sản sinh đầu tiên mà không tra từ.
 
 ```markdown
 材料、版本与来源：
@@ -57,48 +57,48 @@ sources_checked: 2026-09-02
 我当时如何处理未知项：
 ```
 
-不要立刻把所有失败归因于词汇。一个句子可能因为声音没有切分、句法范围不清、背景知识不足、版面复杂或注意力下降而失败。把原始填空、复述、录音或写作样本留下，后面才知道查词究竟改变了什么。
+Đừng lập tức quy mọi thất bại cho từ vựng. Một câu có thể thất bại vì âm thanh chưa được phân tách, phạm vi cú pháp không rõ, thiếu kiến thức nền, bố cục phức tạp hoặc sự chú ý giảm sút. Hãy giữ lại bài điền khuyết, phần nhắc lại, bản ghi âm hoặc mẫu viết ban đầu; chỉ khi đó về sau bạn mới biết việc tra từ thực sự đã thay đổi điều gì.
 
-首遇基线也不是羞耻清单。它只是回答：在工具介入前，哪些意义已经到达，哪些地方需要猜，哪个词真正阻断了任务。
+Đường cơ sở khi gặp lần đầu cũng không phải là danh sách đáng xấu hổ. Nó chỉ trả lời câu hỏi: trước khi công cụ can thiệp, những ý nghĩa nào đã được tiếp nhận, chỗ nào cần đoán, và từ nào thực sự cản trở nhiệm vụ.
 
-## 3. 为未知项做五种决定
+## 3. Đưa ra năm loại quyết định cho mục chưa biết
 
-不是每个生词都值得进入长期复习。读到或听到未知项时，先决定：
+Không phải từ mới nào cũng đáng đưa vào ôn tập dài hạn. Khi đọc hoặc nghe thấy một mục chưa biết, trước tiên hãy quyết định:
 
-| 决定 | 适用条件 | 最低记录 |
+| Quyết định | Điều kiện áp dụng | Ghi chép tối thiểu |
 | --- | --- | --- |
-| 放过 | 不影响主旨、决定和安全，只是一次性细节 | 为什么可以跳过 |
-| 语境推断 | 有足够句法、对比、例子或上下文线索 | 候选义项与置信度 |
-| 快速查阅 | 阻断当前理解，但未来使用价值低 | 当前义项与来源 |
-| 主动学习 | 重复出现、任务关键，未来两周会使用 | 声音、搭配、检索线索与复测 |
-| 专业核验 | 涉及安全、法律、医学、财务、版本或业务责任 | 一手定义、适用范围与责任人 |
+| Bỏ qua | Không ảnh hưởng đến ý chính, quyết định và an toàn, chỉ là chi tiết xuất hiện một lần | Vì sao có thể bỏ qua |
+| Suy đoán theo ngữ cảnh | Có đủ manh mối cú pháp, đối chiếu, ví dụ hoặc ngữ cảnh | Các nghĩa ứng viên và mức độ tin cậy |
+| Tra nhanh | Cản trở việc hiểu hiện tại nhưng giá trị sử dụng trong tương lai thấp | Nghĩa hiện tại và nguồn |
+| Chủ động học | Xuất hiện lặp lại, quan trọng với nhiệm vụ và sẽ được sử dụng trong hai tuần tới | Âm thanh, cách kết hợp từ, manh mối truy hồi và lần kiểm tra lại |
+| Xác minh chuyên môn | Liên quan đến an toàn, pháp lý, y tế, tài chính, phiên bản hoặc trách nhiệm nghiệp vụ | Định nghĩa nguồn cấp một, phạm vi áp dụng và người chịu trách nhiệm |
 
-先推断再查证，可以练习上下文判断；但不要为了“坚持不查词”牺牲安全和事实。低风险阅读可以容忍不确定，高风险操作必须回到现行的一手文档或合格人员。
+Suy đoán trước rồi mới xác minh có thể rèn luyện khả năng phán đoán theo ngữ cảnh; nhưng đừng hy sinh an toàn và sự thật chỉ để “cố không tra từ”. Việc đọc trong tình huống rủi ro thấp có thể chấp nhận sự không chắc chắn, còn thao tác rủi ro cao phải quay về tài liệu nguồn cấp một hiện hành hoặc người đủ chuyên môn.
 
-一轮只选 5-8 个高价值词块进入主动学习。选择依据不是它看起来高级，而是：它反复出现、阻断任务、能和已有语言连接，并且很快有调用场景。
+Mỗi lượt chỉ chọn 5-8 cụm từ có giá trị cao để đưa vào học chủ động. Tiêu chí lựa chọn không phải là chúng trông có vẻ cao cấp, mà là: chúng xuất hiện lặp lại, cản trở nhiệm vụ, có thể liên kết với ngôn ngữ đã biết và sắp có bối cảnh sử dụng.
 
-## 4. 一个词至少包含八个问题
+## 4. Một từ ít nhất bao gồm tám câu hỏi
 
-“英文 = 中文”只记录了一个候选对应。更完整的词汇知识包括：
+“Tiếng Anh = tiếng Trung” chỉ ghi lại một đối ứng ứng viên. Kiến thức từ vựng đầy đủ hơn bao gồm:
 
-| 维度 | 要问的问题 | 例子或证据 |
+| Khía cạnh | Câu hỏi cần đặt ra | Ví dụ hoặc bằng chứng |
 | --- | --- | --- |
-| 词形 | 怎样拼写、屈折和派生？ | `analyse → analysis → analytical` |
-| 声音 | 重音、音素和连读里怎样出现？ | 无字幕听出并定位 |
-| 当前义项 | 它在这句话里到底指什么？ | 用自己的话解释，不罗列全部释义 |
-| 搭配/词块 | 它通常与哪些词共同完成意思？ | `pose a risk to`, `meet a deadline` |
-| 语法行为 | 后面接什么结构，谁能作主语？ | 原句与一个结构对比 |
-| 语域与语用 | 正式度、礼貌、立场和身份是否合适？ | `kids / children / minors` |
-| 概念与指代 | 现实中所指对象或制度是否真的相同？ | 版本、领域定义或反例 |
-| 调用条件 | 多久能想起，需不需要首字母或原句？ | 限时无提示说写 |
+| Dạng từ | Viết, biến tố và phái sinh như thế nào? | `analyse → analysis → analytical` |
+| Âm thanh | Xuất hiện như thế nào qua trọng âm, âm vị và nối âm? | Nghe và xác định được khi không có phụ đề |
+| Nghĩa hiện tại | Trong câu này, rốt cuộc nó chỉ điều gì? | Giải thích bằng lời của mình, không liệt kê toàn bộ nghĩa |
+| Kết hợp từ/cụm từ | Nó thường cùng những từ nào hoàn thành ý nghĩa? | `pose a risk to`, `meet a deadline` |
+| Hành vi ngữ pháp | Sau nó là cấu trúc gì, ai có thể làm chủ ngữ? | Câu gốc và một cấu trúc đối chiếu |
+| Văn phong và ngữ dụng | Mức độ trang trọng, lịch sự, lập trường và vai trò có phù hợp không? | `kids / children / minors` |
+| Khái niệm và quy chiếu | Đối tượng hoặc chế độ được chỉ đến trong thực tế có thực sự giống nhau không? | Phiên bản, định nghĩa lĩnh vực hoặc phản ví dụ |
+| Điều kiện gọi lại | Mất bao lâu để nhớ ra, có cần chữ cái đầu hoặc câu gốc không? | Nói hoặc viết có giới hạn thời gian và không gợi ý |
 
-词族是估算工具，不是自动掌握。`help, helps, helped, helpful, helpless` 可以在某些研究里归为一个词族，学习者却未必知道每个派生形式的意义、搭配和语气。专业领域里的缩写、接口名和固定表达更需要按当前版本核对。
+Họ từ là công cụ ước tính, không phải sự nắm vững tự động. `help, helps, helped, helpful, helpless` có thể được xếp vào cùng một họ từ trong một số nghiên cứu, nhưng người học chưa chắc biết nghĩa, cách kết hợp từ và sắc thái của từng dạng phái sinh. Các từ viết tắt, tên API và cách diễn đạt cố định trong lĩnh vực chuyên môn càng cần được đối chiếu theo phiên bản hiện tại.
 
-词也很少独自工作。优先学习能够承担任务的组合：搭配、句块、构词关系、句型槽位和语域对比。它们减少现场重新拼装的负担，却仍需要在新句子中保持可变，而不是整段背稿。
+Từ cũng hiếm khi hoạt động một mình. Hãy ưu tiên học những tổ hợp có thể đảm nhiệm nhiệm vụ: cách kết hợp từ, cụm câu, quan hệ cấu tạo từ, vị trí trong mẫu câu và đối chiếu văn phong. Chúng giảm gánh nặng phải lắp ghép lại tại chỗ, nhưng vẫn cần có khả năng biến đổi trong câu mới, thay vì học thuộc nguyên đoạn như bản thảo.
 
-## 5. 义项不是列表中的第一行
+## 5. Nghĩa không phải là dòng đầu tiên trong danh sách
 
-多义词最容易制造“明明认识却读错”的错觉。查词时先保留原句，再比较：
+Từ đa nghĩa dễ tạo ra ảo giác “rõ ràng là mình biết nhưng lại đọc sai”. Khi tra từ, trước tiên giữ lại câu gốc, sau đó so sánh:
 
 ```markdown
 原句与位置：
@@ -108,183 +108,183 @@ sources_checked: 2026-09-02
 若换成近义词，责任、确定性或语气怎样改变：
 ```
 
-不要把词典第一页的中文释义机械搬进每个场景。学习者词典适合看常见义项、发音、语法标记、搭配和例句；真实语料可以检查表达是否在相似场景出现；技术名词则应回到当前官方文档、标准或代码。
+Đừng máy móc đưa nghĩa tiếng Trung ở trang đầu từ điển vào mọi bối cảnh. Từ điển dành cho người học phù hợp để xem nghĩa thường gặp, phát âm, nhãn ngữ pháp, cách kết hợp từ và câu ví dụ; ngữ liệu thực tế có thể kiểm tra xem cách diễn đạt có xuất hiện trong bối cảnh tương tự hay không; còn thuật ngữ kỹ thuật nên được đối chiếu với tài liệu chính thức hiện tại, tiêu chuẩn hoặc mã nguồn.
 
-翻译可以帮助比较，但要警惕一个母语词覆盖多个英文概念，或两个制度词看似对应却适用范围不同。高风险文本中，“大致同义”不是可接受的验收标准。
+Bản dịch có thể giúp so sánh, nhưng cần cảnh giác với việc một từ trong tiếng mẹ đẻ bao phủ nhiều khái niệm tiếng Anh, hoặc hai thuật ngữ về chế độ tưởng như tương ứng nhưng lại có phạm vi áp dụng khác nhau. Trong văn bản rủi ro cao, “gần như đồng nghĩa” không phải tiêu chuẩn nghiệm thu có thể chấp nhận.
 
-## 6. 接受性词汇不等于产出性词汇
+## 6. Từ vựng tiếp nhận không đồng nghĩa với từ vựng sản sinh
 
-接受性阅读是看到后理解，接受性听力是声音出现时切分并理解；产出性口语和写作则要求在没有答案展示时主动调用，并处理词形、搭配与语域。
+Đọc tiếp nhận là hiểu khi nhìn thấy; nghe tiếp nhận là phân tách và hiểu khi âm thanh xuất hiện; còn nói và viết sản sinh đòi hỏi chủ động gọi ra khi không được hiển thị đáp án, đồng thời xử lý dạng từ, cách kết hợp từ và văn phong.
 
-Webb（2008）使用相互对应的接受性与产出性翻译测试研究二语学习者，报告接受性词汇规模总体大于产出性规模，而且在较低频词段，完整知识评分下的差距扩大。它说明“看见会认”不能直接推成“需要时会用”，但具体差距仍受到测试形式、评分、学习者和词频范围影响。
+Webb (2008) sử dụng các bài kiểm tra dịch tương ứng về tiếp nhận và sản sinh để nghiên cứu người học ngôn ngữ thứ hai, báo cáo rằng quy mô từ vựng tiếp nhận nhìn chung lớn hơn quy mô sản sinh, đồng thời ở các nhóm từ tần suất thấp hơn, khoảng cách trong điểm kiến thức đầy đủ còn tăng lên. Điều này cho thấy “nhìn thấy thì nhận ra” không thể trực tiếp suy ra thành “khi cần thì dùng được”, nhưng khoảng cách cụ thể vẫn chịu ảnh hưởng của hình thức kiểm tra, cách chấm điểm, người học và phạm vi tần suất từ.
 
-把一个新词块从接受推向产出，可以经过四步：
+Để đưa một cụm từ mới từ tiếp nhận sang sản sinh, có thể đi qua bốn bước:
 
-1. 在原句中解释当前义项；
-2. 合上原句，根据情境线索完成填空或复述；
-3. 保留功能，改变人物、时间、主题或语气；
-4. 在真实邮件、会议、说明、代码评审或对话里调用，并观察对方反应。
+1. Giải thích nghĩa hiện tại trong câu gốc;
+2. Đóng câu gốc lại, hoàn thành phần điền khuyết hoặc nhắc lại dựa trên manh mối tình huống;
+3. Giữ nguyên chức năng nhưng thay đổi nhân vật, thời gian, chủ đề hoặc sắc thái;
+4. Vận dụng trong email, cuộc họp, phần giải thích, buổi review code hoặc hội thoại thực tế, rồi quan sát phản ứng của đối phương.
 
-若只能复现训练句，不算迁移；若能表达意思却搭配生硬，说明概念已到达但形式仍需修复。把错误定位到具体维度，不要一律写成“没背熟”。
+Nếu chỉ có thể lặp lại câu luyện tập thì chưa được xem là chuyển giao; nếu diễn đạt được ý nhưng cách kết hợp từ cứng nhắc, điều đó cho thấy khái niệm đã được tiếp nhận nhưng hình thức vẫn cần sửa. Hãy xác định lỗi thuộc khía cạnh cụ thể nào, đừng luôn ghi là “chưa học thuộc”.
 
-## 7. 正确理解覆盖率数字
+## 7. Hiểu đúng các con số về độ bao phủ
 
-旧版曾写“1000 词理解 75%”“7000 词接近 90%”。这些无条件等式混合了计数单位、语料、模态和“理解”的定义，本版不再保留。
+Phiên bản cũ từng viết “hiểu 75% với 1000 từ” và “gần 90% với 7000 từ”. Những đẳng thức không có điều kiện này trộn lẫn đơn vị đếm, ngữ liệu, phương thức và định nghĩa của “hiểu”, nên phiên bản này không giữ lại.
 
-词汇研究常讨论 95% 和 98% 的运行词覆盖率。作为直觉，95% 约等于每 20 个词有 1 个未知项，98% 约每 50 个有 1 个；但未知项是否集中在关键位置、背景是否熟悉、句法是否复杂，会显著改变实际难度。
+Nghiên cứu từ vựng thường bàn về độ bao phủ từ vựng đang vận hành ở mức 95% và 98%. Theo trực giác, 95% tương đương với việc cứ khoảng 20 từ có 1 mục chưa biết, còn 98% là cứ khoảng 50 từ có 1 mục; nhưng việc các mục chưa biết có tập trung ở vị trí then chốt hay không, bối cảnh có quen thuộc hay không và cú pháp có phức tạp hay không sẽ làm thay đổi đáng kể độ khó thực tế.
 
-Schmitt、Jiang 与 Grabe（2011）让来自 8 个国家的 661 名参与者阅读两篇文本并完成词汇与理解测量，发现已知词比例与理解大致呈线性关系，没有出现某个比例之后理解突然跃升的明确阈值；作者认为 98% 是学术文本更合理的目标。它是群体关系，不是个人通行证。
+Schmitt, Jiang và Grabe (2011) cho 661 người tham gia đến từ 8 quốc gia đọc hai văn bản và hoàn thành các phép đo từ vựng và hiểu, phát hiện rằng tỷ lệ từ đã biết và mức độ hiểu nhìn chung có quan hệ tuyến tính, không xuất hiện ngưỡng rõ ràng mà sau đó khả năng hiểu đột ngột tăng vọt; các tác giả cho rằng 98% là mục tiêu hợp lý hơn đối với văn bản học thuật. Đây là mối quan hệ ở cấp độ nhóm, không phải giấy thông hành cho từng cá nhân.
 
-Nation（2006）基于英国国家语料库构建的 1000 词族列表，并在“无辅助理解需要 98% 覆盖”的前提下，估计书面文本约需 8000-9000 词族、口语文本约需 6000-7000 词族。数字依赖词族定义、语料和前提，不能直接变成所有学习者、领域和任务的统一目标。
+Nation (2006) dựa trên danh sách họ từ 1000 từ được xây dựng từ British National Corpus, đồng thời dựa trên tiền đề “cần độ bao phủ 98% để hiểu không có hỗ trợ”, ước tính văn bản viết cần khoảng 8000-9000 họ từ, còn văn bản nói cần khoảng 6000-7000 họ từ. Các con số phụ thuộc vào định nghĩa họ từ, ngữ liệu và tiền đề, không thể trực tiếp biến thành mục tiêu thống nhất cho mọi người học, lĩnh vực và nhiệm vụ.
 
-覆盖率适合帮助选材料：未知项太密且每个都关键，就降低难度、缩短文本或补背景；大多数未知项不影响主线，则继续阅读，不必把每页变成词表。
+Độ bao phủ phù hợp để hỗ trợ lựa chọn tài liệu: nếu các mục chưa biết quá dày và mục nào cũng quan trọng, hãy giảm độ khó, rút ngắn văn bản hoặc bổ sung kiến thức nền; nếu phần lớn mục chưa biết không ảnh hưởng đến mạch chính, hãy tiếp tục đọc, không cần biến mỗi trang thành một bảng từ.
 
-## 8. 高质量词卡只测试一个决定
+## 8. Thẻ từ chất lượng cao chỉ kiểm tra một quyết định
 
-卡片正面应要求回忆，而不是重新阅读答案：
+Mặt trước của thẻ nên yêu cầu nhớ lại, thay vì đọc lại đáp án:
 
 ```text
 场景：项目依赖可能影响进度，需要表达“构成风险”。
 留空：The dependency may ____ a risk to the schedule.
 ```
 
-背面保留：
+Mặt sau giữ lại:
 
-- `pose a risk to` 与可靠来源位置；
-- 当前义项、发音、词性和语域；
-- 自己的第二个场景；
-- 一个易混表达及差异；
-- 下次复测要撤掉的提示。
+- `pose a risk to` và vị trí nguồn đáng tin cậy;
+- Nghĩa hiện tại, phát âm, từ loại và văn phong;
+- Bối cảnh thứ hai do chính mình tạo ra;
+- Một cách diễn đạt dễ nhầm lẫn và điểm khác biệt;
+- Gợi ý sẽ bị loại bỏ ở lần kiểm tra tiếp theo.
 
-卡片过长会把复习重新变成阅读。若一次失败同时涉及发音、义项和搭配，拆成不同线索；若一张卡永远靠原句才答对，改用更接近真实任务的提示。
+Thẻ quá dài sẽ biến việc ôn tập trở lại thành đọc. Nếu một lần thất bại đồng thời liên quan đến phát âm, nghĩa và cách kết hợp từ, hãy tách thành các manh mối khác nhau; nếu một thẻ luôn chỉ trả lời đúng khi dựa vào câu gốc, hãy đổi sang gợi ý gần với nhiệm vụ thực tế hơn.
 
-双向翻译卡可以是起点，却不应是终点。真实调用需要从意图、场景或对象走向表达，而不是永远从另一个语言标签开始。
+Thẻ dịch hai chiều có thể là điểm khởi đầu nhưng không nên là điểm kết thúc. Việc gọi ra trong thực tế cần đi từ ý định, bối cảnh hoặc đối tượng đến cách diễn đạt, chứ không mãi bắt đầu từ nhãn ngôn ngữ khác.
 
-## 9. 让间隔服从表现
+## 9. Để khoảng cách phụ thuộc vào kết quả thể hiện
 
-遗忘是真实的，不存在适合所有词和所有人的固定“记忆曲线日历”。可以在当天、第 1 天、第 3-7 天、第 14 天和第 30 天设置检查点，再根据证据调整：
+Quên là điều có thật, nhưng không tồn tại một “lịch đường cong ghi nhớ” cố định phù hợp với mọi từ và mọi người. Có thể đặt các mốc kiểm tra vào cùng ngày, ngày 1, ngày 3-7, ngày 14 và ngày 30, sau đó điều chỉnh theo bằng chứng:
 
-- 秒答且能在新句中准确使用：延长间隔；
-- 回忆费力但正确：保持或小幅延长；
-- 义项或近义词反复混淆：增加对比与反例；
-- 听不出但看得懂：加入无文字音频线索；
-- 卡片答对但真实任务用不出：暂停新增，改做限时说写；
-- 连续失败：拆卡、降低数量，或补概念、声音和背景；
-- 已不再与任务相关：归档，不因“沉没成本”永久复习。
+- Trả lời ngay và có thể sử dụng chính xác trong câu mới: kéo dài khoảng cách;
+- Nhớ khó nhưng đúng: giữ nguyên hoặc kéo dài một chút;
+- Liên tục nhầm nghĩa hoặc từ gần nghĩa: tăng cường đối chiếu và phản ví dụ;
+- Không nghe ra nhưng nhìn thì hiểu: thêm manh mối âm thanh không có chữ;
+- Trả lời đúng thẻ nhưng không dùng được trong nhiệm vụ thực tế: tạm dừng bổ sung mới, chuyển sang nói và viết có giới hạn thời gian;
+- Thất bại liên tiếp: tách thẻ, giảm số lượng hoặc bổ sung khái niệm, âm thanh và kiến thức nền;
+- Không còn liên quan đến nhiệm vụ: lưu trữ, không ôn tập vĩnh viễn chỉ vì “chi phí chìm”.
 
-Webb、Yanagisawa 与 Uchihara（2020）的元分析纳入 22 项研究、100 个效应量，考察词卡、词表、写作和填空等有意词汇活动。摘要报告即时意义/形式回忆平均增益为 60.1%/58.5%，延迟测验降至 39.4%/25.1%，不同活动结果差异很大。它支持“有意练习可能有效，也会遗忘”，不支持任何卡组、间隔或个人结果的保证。
+Phân tích tổng hợp của Webb, Yanagisawa và Uchihara (2020) bao gồm 22 nghiên cứu và 100 kích thước hiệu ứng, khảo sát các hoạt động học từ vựng có chủ đích như thẻ từ, danh sách từ, viết và điền khuyết. Phần tóm tắt báo cáo mức tăng trung bình của việc nhớ lại nghĩa/hình thức ngay lập tức là 60,1%/58,5%, giảm xuống còn 39,4%/25,1% ở bài kiểm tra trì hoãn; kết quả giữa các hoạt động khác nhau rất lớn. Điều này ủng hộ rằng “luyện tập có chủ đích có thể hiệu quả nhưng cũng sẽ bị quên”, chứ không bảo đảm cho bất kỳ bộ thẻ, khoảng cách hay kết quả cá nhân nào.
 
-[Anki](https://apps.ankiweb.net/) 可以执行间隔安排，但工具不是方法本身。卡片数量、连续打卡和成熟词数只有在能够改变“继续、拆分、迁移或停止”的决定时才值得记录。
+[Anki](https://apps.ankiweb.net/) có thể thực hiện việc sắp xếp khoảng cách, nhưng công cụ không phải bản thân phương pháp. Số lượng thẻ, số ngày học liên tiếp và số từ đã thành thạo chỉ đáng ghi lại khi chúng có thể làm thay đổi quyết định “tiếp tục, tách nhỏ, chuyển giao hay dừng lại”.
 
-## 10. 用错误决定下一轮练习
+## 10. Dùng lỗi để quyết định bài luyện tiếp theo
 
-每次低分先分类：
+Mỗi lần điểm thấp, trước tiên hãy phân loại:
 
-| 错误 | 可能缺口 | 下一次最小修复 |
+| Lỗi | Khoảng trống có thể có | Cách sửa tối thiểu tiếp theo |
 | --- | --- | --- |
-| 看不出词形 | 拼写、派生或屈折 | 标词根和词性，放入新句 |
-| 听不出 | 音素、重音、连读或边界 | 对照短音频，再撤掉文字 |
-| 义项误判 | 只记第一义或忽略上下文 | 做义项对比与反例 |
-| 搭配生硬 | 只学孤立词 | 学完整词块并查相似语料 |
-| 语域不合 | 忽略关系、正式度或立场 | 同一意图写两种受众版本 |
-| 调用过慢 | 线索与真实意图不匹配 | 设 3-5 秒情境提示并口头回答 |
-| 迁移失败 | 依赖原句、主题或模态 | 换主题、声音或任务重新产出 |
+| Không nhận ra dạng từ | Chính tả, phái sinh hoặc biến tố | Đánh dấu từ căn và từ loại, đưa vào câu mới |
+| Không nghe ra | Âm vị, trọng âm, nối âm hoặc ranh giới âm tiết | Đối chiếu với đoạn âm thanh ngắn, sau đó bỏ chữ |
+| Phán đoán sai nghĩa | Chỉ nhớ nghĩa đầu tiên hoặc bỏ qua ngữ cảnh | Làm đối chiếu nghĩa và phản ví dụ |
+| Kết hợp từ cứng nhắc | Chỉ học từ riêng lẻ | Học cả cụm từ và tra ngữ liệu tương tự |
+| Không phù hợp văn phong | Bỏ qua quan hệ, mức độ trang trọng hoặc lập trường | Viết cùng một ý định cho hai nhóm người nhận |
+| Gọi ra quá chậm | Manh mối không khớp với ý định thực tế | Đặt manh mối tình huống 3-5 giây và trả lời bằng lời |
+| Chuyển giao thất bại | Phụ thuộc vào câu gốc, chủ đề hoặc phương thức | Đổi chủ đề, âm thanh hoặc nhiệm vụ rồi sản sinh lại |
 
-让真实读者或听众先复述收到的意思，再讨论“是否自然”。词汇反馈应区分会改变事实或关系的必要修复、可以接受的变体、语域选择和个人风格。不是每个更像母语者的表达都更适合作者和场景。
+Hãy để người đọc hoặc người nghe thực tế nhắc lại trước ý nghĩa họ đã tiếp nhận, rồi mới thảo luận “có tự nhiên hay không”. Phản hồi về từ vựng cần phân biệt giữa sửa chữa cần thiết có thể làm thay đổi sự việc hoặc quan hệ, biến thể có thể chấp nhận, lựa chọn văn phong và phong cách cá nhân. Không phải cách diễn đạt nào giống người bản ngữ hơn cũng phù hợp hơn với người viết và bối cảnh.
 
-## 11. AI 可以生成候选，不能替词负责
+## 11. AI có thể tạo ứng viên, nhưng không thể chịu trách nhiệm thay cho từ ngữ
 
-AI 适合：按情境生成填空、比较近义表达、模拟不同受众、提供反例、把错误分类、生成平行任务。使用顺序：
+AI phù hợp để: tạo bài điền khuyết theo tình huống, so sánh cách diễn đạt gần nghĩa, mô phỏng các nhóm người nhận khác nhau, đưa ra phản ví dụ, phân loại lỗi và tạo nhiệm vụ song song. Trình tự sử dụng:
 
-1. 先保存首遇和自己的候选；
-2. 让 AI 说明每个建议改变了哪一层意义；
-3. 要求标出不确定、地区或语域差异；
-4. 回到词典、真实语料、现行文档或领域人员核验；
-5. 关闭 AI，在新情境中限时调用；
-6. 记录采纳、拒绝与理由。
+1. Trước tiên lưu lại lần gặp đầu tiên và ứng viên của chính mình;
+2. Yêu cầu AI giải thích mỗi đề xuất đã thay đổi tầng ý nghĩa nào;
+3. Yêu cầu đánh dấu những điểm không chắc chắn, khác biệt theo vùng hoặc văn phong;
+4. Quay lại từ điển, ngữ liệu thực tế, tài liệu hiện hành hoặc người trong lĩnh vực để xác minh;
+5. Tắt AI và gọi ra trong tình huống mới có giới hạn thời gian;
+6. Ghi lại những gì được chấp nhận, từ chối và lý do.
 
-模型可能生成并不存在的搭配、错误词源、伪造引语或过时的技术定义。不要把客户数据、未公开文档、考试答案或无权限的第三方内容交给模型。高风险术语由当前一手来源和责任人裁决。
+Mô hình có thể tạo ra cách kết hợp từ không tồn tại, từ nguyên sai, trích dẫn giả hoặc định nghĩa kỹ thuật lỗi thời. Đừng đưa dữ liệu khách hàng, tài liệu chưa công khai, đáp án thi hoặc nội dung của bên thứ ba mà bạn không có quyền vào mô hình. Thuật ngữ rủi ro cao phải do nguồn cấp một hiện tại và người chịu trách nhiệm quyết định.
 
-## 12. 技术词表是索引，不是课程
+## 12. Bảng từ kỹ thuật là chỉ mục, không phải khóa học
 
-本仓库的词表用于从任务进入，不是每天必须完成的数量目标：
+Bảng từ trong kho này dùng để đi vào từ nhiệm vụ, không phải mục tiêu số lượng phải hoàn thành mỗi ngày:
 
-| 词表 | 任务入口 |
+| Bảng từ | Cổng vào nhiệm vụ |
 | --- | --- |
-| [Common](../word-list/Common.md) | 日常沟通与跨主题工作 |
-| [Prompt](../word-list/Prompt.md) | AI 任务、限制和验收语言 |
-| [Vibe Coding](../word-list/VibeCoding.md) | 代理协作与代码审查 |
-| [JavaScript](../word-list/JavaScript.md) | 浏览器、前端与异步流程 |
-| [Python](../word-list/Python.md) | 数据、自动化和脚本 |
-| [Go](../word-list/Go.md) | 服务端、并发与部署 |
-| [Java](../word-list/Java.md) | JVM 与企业系统 |
-| [PHP](../word-list/PHP.md) | Web 后端和旧系统维护 |
-| [Rust](../word-list/Rust.md) | 所有权、性能与系统编程 |
-| [Swift](../word-list/Swift.md) | Apple 平台与应用开发 |
+| [Common](../word-list/Common.md) | Giao tiếp hằng ngày và công việc liên chủ đề |
+| [Prompt](../word-list/Prompt.md) | Nhiệm vụ AI, ngôn ngữ về giới hạn và nghiệm thu |
+| [Vibe Coding](../word-list/VibeCoding.md) | Phối hợp với tác nhân và review code |
+| [JavaScript](../word-list/JavaScript.md) | Trình duyệt, frontend và quy trình bất đồng bộ |
+| [Python](../word-list/Python.md) | Dữ liệu, tự động hóa và script |
+| [Go](../word-list/Go.md) | Backend, đồng thời và triển khai |
+| [Java](../word-list/Java.md) | JVM và hệ thống doanh nghiệp |
+| [PHP](../word-list/PHP.md) | Backend web và bảo trì hệ thống cũ |
+| [Rust](../word-list/Rust.md) | Quyền sở hữu, hiệu năng và lập trình hệ thống |
+| [Swift](../word-list/Swift.md) | Nền tảng Apple và phát triển ứng dụng |
 
-从当前任务选 5-8 个词块，记录文档版本与来源；脱离列表完成一次说写；一周后在平行任务里复测。语言、框架和产品会更新，列表不能替代官方文档或当前运行结果。
+Từ nhiệm vụ hiện tại, chọn 5-8 cụm từ, ghi lại phiên bản tài liệu và nguồn; hoàn thành một lần nói hoặc viết mà không dựa vào danh sách; một tuần sau kiểm tra lại trong nhiệm vụ song song. Ngôn ngữ, framework và sản phẩm sẽ được cập nhật, danh sách không thể thay thế tài liệu chính thức hoặc kết quả chạy hiện tại.
 
-## 13. 一个 35 分钟训练单元
+## 13. Một đơn vị luyện tập 35 phút
 
-1. 5 分钟：写清真实任务、受众、材料和完成标准；
-2. 7 分钟：完成不查词的首遇或无提示输出；
-3. 6 分钟：为未知项决定放过、推断、查阅、学习或核验；
-4. 7 分钟：核对 5-8 个词块的义项、声音、搭配和语域；
-5. 7 分钟：合上材料，在改变后的情境里说或写；
-6. 3 分钟：记录一个主要错误和下一次撤掉的提示。
+1. 5 phút: viết rõ nhiệm vụ thực tế, người tiếp nhận, tài liệu và tiêu chuẩn hoàn thành;
+2. 7 phút: hoàn thành lần gặp đầu tiên không tra từ hoặc phần sản sinh không có gợi ý;
+3. 6 phút: quyết định bỏ qua, suy đoán, tra cứu, học hoặc xác minh đối với các mục chưa biết;
+4. 7 phút: kiểm tra nghĩa, âm thanh, cách kết hợp từ và văn phong của 5-8 cụm từ;
+5. 7 phút: đóng tài liệu, nói hoặc viết trong tình huống đã thay đổi;
+6. 3 phút: ghi lại một lỗi chính và gợi ý sẽ bị loại bỏ ở lần tiếp theo.
 
-完成比数量重要。若当天容量不足，只保留一份首遇、一个高价值词块和一个无提示句子；不要为了维护卡片系统耗尽真正使用语言的时间。
+Hoàn thành quan trọng hơn số lượng. Nếu năng lực trong ngày không đủ, chỉ giữ lại một lần gặp đầu tiên, một cụm từ có giá trị cao và một câu không có gợi ý; đừng tiêu hao thời gian sử dụng ngôn ngữ thực sự chỉ để duy trì hệ thống thẻ.
 
-## 14. 十四天词汇实验
+## 14. Thí nghiệm từ vựng mười bốn ngày
 
-| 天数 | 动作 | 留下的证据 |
+| Ngày | Hoạt động | Bằng chứng để lại |
 | --- | --- | --- |
-| 1 | 选择真实主题与任务，完成首遇 | 原始理解/输出、条件和阻断点 |
-| 2 | 为未知项做五类决定 | 放过、推断、查阅、学习、核验清单 |
-| 3 | 核对高价值词块的八个维度 | 义项、声音、搭配、语域与来源 |
-| 4 | 制作只测试一个决定的线索 | 词卡与撤架条件 |
-| 5 | 无提示完成填空、复述或短写 | 调用时间与错误类型 |
-| 6 | 在听读说写中更换一种模态 | 接受/产出差距 |
-| 7 | 用真实材料或受众验收 | 理解、回应与修复 |
-| 8 | 归档低价值项，保留 5-8 个 | 选择理由与容量变化 |
-| 9 | 对比近义项、反例或常见误用 | 意义边界与拒绝理由 |
-| 10 | 同一主题更换受众与语域 | 关系和语气迁移 |
-| 11 | 同一任务更换主题 | 词块结构迁移 |
-| 12 | 让 AI/同伴提出候选，再查证 | 来源核验与采纳记录 |
-| 13 | 在时间压力下完成真实输出 | 邮件、录音、说明或评审结果 |
-| 14 | 关闭旧卡和提示完成平行任务 | 保留、拆分、归档或转向依据 |
+| 1 | Chọn chủ đề và nhiệm vụ thực tế, hoàn thành lần gặp đầu tiên | Hiểu/sản sinh ban đầu, điều kiện và điểm cản trở |
+| 2 | Đưa ra năm loại quyết định cho mục chưa biết | Danh sách bỏ qua, suy đoán, tra cứu, học và xác minh |
+| 3 | Kiểm tra tám khía cạnh của các cụm từ có giá trị cao | Nghĩa, âm thanh, cách kết hợp từ, văn phong và nguồn |
+| 4 | Tạo manh mối chỉ kiểm tra một quyết định | Thẻ từ và điều kiện tháo giàn giáo |
+| 5 | Hoàn thành điền khuyết, nhắc lại hoặc viết ngắn không có gợi ý | Thời gian gọi ra và loại lỗi |
+| 6 | Thay đổi một phương thức trong nghe, đọc, nói và viết | Khoảng cách tiếp nhận/sản sinh |
+| 7 | Nghiệm thu bằng tài liệu hoặc người tiếp nhận thực tế | Hiểu, phản hồi và sửa chữa |
+| 8 | Lưu trữ mục giá trị thấp, giữ lại 5-8 mục | Lý do lựa chọn và thay đổi về năng lực |
+| 9 | Đối chiếu từ gần nghĩa, phản ví dụ hoặc lỗi dùng phổ biến | Ranh giới ý nghĩa và lý do từ chối |
+| 10 | Thay đổi người tiếp nhận và văn phong trong cùng chủ đề | Chuyển giao quan hệ và sắc thái |
+| 11 | Thay đổi chủ đề trong cùng nhiệm vụ | Chuyển giao cấu trúc cụm từ |
+| 12 | Để AI/bạn học đưa ra ứng viên, sau đó xác minh | Xác minh nguồn và ghi chép việc chấp nhận |
+| 13 | Hoàn thành sản sinh thực tế dưới áp lực thời gian | Kết quả email, bản ghi âm, phần giải thích hoặc review |
+| 14 | Đóng thẻ cũ và gợi ý, hoàn thành nhiệm vụ song song | Căn cứ để giữ lại, tách nhỏ, lưu trữ hoặc chuyển hướng |
 
-十四天不是词汇速成期限。它只回答：原句、卡片和即时提示离开以后，你能否在改变后的任务里认出、选对并及时调用这些词块？
+Mười bốn ngày không phải thời hạn để học cấp tốc từ vựng. Nó chỉ trả lời câu hỏi: sau khi câu gốc, thẻ và gợi ý tức thời biến mất, bạn có thể nhận ra, chọn đúng và kịp thời gọi ra các cụm từ này trong nhiệm vụ đã thay đổi hay không?
 
-## 15. 怎样判断词汇正在变成能力
+## 15. Làm thế nào nhận biết từ vựng đang trở thành năng lực
 
-- 首遇时能保留主线，不被每个未知词劫持；
-- 能判断一个词该放过、推断、速查、学习还是专业核验；
-- 能说明当前义项、来源、搭配、语域和反例，而不是只背翻译；
-- 在自然声音里能切分，在文字中能识别词形；
-- 合上答案后能在有限时间里调用；
-- 真实读者或听众收到的意思、关系和下一步与意图一致；
-- 错误能被定位并进入下一次练习，而不是只增加卡量；
-- 换主题、受众、模态或任务后仍然能够迁移；
-- 能归档不再重要的词，把注意力还给当前生活。
+- Khi gặp lần đầu có thể giữ được mạch chính, không bị từng từ chưa biết bắt giữ;
+- Có thể quyết định một từ nên được bỏ qua, suy đoán, tra nhanh, học hay xác minh chuyên môn;
+- Có thể giải thích nghĩa hiện tại, nguồn, cách kết hợp từ, văn phong và phản ví dụ, thay vì chỉ học thuộc bản dịch;
+- Có thể phân tách âm thanh tự nhiên và nhận diện dạng từ trong văn bản;
+- Sau khi đóng đáp án, có thể gọi ra trong thời gian hạn chế;
+- Ý nghĩa, quan hệ và bước tiếp theo mà người đọc hoặc người nghe thực tế tiếp nhận phù hợp với ý định;
+- Có thể xác định lỗi và đưa lỗi vào lần luyện tiếp theo, thay vì chỉ tăng số lượng thẻ;
+- Sau khi thay đổi chủ đề, người tiếp nhận, phương thức hoặc nhiệm vụ vẫn có thể chuyển giao;
+- Có thể lưu trữ những từ không còn quan trọng, trả sự chú ý về cho cuộc sống hiện tại.
 
-词汇增长不总是列表变长。有时，它表现为阅读时知道哪个词可以先放过，会议里知道哪个词必须说准确，写邮件时知道一句更华丽的表达并不适合当前关系。你不再被所有未知项同时拖住，也不再用熟悉感掩盖调用失败。
+Sự tăng trưởng từ vựng không phải lúc nào cũng thể hiện ở việc danh sách dài thêm. Đôi khi, nó thể hiện ở chỗ khi đọc bạn biết từ nào có thể tạm bỏ qua, trong cuộc họp bạn biết từ nào nhất định phải nói chính xác, và khi viết email bạn biết một cách diễn đạt hoa mỹ hơn không phù hợp với quan hệ hiện tại. Bạn không còn bị mọi mục chưa biết kéo lại cùng lúc, cũng không còn dùng cảm giác quen thuộc để che giấu việc không thể gọi từ ra.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Nation (2006), How Large a Vocabulary Is Needed for Reading and Listening?](https://doi.org/10.3138/cmlr.63.1.59)：基于英国国家语料库的词族列表与 98% 覆盖假设估算无辅助理解所需规模；计数单位、语料、专名处理和理解标准限制外推。
-- [Schmitt, Jiang & Grabe (2011), The Percentage of Words Known in a Text and Reading Comprehension](https://doi.org/10.1111/j.1540-4781.2011.01146.x)：661 名、8 国样本显示覆盖率与阅读理解大致呈线性关系，未发现清晰突变阈值；它不构成个人或其他体裁的保证。
-- [Webb (2008), Receptive and Productive Vocabulary Sizes of L2 Learners](https://doi.org/10.1017/S0272263108080042)：以对应翻译测试比较接受与产出知识；结果受到测试方向、评分、词频和样本条件限制。
-- [Webb, Yanagisawa & Uchihara (2020), How Effective Are Intentional Vocabulary-Learning Activities?](https://doi.org/10.1111/modl.12671)：元分析汇总 22 项研究、100 个效应量，显示即时与延迟回忆及不同活动间存在明显差异；平均结果不是固定间隔或个人学习保证。
-- [Pashler et al. (2008), Learning Styles](https://doi.org/10.1111/j.1539-6053.2009.01038.x)：综述未发现足够证据支持按所谓视觉型/听觉型匹配教学，同时明确未测试的所有版本不能被一概否定。
-- 词义、技术术语、语料频率、产品与词典会更新。重要任务应回到当前版本、一手来源、真实受众和具名责任人验收。
+- [Nation (2006), How Large a Vocabulary Is Needed for Reading and Listening?](https://doi.org/10.3138/cmlr.63.1.59): Ước tính quy mô cần thiết để hiểu không có hỗ trợ dựa trên danh sách họ từ từ British National Corpus và giả định độ bao phủ 98%; ngoại suy bị giới hạn bởi đơn vị đếm, ngữ liệu, cách xử lý danh từ riêng và tiêu chuẩn hiểu.
+- [Schmitt, Jiang & Grabe (2011), The Percentage of Words Known in a Text and Reading Comprehension](https://doi.org/10.1111/j.1540-4781.2011.01146.x): Mẫu gồm 661 người từ 8 quốc gia cho thấy độ bao phủ và khả năng đọc hiểu có quan hệ gần tuyến tính, không phát hiện ngưỡng đột biến rõ ràng; kết quả này không bảo đảm cho cá nhân hoặc các thể loại khác.
+- [Webb (2008), Receptive and Productive Vocabulary Sizes of L2 Learners](https://doi.org/10.1017/S0272263108080042): So sánh kiến thức tiếp nhận và sản sinh bằng các bài kiểm tra dịch tương ứng; kết quả bị giới hạn bởi hướng kiểm tra, cách chấm điểm, tần suất từ và điều kiện mẫu.
+- [Webb, Yanagisawa & Uchihara (2020), How Effective Are Intentional Vocabulary-Learning Activities?](https://doi.org/10.1111/modl.12671): Phân tích tổng hợp 22 nghiên cứu và 100 kích thước hiệu ứng cho thấy có khác biệt đáng kể giữa việc nhớ lại ngay lập tức và sau trì hoãn cũng như giữa các hoạt động khác nhau; kết quả trung bình không phải bảo đảm cho khoảng cách cố định hay việc học của cá nhân.
+- [Pashler et al. (2008), Learning Styles](https://doi.org/10.1111/j.1539-6053.2009.01038.x): Tổng quan không tìm thấy đủ bằng chứng ủng hộ việc ghép cách dạy theo cái gọi là kiểu thị giác/thính giác, đồng thời nêu rõ rằng không thể phủ định chung tất cả các phiên bản chưa được kiểm tra.
+- Nghĩa của từ, thuật ngữ kỹ thuật, tần suất trong ngữ liệu, sản phẩm và từ điển sẽ được cập nhật. Những nhiệm vụ quan trọng nên được nghiệm thu bằng phiên bản hiện tại, nguồn cấp một, người tiếp nhận thực tế và người chịu trách nhiệm cụ thể.
 
-相关入口：[语法篇](grammar.md) ｜ [听力篇](3-listening.md) ｜ [阅读篇](4-reading.md) ｜ [口语篇](5-speaking.md) ｜ [写作篇](6-writing.md) ｜ [用 AI 学英语](7-ai.md) ｜ [词汇证据卡](../../templates/vocabulary-audit.md) ｜ [证据链模板](../../templates/evidence-chain.md)
+Lối truy cập liên quan: [Phần ngữ pháp](grammar.md) ｜ [Phần nghe](3-listening.md) ｜ [Phần đọc](4-reading.md) ｜ [Phần nói](5-speaking.md) ｜ [Phần viết](6-writing.md) ｜ [Học tiếng Anh với AI](7-ai.md) ｜ [Thẻ bằng chứng từ vựng](../../templates/vocabulary-audit.md) ｜ [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)
 
-## 结语：让词在需要时抵达
+## Lời kết: Để từ ngữ đến đúng lúc cần
 
-记忆里真正留下来的，常常不是词典里的第一行释义，而是你曾在什么时刻需要它：向同伴解释一个风险，向陌生人请求帮助，向亲近的人道歉，或终于读懂一页过去只能绕开的文字。
+Điều thực sự còn lại trong ký ức thường không phải là dòng định nghĩa đầu tiên trong từ điển, mà là thời điểm bạn từng cần đến từ đó: giải thích một rủi ro cho bạn đồng hành, nhờ một người xa lạ giúp đỡ, xin lỗi người thân, hoặc cuối cùng đọc hiểu một trang văn mà trước đây bạn chỉ có thể né tránh.
 
-词表可以替你保存秩序，不能替你生活。一个词只有进入声音、句子、关系和后果，才从收藏变成能力。它也不必永远留下；有些词完成一段工作便可以归档，有些词会因为你反复使用，慢慢长进自己的语气里。
+Danh sách từ vựng có thể thay bạn gìn giữ trật tự, nhưng không thể thay bạn sống. Một từ chỉ trở thành năng lực thay vì món đồ sưu tầm khi đi vào âm thanh, câu chữ, các mối quan hệ và hệ quả. Từ ấy cũng không nhất thiết phải ở lại mãi mãi; có những từ hoàn thành xong một công việc thì có thể được lưu trữ, có những từ nhờ được bạn sử dụng lặp đi lặp lại mà dần dần hòa vào giọng điệu riêng của bạn.
 
-不必急着拥有整门语言。先让几个真正需要的词，在没有答案展示的时候仍然来到你身边。它们不负责证明你聪明，只负责在意思将要中断的地方，帮你再向世界走近一步。
+Không cần vội sở hữu cả một ngôn ngữ. Trước hết, hãy để vài từ thực sự cần thiết vẫn tìm đến bên bạn ngay cả khi không có đáp án hiển thị. Chúng không có nhiệm vụ chứng minh bạn thông minh, mà chỉ có nhiệm vụ giúp bạn tiến thêm một bước đến gần thế giới, ở nơi ý nghĩa sắp bị ngắt quãng.

@@ -1,99 +1,99 @@
 ---
-title: 我还在这里：从抑郁焦虑的黑暗中走出来
-description: 韩先凯关于抑郁、焦虑、早期强行停用精神类药物，以及在家人、专业支持和许多微小行动中重新回到生活的个人记录。
+title: "Tôi vẫn ở đây: Bước ra khỏi bóng tối của trầm cảm và lo âu"
+description: Ghi chép cá nhân của Hàn Tiên Khải về trầm cảm, lo âu, việc tự ý ngừng thuốc tâm thần quá sớm, và cách trở lại với cuộc sống nhờ gia đình, sự hỗ trợ chuyên môn cùng nhiều hành động nhỏ.
 updated: 2026-10-03
 ---
 
-# 我还在这里：从抑郁焦虑的黑暗中走出来
+# Tôi vẫn ở đây: Bước ra khỏi bóng tối của trầm cảm và lo âu
 
-> 内容提示：本章涉及抑郁与焦虑状态、失眠、长期压力、功能下降，以及早期在没有充分专业支持的情况下强行停用精神类药物的经历。它是我的个人回忆，不是医疗、心理或危机处置建议。若你正处于紧迫危险，或有伤害自己、伤害他人的念头，请不要独处，立即联系身边可信任的人、当地急救或医院，以及具备资质的专业支持。
+> Lưu ý nội dung: Chương này đề cập đến trạng thái trầm cảm và lo âu, mất ngủ, căng thẳng kéo dài, suy giảm khả năng hoạt động, cũng như trải nghiệm tự ý ngừng thuốc tâm thần quá sớm khi chưa có đủ sự hỗ trợ chuyên môn. Đây là hồi ức cá nhân của tôi, không phải lời khuyên y tế, tâm lý hay xử lý khủng hoảng. Nếu bạn đang ở trong tình trạng nguy hiểm khẩn cấp, hoặc có ý nghĩ làm hại bản thân hay người khác, đừng ở một mình; hãy lập tức liên hệ với người đáng tin cậy bên cạnh, dịch vụ cấp cứu hoặc bệnh viện địa phương, cùng sự hỗ trợ chuyên môn có đủ năng lực.
 
-## 叙事边界
+## Ranh giới của câu chuyện
 
-我把这一章写在[我的故事](my-story.md)之后，是因为前一章记录了事情怎样发生，这一章记录事情怎样进入我的身体、情绪和关系。它仍然只是我的视角，不是对任何人的完整判断。涉及家人、伴侣、孩子和朋友的部分，只保留理解我经历所必需的细节。
+Tôi viết chương này sau [Câu chuyện của tôi](my-story.md) vì chương trước ghi lại mọi việc đã xảy ra như thế nào, còn chương này ghi lại cách những điều ấy đi vào cơ thể, cảm xúc và các mối quan hệ của tôi. Đây vẫn chỉ là góc nhìn của tôi, không phải phán đoán đầy đủ về bất kỳ ai. Những phần liên quan đến gia đình, bạn đời, con cái và bạn bè chỉ giữ lại các chi tiết cần thiết để hiểu trải nghiệm của tôi.
 
-我不是临床专业人员，也不根据一段回忆给自己或读者下诊断。本章不提供药物名称、剂量、减量天数、替代方案或危机诊断。任何药物的开始、调整、减量和停用，都应由开药医生或其他合格专业人员结合个人情况评估。个人经历可以帮助我们开口，却不能替代专业判断。
+Tôi không phải chuyên gia lâm sàng, cũng không tự chẩn đoán cho mình hay độc giả chỉ dựa trên một đoạn hồi ức. Chương này không cung cấp tên thuốc, liều lượng, số ngày giảm liều, phương án thay thế hay chẩn đoán khủng hoảng. Việc bắt đầu, điều chỉnh, giảm liều và ngừng bất kỳ loại thuốc nào đều cần được bác sĩ kê đơn hoặc chuyên gia có đủ năng lực đánh giá dựa trên hoàn cảnh cá nhân. Trải nghiệm cá nhân có thể giúp chúng ta mở lời, nhưng không thể thay thế phán đoán chuyên môn.
 
-## 黑雾不是一句“想开点”
+## Làn sương đen không thể được giải quyết bằng một câu “nghĩ thoáng lên”
 
-公司倒闭之前，我相信问题都可以靠更长的工作时间解决。项目出了问题，我就多改几版；现金流出了问题，我就再找一条路；团队快要散掉，我就再讲一次未来。那几年我把坚持当作一种道德，把停下来理解成背叛。
+Trước khi công ty phá sản, tôi tin rằng mọi vấn đề đều có thể giải quyết bằng cách làm việc nhiều giờ hơn. Dự án gặp vấn đề, tôi sửa thêm vài phiên bản; dòng tiền gặp vấn đề, tôi tìm thêm một con đường; đội ngũ sắp tan rã, tôi lại nói về tương lai một lần nữa. Những năm ấy, tôi coi sự cố chấp là một phẩm chất đạo đức, còn dừng lại là phản bội.
 
-2022 年，公司的销量明显下滑，架构、产品和现金流的问题一起浮上来。管理冲突把办公室变成一间持续收紧的房间。六月开始，我的胃先出了问题，后来是糜烂性胃炎、失眠、视线模糊、食欲下降和游走性的疼痛。身体不断发出信号，我却把它们翻译成一句话：只是我还不够坚强。
+Năm 2022, doanh số của công ty sụt giảm rõ rệt, các vấn đề về cơ cấu, sản phẩm và dòng tiền cùng lúc nổi lên. Xung đột quản lý biến văn phòng thành một căn phòng liên tục bị siết chặt. Từ tháng Sáu, dạ dày của tôi bắt đầu gặp vấn đề, sau đó là viêm dạ dày ăn mòn, mất ngủ, mờ mắt, chán ăn và những cơn đau lan khắp nơi. Cơ thể liên tục phát ra tín hiệu, nhưng tôi lại dịch chúng thành một câu: Chỉ là tôi chưa đủ mạnh mẽ.
 
-有一天夜里，我对若涵说“我可能快不行了”，随后开始胡言乱语、交代后事。她哭了，孩子也被惊醒。那一晚没有电影式的转折，只有一家人被恐惧叫醒之后，等着我慢慢安静下来。
+Một đêm nọ, tôi nói với Nhược Hà rằng “Có lẽ anh sắp không chịu nổi nữa”, rồi bắt đầu nói năng lộn xộn và dặn dò hậu sự. Cô ấy khóc, bọn trẻ cũng bị đánh thức. Đêm ấy không có bước ngoặt kiểu điện ảnh, chỉ có một gia đình bị nỗi sợ đánh thức và chờ tôi dần bình tĩnh lại.
 
-接下来的几个月，我在医院排队、拍片、验血、等结果，再拿着结果去问医生。医生一次次告诉我没有发现足以解释全部感受的严重疾病，可我的身体并没有因此相信他们。我在网上搜索症状，一边告诉自己没事，一边继续寻找那个还没有被检查出来的答案。焦虑把每一个小信号都放大，也把每一个“没事”都翻译成“还没有查到”。
+Trong những tháng tiếp theo, tôi xếp hàng ở bệnh viện, chụp chiếu, xét nghiệm máu, chờ kết quả, rồi cầm kết quả đi hỏi bác sĩ. Hết lần này đến lần khác, bác sĩ nói rằng họ không phát hiện căn bệnh nghiêm trọng nào đủ để giải thích toàn bộ những cảm nhận của tôi, nhưng cơ thể tôi không vì thế mà tin họ. Tôi tìm kiếm triệu chứng trên mạng, vừa tự nhủ rằng mình không sao, vừa tiếp tục tìm kiếm câu trả lời vẫn chưa được kiểm tra ra. Lo âu phóng đại mọi tín hiệu nhỏ, đồng thời biến mỗi câu “không sao” thành “vẫn chưa tìm ra”.
 
-抑郁则让生活失去颜色。不是每天都在哭，而是连吃饭、出门、回复消息都要先穿过一层很厚的空气。我逐渐不愿说话、不愿见人、不愿打开 GitHub，最后连曾经最熟悉的工作也像别人的生活。我不是不知道应该做什么，而是找不到把“应该”变成动作的力气。
+Còn trầm cảm khiến cuộc sống mất đi màu sắc. Không phải ngày nào tôi cũng khóc, mà ngay cả việc ăn uống, ra ngoài hay trả lời tin nhắn cũng phải vượt qua một lớp không khí rất dày. Tôi dần không muốn nói chuyện, không muốn gặp ai, không muốn mở GitHub, cuối cùng ngay cả công việc từng quen thuộc nhất cũng giống như cuộc sống của người khác. Tôi không phải không biết mình nên làm gì, mà là không tìm được sức lực để biến chữ “nên” thành hành động.
 
-## 我曾经把停药当成夺回控制权
+## Tôi từng coi việc ngừng thuốc là giành lại quyền kiểm soát
 
-在早期，我曾经历过抑郁和焦虑，也曾在没有充分专业支持的情况下，强行把精神类药物停掉。那时我把停药理解成把尊严和控制权夺回来：只要靠意志扛过去，就能证明自己没有被击倒，也不用承认自己需要帮助。
+Trong giai đoạn đầu, tôi từng trải qua trầm cảm và lo âu, cũng từng tự ý ngừng thuốc tâm thần khi chưa có đủ sự hỗ trợ chuyên môn. Khi ấy, tôi hiểu việc ngừng thuốc là giành lại phẩm giá và quyền kiểm soát: chỉ cần dựa vào ý chí để chịu đựng vượt qua, tôi sẽ chứng minh được rằng mình chưa bị đánh gục và cũng không cần thừa nhận rằng mình cần sự giúp đỡ.
 
-现在回头看，那不是勇敢，而是一个已经被恐惧和羞耻压窄了判断的人，做出的危险决定。停药没有把问题从生活里移走，只是让我失去了一份原本可以被专业评估的支持。之后身体和情绪的波动变得更难分辨，我把“没有继续服用”误认为“已经解决了原因”。
+Giờ nhìn lại, đó không phải là dũng cảm, mà là một quyết định nguy hiểm của một người có khả năng phán đoán đã bị nỗi sợ và sự xấu hổ thu hẹp. Việc ngừng thuốc không đưa vấn đề ra khỏi cuộc sống, mà chỉ khiến tôi mất đi một nguồn hỗ trợ vốn có thể được chuyên môn đánh giá. Sau đó, những dao động của cơ thể và cảm xúc trở nên khó phân biệt hơn, còn tôi nhầm việc “không tiếp tục uống thuốc” với việc “đã giải quyết được nguyên nhân”.
 
-我不把这段经历写成戒断的范本，也不把药物写成适合所有人的答案。它只说明一件很具体的事：当人处在黑暗里时，很容易把复杂的医疗决定变成一场道德考试——能不能忍住，决定我是不是坚强；需不需要治疗，决定我是不是失败。这样的二选一会继续伤害人。
+Tôi không viết trải nghiệm này như một khuôn mẫu cai thuốc, cũng không viết thuốc men như câu trả lời phù hợp với tất cả mọi người. Nó chỉ cho thấy một điều rất cụ thể: khi ở trong bóng tối, con người rất dễ biến một quyết định y tế phức tạp thành một bài kiểm tra đạo đức—có chịu đựng được hay không quyết định tôi có mạnh mẽ hay không; có cần điều trị hay không quyết định tôi có thất bại hay không. Cách phân định nhị nguyên như vậy sẽ tiếp tục làm tổn thương con người.
 
-如果你正在考虑开始、调整、减量或停用精神类药物，请把疑问、害怕和副作用都带给开药医生或合格专业人员，一起评估。不要从我的经历推导你的方案，也不要在没有支持的情况下突然停药。这里不写药名、剂量和步骤，是因为这些内容不应该从一段个人叙述里被复制出来。
+Nếu bạn đang cân nhắc bắt đầu, điều chỉnh, giảm liều hoặc ngừng thuốc tâm thần, hãy đưa những thắc mắc, nỗi sợ và tác dụng phụ của bạn cho bác sĩ kê đơn hoặc chuyên gia có đủ năng lực để cùng đánh giá. Đừng suy ra phương án của mình từ trải nghiệm của tôi, cũng đừng đột ngột ngừng thuốc khi không có sự hỗ trợ. Ở đây không ghi tên thuốc, liều lượng hay các bước thực hiện, vì những nội dung ấy không nên được sao chép từ một lời kể cá nhân.
 
-## 最深处没有一个“想通了”的早晨
+## Ở nơi sâu nhất không có một buổi sáng “đã nghĩ thông”
 
-2023 年，我转让掉最后一家餐饮店，带着三岁的儿子回到老家。离开生活了十几年的城市，本来应该是一段新的开始，可我那时只是在逃离已经无法承受的日子。
+Năm 2023, tôi sang nhượng nhà hàng cuối cùng, đưa cậu con trai ba tuổi về quê. Rời thành phố đã sống hơn mười năm vốn đáng lẽ phải là một khởi đầu mới, nhưng khi ấy tôi chỉ đang chạy trốn những ngày tháng đã không thể chịu đựng nổi.
 
-回家以后，我变得沉默。母亲每天在微信上喊我吃饭；如果没有这条提醒，我可能连饭都不会按时吃。快三十岁的人，还要等母亲提醒吃饭，这件事让我惭愧，也让我第一次无法继续假装自己只是暂时累了。我确实需要别人帮忙。
+Sau khi về nhà, tôi trở nên im lặng. Mẹ ngày nào cũng nhắn trên WeChat gọi tôi ăn cơm; nếu không có lời nhắc ấy, có lẽ tôi đến cơm cũng không ăn đúng giờ. Gần ba mươi tuổi mà vẫn phải chờ mẹ nhắc ăn cơm khiến tôi hổ thẹn, đồng thời lần đầu tiên khiến tôi không thể tiếp tục giả vờ rằng mình chỉ tạm thời mệt mỏi. Tôi thực sự cần người khác giúp đỡ.
 
-我把台式机重新组装起来，没日没夜地玩游戏。游戏最初像一个可以藏进去的房间，后来连这个房间也变得无聊。白天黑夜失去界线，钱一分没赚，和伴侣因为未来争吵，和朋友因为资金问题闹掰。我退出很多群，关掉 GitHub，屏蔽联系人，把自己从原来的世界里一点点删除。
+Tôi lắp lại máy tính để bàn rồi chơi game ngày đêm. Ban đầu, trò chơi giống như một căn phòng có thể trốn vào, sau đó ngay cả căn phòng ấy cũng trở nên nhàm chán. Ngày và đêm mất ranh giới, tôi không kiếm được đồng nào, cãi nhau với bạn đời về tương lai, rồi cắt đứt với bạn bè vì chuyện tiền bạc. Tôi rời khỏi nhiều nhóm, tắt GitHub, chặn liên lạc, từng chút một xóa mình khỏi thế giới trước đây.
 
-儿子生日那天，若涵问晚上要不要出去吃火锅。我犹豫了很久，说买个小蛋糕在家过就好。后来我们还是去了海底捞，却没有点多少菜。服务员唱到“跟所有的烦恼说拜拜”时，我突然撑不住了。烦恼没有那么容易告别，家人因为我的选择承受的委屈，也不会因为我已经很辛苦就自动消失。
+Ngày sinh nhật con trai, Nhược Hà hỏi buổi tối có muốn ra ngoài ăn lẩu không. Tôi do dự rất lâu rồi nói mua một chiếc bánh nhỏ, ăn mừng ở nhà là được. Sau đó chúng tôi vẫn đến Haidilao, nhưng không gọi nhiều món. Khi người phục vụ hát đến câu “tạm biệt mọi muộn phiền”, tôi đột nhiên không chịu nổi nữa. Muộn phiền không dễ dàng được nói lời chia tay như vậy, và những tủi thân mà gia đình phải chịu đựng vì lựa chọn của tôi cũng không tự động biến mất chỉ vì tôi đã rất khổ sở.
 
-那不是一次漂亮的觉醒。它更像一面镜子，让我看见自己已经把“活着”压缩成不让别人失望，却没有真正照顾自己，也没有好好承担自己给别人带来的影响。
+Đó không phải là một sự thức tỉnh đẹp đẽ. Nó giống một tấm gương hơn, cho tôi thấy mình đã thu nhỏ “sống” thành việc không làm người khác thất vọng, nhưng chưa thực sự chăm sóc bản thân, cũng chưa nghiêm túc gánh lấy những ảnh hưởng mà mình gây ra cho người khác.
 
-## 走出来不是一个人的胜利
+## Bước ra không phải là chiến thắng của một người
 
-我没有靠一个决定走出黑暗。最先发生的变化，是我不再把求助当成对人格的判决。我开始承认：有些问题需要医生评估，有些夜晚需要家人陪在附近，有些承诺要先暂停，有些关系需要道歉，而不是继续解释。
+Tôi không bước ra khỏi bóng tối chỉ nhờ một quyết định. Thay đổi đầu tiên là tôi không còn coi việc tìm kiếm sự giúp đỡ là một phán quyết dành cho nhân cách của mình. Tôi bắt đầu thừa nhận: có những vấn đề cần bác sĩ đánh giá, có những đêm cần người nhà ở gần, có những cam kết cần tạm dừng trước, có những mối quan hệ cần một lời xin lỗi thay vì tiếp tục giải thích.
 
-求助也不是把一个人变成我的治疗师或救世主。我学着说具体的话：“请提醒我吃饭”“请陪我去医院”“我今天状态不好，可能回复得慢”“这件事我现在不能答应，等我复查后再给你确定的时间”。具体的请求让别人知道怎样靠近，也让我保留对帮助方式的选择权。
+Tìm kiếm sự giúp đỡ cũng không có nghĩa biến một người thành nhà trị liệu hay vị cứu tinh của tôi. Tôi học cách nói những điều cụ thể: “Hãy nhắc tôi ăn cơm”, “Hãy đi bệnh viện cùng tôi”, “Hôm nay trạng thái của tôi không tốt, có thể tôi sẽ trả lời chậm”, “Hiện giờ tôi không thể nhận lời việc này, sau khi tái khám tôi sẽ cho bạn thời gian cụ thể”. Những yêu cầu cụ thể giúp người khác biết cách đến gần, đồng thời giúp tôi giữ quyền lựa chọn cách mình được hỗ trợ.
 
-恢复篇里写过一套更完整的做法：先确认安全，再降低负荷，最后用短时、可撤回的任务逐步重建。对我来说，最重要的不是把每天安排得很满，而是停止继续透支：先吃饭和睡觉，暂停高风险决定，保留必要联系，把“今天要把人生修好”缩小成“今天完成一个不会伤害明天的动作”。
+Trong phần về hồi phục, tôi từng viết về một cách làm đầy đủ hơn: trước hết xác nhận an toàn, sau đó giảm tải, cuối cùng dùng những nhiệm vụ ngắn và có thể rút lại để từng bước xây dựng lại. Với tôi, điều quan trọng nhất không phải là sắp xếp mỗi ngày thật kín, mà là ngừng tiếp tục tiêu hao bản thân: trước hết ăn uống và ngủ nghỉ, tạm dừng những quyết định rủi ro cao, duy trì các mối liên hệ cần thiết, thu nhỏ mục tiêu “hôm nay phải sửa chữa cả cuộc đời” thành “hôm nay hoàn thành một hành động không gây hại cho ngày mai”.
 
-我也开始把责任拆开。公司失败是事实，亏损和对同事造成的影响是责任；“我这辈子都毁了”则是羞耻制造的判决。身体失序是真实的，需要专业评估；“我只要再忍一下就能解决”则是旧有的幻想。把事实、解释和责任分开，生活才重新出现可以处理的边界。
+Tôi cũng bắt đầu tách các loại trách nhiệm ra. Công ty thất bại là sự thật, thua lỗ và ảnh hưởng gây ra cho đồng nghiệp là trách nhiệm; còn “đời tôi đã bị hủy hoại hoàn toàn” là phán quyết do sự xấu hổ tạo ra. Cơ thể mất trật tự là điều có thật và cần được chuyên môn đánh giá; còn “chỉ cần cố chịu thêm một chút là sẽ giải quyết được” là ảo tưởng cũ. Chỉ khi tách sự thật, cách diễn giải và trách nhiệm ra, cuộc sống mới lại xuất hiện những ranh giới có thể xử lý.
 
-## 我现在怎样理解“走出黑暗”
+## Hiện giờ tôi hiểu “bước ra khỏi bóng tối” như thế nào
 
-我不再把走出来理解成从此不再抑郁、不再焦虑，也不把某一次参访、一个头衔或一项新工作写成过去的胜利。那些事情只能说明，我又有了一点力气回到桌前，愿意让现实回答问题。
+Tôi không còn hiểu bước ra là từ nay không còn trầm cảm, không còn lo âu, cũng không viết một lần thăm viếng, một chức danh hay một công việc mới nào đó như chiến thắng trước quá khứ. Những điều ấy chỉ cho thấy tôi đã có thêm một chút sức lực để trở lại trước bàn làm việc và sẵn sàng để thực tế trả lời các câu hỏi.
 
-对我来说，走出来是一些安静的能力：
+Với tôi, bước ra là một vài năng lực âm thầm:
 
-- 更早察觉睡眠、食欲、身体疼痛和注意力的变化；
-- 不再用突然停药来证明自己独立；
-- 在沉默把问题变成危机之前，告诉一个可信任的人；
-- 能够接受专业支持，也能说清楚朋友和家人能做什么、不能做什么；
-- 承担责任，但不再用责任惩罚自己；
-- 状态变差时回到安全和降档，而不是一次性把负荷加满；
-- 把工作缩小成真实可交付的片段，给第二天留下余地。
+- Nhận ra sớm hơn những thay đổi về giấc ngủ, cảm giác thèm ăn, cơn đau thể chất và sự tập trung;
+- Không còn dùng việc đột ngột ngừng thuốc để chứng minh mình độc lập;
+- Nói với một người đáng tin cậy trước khi sự im lặng biến vấn đề thành khủng hoảng;
+- Có thể tiếp nhận sự hỗ trợ chuyên môn, đồng thời nói rõ bạn bè và gia đình có thể làm gì, không thể làm gì;
+- Gánh vác trách nhiệm nhưng không còn dùng trách nhiệm để trừng phạt bản thân;
+- Khi trạng thái xấu đi, quay về mức an toàn và giảm tải thay vì lập tức chất đầy gánh nặng;
+- Thu nhỏ công việc thành những phần thực tế có thể bàn giao, để lại khoảng trống cho ngày hôm sau.
 
-这些变化都不壮观，却让我重新拥有了选择。黑暗没有给我一套更高贵的人格，它只是暴露了我曾经把忍耐当健康、把生产力当价值、把隐瞒当坚强。恢复是把这些东西慢慢分开，再学习怎样与自己相处。
+Những thay đổi này đều không ngoạn mục, nhưng giúp tôi một lần nữa có quyền lựa chọn. Bóng tối không ban cho tôi một nhân cách cao quý hơn; nó chỉ phơi bày rằng trước đây tôi từng coi chịu đựng là sức khỏe, năng suất là giá trị, che giấu là mạnh mẽ. Hồi phục là từ từ tách những điều ấy ra, rồi học cách sống cùng chính mình.
 
-## 写给仍在黑暗里的人
+## Gửi những người vẫn đang ở trong bóng tối
 
-如果你在这里看见了自己，不必先证明痛苦足够严重，才有资格求助。你可以只说：“我最近不能正常生活”“我害怕自己的想法”“我不适合一个人待着”。如果说不完整，就把这几句话发给一个可信任的人，请他陪你联系合适的专业支持。
+Nếu bạn nhìn thấy mình trong những dòng này, bạn không cần phải chứng minh nỗi đau đủ nghiêm trọng rồi mới có quyền tìm kiếm sự giúp đỡ. Bạn có thể chỉ cần nói: “Dạo gần đây tôi không thể sống bình thường”, “Tôi sợ những suy nghĩ của mình”, “Tôi không nên ở một mình”. Nếu không thể nói trọn vẹn, hãy gửi những câu này cho một người đáng tin cậy và nhờ họ cùng bạn liên hệ với sự hỗ trợ chuyên môn phù hợp.
 
-请不要复制我早期强行停药的决定，也不要用我的经历判断你的治疗。药物、心理治疗、就医和危机支持都需要根据你的情况由合格专业人员参与。如果你已经有明确的伤害自己或他人的计划，请立刻远离可能造成伤害的物品，不要独处，联系身边的人和当地急救或危机服务。
+Xin đừng sao chép quyết định tự ý ngừng thuốc của tôi khi còn ở giai đoạn đầu, cũng đừng dùng trải nghiệm của tôi để phán đoán phương pháp điều trị của bạn. Thuốc men, trị liệu tâm lý, việc đi khám và hỗ trợ khủng hoảng đều cần có sự tham gia của chuyên gia đủ năng lực, dựa trên hoàn cảnh của bạn. Nếu bạn đã có kế hoạch rõ ràng làm hại bản thân hoặc người khác, hãy lập tức tránh xa những vật có thể gây thương tích, đừng ở một mình, và liên hệ với người bên cạnh cùng dịch vụ cấp cứu hoặc dịch vụ khủng hoảng địa phương.
 
-下一步可以很小：喝一点水，吃一顿饭，打开窗户，给一个人发消息，预约一次评估，或者先把今天必须完成的事情减到一件。小不代表不重要。小，意味着它有机会真正发生。
+Bước tiếp theo có thể rất nhỏ: uống một chút nước, ăn một bữa, mở cửa sổ, nhắn tin cho một người, đặt lịch đánh giá, hoặc trước hết giảm những việc bắt buộc phải hoàn thành hôm nay xuống còn một việc. Nhỏ không có nghĩa là không quan trọng. Nhỏ có nghĩa là nó có cơ hội thực sự xảy ra.
 
-## 来源与边界
+## Nguồn và ranh giới
 
-- [恢复篇：先把自己接住](recovery.md)：关于安全、降低负荷、具体求助和逐步复工的实践框架。
-- [叙事与证据篇：不把经历写成命运](narrative-and-evidence.md)：把事实、解释、责任和仍然未知的部分分开。
-- 本章不提供诊断、药物计划、戒断方案或当地危机热线号码。请根据所在地区联系合格专业人员和紧急服务。
+- [Phần về hồi phục: Trước hết hãy đỡ lấy chính mình](recovery.md): Khung thực hành về an toàn, giảm tải, tìm kiếm sự giúp đỡ cụ thể và từng bước trở lại làm việc.
+- [Phần về câu chuyện và bằng chứng: Đừng biến trải nghiệm thành số phận](narrative-and-evidence.md): Tách sự thật, cách diễn giải, trách nhiệm và những phần vẫn chưa biết ra.
+- Chương này không cung cấp chẩn đoán, kế hoạch dùng thuốc, phương án cai thuốc hay số điện thoại đường dây nóng khủng hoảng địa phương. Hãy liên hệ với chuyên gia đủ năng lực và dịch vụ khẩn cấp tùy theo nơi bạn đang ở.
 
-## 结语：我还在这里
+## Lời kết: Tôi vẫn ở đây
 
-我曾经以为，走出黑暗就是回到那个什么都能解决的自己。现在我更愿意承认，我不会回到过去，也不需要回去。我可以带着那些失败、亏欠、身体留下的记忆和被人帮助过的证据继续生活。
+Tôi từng nghĩ bước ra khỏi bóng tối là trở lại thành con người có thể giải quyết mọi chuyện. Giờ đây, tôi muốn thừa nhận rằng mình sẽ không trở lại quá khứ, và cũng không cần phải trở lại. Tôi có thể tiếp tục sống cùng những thất bại, những khoản nợ với người khác, những ký ức cơ thể lưu giữ và bằng chứng rằng mình từng được người khác giúp đỡ.
 
-我不是靠某个瞬间走出来的。我是在许多普通日子里，学会不再把自己交给黑暗独自处理：需要时求助，能承担的承担，不能承担的说清楚；今天只走一步，就把明天留给明天。
+Tôi không bước ra nhờ một khoảnh khắc nào đó. Tôi đã học được trong rất nhiều ngày bình thường cách không còn phó mặc bản thân cho bóng tối tự mình xử lý: cần thì tìm kiếm sự giúp đỡ, có thể gánh thì gánh, không thể gánh thì nói rõ; hôm nay chỉ bước một bước, để ngày mai lại thuộc về ngày mai.
 
-我叫韩先凯。我经历过抑郁、焦虑、失眠、羞耻和无力，也做过让自己承担额外风险的决定。我没有因此变成一个更完美的人，但我仍然在学习如何照顾自己、修复关系、认真工作，并把活着这件事重新交还给自己。
+Tôi tên là Hàn Tiên Khải. Tôi từng trải qua trầm cảm, lo âu, mất ngủ, xấu hổ và bất lực, cũng từng đưa ra những quyết định khiến bản thân phải gánh chịu thêm rủi ro. Điều đó không biến tôi thành một con người hoàn hảo hơn, nhưng tôi vẫn đang học cách chăm sóc bản thân, hàn gắn các mối quan hệ, nghiêm túc làm việc và một lần nữa trao việc được sống trở lại cho chính mình.
 
-我还在这里。不是凯旋，而是继续。
+Tôi vẫn ở đây. Không phải trong khải hoàn, mà là tiếp tục.

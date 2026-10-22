@@ -1,50 +1,50 @@
 ---
-title: 听力篇：从声音辨认到真实理解
-description: 从一次不暂停的首听开始，定位词汇、切分、结构、背景与注意力障碍，用最小字幕支架、意义重构、输出和延迟迁移把一段材料练成可用理解。
+title: "Phần nghe: từ nhận diện âm thanh đến hiểu thực sự"
+description: Bắt đầu bằng một lần nghe đầu tiên không tạm dừng, xác định các trở ngại về từ vựng, phân đoạn, cấu trúc, bối cảnh và sự chú ý; dùng giàn giáo phụ đề tối thiểu, tái cấu trúc ý nghĩa, đầu ra và chuyển giao trì hoãn để biến một đoạn tài liệu thành năng lực hiểu có thể sử dụng.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 听力篇：从声音辨认到真实理解
+# Phần nghe: từ nhận diện âm thanh đến hiểu thực sự
 
-英语曾经在我耳边像一整面没有缝隙的墙。明明认识字幕里的许多词，声音一开始流动，它们却互相吞没；有字幕时觉得全懂，关掉字幕又只剩几个孤立的响声。我以为解决办法是把同一段音频多放几遍，后来才发现，如果每一遍都不知道自己在寻找什么，重复也会把困惑重复得更熟。
+Đã từng có lúc tiếng Anh bên tai tôi giống như một bức tường kín mít, không có kẽ hở. Dù nhận ra nhiều từ trong phụ đề, khi âm thanh bắt đầu trôi, chúng lại nuốt chửng lẫn nhau; có phụ đề thì tôi thấy mình hiểu hết, tắt phụ đề đi thì chỉ còn vài âm thanh rời rạc. Tôi từng nghĩ giải pháp là phát đi phát lại cùng một đoạn âm thanh, mãi sau mới nhận ra rằng nếu mỗi lần nghe đều không biết mình đang tìm kiếm điều gì, việc lặp lại cũng chỉ khiến sự bối rối được lặp lại một cách thành thạo hơn.
 
-听力不是耳朵被英语包围了多久，而是声音经过之后，你能否恢复人物、时间、关系、主张与下一步。它包含两种方向：一方面把连续声音切成有意义的单位，另一方面用背景、结构和问题把不完整的信息重新连起来。
+Nghe không phải là bạn đã được tiếng Anh bao quanh trong bao lâu, mà là sau khi âm thanh đi qua, bạn có thể khôi phục nhân vật, thời gian, mối quan hệ, luận điểm và bước tiếp theo hay không. Nó bao gồm hai hướng: một mặt, cắt dòng âm thanh liên tục thành những đơn vị có ý nghĩa; mặt khác, dùng bối cảnh, cấu trúc và câu hỏi để nối lại những thông tin chưa đầy đủ.
 
-本章不提供一张越长越好的频道清单，也不把“盲听、精听、跟读、复述”写成不可改变的流水线。它给出一套可观察的循环：先保留真实首听，再判断障碍属于哪一层；只打开足够解决问题的支架；合上文本重构意思；几天后换材料、口音或任务，检查能力是否离开了熟悉片段。
+Chương này không cung cấp một danh sách kênh càng dài càng tốt, cũng không biến “nghe mù, nghe chuyên sâu, nhại theo, thuật lại” thành một dây chuyền bất biến. Nó đưa ra một vòng lặp có thể quan sát: trước tiên giữ nguyên lần nghe đầu tiên trong điều kiện chân thực, sau đó xác định trở ngại thuộc tầng nào; chỉ mở phần hỗ trợ đủ để giải quyết vấn đề; đóng văn bản lại và tái cấu trúc ý nghĩa; vài ngày sau đổi tài liệu, giọng hoặc nhiệm vụ để kiểm tra xem năng lực có rời khỏi đoạn quen thuộc hay chưa.
 
-## 本章速览
+## Tổng quan nhanh về chương
 
-- 先定义听完以后要回答、决定、复述还是协作，再选择材料；
-- 首听不暂停、不看完整字幕，保存真实理解而不是修订后的答案；
-- 把“没听懂”拆成技术、语言、切分、结构、背景和注意力问题；
-- 字幕与转写是可升可降的支架，不是作弊，也不是永久依赖；
-- 每一遍承担不同问题：预测、首听、定位、修复、重构与行动；
-- 听写和跟读只处理高影响片段，不能替代主旨、推断和陌生追问；
-- 精听建立分辨率，泛听建立耐力，两者都需要与当前容量相匹配；
-- AI 可以生成转写候选和追问，但原始音频、版权、隐私与最终判断仍由人负责；
-- 十四天只追踪一份主材料和一份平行材料。
+- Trước tiên xác định sau khi nghe xong bạn cần trả lời, quyết định, thuật lại hay phối hợp, rồi mới chọn tài liệu;
+- Lần nghe đầu tiên không tạm dừng, không xem phụ đề đầy đủ, lưu lại mức hiểu chân thực thay vì đáp án đã được chỉnh sửa;
+- Tách “không hiểu” thành các vấn đề về kỹ thuật, ngôn ngữ, phân đoạn, cấu trúc, bối cảnh và sự chú ý;
+- Phụ đề và bản chép lời là giàn giáo có thể nâng lên hoặc hạ xuống, không phải gian lận cũng không phải sự phụ thuộc vĩnh viễn;
+- Mỗi lần nghe đảm nhiệm một vấn đề khác nhau: dự đoán, nghe lần đầu, định vị, sửa chữa, tái cấu trúc và hành động;
+- Chính tả nghe và nhại theo chỉ xử lý những đoạn có ảnh hưởng lớn, không thể thay thế việc nắm ý chính, suy luận và ứng phó với câu hỏi lạ;
+- Nghe chuyên sâu xây dựng độ phân giải, nghe rộng xây dựng sức bền; cả hai đều cần phù hợp với dung lượng hiện tại;
+- AI có thể tạo bản chép lời dự kiến và câu hỏi truy vấn, nhưng âm thanh gốc, bản quyền, quyền riêng tư và phán đoán cuối cùng vẫn do con người chịu trách nhiệm;
+- Trong mười bốn ngày chỉ theo dõi một tài liệu chính và một tài liệu song song.
 
-## 1. 先定义听力任务
+## 1. Xác định nhiệm vụ nghe trước
 
-“提高听力”太大。听之前先决定声音结束后你要完成什么：
+“Nâng cao khả năng nghe” là một mục tiêu quá rộng. Trước khi nghe, hãy quyết định sau khi âm thanh kết thúc bạn cần hoàn thành điều gì:
 
-| 任务 | 练习条件 | 完成证据 |
+| Nhiệm vụ | Điều kiện luyện tập | Bằng chứng hoàn thành |
 | --- | --- | --- |
-| 抓主旨 | 1-5 分钟，首次不暂停 | 用一句话说出主题、说话者目的和基本走向 |
-| 找关键细节 | 包含时间、数字、人物或条件 | 写下任务依赖的细节，并标记不确定处 |
-| 追踪关系 | 访谈、会议、解释或论证 | 区分主张、理由、例子、转折和未解决问题 |
-| 执行动作 | 指令、教程、交接或请求 | 根据所听完成步骤、回应或下一项决定 |
-| 进入互动 | 对话、面试或真实协作 | 能回答陌生追问，并在没听清时修复 |
-| 迁移 | 换主题、说话者、设备或语速 | 不依赖原材料仍能完成相近任务 |
+| Nắm ý chính | 1-5 phút, lần đầu không tạm dừng | Dùng một câu nêu chủ đề, mục đích của người nói và hướng diễn biến cơ bản |
+| Tìm chi tiết then chốt | Có thời gian, con số, nhân vật hoặc điều kiện | Ghi lại những chi tiết mà nhiệm vụ phụ thuộc vào và đánh dấu điểm chưa chắc chắn |
+| Theo dõi mối quan hệ | Phỏng vấn, cuộc họp, giải thích hoặc lập luận | Phân biệt luận điểm, lý do, ví dụ, chuyển ý và vấn đề chưa được giải quyết |
+| Thực hiện hành động | Chỉ dẫn, hướng dẫn, bàn giao hoặc yêu cầu | Dựa trên điều đã nghe để hoàn thành các bước, phản hồi hoặc quyết định tiếp theo |
+| Tham gia tương tác | Hội thoại, phỏng vấn hoặc phối hợp thực tế | Có thể trả lời câu hỏi truy vấn lạ và xử lý khi nghe chưa rõ |
+| Chuyển giao | Đổi chủ đề, người nói, thiết bị hoặc tốc độ nói | Vẫn hoàn thành nhiệm vụ tương tự mà không phụ thuộc vào tài liệu ban đầu |
 
-写下听众角色也很重要。考试要求选答案，会议要求知道谁做什么，朋友的语音可能要求听见情绪与暗示。不同任务需要不同精度，不必把每一段声音都听写成全文。
+Việc ghi rõ vai trò của người nghe cũng rất quan trọng. Bài thi yêu cầu chọn đáp án, cuộc họp yêu cầu biết ai làm gì, còn tin nhắn thoại của bạn bè có thể đòi hỏi nghe được cảm xúc và hàm ý. Những nhiệm vụ khác nhau cần độ chính xác khác nhau; không nhất thiết phải chép lại toàn bộ mọi đoạn âm thanh.
 
-使用[听力证据卡](../../templates/listening-audit.md)保存材料条件、首听、错误地图、支架、重构和延迟复测。
+Hãy sử dụng [Thẻ bằng chứng nghe](../../templates/listening-audit.md) để lưu lại điều kiện tài liệu, lần nghe đầu tiên, bản đồ lỗi, giàn giáo, phần tái cấu trúc và lần kiểm tra trì hoãn.
 
-## 2. 保存一次真实首听
+## 2. Lưu lại một lần nghe đầu tiên chân thực
 
-选择 30 秒到 5 分钟、与任务相关且能够合法访问的材料。第一次播放前记录：
+Chọn tài liệu dài từ 30 giây đến 5 phút, liên quan đến nhiệm vụ và có thể tiếp cận hợp pháp. Trước lần phát đầu tiên, hãy ghi lại:
 
 ```markdown
 材料与来源：
@@ -54,7 +54,7 @@ sources_checked: 2026-09-02
 首听允许：暂停 / 倍速 / 字幕 / 笔记 / 重播：
 ```
 
-为了建立基线，通常让第一次播放保持自然速度、不暂停、不看完整字幕。结束后立刻写：
+Để thiết lập đường cơ sở, thông thường hãy giữ lần phát đầu tiên ở tốc độ tự nhiên, không tạm dừng và không xem phụ đề đầy đủ. Ngay sau khi kết thúc, hãy viết:
 
 ```markdown
 一句话主旨：
@@ -64,196 +64,196 @@ sources_checked: 2026-09-02
 我根据所听会做什么：
 ```
 
-不要用第二遍的答案覆盖第一遍。首听不是考试惩罚，而是显示当前理解如何形成。若材料涉及安全、医疗、合同或真实工作，不要为了训练故意拒绝必要的确认；训练条件必须与现实责任分开。
+Đừng dùng đáp án của lần nghe thứ hai để ghi đè lên lần đầu tiên. Lần nghe đầu không phải là một hình phạt trong kỳ thi, mà là cách cho thấy sự hiểu hiện tại được hình thành như thế nào. Nếu tài liệu liên quan đến an toàn, y tế, hợp đồng hoặc công việc thực tế, đừng cố tình từ chối việc xác nhận cần thiết chỉ để luyện tập; điều kiện luyện tập phải được tách biệt với trách nhiệm thực tế.
 
-## 3. 不把所有失败都叫“听不懂”
+## 3. Đừng gọi mọi thất bại là “không nghe hiểu”
 
-同一句没有进入理解，原因可能完全不同：
+Cùng một câu không đi vào quá trình hiểu có thể do những nguyên nhân hoàn toàn khác nhau:
 
-| 层次 | 典型表现 | 下一步 |
+| Tầng | Biểu hiện điển hình | Bước tiếp theo |
 | --- | --- | --- |
-| 技术与环境 | 声音失真、延迟、背景噪声、设备音量不稳 | 先换设备、环境或音源，不把故障解释成能力 |
-| 语言未知 | 词汇、词形、语法或表达从未学过 | 查最小必要信息，回到词汇或语法卡 |
-| 已知但没听出 | 字幕一看就懂，声音中却无法切分 | 标记连读、弱读、重音、音变与词界 |
-| 结构与指向 | 单词听见了，却不知道谁指谁、条件或转折在哪里 | 画句块、代词指向和逻辑关系 |
-| 背景与推断 | 语言本身可懂，却缺少事件、文化或专业知识 | 补一小段背景，再重新判断原音 |
-| 注意力与容量 | 疲劳、焦虑、工作记忆过载或信息过密 | 缩短材料、减少笔记任务或换到更有容量的时间 |
+| Kỹ thuật và môi trường | Âm thanh méo, trễ, nhiễu nền, âm lượng thiết bị không ổn định | Trước hết đổi thiết bị, môi trường hoặc nguồn âm thanh; đừng giải thích sự cố thành năng lực |
+| Chưa biết ngôn ngữ | Từ vựng, dạng từ, ngữ pháp hoặc cách diễn đạt chưa từng học | Tra cứu thông tin tối thiểu cần thiết, quay lại thẻ từ vựng hoặc ngữ pháp |
+| Biết nhưng không nghe ra | Nhìn phụ đề thì hiểu ngay, nhưng trong âm thanh lại không thể phân đoạn | Đánh dấu nối âm, âm yếu, trọng âm, biến âm và ranh giới từ |
+| Cấu trúc và quy chiếu | Nghe thấy từ nhưng không biết ai quy chiếu đến ai, điều kiện hoặc chỗ chuyển ý nằm ở đâu | Vẽ cụm câu, quy chiếu đại từ và quan hệ logic |
+| Bối cảnh và suy luận | Bản thân ngôn ngữ có thể hiểu được nhưng thiếu kiến thức về sự kiện, văn hóa hoặc chuyên môn | Bổ sung một đoạn bối cảnh ngắn, sau đó đánh giá lại âm thanh gốc |
+| Sự chú ý và dung lượng | Mệt mỏi, lo âu, quá tải trí nhớ làm việc hoặc thông tin quá dày | Rút ngắn tài liệu, giảm nhiệm vụ ghi chép hoặc chuyển sang thời điểm có dung lượng tốt hơn |
 
-口音和语速经常跨越多层。一个不熟悉口音可能让已知词难以切分；熟悉之后障碍会下降。不要把“和我熟悉的声音不同”自动写成“说得不标准”，也不要把一次疲劳听错写成永久能力。
+Giọng và tốc độ nói thường cùng lúc tác động đến nhiều tầng. Một giọng chưa quen có thể khiến những từ đã biết khó được phân đoạn; khi quen hơn, trở ngại sẽ giảm xuống. Đừng tự động viết “khác với giọng tôi quen” thành “nói không chuẩn”, cũng đừng biến một lần nghe sai do mệt mỏi thành năng lực yếu vĩnh viễn.
 
-每轮只选最影响任务的一到三个问题。若主旨已经恢复，低影响漏词可以留到下一轮。
+Mỗi vòng chỉ chọn từ một đến ba vấn đề ảnh hưởng nhiều nhất đến nhiệm vụ. Nếu đã khôi phục được ý chính, có thể để những từ bị bỏ sót nhưng ít ảnh hưởng lại cho vòng sau.
 
-## 4. 材料不是收藏品，是训练条件
+## 4. Tài liệu không phải đồ sưu tầm, mà là điều kiện luyện tập
 
-一份主材料是否适合，不看播放量或推荐者名气，而看它能否支持当前任务：
+Một tài liệu chính có phù hợp hay không không phụ thuộc vào lượt phát hay danh tiếng của người giới thiệu, mà vào việc nó có hỗ trợ được nhiệm vụ hiện tại hay không:
 
-1. **可切分**：能否取出 30-180 秒的完整意义单元？
-2. **可复核**：是否有可靠英文转写，自动字幕的错误能否被发现？
-3. **略有挑战但可重复**：第一次能抓住一点主线，而不是完全失去方向？
-4. **值得回来**：主题与你的工作、生活、兴趣或真实受众有关？
-5. **有边界**：访问、版权、录音、下载和分享条件是否清楚？
+1. **Có thể phân đoạn**: Có thể lấy ra một đơn vị ý nghĩa hoàn chỉnh dài 30-180 giây hay không?
+2. **Có thể kiểm tra lại**: Có bản chép lời tiếng Anh đáng tin cậy không, và có thể phát hiện lỗi của phụ đề tự động không?
+3. **Thách thức vừa đủ nhưng có thể lặp lại**: Lần đầu có thể nắm được một phần mạch chính hay hoàn toàn mất phương hướng?
+4. **Đáng quay lại**: Chủ đề có liên quan đến công việc, cuộc sống, sở thích hoặc đối tượng thực tế của bạn không?
+5. **Có ranh giới rõ ràng**: Điều kiện truy cập, bản quyền, ghi âm, tải xuống và chia sẻ có rõ ràng không?
 
-一周只保留一份主材料，再准备一份难度和任务相近但内容不同的平行材料。主材料用来修复，平行材料用来检查你学会的是方法还是片段。
+Mỗi tuần chỉ giữ lại một tài liệu chính, đồng thời chuẩn bị một tài liệu song song có độ khó và nhiệm vụ tương đương nhưng nội dung khác. Tài liệu chính dùng để sửa chữa, còn tài liệu song song dùng để kiểm tra xem bạn học được phương pháp hay chỉ ghi nhớ đoạn đó.
 
-电影、播客、课程、会议录音、有声书、技术教程和歌曲都可以使用。它们不是按媒介自动变成好材料。熟悉的电影片段可能适合初次重构，真实会议可能更接近工作，却需要更严格的隐私许可。先定义任务，再选择来源。
+Phim, podcast, khóa học, bản ghi cuộc họp, sách nói, hướng dẫn kỹ thuật và bài hát đều có thể được sử dụng. Chúng không tự động trở thành tài liệu tốt chỉ vì thuộc một loại phương tiện nào đó. Một đoạn phim quen thuộc có thể phù hợp cho việc tái cấu trúc ban đầu, còn một cuộc họp thực tế có thể gần với công việc hơn nhưng đòi hỏi quyền riêng tư nghiêm ngặt hơn. Hãy xác định nhiệm vụ trước, rồi chọn nguồn.
 
-## 5. 字幕是一架可以撤走的梯子
+## 5. Phụ đề là chiếc thang có thể rút đi
 
-“永远不开字幕”和“一直开双语字幕”都会遮住真实问题。使用一条可升可降的支架阶梯：
+“Không bao giờ bật phụ đề” và “luôn bật phụ đề song ngữ” đều có thể che khuất vấn đề thực sự. Hãy sử dụng một bậc giàn giáo có thể nâng lên hoặc hạ xuống:
 
-1. **无字幕首听**：写主旨、细节与不确定时间段；
-2. **只重听问题片段**：先不看文字，缩小到 5-20 秒；
-3. **打开英文转写**：核对词、词界、结构和自动字幕错误；
-4. **只查最小信息**：必要时看定义或背景，不先读整段翻译；
-5. **关掉文字再听**：确认声音现在是否能独立触发意思；
-6. **延迟撤架**：三到七天后不看旧笔记，用平行材料复测。
+1. **Nghe lần đầu không phụ đề**: Ghi lại ý chính, chi tiết và những khoảng thời gian chưa chắc chắn;
+2. **Chỉ nghe lại đoạn có vấn đề**: Trước hết không xem chữ, thu hẹp xuống còn 5-20 giây;
+3. **Mở bản chép lời tiếng Anh**: Kiểm tra từ, ranh giới từ, cấu trúc và lỗi của phụ đề tự động;
+4. **Chỉ tra cứu thông tin tối thiểu**: Khi cần, xem định nghĩa hoặc bối cảnh, không đọc trước toàn bộ bản dịch;
+5. **Tắt chữ rồi nghe lại**: Xác nhận xem âm thanh hiện đã có thể độc lập khơi gợi ý nghĩa hay chưa;
+6. **Rút giàn giáo sau một khoảng trì hoãn**: Sau ba đến bảy ngày, không xem ghi chú cũ mà dùng tài liệu song song để kiểm tra lại.
 
-字幕在第三步帮助看见声音与语言的对应，不说明首听能力已经提高。中文翻译可以快速确认大意，但若直接覆盖原句，可能让词界、结构和语气问题继续隐藏。
+Phụ đề ở bước thứ ba giúp nhìn thấy sự tương ứng giữa âm thanh và ngôn ngữ, chứ không chứng minh rằng năng lực nghe lần đầu đã được cải thiện. Bản dịch tiếng Việt có thể nhanh chóng xác nhận đại ý, nhưng nếu trực tiếp che phủ câu gốc, nó có thể khiến các vấn đề về ranh giới từ, cấu trúc và sắc thái tiếp tục bị ẩn đi.
 
-若你在真实工作中需要字幕或会议转写来降低风险，可以继续使用。训练的目标不是证明自己永远不需要辅助，而是知道辅助解决了什么、撤掉后还剩什么。
+Nếu trong công việc thực tế bạn cần phụ đề hoặc bản chép lời cuộc họp để giảm rủi ro, hãy tiếp tục sử dụng chúng. Mục tiêu của việc luyện tập không phải chứng minh rằng bạn vĩnh viễn không cần hỗ trợ, mà là biết sự hỗ trợ đã giải quyết điều gì và sau khi bỏ nó đi còn lại điều gì.
 
-## 6. 让每一遍承担不同问题
+## 6. Để mỗi lần nghe đảm nhiệm một vấn đề khác nhau
 
-对同一段音频机械播放十遍，不如让五遍分别承担任务：
+Phát máy móc cùng một đoạn âm thanh mười lần không bằng để năm lần nghe lần lượt đảm nhiệm các nhiệm vụ khác nhau:
 
-### 第一遍：预测与首听
+### Lần đầu: Dự đoán và nghe lần đầu
 
-根据标题、场景和任务预测可能出现的人物、词块与关系，然后自然听完。预测不是猜答案，而是让注意力拥有方向。
+Dựa vào tiêu đề, bối cảnh và nhiệm vụ để dự đoán những nhân vật, cụm từ và mối quan hệ có thể xuất hiện, sau đó nghe tự nhiên từ đầu đến cuối. Dự đoán không phải là đoán đáp án, mà là giúp sự chú ý có phương hướng.
 
-### 第二遍：定位差异
+### Lần hai: Định vị khác biệt
 
-比较首听笔记与再次听见的内容，标出时间段。问：我漏掉的是词、边界、关系，还是背景？
+So sánh ghi chú của lần nghe đầu với nội dung nghe lại, đánh dấu các khoảng thời gian. Hãy hỏi: Điều tôi bỏ sót là từ ngữ, ranh giới, mối quan hệ hay bối cảnh?
 
-### 第三遍：最小修复
+### Lần ba: Sửa chữa tối thiểu
 
-只打开问题片段与必要转写。写下“原来听成什么、实际是什么、为什么没有切出来”。
+Chỉ mở đoạn có vấn đề và bản chép lời cần thiết. Viết xuống “ban đầu tôi nghe thành gì, thực tế là gì, vì sao tôi không phân tách được”.
 
-### 第四遍：关闭支架
+### Lần bốn: Đóng giàn giáo
 
-合上文字，按正常速度再次听。若仍然只能在看见字幕时理解，说明声音到意思的连接还没有建立。
+Đóng văn bản lại và nghe thêm một lần ở tốc độ bình thường. Nếu vẫn chỉ hiểu khi nhìn thấy phụ đề, điều đó cho thấy mối liên kết từ âm thanh đến ý nghĩa vẫn chưa được thiết lập.
 
-### 第五遍：意义重构与行动
+### Lần năm: Tái cấu trúc ý nghĩa và hành động
 
-不逐字背诵，用自己的话说明主旨、三个关键关系和下一步；若是教程就执行步骤，若是会议就写交接，若是故事就说出人物选择与变化。
+Không học thuộc từng từ, hãy dùng lời của mình để trình bày ý chính, ba mối quan hệ then chốt và bước tiếp theo; nếu là hướng dẫn thì thực hiện các bước, nếu là cuộc họp thì viết nội dung bàn giao, nếu là câu chuyện thì nói rõ lựa chọn và sự thay đổi của nhân vật.
 
-过程型听力研究提示，预测、监控、评估和解决问题的引导可以比只增加相同播放次数更有效地改变学习过程。但一项课堂研究的平均结果不能保证你的材料、语言和时间条件得到同样效果，所以仍要保存自己的延迟与迁移证据。
+Các nghiên cứu về nghe theo tiến trình cho thấy việc hướng dẫn dự đoán, giám sát, đánh giá và giải quyết vấn đề có thể thay đổi quá trình học hiệu quả hơn so với chỉ tăng số lần phát cùng một nội dung. Tuy nhiên, kết quả trung bình của một nghiên cứu trong lớp học không đảm bảo rằng tài liệu, ngôn ngữ và điều kiện thời gian của bạn cũng sẽ cho hiệu quả tương tự; vì vậy vẫn cần lưu lại bằng chứng về sự trì hoãn và chuyển giao của chính mình.
 
-## 7. 听写只切开关键片段
+## 7. Chỉ chính tả nghe những đoạn then chốt
 
-听写能暴露词界、词尾、功能词和拼写，但全文听写成本高，也容易把注意力缩成单词清单。
+Chính tả nghe có thể phơi bày ranh giới từ, âm cuối, từ chức năng và chính tả, nhưng chép chính tả toàn văn tốn nhiều thời gian, đồng thời dễ thu hẹp sự chú ý thành một danh sách từ vựng.
 
-只选会改变任务结果的 5-20 秒：数字、否定、条件、责任、专有名词、步骤或反复听错的词块。使用四列：
+Chỉ chọn đoạn dài 5-20 giây có thể làm thay đổi kết quả nhiệm vụ: con số, phủ định, điều kiện, trách nhiệm, danh từ riêng, bước thực hiện hoặc cụm từ thường xuyên nghe sai. Sử dụng bốn cột:
 
-| 我写下的声音 | 可靠转写 | 差异原因 | 新句中的复测 |
+| Âm thanh tôi viết lại | Bản chép lời đáng tin cậy | Nguyên nhân khác biệt | Kiểm tra lại trong câu mới |
 | --- | --- | --- | --- |
-| | | 未知词 / 没切分 / 弱读 / 词尾 / 注意力 | |
+| | | Từ chưa biết / chưa phân đoạn / âm yếu / âm cuối / sự chú ý | |
 
-若每个词都写对，却仍说不出主旨，问题不在听写精度，而在结构与意义重构。回到整段关系，不要继续把全文拆碎。
+Nếu bạn viết đúng từng từ nhưng vẫn không thể nói ra ý chính, vấn đề không nằm ở độ chính xác của chính tả nghe, mà ở cấu trúc và việc tái cấu trúc ý nghĩa. Hãy quay lại các mối quan hệ trong toàn đoạn, đừng tiếp tục chia nhỏ toàn văn.
 
-## 8. 从听见进入说出与回应
+## 8. Từ nghe được đến nói ra và phản hồi
 
-跟读可以观察声音，不能单独证明理解或生成。把一段高价值材料从输入推到输出：
+Nhại theo có thể giúp quan sát âm thanh, nhưng tự nó không thể chứng minh sự hiểu hoặc khả năng tạo lời. Hãy đẩy một đoạn tài liệu có giá trị cao từ đầu vào đến đầu ra:
 
-1. 看转写朗读，先说清楚；
-2. 与原音保持短暂距离做延迟跟读；
-3. 合上文本，根据三个关键词复述；
-4. 改变一个事实或立场重新说明；
-5. 回答材料没有提供的陌生追问。
+1. Đọc thành tiếng theo bản chép lời, trước hết nói cho rõ ràng;
+2. Nhại theo có độ trễ ngắn, giữ khoảng cách tạm thời với âm thanh gốc;
+3. Đóng văn bản lại và thuật lại dựa trên ba từ khóa;
+4. Thay đổi một sự thật hoặc lập trường rồi trình bày lại;
+5. Trả lời một câu hỏi truy vấn lạ mà tài liệu không cung cấp.
 
-这条路径与[口语篇](5-speaking.md)相连。若跟读顺畅、复述却空白，减少模仿长度，增加关键词重构。若听懂主旨、说不出细节，问题可能转向词块调用，而不再是纯听力。
+Con đường này liên kết với [Phần nói](5-speaking.md). Nếu nhại theo trôi chảy nhưng khi thuật lại lại không nói được gì, hãy rút ngắn đoạn bắt chước và tăng cường tái cấu trúc bằng từ khóa. Nếu hiểu ý chính nhưng không nói ra được chi tiết, vấn đề có thể đã chuyển sang việc huy động cụm từ, chứ không còn là vấn đề thuần túy về nghe.
 
-听力的最终动作不总是说话。它也可以是一封确认邮件、一张流程图、一个风险决定，或一句“我没有听清最后的数字，请再说一次”。
+Hành động cuối cùng của việc nghe không phải lúc nào cũng là nói. Đó cũng có thể là một email xác nhận, một sơ đồ quy trình, một quyết định về rủi ro, hoặc câu “Tôi không nghe rõ con số cuối cùng, bạn có thể nói lại không?”.
 
-## 9. 精听与泛听承担不同工作
+## 9. Nghe chuyên sâu và nghe rộng đảm nhiệm những công việc khác nhau
 
-**精听**提高分辨率：短、可复核、有明确错误地图和输出。**泛听**建立耐力与熟悉度：较长、主旨优先、允许漏词，材料应当让你愿意回来。
+**Nghe chuyên sâu** nâng cao độ phân giải: ngắn, có thể kiểm tra lại, có bản đồ lỗi rõ ràng và có đầu ra. **Nghe rộng** xây dựng sức bền và mức độ quen thuộc: dài hơn, ưu tiên ý chính, cho phép bỏ sót từ; tài liệu nên khiến bạn muốn quay lại.
 
-不要把休闲观看伪装成精听，也不要把每一次听歌都变成作业。可以让一部分英语只是生活：在散步时听熟悉的有声书，在做饭时听喜欢的节目，跟着一首歌唱。另选一小段进入证据循环。
+Đừng ngụy trang việc xem giải trí thành nghe chuyên sâu, cũng đừng biến mỗi lần nghe nhạc thành bài tập. Có thể để một phần tiếng Anh chỉ đơn giản là một phần của cuộc sống: nghe sách nói quen thuộc khi đi bộ, nghe chương trình yêu thích khi nấu ăn, hát theo một bài hát. Hãy chọn riêng một đoạn ngắn để đưa vào vòng lặp bằng chứng.
 
-我高中时反复听《新概念英语》第三册，直到能大致复述和写下许多内容。那时我并不能精确说明哪一次重复产生了变化。回头看，真正留下的不是某篇课文的背诵，而是对常见句块、节奏和信息推进的熟悉。今天再做同样的事，我会保留首听、错误分类和平行材料，避免只靠结果回忆替方法作证。
+Khi học trung học, tôi đã nghe đi nghe lại “New Concept English” quyển 3, cho đến khi có thể đại khái thuật lại và viết ra nhiều nội dung. Khi đó tôi không thể nói chính xác lần lặp lại nào đã tạo ra thay đổi. Nhìn lại, thứ thực sự còn lại không phải là việc học thuộc một bài khóa nào đó, mà là sự quen thuộc với những cụm câu, nhịp điệu và cách thông tin được triển khai thường gặp. Nếu làm lại việc đó hôm nay, tôi sẽ lưu lại lần nghe đầu, phân loại lỗi và sử dụng tài liệu song song, tránh chỉ dựa vào ký ức về kết quả để làm bằng chứng thay cho phương pháp.
 
-广泛听力研究显示，持续、分级且有支持的听力活动可能改善流畅度，并且活动数量与迁移条件会影响结果。这支持长期接触，不支持“只要后台播放就会自然学会”。
+Các nghiên cứu về nghe mở rộng cho thấy những hoạt động nghe liên tục, được phân cấp và có hỗ trợ có thể cải thiện độ trôi chảy; đồng thời số lượng hoạt động và điều kiện chuyển giao cũng ảnh hưởng đến kết quả. Điều này ủng hộ việc tiếp xúc lâu dài, chứ không ủng hộ quan niệm “chỉ cần bật tiếng ở nền là sẽ tự nhiên học được”.
 
-## 10. 逐步增加口音、速度与噪声
+## 10. Từng bước tăng giọng, tốc độ và tiếng ồn
 
-真实世界不会永远提供同一位说话者和干净录音。迁移可以逐层增加：
+Thế giới thực sẽ không mãi cung cấp cùng một người nói và bản ghi âm sạch. Việc chuyển giao có thể được tăng dần theo từng lớp:
 
-1. 同一说话者，新主题；
-2. 同一主题，新说话者；
-3. 熟悉口音，速度变化；
-4. 不熟悉但清楚的英语变体；
-5. 轻微噪声、延迟或多人轮换；
-6. 真实会议、访谈或现场任务。
+1. Cùng một người nói, chủ đề mới;
+2. Cùng một chủ đề, người nói mới;
+3. Giọng quen thuộc, tốc độ thay đổi;
+4. Biến thể tiếng Anh chưa quen nhưng rõ ràng;
+5. Tiếng ồn nhẹ, độ trễ hoặc nhiều người lần lượt nói;
+6. Cuộc họp, phỏng vấn hoặc nhiệm vụ tại hiện trường thực tế.
 
-不要一次改变全部条件。口音研究提醒，熟悉度往往比口音是否与听者相似更关键。先让不同声音变得可预测，再检查主旨、细节与行动是否恢复。
+Đừng thay đổi tất cả điều kiện cùng một lúc. Các nghiên cứu về giọng cho thấy mức độ quen thuộc thường quan trọng hơn việc giọng đó có giống với giọng của người nghe hay không. Trước tiên hãy khiến những âm thanh khác nhau trở nên có thể dự đoán, sau đó kiểm tra xem ý chính, chi tiết và hành động có được khôi phục hay không.
 
-如果远程会议里设备或网络造成丢失，使用转写、聊天确认和会后书面总结。这不是听力失败，而是负责地设计沟通系统。
+Nếu thiết bị hoặc mạng trong cuộc họp từ xa gây mất thông tin, hãy sử dụng bản chép lời, xác nhận qua trò chuyện và bản tóm tắt bằng văn bản sau cuộc họp. Đây không phải là thất bại về khả năng nghe, mà là thiết kế hệ thống giao tiếp một cách có trách nhiệm.
 
-## 11. AI、播放器与教师怎样分工
+## 11. AI, trình phát và giáo viên phân công như thế nào
 
-| 工具/角色 | 适合做什么 | 不能单独证明什么 |
+| Công cụ/vai trò | Phù hợp để làm gì | Không thể tự mình chứng minh điều gì |
 | --- | --- | --- |
-| 播放器 | 精确回到时间段、调速、循环片段 | 播放次数和时长不等于理解 |
-| 自动字幕/转写 | 提供词界候选、搜索与定位 | 可能听错专有名词、数字、口音和噪声片段 |
-| AI | 生成预测问题、分类错误、提出平行追问 | 可能编造转写、背景与说话者意图 |
-| 教师/同伴 | 核对声音、结构、推断与任务结果 | 一次解释仍需延迟复测 |
-| 真实任务 | 验证是否能回应、执行和修复 | 单次顺利不能证明稳定能力 |
+| Trình phát | Quay lại chính xác một khoảng thời gian, điều chỉnh tốc độ, lặp đoạn | Số lần và thời lượng phát không đồng nghĩa với sự hiểu |
+| Phụ đề/bản chép lời tự động | Cung cấp dự đoán về ranh giới từ, tìm kiếm và định vị | Có thể nghe sai danh từ riêng, con số, giọng và những đoạn có tiếng ồn |
+| AI | Tạo câu hỏi dự đoán, phân loại lỗi, đưa ra câu hỏi truy vấn song song | Có thể bịa bản chép lời, bối cảnh và ý định của người nói |
+| Giáo viên/bạn học | Kiểm tra âm thanh, cấu trúc, suy luận và kết quả nhiệm vụ | Một lần giải thích vẫn cần được kiểm tra lại sau một khoảng trì hoãn |
+| Nhiệm vụ thực tế | Xác minh khả năng phản hồi, thực hiện và xử lý sự cố | Một lần diễn ra suôn sẻ không chứng minh năng lực ổn định |
 
-向 AI 提问时先提供时间段和自己的判断：
+Khi đặt câu hỏi cho AI, trước hết hãy cung cấp khoảng thời gian và phán đoán của bạn:
 
 ```text
 这是我在 00:42-00:51 听到的候选转写和主旨。请先区分：未知词、已知未听出、词界、结构、背景或注意力问题。只给一个最小线索，不要直接重写整段；再给一个平行句和一个陌生追问。
 ```
 
-不要上传未经许可的会议、客户、学生、家庭、医疗或合同录音。版权材料只在允许的个人学习范围内保存片段、转写与笔记，不公开重新分发。
+Đừng tải lên những bản ghi cuộc họp, khách hàng, học sinh, gia đình, y tế hoặc hợp đồng khi chưa được cho phép. Với tài liệu có bản quyền, chỉ lưu các đoạn, bản chép lời và ghi chú trong phạm vi học tập cá nhân được phép; không công khai phân phối lại.
 
-## 12. 十四天听力实验
+## 12. Thí nghiệm nghe trong mười bốn ngày
 
-| 天数 | 动作 | 留下的证据 |
+| Ngày | Hành động | Bằng chứng lưu lại |
 | --- | --- | --- |
-| 1 | 选择真实任务与主材料，完成无字幕首听 | 原始主旨、细节、时间段和条件 |
-| 2 | 建立六层错误地图 | 一到三个高影响障碍 |
-| 3 | 使用最小转写支架修复关键片段 | 听错、原文、原因与新句 |
-| 4 | 关闭文字，完成意义重构 | 复述、流程或行动结果 |
-| 5 | 对高价值片段做听写与延迟跟读 | 词界与节奏记录 |
-| 6 | 回答一个陌生追问 | 未预先提供的理解输出 |
-| 7 | 撤掉旧笔记，用平行材料复测 | 主旨、细节和错误类别比较 |
-| 8 | 同主题更换说话者 | 熟悉度变化 |
-| 9 | 同说话者更换主题 | 背景知识变化 |
-| 10 | 增加一种不熟悉的英语变体 | 恢复内容与不确定点 |
-| 11 | 只修仍然反复的一项障碍 | 第三次问题片段 |
-| 12 | 让 AI/同伴制造自动字幕错误或追问 | 核验与拒绝理由 |
-| 13 | 在时间压力下完成执行或交接 | 决定、责任人与下一步 |
-| 14 | 关闭提示完成新任务并决定下一轮 | 保留/降级/更换的依据 |
+| 1 | Chọn nhiệm vụ thực tế và tài liệu chính, hoàn thành lần nghe đầu không phụ đề | Ý chính, chi tiết, khoảng thời gian và điều kiện ban đầu |
+| 2 | Lập bản đồ lỗi sáu tầng | Một đến ba trở ngại có ảnh hưởng lớn |
+| 3 | Sử dụng giàn giáo bản chép lời tối thiểu để sửa các đoạn then chốt | Điều nghe sai, nguyên văn, nguyên nhân và câu mới |
+| 4 | Đóng văn bản, hoàn thành việc tái cấu trúc ý nghĩa | Kết quả thuật lại, quy trình hoặc hành động |
+| 5 | Chính tả nghe và nhại theo có độ trễ đối với các đoạn có giá trị cao | Ghi chép về ranh giới từ và nhịp điệu |
+| 6 | Trả lời một câu hỏi truy vấn lạ | Đầu ra hiểu biết chưa được cung cấp trước |
+| 7 | Bỏ ghi chú cũ, kiểm tra lại bằng tài liệu song song | So sánh ý chính, chi tiết và loại lỗi |
+| 8 | Đổi người nói với cùng chủ đề | Thay đổi mức độ quen thuộc |
+| 9 | Đổi chủ đề với cùng người nói | Thay đổi kiến thức nền |
+| 10 | Thêm một biến thể tiếng Anh chưa quen | Nội dung được khôi phục và điểm chưa chắc chắn |
+| 11 | Chỉ sửa một trở ngại vẫn lặp lại | Đoạn có vấn đề lần thứ ba |
+| 12 | Nhờ AI/bạn học tạo lỗi phụ đề tự động hoặc câu hỏi truy vấn | Lý do kiểm tra và từ chối |
+| 13 | Hoàn thành nhiệm vụ thực hiện hoặc bàn giao dưới áp lực thời gian | Quyết định, người chịu trách nhiệm và bước tiếp theo |
+| 14 | Đóng mọi gợi ý, hoàn thành một nhiệm vụ mới và quyết định vòng tiếp theo | Căn cứ để giữ lại/hạ cấp/thay đổi |
 
-十四天不是“听懂母语者”的期限。它只回答：支架撤掉、材料和说话者改变后，你是否比第一天更能恢复关键意思并采取正确行动？
+Mười bốn ngày không phải là thời hạn để “nghe hiểu người bản ngữ”. Nó chỉ trả lời câu hỏi: sau khi rút giàn giáo, thay đổi tài liệu và người nói, bạn có thể khôi phục ý nghĩa then chốt và thực hiện đúng hành động tốt hơn ngày đầu hay không?
 
-## 怎样判断听力正在变成能力
+## Làm thế nào để nhận biết khả năng nghe đang trở thành năng lực
 
-- 首听能保留主线，而不是被一个漏词完全打断；
-- 能说清自己卡在声音、语言、结构、背景还是注意力；
-- 只查必要片段，不需要用翻译覆盖整段；
-- 合上字幕后，声音仍能触发相近意思；
-- 能用自己的话重构，而不是只重复原句；
-- 七天后在平行材料中仍能使用同一方法；
-- 换说话者、设备、口音或主题后仍能完成任务；
-- 没听清关键内容时会请求重复、确认并留下书面共识。
+- Trong lần nghe đầu tiên có thể giữ được mạch chính, thay vì bị một từ bỏ sót làm gián đoạn hoàn toàn;
+- Có thể nói rõ mình mắc kẹt ở âm thanh, ngôn ngữ, cấu trúc, bối cảnh hay sự chú ý;
+- Chỉ tra cứu những đoạn cần thiết, không cần dùng bản dịch che phủ toàn bộ đoạn;
+- Sau khi đóng phụ đề, âm thanh vẫn có thể khơi gợi ý nghĩa tương đương;
+- Có thể dùng lời của mình để tái cấu trúc, thay vì chỉ lặp lại câu gốc;
+- Sau bảy ngày, trong tài liệu song song vẫn có thể sử dụng cùng một phương pháp;
+- Sau khi đổi người nói, thiết bị, giọng hoặc chủ đề, vẫn có thể hoàn thành nhiệm vụ;
+- Khi không nghe rõ nội dung then chốt, biết yêu cầu nói lại, xác nhận và lưu lại sự thống nhất bằng văn bản.
 
-听力进步有时不是“听见更多词”，而是漏掉一个词以后仍然知道怎样继续：借助关系、上下文、问题和修复，把理解重新接起来。
+Tiến bộ trong việc nghe đôi khi không phải là “nghe được nhiều từ hơn”, mà là sau khi bỏ sót một từ, bạn vẫn biết cách tiếp tục: dựa vào mối quan hệ, ngữ cảnh, câu hỏi và biện pháp xử lý để nối lại sự hiểu ở chỗ đã bị đứt.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Vandergrift & Tafaghodtari (2010), Teaching L2 Learners How to Listen Does Make a Difference](https://doi.org/10.1111/j.1467-9922.2009.00559.x)：在 106 名法语二语学习者的学期研究中，过程型元认知引导组在最终理解测量上优于对照组；本章不把单一语言与课堂条件写成个人保证。
-- [Chang & Millett (2016), Developing L2 Listening Fluency through Extended Listening-focused Activities](https://doi.org/10.1177/0033688216631175)：研究比较分级读物听读与不同数量的听后活动，结果提示活动量与跨输入类型迁移有关；不等于固定次数适用于所有学习者。
-- [Tauroza & Luk (1997), Accent and Second Language Listening Comprehension](https://doi.org/10.1177/003368829702800104)：研究综述与实验强调口音熟悉度的重要性，并不支持把“与听者口音相似”当作唯一优势。
-- 自动字幕、平台功能、内容可用性和版权规则会变化。重要学习与工作应回到可靠转写、原始来源、当前许可和真实任务核验。
+- [Vandergrift & Tafaghodtari (2010), Teaching L2 Learners How to Listen Does Make a Difference](https://doi.org/10.1111/j.1467-9922.2009.00559.x): Trong một nghiên cứu kéo dài cả học kỳ với 106 người học tiếng Pháp như ngôn ngữ thứ hai, nhóm được hướng dẫn siêu nhận thức theo tiến trình có kết quả đo lường khả năng hiểu cuối kỳ tốt hơn nhóm đối chứng; chương này không biến một ngôn ngữ và điều kiện lớp học đơn lẻ thành lời bảo đảm cho cá nhân.
+- [Chang & Millett (2016), Developing L2 Listening Fluency through Extended Listening-focused Activities](https://doi.org/10.1177/0033688216631175): Nghiên cứu so sánh việc đọc-nghe tài liệu đọc phân cấp với số lượng hoạt động sau nghe khác nhau; kết quả gợi ý rằng số lượng hoạt động có liên quan đến việc chuyển giao giữa các loại đầu vào, nhưng không có nghĩa một số lần cố định sẽ phù hợp với mọi người học.
+- [Tauroza & Luk (1997), Accent and Second Language Listening Comprehension](https://doi.org/10.1177/003368829702800104): Tổng quan nghiên cứu và thí nghiệm nhấn mạnh tầm quan trọng của mức độ quen thuộc với giọng, nhưng không ủng hộ việc coi “giống giọng của người nghe” là lợi thế duy nhất.
+- Phụ đề tự động, tính năng nền tảng, khả năng cung cấp nội dung và quy định bản quyền sẽ thay đổi. Những việc học tập và công việc quan trọng cần quay lại kiểm tra bằng bản chép lời đáng tin cậy, nguồn gốc ban đầu, giấy phép hiện hành và nhiệm vụ thực tế.
 
-相关入口：[词汇篇](2-vocabulary.md) ｜ [语法篇](grammar.md) ｜ [口语篇](5-speaking.md) ｜ [用 AI 学英语](7-ai.md) ｜ [听力证据卡](../../templates/listening-audit.md) ｜ [证据链模板](../../templates/evidence-chain.md)
+Các mục liên quan: [Phần từ vựng](2-vocabulary.md) ｜ [Phần ngữ pháp](grammar.md) ｜ [Phần nói](5-speaking.md) ｜ [Học tiếng Anh cùng AI](7-ai.md) ｜ [Thẻ bằng chứng nghe](../../templates/listening-audit.md) ｜ [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)
 
-## 结语：听见声音背后的人
+## Lời kết: Nghe thấy con người phía sau âm thanh
 
-听力不是把每一个声音抓住，像检查一张永远不能缺角的清单。它首先是在起伏、停顿、口音和噪声中，听见有人正努力把一个意思送过来。
+Nghe không phải là nắm bắt từng âm thanh, như thể đang kiểm tra một danh sách vĩnh viễn không được thiếu mục nào. Trước hết, đó là nghe thấy có một người đang cố gắng truyền một ý nghĩa đến bạn giữa những thăng trầm, khoảng ngừng, giọng nói và tiếng ồn.
 
-最初，英语可能是一整片没有边界的声浪。后来你听见一个熟悉的词块，一次转折，一句没有说完的犹豫。你仍然会漏掉内容，但一个缺失的词不再摧毁整段理解；上下文、一个问题或一次确认，会把断开的地方重新接上。
+Ban đầu, tiếng Anh có thể là một vùng âm thanh rộng lớn không có ranh giới. Sau đó, bạn nghe thấy một cụm từ quen thuộc, một lần chuyển ý, một sự do dự chưa được nói hết. Bạn vẫn sẽ bỏ sót nội dung, nhưng một từ bị thiếu không còn phá hủy toàn bộ sự hiểu; ngữ cảnh, một câu hỏi hoặc một lần xác nhận sẽ nối lại nơi đã bị đứt.
 
-当声音不再只是考试材料，语言便重新成为人的声音。你听见的不只是英语，还有一个人的经历、判断和看世界的方式。世界就这样一点一点，从耳朵进入生活。
+Khi âm thanh không còn chỉ là tài liệu thi cử, ngôn ngữ lại trở thành tiếng nói của con người. Bạn nghe thấy không chỉ tiếng Anh, mà còn cả trải nghiệm, phán đoán và cách nhìn thế giới của một người. Thế giới cứ thế từng chút một đi từ đôi tai vào cuộc sống.

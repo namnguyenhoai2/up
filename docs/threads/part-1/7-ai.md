@@ -1,29 +1,29 @@
 ---
-title: 用 AI 学英语：从练习到真实交付
-description: 用英语基线、真实材料、引导练习、四项能力反馈和延迟复测学习，而不是把英语能力外包给一个 AI 产品。
+title: "Học tiếng Anh với AI: từ luyện tập đến thực hiện trong thực tế"
+description: Học thông qua đường cơ sở năng lực tiếng Anh, tài liệu thực tế, bài tập có hướng dẫn, phản hồi về bốn kỹ năng và kiểm tra lại sau một khoảng thời gian, thay vì giao phó năng lực tiếng Anh cho một sản phẩm AI.
 updated: 2026-10-15
 sources_checked: 2026-10-15
 source_review_interval: 30
 ---
 
-# 用 AI 学英语：从练习到真实交付
+# Học tiếng Anh với AI: từ luyện tập đến thực hiện trong thực tế
 
-AI 可以缩短找材料、生成练习和获得初步反馈的时间，却不能替你完成回忆、听辨、发音动作、判断和真实沟通。本章只回答一个问题：**如何把 AI 放进英语训练，而不是把英语能力外包给 AI？**
+AI có thể rút ngắn thời gian tìm tài liệu, tạo bài tập và nhận phản hồi ban đầu, nhưng không thể thay bạn ghi nhớ, nghe phân biệt, thực hiện động tác phát âm, phán đoán và giao tiếp thực tế. Chương này chỉ trả lời một câu hỏi: **Làm thế nào để đưa AI vào quá trình rèn luyện tiếng Anh, thay vì giao phó năng lực tiếng Anh cho AI?**
 
-全站通用的“问题—基线—练习—交付—验证—复盘”见[使用 AI 学习一切](../part-3/1-ai-learning.md)。这里只保留英语训练的具体做法。
+Quy trình chung của toàn bộ trang “vấn đề—đường cơ sở—luyện tập—thực hiện—xác minh—rút kinh nghiệm” có tại [Học mọi thứ với AI](../part-3/1-ai-learning.md). Ở đây chỉ giữ lại những cách làm cụ thể cho việc rèn luyện tiếng Anh.
 
-## 本章速览
+## Tóm tắt chương
 
-- 先写真实场景和完成标准，再决定 AI 可以介入的步骤；
-- 四项能力分别保留无 AI 基线、反馈和延迟复测；
-- 让 AI 提问、提示和生成平行练习，不替你完成关键回忆与表达；
-- 把结果写回[AI 学习记录](../../templates/ai-learning-log.md)和[九十日行动总表](../../templates/90-day-cycle.md)。
+- Trước tiên hãy viết ra bối cảnh thực tế và tiêu chuẩn hoàn thành, rồi mới quyết định AI có thể tham gia vào bước nào;
+- Với mỗi kỹ năng trong bốn kỹ năng, giữ lại đường cơ sở không dùng AI, phản hồi và lần kiểm tra lại sau một khoảng thời gian;
+- Để AI đặt câu hỏi, đưa gợi ý và tạo bài tập song song, không thay bạn hoàn thành việc ghi nhớ và diễn đạt then chốt;
+- Ghi kết quả vào [Bản ghi học tập với AI](../../templates/ai-learning-log.md) và [Bảng tổng hợp hành động 90 ngày](../../templates/90-day-cycle.md).
 
-> 本页产品功能上次核验于 **2026-08-24**。学习模式、项目空间、语音和写作工具会因地区、语言、设备、账号和套餐变化；使用前请重新打开官方页面核对。
+> Lần gần nhất các tính năng sản phẩm trên trang này được kiểm tra là **2026-08-24**. Chế độ học tập, không gian dự án, công cụ giọng nói và viết có thể thay đổi tùy khu vực, ngôn ngữ, thiết bị, tài khoản và gói dịch vụ; hãy mở lại trang chính thức để kiểm tra trước khi sử dụng.
 
-## 先定义“会英语”
+## Trước tiên hãy định nghĩa “biết tiếng Anh”
 
-不要从每天背多少单词开始，先写一个真实任务：
+Đừng bắt đầu bằng việc mỗi ngày học bao nhiêu từ; trước hết hãy viết ra một nhiệm vụ thực tế:
 
 ```text
 场景：我要在英文线上会议中介绍一个 AI 项目。
@@ -33,33 +33,33 @@ AI 可以缩短找材料、生成练习和获得初步反馈的时间，却不�
 证据：原始录音、文字稿、问题记录、邮件草稿和修订版。
 ```
 
-目标至少包含场景、受众、动作、完成标准、期限和证据位置。AI 可以帮助练习和检查，不能替你定义“完成”。
+Mục tiêu ít nhất phải bao gồm bối cảnh, đối tượng tiếp nhận, hành động, tiêu chuẩn hoàn thành, thời hạn và vị trí lưu bằng chứng. AI có thể hỗ trợ luyện tập và kiểm tra, nhưng không thể thay bạn định nghĩa thế nào là “hoàn thành”.
 
-## 一、先测基线，再让 AI 介入
+## I. Đo đường cơ sở trước, rồi mới để AI tham gia
 
-第一次不要让 AI 翻译、改写或提示。在同一主题下完成四个 10–15 分钟任务：
+Lần đầu tiên không được để AI dịch, viết lại hoặc đưa gợi ý. Trong cùng một chủ đề, hãy hoàn thành bốn nhiệm vụ kéo dài 10–15 phút:
 
-1. **听力**：听一段 2–4 分钟的真实材料，写主旨、三个细节和一个不确定点；
-2. **阅读**：读一页材料，写五句摘要和一个反例；
-3. **口语**：连续说两分钟，保存原始录音；
-4. **写作**：写一封 120–180 词工作邮件，不查词、不让 AI 改写。
+1. **Nghe**: nghe một tài liệu thực tế dài 2–4 phút, viết chủ đề chính, ba chi tiết và một điểm chưa chắc chắn;
+2. **Đọc**: đọc một trang tài liệu, viết năm câu tóm tắt và một phản ví dụ;
+3. **Nói**: nói liên tục trong hai phút, lưu bản ghi âm gốc;
+4. **Viết**: viết một email công việc dài 120–180 từ, không tra từ và không để AI viết lại.
 
-按任务完成、可理解度、准确与范围、组织与流畅、修订与迁移五项各打 0–2 分。把样本、评分理由和错误证据写入[英语能力诊断](../../templates/english-diagnostic.md)。没有基线，就无法知道 AI 帮助的是能力，还是只把成品变漂亮。
+Chấm mỗi nhiệm vụ từ 0–2 điểm theo năm tiêu chí: hoàn thành nhiệm vụ, mức độ dễ hiểu, độ chính xác và độ đa dạng, bố cục và độ trôi chảy, chỉnh sửa và chuyển giao. Ghi mẫu, lý do chấm điểm và bằng chứng lỗi vào [Chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md). Không có đường cơ sở thì không thể biết AI đang giúp phát triển năng lực hay chỉ làm sản phẩm cuối trông đẹp hơn.
 
-## 四项能力与证据卡
+## Bốn kỹ năng và thẻ bằng chứng
 
-| 能力 | AI 可以协助 | 关闭 AI 后保留的证据 |
+| Kỹ năng | AI có thể hỗ trợ | Bằng chứng cần giữ lại sau khi tắt AI |
 | --- | --- | --- |
-| 听力 | 给出一个线索、标记时间段、生成平行追问 | [听力证据卡](../../templates/listening-audit.md)中的首听、六层错误地图、支架阶梯、意义重构和延迟迁移 |
-| 阅读 | 比较段落标记、追问证据位置、提出平行来源问题 | [阅读证据卡](../../templates/reading-evidence.md)中的首读、障碍地图、主张证据、技术事实和推断边界 |
-| 口语 | 记录难以理解的片段、模拟追问 | [口语证据卡](../../templates/speaking-evidence.md)中的原始录音、听众复述和修复 |
-| 写作 | 分层指出事实、结构、语言和语气问题 | [写作证据卡](../../templates/writing-evidence.md)中的初稿、四轮修订和读者反馈 |
+| Nghe | Đưa ra một manh mối, đánh dấu khoảng thời gian, tạo câu hỏi bổ sung song song | Lần nghe đầu, bản đồ lỗi sáu tầng, bậc thang hỗ trợ, tái cấu trúc ý nghĩa và chuyển giao trì hoãn trong [Thẻ bằng chứng nghe](../../templates/listening-audit.md) |
+| Đọc | So sánh cách đánh dấu đoạn, hỏi vị trí bằng chứng, đưa ra câu hỏi về nguồn song song | Lần đọc đầu, bản đồ trở ngại, luận điểm và bằng chứng, sự kiện kỹ thuật và ranh giới suy luận trong [Thẻ bằng chứng đọc](../../templates/reading-evidence.md) |
+| Nói | Ghi lại những đoạn khó hiểu, mô phỏng câu hỏi bổ sung | Bản ghi âm gốc, phần người nghe thuật lại và việc sửa chữa trong [Thẻ bằng chứng nói](../../templates/speaking-evidence.md) |
+| Viết | Chỉ ra theo từng lớp các vấn đề về sự kiện, cấu trúc, ngôn ngữ và giọng điệu | Bản nháp đầu tiên, bốn vòng chỉnh sửa và phản hồi của người đọc trong [Thẻ bằng chứng viết](../../templates/writing-evidence.md) |
 
-卡片不是额外作业，而是把一次训练变成可回看的样本。若只留下 AI 的批注，没有自己的首版和迁移任务，下一次无法判断能力是否真的变化。
+Thẻ không phải là bài tập bổ sung, mà là cách biến một lần luyện tập thành một mẫu có thể xem lại. Nếu chỉ lưu lại nhận xét của AI mà không có bản đầu tiên và nhiệm vụ chuyển giao của chính mình, lần sau sẽ không thể phán đoán năng lực có thực sự thay đổi hay không.
 
-语法是四项能力共用的结构层。AI 可以把原句与平行句并排、提出意义差异、生成变式，但反馈必须区分**错误、歧义、语域选择与风格偏好**，并说明置信度；学习者再用[语法证据卡](../../templates/grammar-evidence.md)保存自己的决定。模型给出更顺的句子，不等于原句必然错误。
+Ngữ pháp là tầng cấu trúc dùng chung cho cả bốn kỹ năng. AI có thể đặt câu gốc và câu song song cạnh nhau, nêu ra khác biệt về ý nghĩa và tạo các biến thể, nhưng phản hồi phải phân biệt **lỗi, sự mơ hồ, lựa chọn văn phong và sở thích phong cách**, đồng thời nêu rõ mức độ tin cậy; sau đó người học dùng [Thẻ bằng chứng ngữ pháp](../../templates/grammar-evidence.md) để lưu quyết định của mình. Việc mô hình đưa ra một câu trôi chảy hơn không có nghĩa câu gốc chắc chắn sai.
 
-## 二、每次训练使用同一张任务卡
+## II. Mỗi lần luyện tập sử dụng cùng một thẻ nhiệm vụ
 
 ```markdown
 # English Task Card
@@ -78,92 +78,92 @@ AI 不可以做：代答 / 整段改写 / 编造来源
 下一项最小任务：
 ```
 
-训练结束只挑 1–2 个最影响沟通的错误，重新做一个平行任务。不要把十五条建议抄进错误库，却没有再次使用。
+Kết thúc buổi luyện tập, chỉ chọn 1–2 lỗi ảnh hưởng nhiều nhất đến giao tiếp để thực hiện lại một nhiệm vụ song song. Đừng chép mười lăm đề xuất vào sổ lỗi mà không sử dụng lại chúng.
 
-## 三、词汇：从眼熟到在真实任务中调用
+## III. Từ vựng: từ quen mắt đến sử dụng trong nhiệm vụ thực tế
 
-每周从真实材料中选 5–8 个高价值词块，不追求孤立词量。先保存不查词的首遇，再为每个词块记录：当前义项、发音、词性、搭配、原句、自己的句子、一个相近表达和一次主动回忆。未知项先决定放过、推断、速查、主动学习还是专业核验。
+Mỗi tuần chọn 5–8 cụm từ có giá trị cao từ tài liệu thực tế, không chạy theo số lượng từ riêng lẻ. Trước tiên lưu lại lần gặp đầu tiên khi chưa tra từ, sau đó ghi cho mỗi cụm từ: nghĩa hiện tại, cách phát âm, từ loại, cách kết hợp, câu gốc, câu của mình, một cách diễn đạt gần nghĩa và một lần chủ động nhớ lại. Với mục chưa biết, trước hết quyết định sẽ bỏ qua, suy đoán, tra nhanh, học chủ động hay kiểm chứng chuyên môn.
 
-AI 可以生成填空、改错和替换练习，但释义、搭配和例句要回到学习者词典或真实语料核对。四次接触可以这样安排：
+AI có thể tạo bài điền vào chỗ trống, sửa lỗi và bài tập thay thế, nhưng cần đối chiếu nghĩa, cách kết hợp và câu ví dụ với từ điển dành cho người học hoặc ngữ liệu thực tế. Có thể sắp xếp bốn lần tiếp xúc như sau:
 
-1. 当天理解原句并朗读；
-2. 第二天闭卷回忆并造句；
-3. 一周内在口语或邮件里主动使用；
-4. 两周后在新场景中迁移。
+1. Hiểu câu gốc và đọc thành tiếng trong ngày hôm đó;
+2. Nhớ lại khi không xem tài liệu và đặt câu vào ngày hôm sau;
+3. Chủ động sử dụng trong giao tiếp hoặc email trong vòng một tuần;
+4. Chuyển giao sang bối cảnh mới sau hai tuần.
 
-验收不是“收藏了多少”，而是能否在没有提示时正确使用，并让对方理解。
+Tiêu chí nghiệm thu không phải là “đã lưu bao nhiêu từ”, mà là có thể sử dụng chính xác khi không có gợi ý và khiến đối phương hiểu hay không.
 
-## 四、听力：把“没听懂”拆开
+## IV. Nghe: phân tách “không nghe hiểu”
 
-第一次只写主旨和确定细节，不看字幕。第二次标记问题属于哪一类：
+Lần đầu chỉ viết chủ đề chính và những chi tiết chắc chắn, không xem phụ đề. Lần thứ hai đánh dấu vấn đề thuộc loại nào:
 
-- 词汇不认识；
-- 认识单词但连读、弱读或重音没有听出；
-- 句法关系没有解析；
-- 背景知识不足；
-- 语速、口音或注意力造成的暂时失败。
+- Không biết từ vựng;
+- Biết từ nhưng không nghe ra hiện tượng nối âm, âm yếu hoặc trọng âm;
+- Chưa phân tích được quan hệ cú pháp;
+- Thiếu kiến thức nền;
+- Thất bại tạm thời do tốc độ nói, giọng hoặc sự tập trung.
 
-让 AI 先指出一个最小线索，再回听 10–20 秒；不要直接给整段翻译。最后关闭字幕，用自己的话复述，并记录仍然不确定的部分。
+Trước tiên hãy để AI chỉ ra một manh mối nhỏ nhất, sau đó nghe lại 10–20 giây; không đưa ngay bản dịch cả đoạn. Cuối cùng tắt phụ đề, thuật lại bằng lời của mình và ghi lại những phần vẫn chưa chắc chắn.
 
-每一遍要承担不同问题：先保存无字幕首听，再定位时间段和障碍层；只打开必要转写，关闭文字后重构主旨、关系和下一步；三到七天后用平行材料撤架复测。完整记录见[听力证据卡](../../templates/listening-audit.md)。AI 可以提供候选转写，不能替原始音频和可靠来源做最终裁决。
+Mỗi lượt nghe phải đảm nhiệm một vấn đề khác nhau: trước tiên lưu lần nghe đầu không có phụ đề, sau đó xác định khoảng thời gian và tầng trở ngại; chỉ mở phần chuyển lời cần thiết, rồi tắt chữ để tái cấu trúc chủ đề chính, mối quan hệ và bước tiếp theo; sau ba đến bảy ngày, dùng tài liệu song song để kiểm tra lại sau khi tháo bỏ hỗ trợ. Xem đầy đủ hồ sơ tại [Thẻ bằng chứng nghe](../../templates/listening-audit.md). AI có thể cung cấp bản chuyển lời候选, nhưng không thể thay thế âm thanh gốc và nguồn đáng tin cậy trong phán quyết cuối cùng.
 
-## 五、口语与发音：以沟通结果为中心
+## V. Nói và phát âm: lấy kết quả giao tiếp làm trọng tâm
 
-一次 12 分钟训练：
+Một buổi luyện tập 12 phút:
 
-1. 不看稿说明一个真实问题 2 分钟；
-2. 让 AI 只记录听不清、逻辑断裂和需要澄清的地方；
-3. 选择一个影响理解的发音或词块问题，做 5 次慢速重说；
-4. 回答一个没有预先准备的追问；
-5. 保存原始与复测录音。
+1. Không nhìn bản thảo, trình bày một vấn đề thực tế trong 2 phút;
+2. Chỉ để AI ghi lại những chỗ khó nghe, đứt mạch logic và cần làm rõ;
+3. Chọn một vấn đề về phát âm hoặc cụm từ ảnh hưởng đến việc hiểu, rồi nói lại chậm 5 lần;
+4. Trả lời một câu hỏi bổ sung chưa được chuẩn bị trước;
+5. Lưu bản ghi âm gốc và bản ghi âm kiểm tra lại.
 
-语音识别结果只是线索，不等于自然发音。最可靠的验收是可信的听者是否能一次理解、是否需要重复，以及你能否在新问题中继续表达。
+Kết quả nhận dạng giọng nói chỉ là manh mối, không đồng nghĩa với cách phát âm tự nhiên. Cách nghiệm thu đáng tin cậy nhất là người nghe đáng tin có thể hiểu ngay một lần hay không, có cần bạn lặp lại không, và bạn có thể tiếp tục diễn đạt trong một vấn đề mới hay không.
 
-先选择与真实受众相关的参考变体，再逐步加入其他英语变体；不要让模型把“听起来不同”自动改写成“错误”。使用[口语证据卡](../../templates/speaking-evidence.md)保存设备、听众熟悉度、识别错误、听众复述与互动修复，区分口音显著度、实际误解和理解成本。
+Trước tiên hãy chọn một biến thể tham chiếu phù hợp với đối tượng thực tế, sau đó từng bước tiếp xúc với các biến thể tiếng Anh khác; đừng để mô hình tự động biến việc “nghe khác biệt” thành “sai”. Sử dụng [Thẻ bằng chứng nói](../../templates/speaking-evidence.md) để lưu thiết bị, mức độ quen thuộc của người nghe, lỗi nhận dạng, phần người nghe thuật lại và cách sửa chữa trong tương tác; phân biệt mức độ nổi bật của giọng, sự hiểu lầm thực tế và chi phí để hiểu.
 
-## 六、阅读：训练证据链，而不是收集摘要
+## VI. Đọc: rèn luyện chuỗi bằng chứng, không sưu tầm bản tóm tắt
 
-先独立标记作者的主张、证据、定义、例子和未知项，再让 AI 比较你的标记。要求它给出原文位置，不接受“文章大意是”。
+Trước tiên tự đánh dấu luận điểm, bằng chứng, định nghĩa, ví dụ và mục chưa biết của tác giả, rồi mới để AI so sánh với cách đánh dấu của bạn. Yêu cầu AI đưa ra vị trí trong nguyên văn, không chấp nhận câu “ý chính của bài viết là”.
 
-关闭材料后回答：作者解决什么问题？哪个结论依赖哪条证据？有什么反例？如果把场景换成自己的工作，哪些部分仍成立？能回答这些问题，才算从阅读迁移到判断。
+Sau khi đóng tài liệu, hãy trả lời: Tác giả đang giải quyết vấn đề gì? Kết luận nào phụ thuộc vào bằng chứng nào? Có phản ví dụ nào? Nếu chuyển bối cảnh sang công việc của mình, những phần nào vẫn còn đúng? Chỉ khi trả lời được những câu hỏi này, bạn mới được xem là đã chuyển từ đọc sang phán đoán.
 
-## 七、写作：保留作者的手
+## VII. Viết: giữ lại dấu ấn của người viết
 
-第一版自己写。AI 只做分层反馈：事实与来源、任务完成、结构与逻辑、语言错误、语气和隐私风险。每次只修最影响目的的三处，并用自己的话解释为什么修改。
+Tự viết bản đầu tiên. AI chỉ đưa ra phản hồi theo từng lớp: sự kiện và nguồn, mức độ hoàn thành nhiệm vụ, cấu trúc và logic, lỗi ngôn ngữ, giọng điệu và rủi ro về quyền riêng tư. Mỗi lần chỉ sửa ba chỗ ảnh hưởng nhiều nhất đến mục đích, đồng thời giải thích bằng lời của mình vì sao cần sửa.
 
-不要直接接受整段重写。保留原稿、AI 建议、最终稿和一封新的相似邮件，用于比较自己是否真的学会。若最终稿很好但无法解释关键改动，能力还没有稳定。
+Đừng trực tiếp chấp nhận việc viết lại cả đoạn. Giữ lại bản gốc, đề xuất của AI, bản cuối cùng và một email tương tự mới để so sánh xem mình có thực sự học được hay không. Nếu bản cuối rất tốt nhưng bạn không thể giải thích những thay đổi then chốt, năng lực vẫn chưa ổn định.
 
-进一步使用[写作证据卡](../../templates/writing-evidence.md)记录事实与责任账本、翻译造成的意义变化、每条反馈的采纳/拒绝理由、自动工具版本、需要披露的范围和关闭工具后的平行任务。模型可以成为编辑助手，不能成为隐形作者；流畅不能替代来源、权限、署名和最终责任。
+Ngoài ra, hãy sử dụng [Thẻ bằng chứng viết](../../templates/writing-evidence.md) để ghi lại sổ cái sự kiện và trách nhiệm, những thay đổi về ý nghĩa do dịch thuật, lý do chấp nhận/từ chối từng phản hồi, phiên bản công cụ tự động, phạm vi cần công khai và nhiệm vụ song song sau khi tắt công cụ. Mô hình có thể trở thành trợ lý biên tập, nhưng không thể trở thành tác giả ẩn danh; sự trôi chảy không thể thay thế nguồn, quyền hạn, ghi tên tác giả và trách nhiệm cuối cùng.
 
-## 八、选择工具，但不混淆功能
+## VIII. Chọn công cụ, nhưng không nhầm lẫn chức năng
 
-| 任务 | 可用能力 | 必须自己核对 |
+| Nhiệm vụ | Năng lực có thể sử dụng | Những điều nhất thiết phải tự kiểm tra |
 | --- | --- | --- |
-| 引导学习 | 学习模式、分层问答、测验 | 是否先让你作答，解释是否有来源 |
-| 长期上下文 | 项目空间、允许上传的资料 | 权限、留存、记忆范围和导出 |
-| 基于材料学习 | 文件问答、NotebookLM 等 | 原始页面、版权、隐私和是否越出材料 |
-| 在线研究 | 带引用的搜索工具 | 打开原始页面，确认它真的支持结论 |
-| 写作反馈 | 语言模型、写作工具 | 保留初稿，逐项理解修改 |
-| 口语练习 | 语音对话 | 识别准确不等于自然发音，功能会变化 |
+| Học có hướng dẫn | Chế độ học tập, hỏi đáp theo từng lớp, bài kiểm tra | Có yêu cầu bạn trả lời trước không, lời giải thích có nguồn không |
+| Ngữ cảnh dài hạn | Không gian dự án, tài liệu được phép tải lên | Quyền hạn, thời hạn lưu trữ, phạm vi ghi nhớ và khả năng xuất dữ liệu |
+| Học dựa trên tài liệu | Hỏi đáp về tệp, NotebookLM v.v. | Trang gốc, bản quyền, quyền riêng tư và liệu có vượt ra ngoài tài liệu không |
+| Nghiên cứu trực tuyến | Công cụ tìm kiếm có trích dẫn | Mở trang gốc và xác nhận trang đó thực sự hỗ trợ kết luận |
+| Phản hồi khi viết | Mô hình ngôn ngữ, công cụ viết | Giữ bản nháp đầu tiên và hiểu từng thay đổi |
+| Luyện nói | Đối thoại bằng giọng nói | Nhận dạng chính xác không đồng nghĩa với phát âm tự nhiên; tính năng có thể thay đổi |
 
-这不是工具排名。先看资料是否允许上传、输出能否导出、错误能否复查，以及总成本是否值得。
+Đây không phải bảng xếp hạng công cụ. Trước tiên hãy xem tài liệu có được phép tải lên không, đầu ra có thể xuất không, lỗi có thể kiểm tra lại không và tổng chi phí có đáng hay không.
 
-平台记忆只是便利层。请把目标、样本、错误和下一步保存在[学习状态](../../templates/learning-state.md)或[AI 学习记录](../../templates/ai-learning-log.md)中。
+Bộ nhớ của nền tảng chỉ là lớp tiện ích. Hãy lưu mục tiêu, mẫu, lỗi và bước tiếp theo vào [Trạng thái học tập](../../templates/learning-state.md) hoặc [Bản ghi học tập với AI](../../templates/ai-learning-log.md).
 
-## 一次跨模态练习：从看懂到说清楚
+## Một bài tập đa phương thức: từ nhìn hiểu đến nói rõ
 
-能同时使用图片、声音和文字，会增加练习的入口；入口增多以后，更需要知道自己在哪一步失去理解。下面是一项约二十分钟的教学设计，时间可按精力调整，效果需要自己验证。
+Có thể đồng thời sử dụng hình ảnh, âm thanh và chữ sẽ làm tăng số lối vào bài tập; nhưng khi lối vào tăng lên, càng cần biết mình đã mất khả năng hiểu ở bước nào. Dưới đây là một thiết kế giảng dạy khoảng hai mươi phút; có thể điều chỉnh thời lượng theo mức năng lượng, còn hiệu quả cần tự mình kiểm chứng.
 
-1. **自己先解释**：选择一张有权使用、没有私人信息的英文图表或操作说明。不打开翻译，用英语说一分钟：它在讲什么，哪些数字或步骤最重要，哪里还不确定。保存原图与原始录音。
-2. **分别检查两类错误**：让 AI 指出图中支持或反驳你解释的位置，再对照录音检查转写。图中小数点被识别错、口音被转写错，先记为工具错误；确实误解了比较关系或说错了意思，再记为学习缺口。
-3. **只修一个关键问题**：选一个影响理解的句式或关系重新解释。要求 AI 提一个追问，自己先回答，再看反馈。不要用它润色后的整段文字替换自己的录音。
-4. **换材料，撤掉帮助**：三到七天后找一张结构相似、数字不同的图，不看旧稿再讲一次。必要时请真实听者复述你的意思；验收是对方能否理解、你能否澄清，以及关键事实是否正确。
+1. **Tự giải thích trước**: Chọn một biểu đồ tiếng Anh hoặc hướng dẫn thao tác có quyền sử dụng và không chứa thông tin riêng tư. Không mở bản dịch, dùng tiếng Anh nói trong một phút: nội dung nói về gì, những con số hoặc bước nào quan trọng nhất, phần nào vẫn chưa chắc chắn. Lưu hình gốc và bản ghi âm gốc.
+2. **Kiểm tra riêng hai loại lỗi**: Yêu cầu AI chỉ ra vị trí trong hình ủng hộ hoặc phản bác cách giải thích của bạn, sau đó đối chiếu bản ghi âm để kiểm tra phần chuyển lời. Nếu dấu thập phân trong hình bị nhận dạng sai hoặc giọng bị chuyển lời sai, trước tiên ghi đó là lỗi của công cụ; nếu thực sự hiểu sai quan hệ so sánh hoặc nói sai ý, hãy ghi đó là khoảng trống học tập.
+3. **Chỉ sửa một vấn đề then chốt**: Chọn một cấu trúc câu hoặc mối quan hệ ảnh hưởng đến việc hiểu để giải thích lại. Yêu cầu AI đưa ra một câu hỏi bổ sung, tự trả lời trước rồi mới xem phản hồi. Đừng dùng cả đoạn văn đã được AI trau chuốt để thay thế bản ghi âm của mình.
+4. **Đổi tài liệu, tháo bỏ hỗ trợ**: Sau ba đến bảy ngày, tìm một hình có cấu trúc tương tự nhưng số liệu khác, không xem lại bản cũ và nói lại một lần. Khi cần, hãy nhờ người nghe thực tế thuật lại ý của bạn; tiêu chí nghiệm thu là đối phương có hiểu không, bạn có thể làm rõ không và các sự kiện then chốt có chính xác không.
 
-记录原图页码或区域、录音时间段、模型与日期。实时对话可以用于练习打断、澄清和轮流发言，但 AI 的赞许、识别成功或模拟流畅都不能直接证明真实交流能力。若没有可复查的录音或转写，只记录实际观察到的现象，不补写精确发音结论。
+Ghi lại số trang hoặc khu vực của hình gốc, khoảng thời gian trong bản ghi âm, mô hình và ngày tháng. Đối thoại thời gian thực có thể dùng để luyện cách ngắt lời, làm rõ và luân phiên phát biểu, nhưng sự tán thưởng của AI, việc nhận dạng thành công hoặc sự trôi chảy khi mô phỏng đều không thể trực tiếp chứng minh năng lực giao tiếp thực tế. Nếu không có bản ghi âm hoặc bản chuyển lời có thể kiểm tra lại, chỉ ghi những hiện tượng thực tế quan sát được, không bổ sung kết luận chính xác về cách phát âm.
 
-需要选择语音、视觉、检索或本地工具时，用 [AI 趋势与学习路线](../part-3/6-ai-trends-and-learning-roadmap.md)做一次小对照。功能越丰富，越要保留那份未经修饰的首版：它让进步有一个真实的起点。
+Khi cần chọn công cụ giọng nói, thị giác, truy xuất hoặc công cụ cục bộ, hãy dùng [Xu hướng AI và lộ trình học tập](../part-3/6-ai-trends-and-learning-roadmap.md) để thực hiện một phép đối chiếu nhỏ. Tính năng càng phong phú thì càng cần giữ lại bản đầu tiên chưa qua chỉnh sửa: nó tạo cho tiến bộ một điểm khởi đầu thực tế.
 
-## 九、反馈协议与复测
+## IX. Quy trình phản hồi và kiểm tra lại
 
 ```text
 先复述任务和完成标准，让我先提交尝试。
@@ -172,54 +172,54 @@ AI 可以生成填空、改错和替换练习，但释义、搭配和例句要�
 给一个最小提示和一个平行任务，不直接完成最终答案。
 ```
 
-第 30 天和第 12 周用相同主题、相似时长和相同限制复测。比较原始样本，而不是只比较 AI 改过的成品。真正的进步包括：更少依赖提示、更少重复错误、更快完成真实任务，以及在新场景中仍然能用。
+Vào ngày thứ 30 và tuần thứ 12, kiểm tra lại với cùng chủ đề, thời lượng tương tự và cùng giới hạn. So sánh các mẫu gốc, thay vì chỉ so sánh sản phẩm đã được AI chỉnh sửa. Tiến bộ thực sự bao gồm: ít phụ thuộc vào gợi ý hơn, ít lặp lại lỗi hơn, hoàn thành nhiệm vụ thực tế nhanh hơn và vẫn có thể sử dụng trong bối cảnh mới.
 
-每次复测后，至少把一项结果和下一变量写回[九十日行动总表](../../templates/90-day-cycle.md)，不要让训练停在聊天窗口里。
+Sau mỗi lần kiểm tra lại, ít nhất hãy ghi một kết quả và biến số tiếp theo vào [Bảng tổng hợp hành động 90 ngày](../../templates/90-day-cycle.md), đừng để quá trình luyện tập dừng lại trong cửa sổ trò chuyện.
 
-如果要比较 AI 介入前后和迁移后的完整变化，再用[证据链模板](../../templates/evidence-chain.md)保存四个时间点；九十日行动表负责安排周期，证据链负责解释结果。
+Nếu muốn so sánh đầy đủ sự thay đổi trước và sau khi AI tham gia cũng như sau khi chuyển giao, hãy dùng [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) để lưu bốn thời điểm; bảng hành động 90 ngày phụ trách việc sắp xếp chu kỳ, còn chuỗi bằng chứng phụ trách giải thích kết quả.
 
-准备岗位面试时，可以让 AI 根据公开岗位描述模拟招聘者、技术同事或客户，在你提交首版后提出陌生追问并分类错误。不要让它虚构经历、代写需要署名的申请或 take-home 说明，也不要在未获允许的真实面试里通过隐蔽提示代答。完整流程见[求职英语篇](8-job-search-english.md)与[求职英语证据卡](../../templates/interview-evidence.md)。
+Khi chuẩn bị phỏng vấn xin việc, bạn có thể để AI dựa trên mô tả công việc công khai để mô phỏng nhà tuyển dụng, đồng nghiệp kỹ thuật hoặc khách hàng, rồi sau khi bạn nộp bản đầu tiên, đưa ra những câu hỏi bổ sung không quen thuộc và phân loại lỗi. Đừng để AI bịa ra kinh nghiệm, viết thay đơn xin việc hoặc phần trình bày take-home cần ghi tên, cũng đừng dùng gợi ý kín để trả lời thay trong một cuộc phỏng vấn thực tế khi chưa được cho phép. Quy trình đầy đủ xem tại [Phần tiếng Anh xin việc](8-job-search-english.md) và [Thẻ bằng chứng tiếng Anh xin việc](../../templates/interview-evidence.md).
 
-## 十、7 天、30 天、12 周
+## X. 7 ngày, 30 ngày, 12 tuần
 
-### 7 天：建立一次闭环
+### 7 ngày: Thiết lập một vòng khép kín
 
-- 保存四项基线中的至少一项；
-- 用任务卡完成三次训练；
-- 每次留下原始输出、反馈和一个平行任务；
-- 记录一个最影响沟通的错误。
+- Lưu ít nhất một mục trong đường cơ sở của bốn kỹ năng;
+- Hoàn thành ba buổi luyện tập bằng thẻ nhiệm vụ;
+- Mỗi lần để lại đầu ra gốc, phản hồi và một nhiệm vụ song song;
+- Ghi lại một lỗi ảnh hưởng nhiều nhất đến giao tiếp.
 
-### 30 天：建立错误库
+### 30 ngày: Xây dựng sổ lỗi
 
-- 完成至少四次同类真实任务；
-- 按词汇、听辨、句法、组织、发音和迁移分类；
-- 比较首稿与复测，不把 AI 改写当作能力增长；
-- 删除不能改善结果的工具步骤。
+- Hoàn thành ít nhất bốn nhiệm vụ thực tế cùng loại;
+- Phân loại theo từ vựng, nghe phân biệt, cú pháp, tổ chức, phát âm và chuyển giao;
+- So sánh bản đầu tiên với lần kiểm tra lại, không coi việc AI viết lại là sự tăng trưởng năng lực;
+- Xóa những bước dùng công cụ không cải thiện kết quả.
 
-### 12 周：完成真实英语交付
+### 12 tuần: Hoàn thành một lần thực hiện tiếng Anh thực tế
 
-- 完成一次会议、演示、邮件、文档或跨文化协作任务；
-- 保存录音、文字稿、反馈、修订和复测；
-- 让真实受众确认是否理解、是否需要重复和下一步是否清楚；
-- 把结果写回[英语能力诊断](../../templates/english-diagnostic.md)。
+- Hoàn thành một nhiệm vụ họp, thuyết trình, email, tài liệu hoặc phối hợp đa văn hóa;
+- Lưu bản ghi âm, bản chép lời, phản hồi, chỉnh sửa và lần kiểm tra lại;
+- Để đối tượng tiếp nhận thực tế xác nhận họ có hiểu không, có cần lặp lại không và bước tiếp theo có rõ ràng không;
+- Ghi kết quả vào [Chẩn đoán năng lực tiếng Anh](../../templates/english-diagnostic.md).
 
-## 隐私、版权与官方来源
+## Quyền riêng tư, bản quyền và nguồn chính thức
 
-不要把客户、同事、学生、儿童、医疗记录、证件或未公开合同直接上传到未批准的工具。即使评论或网页公开，也要考虑授权、最少必要范围和删除期限。版权材料只在有权使用的范围内处理，保留来源和许可记录。
+Không tải trực tiếp thông tin khách hàng, đồng nghiệp, học sinh, trẻ em, hồ sơ y tế, giấy tờ tùy thân hoặc hợp đồng chưa công khai lên các công cụ chưa được phê duyệt. Ngay cả khi bình luận hoặc trang web được công khai, vẫn cần cân nhắc quyền cho phép, phạm vi tối thiểu cần thiết và thời hạn xóa. Chỉ xử lý tài liệu có bản quyền trong phạm vi được phép sử dụng, đồng thời lưu lại nguồn và hồ sơ cấp phép.
 
-- OpenAI：[学习模式简介](https://openai.com/zh-Hans-CN/index/chatgpt-study-mode/)；[Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects)
-- Google：[在 Gemini 应用中使用学习工具](https://support.google.com/gemini/answer/16448384)；[创建测验、抽认卡等](https://support.google.com/gemini/answer/16275879)；[Gemini Live](https://support.google.com/gemini/answer/15274899)
-- Anthropic：[What are projects?](https://support.claude.com/en/articles/9517075-what-are-projects)
-- Google：[NotebookLM](https://notebooklm.google/)
-- Perplexity：[Help Center](https://www.perplexity.ai/help-center/)
-- DeepL：[DeepL Write](https://www.deepl.com/write)
+- OpenAI: [Giới thiệu chế độ học tập](https://openai.com/zh-Hans-CN/index/chatgpt-study-mode/); [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects)
+- Google: [Sử dụng công cụ học tập trong ứng dụng Gemini](https://support.google.com/gemini/answer/16448384); [Tạo bài kiểm tra, thẻ ghi nhớ, v.v.](https://support.google.com/gemini/answer/16275879); [Gemini Live](https://support.google.com/gemini/answer/15274899)
+- Anthropic: [What are projects?](https://support.claude.com/en/articles/9517075-what-are-projects)
+- Google: [NotebookLM](https://notebooklm.google/)
+- Perplexity: [Help Center](https://www.perplexity.ai/help-center/)
+- DeepL: [DeepL Write](https://www.deepl.com/write)
 
-这些页面只是可重新核验的产品入口，不是当前功能清单，也不构成工具排名或效果保证。产品入口的上次集中核验日期为 2026-08-24；使用前请重新核验功能、地区和套餐。
+Các trang này chỉ là lối vào sản phẩm để có thể kiểm tra lại, không phải danh sách tính năng hiện tại và không cấu thành bảng xếp hạng công cụ hay bảo đảm hiệu quả. Ngày kiểm tra tập trung gần nhất của các lối vào sản phẩm là 2026-08-24; hãy kiểm tra lại tính năng, khu vực và gói dịch vụ trước khi sử dụng.
 
-## 结语：工具离场以后
+## Kết luận: Sau khi công cụ rời đi
 
-AI 可以很快给出流畅的句子、耐心的解释和看似完整的答案。但英语能力不住在聊天窗口里。它住在工具关闭以后，你是否仍能听懂关键意思，是否能用自己的话说明，是否能在别人追问时继续思考。
+AI có thể nhanh chóng đưa ra những câu trôi chảy, lời giải thích kiên nhẫn và câu trả lời tưởng như đầy đủ. Nhưng năng lực tiếng Anh không nằm trong cửa sổ trò chuyện. Nó nằm ở việc sau khi đóng công cụ, bạn vẫn có thể hiểu ý chính hay không, có thể giải thích bằng lời của mình hay không và có thể tiếp tục suy nghĩ khi người khác đặt câu hỏi hay không.
 
-让 AI 帮你看见盲点、生成练习和提供反馈，然后安排它离场。每次离场都像一次小小的退潮：被工具托住的部分会露出来，真正属于你的部分也会留下。如果意思随窗口一起消失，练习就还没有完成。
+Hãy để AI giúp bạn nhìn thấy điểm mù, tạo bài tập và cung cấp phản hồi, sau đó sắp xếp để nó rời đi. Mỗi lần công cụ rời đi giống như một đợt thủy triều nhỏ rút xuống: phần được công cụ nâng đỡ sẽ lộ ra, còn phần thực sự thuộc về bạn cũng sẽ ở lại. Nếu ý nghĩa biến mất cùng cửa sổ, thì bài luyện tập vẫn chưa hoàn thành.
 
-目标不是把自己训练成一个更像模型的人，而是在有限的词汇、真实的犹豫和必须承担的判断里，形成自己的声音。当工具离开，你仍然知道想说什么，也愿意为说出的话负责，AI 才是在放大能力，而不是替你占据它。
+Mục tiêu không phải là rèn mình thành một người giống mô hình hơn, mà là hình thành tiếng nói của riêng mình trong vốn từ hạn chế, những do dự thực tế và những phán đoán mà mình phải chịu trách nhiệm. Khi công cụ rời đi, bạn vẫn biết mình muốn nói gì và sẵn sàng chịu trách nhiệm về những điều đã nói, khi đó AI mới đang khuếch đại năng lực thay vì chiếm chỗ của năng lực ấy.

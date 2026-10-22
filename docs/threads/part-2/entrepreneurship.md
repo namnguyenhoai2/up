@@ -1,287 +1,287 @@
 ---
-title: 创业篇：从野心到使命
-description: 一份关于产品、现金流、技术债、失败、恢复与再次创业的个人复盘，不提供成功学结论或投资建议。
+title: "Chương khởi nghiệp: Từ tham vọng đến sứ mệnh"
+description: Một bản nhìn lại cá nhân về sản phẩm, dòng tiền, nợ kỹ thuật, thất bại, hồi phục và khởi nghiệp lần nữa; không đưa ra kết luận theo kiểu thành công học hay lời khuyên đầu tư.
 updated: 2026-10-18
 ---
 
-# 创业篇：从野心到使命
+# Chương khởi nghiệp: Từ tham vọng đến sứ mệnh
 
-> 初稿写于 2026 年 6 月，2026-08-31 按事实层级、公开隐私与关联披露原则修订。这篇文字不提供成功公式、投资建议或可复制路线，只把亲身走过的路重新摊开。
+> Bản thảo đầu tiên được viết vào tháng 6 năm 2026, chỉnh sửa vào ngày 2026-08-31 theo các nguyên tắc về cấp độ sự thật, quyền riêng tư công khai và công khai các mối liên hệ. Bài viết này không cung cấp công thức thành công, lời khuyên đầu tư hay lộ trình có thể sao chép; tôi chỉ mở lại và trải ra con đường mình từng đi qua.
 
-如果你问我，创业到底是什么？
+Nếu bạn hỏi tôi, rốt cuộc khởi nghiệp là gì?
 
-年轻时，我大概会说，创业是机会，是野心，是一个人终于可以不再听命于别人，是把命运从旧轨道上硬生生扳开的那一下。
+Khi còn trẻ, có lẽ tôi sẽ nói rằng khởi nghiệp là cơ hội, là tham vọng, là việc cuối cùng một người cũng có thể không còn phải nghe lệnh người khác, là khoảnh khắc dùng sức bẻ ngoặt số phận ra khỏi đường ray cũ.
 
-现在我更愿意说，创业是一面迟来的镜子。勇气和贪念会同时显影，才华与幼稚也会一起放大。它让你短暂地站上台前，又在某个夜深人静的时候，把你按回生活最冷、最硬的地面。
+Bây giờ tôi muốn nói rằng khởi nghiệp là một tấm gương đến muộn. Lòng can đảm và lòng tham cùng lúc hiện hình, tài năng và sự non nớt cũng đồng thời bị phóng đại. Nó cho bạn đứng trên sân khấu trong một thời gian ngắn, rồi vào một đêm nào đó khi mọi thứ tĩnh lặng, lại ấn bạn trở về nền đất lạnh lẽo, cứng rắn nhất của cuộc sống.
 
-我叫韩先凯，也叫离谱。很多人认识我，是因为这个 GitHub 上的英语学习项目；也有人是在后来读到我写软件公司倒闭、身体垮掉、回老家、再重新出发的故事。把这些经历一段一段接起来，会看见一条缓慢显影的暗线：
+Tôi tên là Hàn Tiên Khải, cũng được gọi là Ly Phổ. Nhiều người biết đến tôi nhờ dự án học tiếng Anh trên GitHub này; cũng có người biết tôi sau khi đọc câu chuyện tôi viết về việc công ty phần mềm sụp đổ, sức khỏe suy kiệt, trở về quê nhà rồi bắt đầu lại. Nối những trải nghiệm ấy lại từng đoạn một, ta sẽ nhìn thấy một đường dây ngầm dần hiện rõ:
 
-> 一个人究竟要经历多少次破碎，才会明白，自己那点能力应该交给什么样的事情？
+> Một người rốt cuộc phải trải qua bao nhiêu lần tan vỡ mới hiểu được chút năng lực của mình nên dành cho loại việc nào?
 
-## GitHub 上的另一种创业
+## Một kiểu khởi nghiệp khác trên GitHub
 
-这个项目最初只是我写给自己的英语学习笔记。后来有人把它打开、收藏、纠正，也有人把里面的一段练习带进了自己的生活。它在 GitHub 上获得了许多读者和关注，这份关注让我感动，却没有替我证明任何商业结论。星标说明有人愿意停下来，不能说明他们已经学会、使用或因此改变了生活。
+Ban đầu, dự án này chỉ là những ghi chú học tiếng Anh tôi viết cho chính mình. Sau đó, có người mở ra, lưu lại, sửa lỗi; cũng có người mang một bài luyện tập trong đó vào cuộc sống của họ. Dự án nhận được nhiều độc giả và sự quan tâm trên GitHub. Sự quan tâm ấy khiến tôi cảm động, nhưng không thay tôi chứng minh bất kỳ kết luận thương mại nào. Số sao cho thấy có người sẵn lòng dừng lại, nhưng không thể cho thấy họ đã học, sử dụng hay nhờ đó thay đổi cuộc sống.
 
-对我来说，重要的是另一件事：公司失败后，我曾经关掉 GitHub，退出群聊，不敢再看那些曾经熟悉的技术页面。重新写下一个句子、修正一个链接、把一段经验交给陌生人阅读，起初都像是在承认我还没有被失败彻底带走。后来我才明白，这也是一种创业：把自己知道的一点东西放到公共世界里，接受别人的选择、质疑和沉默，不靠头衔要求别人相信。
+Với tôi, điều quan trọng là một chuyện khác: sau khi công ty thất bại, tôi từng đóng GitHub, rời các nhóm trò chuyện, không dám nhìn lại những trang công nghệ từng quen thuộc. Viết lại một câu, sửa một liên kết, trao một trải nghiệm cho người xa lạ đọc — ban đầu tất cả đều giống như thừa nhận rằng thất bại vẫn chưa hoàn toàn cuốn tôi đi. Về sau tôi mới hiểu, đây cũng là một kiểu khởi nghiệp: đặt chút hiểu biết của mình vào thế giới công cộng, chấp nhận sự lựa chọn, chất vấn và im lặng của người khác, không dựa vào chức danh để yêu cầu người ta tin mình.
 
-所以，这个仓库和我做过的公司共享同一条线索：都要把想法交给真实的人。区别在于，GitHub 让结果留下了更长的回声，也让我看见，作品被看见以后，责任并没有变轻。它要求我把事实和愿望分开，把感谢和亏欠一起写出来，也承认一份开放书稿的传播仍然不能替代用户、收入、成本和交付的证据。
+Vì vậy, kho lưu trữ này và những công ty tôi từng làm cùng chia sẻ một manh mối: đều phải trao ý tưởng cho những con người thật. Điểm khác biệt là GitHub để lại tiếng vọng lâu hơn cho kết quả, đồng thời cho tôi thấy rằng sau khi tác phẩm được nhìn thấy, trách nhiệm không hề nhẹ đi. Nó yêu cầu tôi tách sự thật khỏi mong muốn, viết cả lòng biết ơn lẫn điều mắc nợ, đồng thời thừa nhận rằng việc lan truyền một bản thảo mở vẫn không thể thay thế bằng chứng về người dùng, doanh thu, chi phí và khả năng bàn giao.
 
-如果想把这一章的反思用于自己的项目，可以继续做[客户验证](../practice/customer-discovery.md)和[交付经营](../practice/sustainable-business.md)练习，用一份[创业实验卡](../../templates/startup-experiment.md)记录支持与反对假设的证据。
+Nếu muốn áp dụng những suy ngẫm của chương này vào dự án của mình, bạn có thể tiếp tục thực hiện [xác thực khách hàng](../practice/customer-discovery.md) và [vận hành bàn giao](../practice/sustainable-business.md), đồng thời dùng một [thẻ thí nghiệm khởi nghiệp](../../templates/startup-experiment.md) để ghi lại bằng chứng ủng hộ và phản đối các giả thuyết.
 
-## 先区分回忆、复盘与计划
+## Trước hết hãy phân biệt hồi ức, nhìn lại và kế hoạch
 
-这篇文章同时包含个人回忆、事后解释和未来计划。它们的证据标准不同：
+Bài viết này đồng thời bao gồm hồi ức cá nhân, cách lý giải sau sự việc và kế hoạch tương lai. Tiêu chuẩn bằng chứng của chúng khác nhau:
 
-| 层级 | 写法 | 读者应如何使用 |
+| Cấp độ | Cách viết | Độc giả nên sử dụng như thế nào |
 | --- | --- | --- |
-| 已发生的事实 | 日期、角色、产品、账目或公开记录 | 当作我的记录，并在必要时回到原始凭据 |
-| 事后的解释 | 我认为某个决定为什么有效或失败 | 当作待检验的假设，不当作因果证明 |
-| 可复用的门槛 | 我下一次会先问什么、测什么、停在哪里 | 用来设计自己的检查，不照搬我的路线 |
-| 尚待验证的计划 | 想进入的行业、服务或公益行动 | 明确标为方向，等待用户、成本和时间回答 |
+| Sự thật đã xảy ra | Ngày tháng, vai trò, sản phẩm, sổ sách hoặc hồ sơ công khai | Coi là ghi chép của tôi, và khi cần thì quay về chứng từ gốc |
+| Cách lý giải sau sự việc | Tôi cho rằng vì sao một quyết định nào đó hiệu quả hoặc thất bại | Coi là giả thuyết cần kiểm chứng, không coi là bằng chứng nhân quả |
+| Ngưỡng có thể tái sử dụng | Lần tới tôi sẽ hỏi gì trước, đo lường gì, dừng ở đâu | Dùng để thiết kế các bước kiểm tra của riêng mình, không sao chép lộ trình của tôi |
+| Kế hoạch chưa được kiểm chứng | Ngành, dịch vụ hoặc hoạt động công ích muốn tham gia | Đánh dấu rõ là định hướng, chờ người dùng, chi phí và thời gian đưa ra câu trả lời |
 
-金额和损失仅为个人回忆中的估算；正式判断需要财务凭据。作者身份与商业关系请以[作者项目与现实实践](../../projects.md)的最新披露为准。
+Các khoản tiền và tổn thất chỉ là ước tính trong hồi ức cá nhân; đánh giá chính thức cần có chứng từ tài chính. Tư cách tác giả và các mối quan hệ thương mại, vui lòng căn cứ vào công bố mới nhất tại [dự án của tác giả và thực tiễn đời thực](../../projects.md).
 
-![创业篇封面：办公室长桌、城市与田野交界处的黎明](../../assets/entrepreneurship/cover.webp)
+![Ảnh bìa chương khởi nghiệp: Bàn làm việc dài trong văn phòng, bình minh nơi ranh giới giữa thành phố và đồng quê](../../assets/entrepreneurship/cover.webp)
 
-## 大学期间：最早的技术生意
+## Thời đại học: Công việc kinh doanh công nghệ đầu tiên
 
-大学期间，我开发过一个 iOS 越狱插件，并把它发布在 Cydia 商店。它不再只是电脑里的练习，而是一个被陌生用户安装、使用，并为我带来比较可观收入的产品。那是我第一次真切体会到，技术作品离开自己的电脑、进入公开分发渠道之后，价值要由真实用户来回答。
+Thời đại học, tôi từng phát triển một tiện ích jailbreak cho iOS và phát hành nó trên cửa hàng Cydia. Nó không còn chỉ là bài tập trong máy tính, mà là một sản phẩm được người dùng xa lạ cài đặt, sử dụng và mang lại cho tôi khoản thu nhập khá đáng kể. Đó là lần đầu tiên tôi thực sự cảm nhận rằng sau khi một sản phẩm công nghệ rời khỏi máy tính của mình và bước vào kênh phân phối công khai, giá trị của nó phải được người dùng thật trả lời.
 
-后来我注意到 WordPress 在全世界范围内异常流行，于是开始开发和经营 WordPress 主题。这项业务同样取得了很大的成功。现在回头看，那些结果让我很早就相信，只要技术、市场和收入连接起来，事情就会顺利推进；也让我在后来更容易高估自己的确定性。
+Sau đó, tôi nhận thấy WordPress phổ biến một cách bất thường trên toàn thế giới, nên bắt đầu phát triển và kinh doanh giao diện WordPress. Công việc này cũng đạt được thành công rất lớn. Nhìn lại hiện giờ, những kết quả ấy khiến tôi sớm tin rằng chỉ cần kết nối được công nghệ, thị trường và doanh thu thì mọi việc sẽ thuận lợi tiến triển; đồng thời khiến tôi dễ đánh giá quá cao mức độ chắc chắn của bản thân trong những năm sau đó.
 
-再后来，比特币进入了我的视野。那段时间，一位经营优质域名生意的前辈开始布局数字货币产业，我作为早期团队成员之一，在并未主动谋划的情况下意外获得了一些比特币。那时我没有过度关注它，后来甚至把这件事忘了。直到多年后我正式创业，才重新意识到，这段经历为我后来启动更大的事业埋下了伏笔。这里的“伏笔”是我对过去的回看，不是收益承诺或投资建议。
+Về sau, Bitcoin bước vào tầm mắt tôi. Khi ấy, một bậc tiền bối kinh doanh tên miền chất lượng bắt đầu bố trí vào ngành tiền kỹ thuật số. Là một trong những thành viên ban đầu của đội ngũ, tôi tình cờ có được một ít Bitcoin mà không chủ động lên kế hoạch. Khi đó tôi không quá chú ý đến nó, thậm chí về sau còn quên mất chuyện này. Mãi đến nhiều năm sau, khi chính thức khởi nghiệp, tôi mới nhận ra trải nghiệm ấy đã gieo một tiền đề cho việc bắt đầu sự nghiệp lớn hơn về sau. “Tiền đề” ở đây là cách tôi nhìn lại quá khứ, không phải cam kết lợi nhuận hay lời khuyên đầu tư.
 
-这里记录的是个人回忆，不补写插件收入、主题收益或比特币数量、价格和最终兑现情况。
+Những gì được ghi lại ở đây là hồi ức cá nhân; tôi không bổ sung số tiền thu được từ tiện ích, lợi nhuận từ giao diện hay số lượng, giá cả và tình hình hiện thực hóa cuối cùng của Bitcoin.
 
-## 2016：第一次把自己推向市场
+## 2016: Lần đầu đưa bản thân ra thị trường
 
-![2016：从一张桌子和一个网站开始，把自己第一次推向市场](../../assets/entrepreneurship/2016-first-product.webp)
+![2016: Bắt đầu từ một chiếc bàn và một trang web, lần đầu đưa bản thân ra thị trường](../../assets/entrepreneurship/2016-first-product.webp)
 
-2015 年 3 月 7 日，我去了北京。起初只是想找一份实习，后来连续面试带来的反馈，让我生出一种年轻人特有的错觉：也许我真能靠自己，在世界上撞出一点声音。
+Ngày 7 tháng 3 năm 2015, tôi đến Bắc Kinh. Ban đầu chỉ muốn tìm một công việc thực tập, nhưng những phản hồi có được từ các cuộc phỏng vấn liên tiếp khiến tôi nảy sinh một ảo tưởng đặc trưng của người trẻ: có lẽ mình thật sự có thể dựa vào chính mình để tạo ra một chút tiếng vang trên thế giới.
 
-那一年，因为学校答辩，我不得不返校。毕业后又因实习问题没能如期拿到毕业证，只好先回老家。那段日子并不体面，我学会了做饭，也得了关节炎。很多年后再看，人生的转向常从“暂时无处可去”的缝隙里长出来，起点未必灯火通明。
+Năm đó, vì phải bảo vệ luận văn ở trường, tôi buộc phải quay lại trường. Sau khi tốt nghiệp, vì vấn đề thực tập nên tôi không thể nhận bằng đúng hạn, đành tạm thời trở về quê. Những ngày tháng ấy không hề vẻ vang; tôi học nấu ăn và mắc bệnh viêm khớp. Nhiều năm sau nhìn lại, bước ngoặt của cuộc đời thường mọc lên từ những khe hở “tạm thời không biết đi đâu”, và điểm khởi đầu chưa chắc đã rực rỡ ánh đèn.
 
-2016 年，我决定不再颓废，开始折腾一个电影网站 `bt0.com`。它算不上什么惊天动地的产品，却有真实用户，也有真实反馈。对那时的我来说，这已经足够重要。第一次有人因为你做出的东西而停留、使用、评价，你会忽然意识到：代码要走出编辑器，产品也要离开想象，接受陌生人的选择。
+Năm 2016, tôi quyết định không tiếp tục sống uể oải, bắt đầu mày mò làm một trang web phim `bt0.com`. Nó không phải sản phẩm chấn động gì, nhưng có người dùng thật và phản hồi thật. Với tôi khi ấy, như vậy đã đủ quan trọng. Lần đầu tiên có người dừng lại, sử dụng và đánh giá thứ do bạn làm ra, bạn sẽ đột nhiên nhận ra: mã nguồn phải bước ra khỏi trình soạn thảo, sản phẩm cũng phải rời khỏi trí tưởng tượng để đón nhận lựa chọn của người xa lạ.
 
-我还记得那种很小、却让人心里发热的时刻：一个陌生人打开页面，留下几句话，或者第二天又回来。那时没有漂亮的增长曲线，也没有人替我解释这意味着什么，只有一个事实摆在眼前：有人愿意把时间交给我做的东西。多年以后，GitHub 上的关注再次增加时，我想到的仍然是那种最初的停留，而不是一个可以拿来证明自己的数字。
+Tôi vẫn nhớ những khoảnh khắc rất nhỏ nhưng khiến lòng người ấm lên: một người xa lạ mở trang web, để lại vài câu, hoặc hôm sau lại quay lại. Khi ấy không có đường cong tăng trưởng đẹp đẽ, cũng chẳng có ai thay tôi giải thích điều đó có ý nghĩa gì, chỉ có một sự thật trước mắt: có người sẵn lòng trao thời gian của họ cho thứ tôi làm ra. Nhiều năm sau, khi sự quan tâm trên GitHub một lần nữa tăng lên, điều tôi nghĩ đến vẫn là sự dừng lại ban đầu ấy, chứ không phải một con số có thể dùng để chứng minh bản thân.
 
-后来，我接到一些网站设计的单子，赚了点零花钱，也和初中同学翔子开始了第一次创业。我们在 2016 年 3 月有了第一家公司，4 月在沈阳成立了另一家互联网公司，又准备在南京申请第三家公司，名字想用我一直喜欢的“玩有引力”。
+Sau đó, tôi nhận được một số đơn thiết kế website, kiếm được chút tiền tiêu vặt, rồi cùng bạn học cấp hai Tường Tử bắt đầu lần khởi nghiệp đầu tiên. Tháng 3 năm 2016, chúng tôi có công ty đầu tiên; tháng 4 thành lập một công ty internet khác ở Thẩm Dương; đồng thời chuẩn bị đăng ký công ty thứ ba ở Nam Kinh, dự định dùng cái tên “Chơi có lực hấp dẫn”, một cái tên tôi luôn yêu thích.
 
-那时的我年轻，心气很盛，也很容易把“跑得快”误认作“方向对”。我在旧博客里写过一句话：“今年是本命年了，想踏踏实实把事情做好，不冒进，少装逼。”
+Khi ấy tôi còn trẻ, đầy khí thế, và rất dễ nhầm việc “chạy nhanh” với “đi đúng hướng”. Tôi từng viết một câu trên blog cũ: “Năm nay là năm tuổi, muốn làm việc thật chắc chắn, không nóng vội, bớt làm màu.”
 
-人常常要等很多年，才会听懂自己当年写下的话。
+Con người thường phải chờ rất nhiều năm mới hiểu được những lời mình từng viết khi đó.
 
-## 2017：进入一家公司，然后把自己押进去
+## 2017: Bước vào một công ty, rồi đặt cả mình vào đó
 
-2017 年 4 月 1 日，我以普通前端开发的身份入职南京一家科技公司，开始研发一款面向律师和律所的软件。
+Ngày 1 tháng 4 năm 2017, tôi vào làm tại một công ty công nghệ ở Nam Kinh với tư cách một lập trình viên front-end bình thường, bắt đầu phát triển một phần mềm dành cho luật sư và công ty luật.
 
-第一版产品来自外包，代码没有注释，项目管理混乱，产品方向也高度依赖老板拍脑袋。我入职一个月，负责的时间轴模块就改了 20 多版。那时我还不懂什么叫组织能力，也不懂什么叫需求治理，只知道一个页面被反复推倒重来，足以让人从热血改到麻木。
+Phiên bản sản phẩm đầu tiên đến từ việc nhận gia công; mã nguồn không có chú thích, quản lý dự án lộn xộn, hướng sản phẩm lại phụ thuộc rất nhiều vào những quyết định tùy hứng của ông chủ. Sau một tháng vào làm, mô-đun dòng thời gian do tôi phụ trách đã bị sửa hơn 20 phiên bản. Khi ấy tôi chưa hiểu năng lực tổ chức là gì, cũng chưa hiểu quản trị yêu cầu là gì; tôi chỉ biết một trang giao diện liên tục bị đập đi làm lại đủ khiến người ta từ nóng huyết trở nên tê dại.
 
-后来我主导前端项目用 Vue 重构。半年多后，新版本终于发出去。我们以为行业里至少会有一点回声，可现实没有给我们掌声，只给了第一记耳光：很长一段时间，完全没有开单。
+Sau đó, tôi dẫn dắt việc tái cấu trúc dự án front-end bằng Vue. Hơn nửa năm sau, phiên bản mới cuối cùng cũng được phát hành. Chúng tôi tưởng rằng ít nhất ngành này sẽ có chút tiếng vọng, nhưng thực tế không vỗ tay mà chỉ tặng chúng tôi cái tát đầu tiên: trong một thời gian rất dài, hoàn toàn không có đơn hàng.
 
-公司发展不顺，待遇没有增长，很多伙伴陆续离开。我却从一开始就看好产品的前景，哪怕几年待遇没涨，还是选择留下。就这样，我从普通员工做到部门 leader，再到公司总经理，最后一步步成为合伙人。
+Công ty phát triển không thuận lợi, đãi ngộ không tăng, nhiều đồng đội lần lượt rời đi. Nhưng ngay từ đầu tôi đã đánh giá cao triển vọng của sản phẩm, nên dù đãi ngộ không tăng suốt mấy năm, tôi vẫn lựa chọn ở lại. Cứ như vậy, tôi từ một nhân viên bình thường trở thành trưởng bộ phận, rồi tổng giám đốc công ty, cuối cùng từng bước trở thành đối tác.
 
-现在回头看，那段经历里有我很珍惜的部分：我确实认真做过产品，认真带过团队，认真相信过一件事可以成。
+Nhìn lại bây giờ, trong trải nghiệm ấy có những phần tôi vô cùng trân trọng: tôi thực sự đã nghiêm túc làm sản phẩm, nghiêm túc dẫn dắt đội ngũ, nghiêm túc tin rằng một việc nào đó có thể thành công.
 
-可我也必须承认另一部分：我曾把“坚持”误认为“正确”，把“投入”误认为“护城河”，把“我很努力”误认为“市场应该给我回报”。
+Nhưng tôi cũng phải thừa nhận một phần khác: tôi từng nhầm “kiên trì” với “đúng đắn”, nhầm “đầu tư” với “lợi thế cạnh tranh”, nhầm “tôi đã rất nỗ lực” với “thị trường nhất định phải trả công cho tôi”.
 
-创业最冷酷的地方就在这里。它允许你真诚，也允许你拼命，但它从不因为你真诚和拼命，就必然给你补偿。
+Sự tàn khốc nhất của khởi nghiệp nằm ở đây. Nó cho phép bạn chân thành, cho phép bạn liều mình, nhưng không bao giờ vì bạn chân thành và liều mình mà tất yếu bù đắp cho bạn.
 
-## 餐饮、酒店和现金流：离钱近，离本质也近
+## Ăn uống, khách sạn và dòng tiền: Gần tiền, cũng gần bản chất hơn
 
-在软件公司之外，我投过洗浴中心和温泉度假酒店，也尝试过会所项目，最后损失惨重。那段经历我以前只是轻轻带过，因为亏损牵连的不只是钱，还有疲惫、尴尬和无力。
+Bên cạnh công ty phần mềm, tôi từng đầu tư vào trung tâm tắm và khách sạn nghỉ dưỡng suối nước nóng, cũng từng thử các dự án câu lạc bộ, cuối cùng chịu tổn thất nặng nề. Trước đây tôi chỉ lướt qua trải nghiệm ấy, vì thua lỗ kéo theo không chỉ tiền bạc mà còn sự mệt mỏi, lúng túng và bất lực.
 
-在这些项目之后，我又进行二次创业，进入娱乐行业，经营胡桃里、奥斯卡等酒吧。项目初期盈利，经营周期却很短；经历疫情后，最终又是血亏。现有记忆不足以将结果归到某一个因素。回头看，我更想问：当时有没有把短期盈利当成可持续的证明？有没有认真核对经营周期、现金流和退出条件？
+Sau những dự án đó, tôi lại khởi nghiệp lần hai, bước vào ngành giải trí, kinh doanh các quán bar như Hồ Đào Lý, Oscar và những nơi khác. Dự án có lợi nhuận trong giai đoạn đầu, nhưng chu kỳ kinh doanh lại rất ngắn; sau khi trải qua đại dịch, cuối cùng vẫn thua lỗ nặng. Những ký ức hiện có không đủ để quy kết kết quả cho một yếu tố duy nhất. Nhìn lại, tôi muốn hỏi hơn rằng: khi đó có phải tôi đã coi lợi nhuận ngắn hạn là bằng chứng cho tính bền vững? Có thật sự kiểm tra kỹ chu kỳ kinh doanh, dòng tiền và điều kiện rút lui hay chưa?
 
-相比之下，小餐饮给我的教育反而更直接。
+Ngược lại, kinh doanh ăn uống quy mô nhỏ lại cho tôi bài học trực tiếp hơn.
 
-亲戚在南京开淮南牛肉汤店，生意不错。我研究之后自己也开了一家，效果远超预期。后来我自己搞设计、装修、拓品类，开第二家、第三家。为了让外卖平台上的产品看起来更好，我摸索摄影和 PS，亲手做产品图。
+Một người họ hàng mở quán phở bò Hoài Nam ở Nam Kinh, việc kinh doanh khá tốt. Sau khi nghiên cứu, tôi cũng tự mở một quán và kết quả vượt xa kỳ vọng. Sau đó, tôi tự thiết kế, trang trí, mở rộng danh mục món ăn, rồi mở quán thứ hai, thứ ba. Để sản phẩm trên các nền tảng giao đồ ăn trông hấp dẫn hơn, tôi tự mày mò học chụp ảnh và Photoshop, tự tay làm hình ảnh sản phẩm.
 
-餐饮辛苦，但它诚实。它没有互联网项目里那些漂浮的词，也不允许你靠概念活太久。今天有没有客人，翻台率怎么样，出餐慢不慢，口味稳不稳，差评为什么来，现金流能不能覆盖房租和人工，答案都在当天，藏也藏不住。
+Kinh doanh ăn uống vất vả, nhưng nó thành thật. Nó không có những từ ngữ bay bổng như các dự án internet, cũng không cho phép bạn sống quá lâu nhờ khái niệm. Hôm nay có khách hay không, tỷ lệ quay vòng bàn thế nào, lên món có chậm không, hương vị có ổn định không, vì sao có đánh giá tiêu cực, dòng tiền có đủ trang trải tiền thuê và nhân công không — câu trả lời đều nằm ngay trong ngày hôm đó, không thể che giấu.
 
-软件公司教我，梦想很贵；餐饮教我，现金流很真。
+Công ty phần mềm dạy tôi rằng ước mơ rất đắt; kinh doanh ăn uống dạy tôi rằng dòng tiền rất thật.
 
-那几年小餐饮带来的现金流，为我后来成为软件公司合伙人提供了资金基础，也让我买了自己的 Dream Car。可随着“口罩”时期到来，这些店也逐渐关掉。
+Dòng tiền từ việc kinh doanh ăn uống quy mô nhỏ trong những năm đó đã tạo nền tảng tài chính để sau này tôi trở thành đối tác của công ty phần mềm, đồng thời giúp tôi mua được chiếc Dream Car của riêng mình. Nhưng khi thời kỳ “khẩu trang” ập đến, những cửa hàng ấy cũng lần lượt đóng cửa.
 
-这段经历没有给出“实体优于互联网”的答案。任何生意终究都要回到交易：用户是否付钱，成本结构能否长期成立，波动来临时组织能否活下来。这些问题比叙事更朴素，也更残酷。
+Trải nghiệm này không đưa ra câu trả lời rằng “kinh doanh thực thể tốt hơn internet”. Suy cho cùng, mọi hoạt động kinh doanh đều phải quay về giao dịch: người dùng có trả tiền không, cấu trúc chi phí có thể duy trì lâu dài không, khi biến động xảy ra thì tổ chức có sống sót được không. Những câu hỏi ấy mộc mạc hơn câu chuyện kể, nhưng cũng tàn khốc hơn.
 
-## 2022：在失败中看见产品与责任的地基
+## 2022: Nhìn thấy nền móng của sản phẩm và trách nhiệm trong thất bại
 
-![2022：夜色中的会议室，留下失败之后的空椅子和未完成的图纸](../../assets/entrepreneurship/2022-collapse.webp)
+![2022: Phòng họp trong màn đêm, để lại những chiếc ghế trống và bản vẽ chưa hoàn thành sau thất bại](../../assets/entrepreneurship/2022-collapse.webp)
 
-软件公司后来搬进了更大的办公室，我们也努力打造更好的工作环境，招人、聚餐、提高福利。我曾站在尚未装修的展台前，畅想过很多美好的未来。
+Sau đó, công ty phần mềm chuyển vào một văn phòng lớn hơn. Chúng tôi cũng nỗ lực xây dựng môi trường làm việc tốt hơn, tuyển người, tổ chức ăn uống và cải thiện phúc lợi. Tôi từng đứng trước khu trưng bày chưa hoàn thiện và hình dung về rất nhiều tương lai tươi đẹp.
 
-可 2022 年初，销量出现断崖式下滑，且找不到解决方案。产品功能大而全，bug 无数，客户反馈很差。为了补关键短板，我挖来了当时在字节做容器安全的高中同桌。
+Nhưng vào đầu năm 2022, doanh số lao dốc đột ngột mà không tìm được giải pháp. Sản phẩm quá lớn và ôm đồm, đầy lỗi, phản hồi của khách hàng rất tệ. Để bù đắp những thiếu sót then chốt, tôi mời người bạn cùng bàn thời trung học, khi đó đang làm về an ninh container tại ByteDance, gia nhập công ty.
 
-他加入后，我们才发现一些致命问题：项目结构老旧，性能和安全隐患严重；所谓“大数据”和“AI”缺少训练流程与数据集支撑，很多功能的内核仍是搜索和预设结果。
+Sau khi cậu ấy gia nhập, chúng tôi mới phát hiện một số vấn đề chí mạng: cấu trúc dự án cũ kỹ, tồn tại rủi ro nghiêm trọng về hiệu năng và bảo mật; cái gọi là “dữ liệu lớn” và “AI” thiếu quy trình huấn luyện cũng như dữ liệu nền tảng, nhiều tính năng về bản chất vẫn chỉ là tìm kiếm và kết quả dựng sẵn.
 
-那一刻，我后背发凉。
+Khoảnh khắc ấy khiến lưng tôi lạnh toát.
 
-我们曾经不遗余力地做 UI、做多端适配、塞各种功能，却没有把最核心的数据和算法能力打牢。换句话说，我们以为手里握着核心资产，实际上很多东西只是堆起来的功能，是一座看似热闹、地基却并不坚实的楼。
+Chúng tôi từng không tiếc công sức làm giao diện, thích ứng đa nền tảng, nhồi nhét đủ loại tính năng, nhưng lại không xây chắc năng lực dữ liệu và thuật toán cốt lõi nhất. Nói cách khác, chúng tôi tưởng mình đang nắm trong tay tài sản cốt lõi, nhưng thực tế nhiều thứ chỉ là các tính năng chồng chất, một tòa nhà trông có vẻ náo nhiệt nhưng nền móng không hề vững chắc.
 
-到了那个阶段，继续迭代像是在危楼上粉刷墙面；重构又需要公司账上根本承受不起的成本。
+Đến giai đoạn đó, tiếp tục lặp lại việc phát triển chẳng khác nào sơn lại tường trên một tòa nhà nguy hiểm; còn tái cấu trúc lại cần một khoản chi phí mà sổ sách công ty hoàn toàn không thể chịu nổi.
 
-那天晚上，我和另外两位合伙人在办公室讨论到很晚。一位投入巨大的股东情绪近乎崩溃，追问这个项目到底还能不能做。
+Tối hôm đó, tôi cùng hai đối tác khác thảo luận trong văn phòng đến khuya. Một cổ đông đã đầu tư rất nhiều tiền gần như suy sụp, liên tục truy hỏi dự án này rốt cuộc còn làm được nữa hay không.
 
-我理解他的崩溃。他投了一千多万，都是自己的钱，没有投资人的钱。我也投了几百万。几串数字背后是多年心血、信念和生活重量，那一晚全压在同一张会议桌上。
+Tôi hiểu sự suy sụp của anh ấy. Anh ấy đầu tư hơn mười triệu nhân dân tệ, toàn bộ là tiền của chính mình, không có tiền của nhà đầu tư. Tôi cũng đầu tư vài triệu. Đằng sau những dãy số là công sức nhiều năm, niềm tin và sức nặng của cuộc sống; đêm ấy, tất cả bị dồn lên cùng một chiếc bàn họp.
 
-后来，公司开始发不起工资，开始借钱，管理也一步步走向高压。抓考勤、减福利、无意义加班、日报、时报、监控，很多我反对的事情还是发生了。到了 2022 年 9 月，公司氛围已经糟糕到大家不愿意来上班，团队集体辞职，这场游戏宣告落幕。
+Về sau, công ty bắt đầu không trả nổi lương, bắt đầu vay tiền, và công tác quản lý cũng từng bước chuyển sang trạng thái áp lực cao. Chấm công, cắt phúc lợi, tăng ca vô nghĩa, báo cáo ngày, báo cáo theo giờ, giám sát — rất nhiều việc tôi phản đối vẫn xảy ra. Đến tháng 9 năm 2022, bầu không khí công ty đã tồi tệ đến mức mọi người không muốn đi làm, cả đội đồng loạt nghỉ việc, và trò chơi này chính thức hạ màn.
 
-我至今记得那间办公室在夜里逐渐安静下来的样子。会议桌上摊着账本、方案和没有完成的计划，却没有一句话能同时回答产品、账和人的问题。高中同桌是我邀请来的，我知道他原本可以留在另一条更稳的路上；同事把几年时间交给了这家公司，最后却要在混乱里离开。我不能用后来重新创业的故事替他们解释当年的损失，也不能用一句“我已经吸取教训”替代他们真正付出的时间。
+Đến nay tôi vẫn nhớ dáng vẻ văn phòng dần chìm vào im lặng trong đêm hôm đó. Trên bàn họp là sổ sách, phương án và những kế hoạch chưa hoàn thành, nhưng không một câu nói nào có thể đồng thời trả lời các vấn đề về sản phẩm, tiền bạc và con người. Người bạn cùng bàn thời trung học là do tôi mời đến. Tôi biết ban đầu cậu ấy có thể ở lại một con đường khác ổn định hơn; các đồng nghiệp đã trao vài năm thời gian cho công ty này, cuối cùng lại phải rời đi trong hỗn loạn. Tôi không thể dùng câu chuyện khởi nghiệp lại sau này để thay họ giải thích cho những tổn thất khi đó, cũng không thể dùng một câu “tôi đã rút kinh nghiệm” để thay thế cho thời gian họ thực sự đã bỏ ra.
 
-按我当时掌握的记录，我们几个人合计损失超过 2000 万元；加上酒店和会所项目，压力进一步扩大。这是个人复盘中的估算，不替代财务审计。
+Theo những ghi chép tôi nắm được khi ấy, tổng tổn thất của mấy người chúng tôi vượt quá 20 triệu nhân dân tệ; cộng thêm các dự án khách sạn và câu lạc bộ, áp lực càng lớn hơn. Đây là ước tính trong bản nhìn lại cá nhân, không thay thế cho kiểm toán tài chính.
 
-但比钱更难受的是歉疚。
+Nhưng khó chịu hơn tiền bạc là cảm giác day dứt.
 
-对一起熬夜攻坚的同事，对被我拉进来的同桌，对曾经相信过我的人，对家人，对爱人，对那个曾经在会议室里信誓旦旦的自己。
+Với những đồng nghiệp từng cùng tôi thức đêm vượt qua khó khăn, với người bạn cùng bàn tôi đã kéo vào, với những người từng tin tưởng tôi, với gia đình, với người yêu, và với chính bản thân từng thề thốt đầy chắc chắn trong phòng họp.
 
-资产负债表之外，还有更深的一击：你终于发现，自己曾经那么笃定的一件事，可能从地基开始就错了。
+Ngoài bảng cân đối tài sản và nợ phải trả, còn có một đòn đánh sâu hơn: cuối cùng bạn nhận ra rằng điều mình từng chắc chắn đến thế có thể đã sai ngay từ nền móng.
 
-## 2023：退场之后，先活下来
+## 2023: Sau khi rời cuộc chơi, trước hết phải sống sót
 
-![2023：回到老家之后，在清晨的光里一点点恢复生活的控制感](../../assets/entrepreneurship/2023-recovery.webp)
+![2023: Sau khi trở về quê nhà, từng chút khôi phục cảm giác kiểm soát cuộc sống trong ánh sáng ban mai](../../assets/entrepreneurship/2023-recovery.webp)
 
-2023 年 3 月底，我转让掉最后一家小餐饮店。6 月底，我收拾东西，和家人离开南京，回到老家。
+Cuối tháng 3 năm 2023, tôi sang nhượng cửa hàng ăn uống nhỏ cuối cùng. Cuối tháng 6, tôi thu dọn đồ đạc, cùng gia đình rời Nam Kinh, trở về quê.
 
-那时我的身体已经垮得厉害。胃病、失眠、食欲不振、视力模糊、浑身游走性疼痛。医生说没大问题，可我每天都觉得自己快不行了。
+Khi ấy cơ thể tôi đã suy sụp nghiêm trọng. Bệnh dạ dày, mất ngủ, chán ăn, mờ mắt, những cơn đau di chuyển khắp người. Bác sĩ nói không có vấn đề gì lớn, nhưng ngày nào tôi cũng cảm thấy mình sắp không chịu nổi.
 
-我沉迷游戏，日夜颠倒，一分钱不赚。软件公司倒闭后，我像是连程序员生涯也一起关掉了。退出很多群，关掉 GitHub，屏蔽联系人，以前每天必逛的网站也不再打开。
+Tôi chìm đắm trong trò chơi, đảo lộn ngày đêm, không kiếm được một đồng nào. Sau khi công ty phần mềm sụp đổ, dường như tôi cũng đóng luôn cả sự nghiệp lập trình viên của mình. Tôi rời khỏi nhiều nhóm, đóng GitHub, chặn liên lạc, những trang web trước đây ngày nào cũng truy cập cũng không còn mở nữa.
 
-那段时间，母亲会在微信里提醒我吃饭。我常常盯着消息很久，知道她问的不是饭菜，而是在确认我还愿不愿意照顾自己。后来我重新把电脑接上，先打开一个很小的文件，再慢慢打开 GitHub。没有掌声，也没有“重新起步”的场面，只有我终于愿意承认：活下来、吃饭、睡觉、回复一个人，也可以是当天最重要的工作。
+Trong khoảng thời gian đó, mẹ thường nhắc tôi ăn cơm qua WeChat. Tôi thường nhìn chằm chằm vào tin nhắn rất lâu, biết rằng điều bà hỏi không phải món ăn, mà là đang xác nhận xem tôi còn muốn chăm sóc bản thân hay không. Sau đó tôi kết nối lại máy tính, đầu tiên mở một tệp rất nhỏ, rồi từ từ mở GitHub. Không có tiếng vỗ tay, cũng không có khoảnh khắc “bắt đầu lại” nào, chỉ có việc cuối cùng tôi cũng sẵn lòng thừa nhận: sống sót, ăn uống, ngủ nghỉ, trả lời một người — cũng có thể là công việc quan trọng nhất trong ngày.
 
-贫穷固然难熬，更折磨人的是看不到希望。
+Nghèo khó đương nhiên khó chịu đựng, nhưng điều giày vò hơn là không nhìn thấy hy vọng.
 
-我不止一次问自己，当初为什么要拼命坚持？如果早一点停下，如果换一种方向，如果在关键节点上更清醒，结局会不会不一样？
+Không chỉ một lần tôi tự hỏi, tại sao ban đầu mình phải liều mạng kiên trì? Nếu dừng lại sớm hơn, nếu đổi hướng khác, nếu tỉnh táo hơn ở những nút thắt quan trọng, liệu kết cục có khác đi không?
 
-后来我慢慢明白，一个人从低谷里爬出来，要一点点恢复对生活的控制感：能吃饭，能睡觉，能出门，能重新学习，能面对过去，能承认自己错了，也能把一地狼藉重新归类。漂亮话帮不了这些具体的动作。
+Về sau tôi dần hiểu rằng để bò ra khỏi vực sâu, một người phải từng chút khôi phục cảm giác kiểm soát cuộc sống: ăn được, ngủ được, ra ngoài được, học lại được, đối diện với quá khứ, thừa nhận mình đã sai, đồng thời phân loại lại đống hỗn độn trước mắt. Những lời hoa mỹ không thể giúp thực hiện những hành động cụ thể ấy.
 
-创业者特别容易迷恋“重新出发”这四个字。它往往从承认自己也是普通人开始：会失败，需要休息，也要先把身体和生活扶起来。新公司可以再等一等。
+Những người khởi nghiệp đặc biệt dễ mê mẩn bốn chữ “bắt đầu lại”. Nhưng nó thường bắt đầu từ việc thừa nhận rằng mình cũng chỉ là một người bình thường: sẽ thất bại, cần nghỉ ngơi, và trước hết phải vực dậy cơ thể cùng cuộc sống. Công ty mới có thể chờ thêm một chút.
 
-## 2026：中国词元云与 AI 赋能实体经济
+## 2026: China Ciyuan Cloud và AI trao quyền cho nền kinh tế thực
 
-![2026：让 AI 从概念走进土地、产业和真实生活](../../assets/entrepreneurship/2026-ai-real-economy.webp)
+![2026: Đưa AI từ khái niệm bước vào đất đai, ngành nghề và đời sống thực](../../assets/entrepreneurship/2026-ai-real-economy.webp)
 
-很多人关心我后来怎么样。
+Nhiều người quan tâm xem sau đó tôi thế nào.
 
-2026 年 4 月 22 日，我在《我的故事》里写：“我还在，我很好。”
+Ngày 22 tháng 4 năm 2026, tôi viết trong “Câu chuyện của tôi”: “Tôi vẫn ở đây, tôi ổn.”
 
-到了 2026 年 6 月，我再次以公司负责人的身份回到技术、产品和真实产业现场。
+Đến tháng 6 năm 2026, tôi một lần nữa trở lại với tư cách người phụ trách công ty, bước vào hiện trường của công nghệ, sản phẩm và các ngành nghề thực tế.
 
-这一次，我不想再做一个只靠热血冲锋的人。
+Lần này, tôi không muốn tiếp tục là người chỉ biết lao về phía trước bằng nhiệt huyết.
 
-产品、公司参访和作者关联统一记录在 [作者项目与现实实践](../../projects.md)，包括用途、更新时间和非赞助声明。这里不再展开产品能力，避免个人复盘与商业介绍混在一起。
+Sản phẩm, các chuyến tham quan công ty và mối liên hệ của tác giả được ghi chép thống nhất tại [dự án của tác giả và thực tiễn đời thực](../../projects.md), bao gồm mục đích sử dụng, thời điểm cập nhật và tuyên bố không tài trợ. Ở đây tôi không mở rộng về năng lực sản phẩm, để tránh trộn lẫn bản nhìn lại cá nhân với phần giới thiệu thương mại.
 
-2026 年 6 月的一次行业参访让我更加坚定：AI 要离开概念和少数人的工具箱，进入产业、土地和普通人的生活，才有机会产生可被检验的价值。
+Một chuyến tham quan ngành nghề vào tháng 6 năm 2026 càng khiến tôi tin chắc hơn rằng: AI phải rời khỏi những khái niệm và hộp công cụ của một số ít người, bước vào ngành nghề, đất đai và đời sống của người bình thường, khi đó mới có cơ hội tạo ra giá trị có thể kiểm chứng.
 
-接下来，我希望探索 AI 赋能农、林、牧、渔等实体产业的路径，支持实体经济发展。尤其是在农村合作社方向，我计划开办 AI 免费培训，让更多普通老百姓能真正理解 AI、使用 AI，用技术提高生产效率，拓宽经营思路。
+Tiếp theo, tôi muốn khám phá con đường dùng AI trao quyền cho các ngành kinh tế thực như nông nghiệp, lâm nghiệp, chăn nuôi, thủy sản, qua đó hỗ trợ phát triển nền kinh tế thực. Đặc biệt trong lĩnh vực hợp tác xã nông thôn, tôi dự định tổ chức các khóa đào tạo AI miễn phí, để nhiều người dân bình thường có thể thực sự hiểu và sử dụng AI, dùng công nghệ nâng cao hiệu suất sản xuất và mở rộng tư duy kinh doanh.
 
-我想做这些事，一部分是因为我已经见过技术离开真实生活之后会变成什么样，也因为回到熟悉的地方以后，我更清楚地知道“普通人能不能用起来”比台上的演示更重要。培训、试点和服务都还没有被结果证明；这一次，我愿意让问题先于答案，让用户的时间、成本和反馈决定方向。
+Tôi muốn làm những việc này một phần vì đã từng chứng kiến công nghệ sẽ trở thành thế nào sau khi rời khỏi đời sống thực, cũng vì sau khi trở về nơi quen thuộc, tôi càng hiểu rõ rằng “người bình thường có thể sử dụng được hay không” quan trọng hơn màn trình diễn trên sân khấu. Đào tạo, thử nghiệm và dịch vụ vẫn chưa được kết quả chứng minh; lần này, tôi sẵn lòng để câu hỏi đi trước câu trả lời, để thời gian, chi phí và phản hồi của người dùng quyết định hướng đi.
 
-这句话必须接受现实检验。
+Câu nói này phải được kiểm nghiệm trong thực tế.
 
-经历过软件公司失败后，我越来越相信，技术创业不能只问“我能做出什么”，还要问“谁真的需要它”“它能不能进入真实流程”“用户有没有能力持续使用”“交付、合规、成本、服务能不能闭环”。
+Sau khi trải qua thất bại của công ty phần mềm, tôi ngày càng tin rằng khởi nghiệp công nghệ không thể chỉ hỏi “tôi có thể làm ra gì”, mà còn phải hỏi “ai thật sự cần nó”, “nó có thể đi vào quy trình thực tế không”, “người dùng có khả năng sử dụng liên tục không”, “việc bàn giao, tuân thủ, chi phí và dịch vụ có thể khép kín hay không”.
 
-如果不能回答这些问题，再漂亮的技术叙事，也可能只是下一座会倒塌的楼。
+Nếu không trả lời được những câu hỏi đó, dù câu chuyện công nghệ có đẹp đẽ đến đâu, nó cũng có thể chỉ là một tòa nhà khác sắp sụp đổ.
 
-## 下一次创业的五道现实门槛
+## Năm ngưỡng cửa thực tế của lần khởi nghiệp tiếp theo
 
-每一扇门都要留下可供别人复查的证据；创始人的信心只能作为起点：
+Mỗi cánh cửa đều phải để lại bằng chứng cho người khác kiểm tra lại; sự tự tin của nhà sáng lập chỉ có thể được xem là điểm khởi đầu:
 
-1. **问题门**：谁在什么场景里反复遇到问题？有没有真实访谈、订单或使用记录？
-2. **价值门**：解决之后节省了什么时间、风险或成本？用户愿意用什么方式验收？
-3. **交付门**：谁负责实施、支持、培训和故障处理？换一个人能否接手？
-4. **生存门**：收入、固定成本、变动成本和最坏情形是否写进账本？何时暂停或退出？
-5. **关系门**：团队、家人、客户和第三方承担什么代价？授权、隐私与承诺是否清楚？
+1. **Cửa vấn đề**: Ai liên tục gặp vấn đề trong hoàn cảnh nào? Có phỏng vấn thực tế, đơn hàng hoặc ghi chép sử dụng hay không?
+2. **Cửa giá trị**: Sau khi giải quyết, đã tiết kiệm được thời gian, rủi ro hay chi phí nào? Người dùng sẵn lòng nghiệm thu bằng cách nào?
+3. **Cửa bàn giao**: Ai chịu trách nhiệm triển khai, hỗ trợ, đào tạo và xử lý sự cố? Người khác có thể tiếp nhận hay không?
+4. **Cửa sinh tồn**: Doanh thu, chi phí cố định, chi phí biến đổi và tình huống xấu nhất đã được ghi vào sổ sách hay chưa? Khi nào sẽ tạm dừng hoặc rút lui?
+5. **Cửa quan hệ**: Đội ngũ, gia đình, khách hàng và bên thứ ba phải trả giá gì? Việc ủy quyền, quyền riêng tư và cam kết đã rõ ràng hay chưa?
 
-可以用[生活进阶工作表](../../templates/life-practice-toolkit.md)整理选择与边界，用[AI 项目评分卡](../../templates/ai-project-scorecard.md)记录试点质量；工具只能帮助看见问题，不能替创业者承担责任。
+Có thể dùng [bảng tính tiến阶 cuộc sống](../../templates/life-practice-toolkit.md) để sắp xếp các lựa chọn và ranh giới, dùng [thẻ chấm điểm dự án AI](../../templates/ai-project-scorecard.md) để ghi lại chất lượng thử nghiệm; công cụ chỉ có thể giúp nhìn thấy vấn đề, không thể thay nhà khởi nghiệp gánh trách nhiệm.
 
-## 这些年留下的教训
+## Những bài học còn lại sau những năm tháng ấy
 
-### 功能堆不成产品
+### Chồng tính năng không tạo thành sản phẩm
 
-第一，功能堆不成产品。只有被用户反复使用、确实解决问题的方案，才获得产品的重量。
+Thứ nhất, chồng tính năng không tạo thành sản phẩm. Chỉ những giải pháp được người dùng sử dụng lặp đi lặp lại và thực sự giải quyết vấn đề mới có được sức nặng của một sản phẩm.
 
-我们当年做软件，太容易把“功能多”当成“产品强”。后来才明白，用户并不关心你堆了多少模块，他只关心自己的问题有没有被更快、更稳、更低成本地解决。
+Khi làm phần mềm năm xưa, chúng tôi quá dễ coi “nhiều tính năng” là “sản phẩm mạnh”. Sau này mới hiểu, người dùng không quan tâm bạn chồng bao nhiêu mô-đun; họ chỉ quan tâm vấn đề của mình có được giải quyết nhanh hơn, ổn định hơn và với chi phí thấp hơn hay không.
 
-### 技术债最终会变成经营债
+### Nợ kỹ thuật cuối cùng sẽ biến thành nợ vận hành
 
-第二，技术债最后都会变成经营债。
+Thứ hai, nợ kỹ thuật cuối cùng đều sẽ biến thành nợ vận hành.
 
-代码混乱、架构老旧、数据缺失、安全隐患，这些东西短期看像研发问题，长期看都是经营问题。它们会吞掉交付能力，拖慢迭代速度，抬高维护成本，最后反过来压垮销售、客服和团队士气。
+Mã nguồn lộn xộn, kiến trúc cũ kỹ, thiếu dữ liệu, rủi ro bảo mật — trong ngắn hạn, những thứ này trông như vấn đề nghiên cứu và phát triển; về dài hạn, tất cả đều là vấn đề vận hành. Chúng sẽ nuốt chửng năng lực bàn giao, làm chậm tốc độ lặp lại, đẩy chi phí bảo trì lên cao, rồi cuối cùng quay sang đè bẹp bộ phận bán hàng, chăm sóc khách hàng và tinh thần của đội ngũ.
 
-### 现金流比估值更诚实
+### Dòng tiền thành thật hơn định giá
 
-第三，现金流比估值更诚实。
+Thứ ba, dòng tiền thành thật hơn định giá.
 
-餐饮让我看到每天收入和成本如何贴身肉搏，也让我明白一个能活下来的小生意，未必比一个听起来宏大的互联网项目低级。现金流让生意服从现实。
+Kinh doanh ăn uống cho tôi thấy doanh thu và chi phí mỗi ngày giằng co sát sườn như thế nào, đồng thời giúp tôi hiểu rằng một mô hình kinh doanh nhỏ có thể sống sót chưa chắc thấp kém hơn một dự án internet nghe có vẻ vĩ mô. Dòng tiền buộc việc kinh doanh phục tùng thực tế.
 
-### 警惕英雄叙事
+### Cảnh giác với câu chuyện anh hùng
 
-第四，创业者要警惕自己的英雄叙事。
+Thứ tư, nhà khởi nghiệp phải cảnh giác với câu chuyện anh hùng của chính mình.
 
-“我再坚持一下就能成”“我投入这么多不可能错”“兄弟们跟着我一定有未来”，这些话听起来热血，但如果没有事实校验，很容易变成对团队和家人的二次伤害。
+“Chỉ cần cố thêm một chút là sẽ thành công”, “Tôi đã đầu tư nhiều như vậy thì không thể sai”, “Anh em cứ đi theo tôi, nhất định sẽ có tương lai” — những lời này nghe rất hào hùng, nhưng nếu không được kiểm chứng bằng sự thật, chúng rất dễ biến thành tổn thương lần thứ hai đối với đội ngũ và gia đình.
 
-### 失败之后还愿意学习，是最后的资产
+### Sau thất bại vẫn sẵn lòng học hỏi là tài sản cuối cùng
 
-第五，失败之后还愿意学习，是一个人最后的资产。
+Thứ năm, sau thất bại vẫn sẵn lòng học hỏi là tài sản cuối cùng của một con người.
 
-我曾经退出 GitHub，关闭自己和技术世界的连接。过去依然会痛；我重新回来，是因为痛苦需要沉淀为判断力，否则失败便只剩失败。
+Tôi từng rời khỏi GitHub, cắt đứt kết nối giữa bản thân với thế giới công nghệ. Quá khứ vẫn đau; tôi quay trở lại vì nỗi đau cần lắng đọng thành năng lực phán đoán, nếu không thất bại sẽ chỉ còn là thất bại.
 
-## 创业不能靠燃尽自己
+## Khởi nghiệp không thể dựa vào việc vắt kiệt bản thân
 
-以前我以为创业就是燃烧。
+Trước đây tôi từng nghĩ khởi nghiệp là thiêu đốt.
 
-把时间燃掉，把身体燃掉，把关系燃掉，把存款燃掉，只要最后能成，一切都值得。
+Đốt hết thời gian, đốt hết cơ thể, đốt hết các mối quan hệ, đốt hết tiền tiết kiệm; chỉ cần cuối cùng thành công thì mọi thứ đều đáng giá.
 
-后来，我推翻了这个信念。
+Sau đó, tôi đã bác bỏ niềm tin ấy.
 
-好的创业，应该让自己越来越清醒，让团队越来越有秩序，让用户越来越受益，让家人越来越安心。宏大叙事和创始人的苦难感都无法替它提供合法性。
+Một cuộc khởi nghiệp tốt nên khiến bản thân ngày càng tỉnh táo hơn, đội ngũ ngày càng có trật tự hơn, người dùng ngày càng được hưởng lợi hơn, gia đình ngày càng yên tâm hơn. Câu chuyện vĩ đại và cảm giác khổ đau của nhà sáng lập đều không thể thay nó cung cấp tính chính đáng.
 
-创业当然需要冒险，但冒险不等于鲁莽。
+Khởi nghiệp đương nhiên cần mạo hiểm, nhưng mạo hiểm không đồng nghĩa với liều lĩnh.
 
-创业当然需要坚持，但坚持不等于死扛。
+Khởi nghiệp đương nhiên cần kiên trì, nhưng kiên trì không đồng nghĩa với cố chấp chịu đựng.
 
-创业当然需要相信未来，但相信未来不等于拒绝看见现实。
+Khởi nghiệp đương nhiên cần tin vào tương lai, nhưng tin vào tương lai không đồng nghĩa với từ chối nhìn thấy thực tế.
 
-走到今天，我不敢说自己已经懂创业了。恰恰相反，我越来越觉得自己懂得太少。只是这一次，我愿意慢一点，笨一点，扎实一点，把每一个看似朴素的问题回答清楚。
+Đi đến hôm nay, tôi không dám nói mình đã hiểu khởi nghiệp. Ngược lại, tôi ngày càng cảm thấy mình biết quá ít. Chỉ là lần này, tôi sẵn lòng chậm hơn một chút, vụng về hơn một chút, vững chắc hơn một chút, trả lời rõ ràng từng câu hỏi tưởng như mộc mạc.
 
-谁需要？
+Ai cần?
 
-为什么现在需要？
+Tại sao cần vào lúc này?
 
-钱从哪里来？
+Tiền từ đâu đến?
 
-成本在哪里？
+Chi phí nằm ở đâu?
 
-交付靠什么保证？
+Dựa vào đâu để bảo đảm việc bàn giao?
 
-风险如何兜住？
+Làm thế nào để kiểm soát rủi ro?
 
-如果失败，如何体面退场？
+Nếu thất bại, làm thế nào để rút lui một cách đàng hoàng?
 
-如果成功，能不能让更多普通人受益？
+Nếu thành công, liệu có thể giúp nhiều người bình thường hơn được hưởng lợi không?
 
-这就是我现在理解的创业篇。
+Đó là cách tôi hiểu về chương khởi nghiệp hiện nay.
 
-这篇复盘不用于炫耀少年得志，也不负责控诉中年失意。它记录一个人被现实打碎之后，怎样把自己重新拼起来，并把剩下的能力尽量用在对别人有用的地方。
+Bản nhìn lại này không nhằm khoe khoang thành công khi còn trẻ, cũng không chịu trách nhiệm lên án sự thất vọng ở tuổi trung niên. Nó ghi lại cách một con người, sau khi bị hiện thực đập tan, đã ghép mình lại như thế nào, rồi cố gắng dùng phần năng lực còn lại vào những nơi có ích cho người khác.
 
-## 相关经历与资料
+## Những trải nghiệm và tài liệu liên quan
 
-- [十年前的博客归档](../archive/README.md)
-- [简单介绍下去年和现在的我](../archive/last-year-and-now.md)
-- [我这一路经历了哪些事情](my-story.md)
-- [作者项目与现实实践](../../projects.md)
-- [生活进阶工作表](../../templates/life-practice-toolkit.md)
-- [AI 项目评分卡](../../templates/ai-project-scorecard.md)
-- [GitHub 主页：byoungd / Leap 离谱](https://github.com/byoungd)
-- [China Ciyuan Cloud Computing Limited 公开登记页面](https://www.ltddir.com/companies/china-ciyuan-cloud-computing-limited/)
+- [Lưu trữ blog mười năm trước](../archive/README.md)
+- [Giới thiệu sơ lược về tôi của năm ngoái và hiện tại](../archive/last-year-and-now.md)
+- [Tôi đã trải qua những chuyện gì trên hành trình này](my-story.md)
+- [Dự án của tác giả và thực tiễn đời thực](../../projects.md)
+- [Bảng tính tiến阶 cuộc sống](../../templates/life-practice-toolkit.md)
+- [Thẻ chấm điểm dự án AI](../../templates/ai-project-scorecard.md)
+- [Trang GitHub: byoungd / Leap Ly Phổ](https://github.com/byoungd)
+- [Trang đăng ký công khai của China Ciyuan Cloud Computing Limited](https://www.ltddir.com/companies/china-ciyuan-cloud-computing-limited/)
 
-## 结语：让野心经过现实
+## Lời kết: Để tham vọng đi qua hiện thực
 
-我并不想失去野心。没有它，我不会一次次走向陌生行业，也不会在失败以后重新学习技术。可未经检验的野心太容易征用身边的一切：团队的时间、家人的安全感、客户的信任，以及身体原本应该拥有的休息。
+Tôi không muốn đánh mất tham vọng. Không có nó, tôi sẽ không hết lần này đến lần khác bước vào những ngành xa lạ, cũng sẽ không học lại công nghệ sau thất bại. Nhưng tham vọng chưa được kiểm chứng quá dễ huy động mọi thứ xung quanh: thời gian của đội ngũ, cảm giác an toàn của gia đình, sự tin tưởng của khách hàng và thời gian nghỉ ngơi vốn thuộc về cơ thể.
 
-如果还有下一次创业，我希望它能够经过一些朴素的现实：问题确实存在，用户愿意使用，账能够算清，承诺能够交付，失败时有人知道怎样停下。它可以长得慢一点，小一点，也要让参与其中的人更有秩序，不能只让创始人的故事更壮烈。
+Nếu còn có lần khởi nghiệp tiếp theo, tôi hy vọng nó có thể đi qua một số điều thực tế mộc mạc: vấn đề thật sự tồn tại, người dùng sẵn lòng sử dụng, sổ sách có thể tính rõ ràng, cam kết có thể được bàn giao, và khi thất bại thì có người biết cách dừng lại. Nó có thể phát triển chậm hơn một chút, nhỏ hơn một chút, nhưng cũng phải khiến những người tham gia có trật tự hơn, chứ không chỉ khiến câu chuyện của nhà sáng lập trở nên bi tráng hơn.
 
-对我而言，韧性不是把每次亏损都讲成胜利。它是承认一次尝试没有持续下去，照顾好身体与生活，再把下一次投入交给更经得起检验的问题。人生很长，不必用一次输赢给自己定终局；每次重新开始，也要认真看待它带来的成本。
+Với tôi, sự bền bỉ không phải là biến mọi khoản thua lỗ thành chiến thắng khi kể lại. Đó là thừa nhận một lần thử nghiệm đã không thể tiếp tục, chăm sóc tốt cơ thể và cuộc sống, rồi trao khoản đầu tư tiếp theo cho một vấn đề chịu được sự kiểm chứng hơn. Cuộc đời còn dài, không cần dùng một lần thắng thua để định đoạt kết cục của mình; mỗi lần bắt đầu lại cũng phải nghiêm túc nhìn nhận cái giá mà nó mang theo.
 
-我不再需要用一家公司证明自己从低谷里站了起来。值得做的事，应该在我离开讲台以后仍然对别人有用；即使最后没有成为宏大的事业，也没有要求爱我的人继续替我的确信付款。
+Tôi không còn cần dùng một công ty để chứng minh rằng mình đã đứng dậy từ vực sâu. Những việc đáng làm nên vẫn hữu ích với người khác ngay cả sau khi tôi rời khỏi bục diễn thuyết; cho dù cuối cùng không trở thành một sự nghiệp vĩ đại, nó cũng không bắt những người yêu thương tôi tiếp tục trả giá cho niềm tin của tôi.

@@ -1,56 +1,56 @@
 ---
-title: 口语篇：让意思清楚到达
-description: 从无稿基线、参考变体与真实听众出发，训练可理解度、发音、词块、互动修复和陌生问题迁移，不把消灭口音当成口语目标。
+title: "Phần nói: để ý nghĩa được truyền đạt rõ ràng"
+description: Bắt đầu từ đường cơ sở không có bản thảo, biến thể tham chiếu và người nghe thực tế, rèn luyện khả năng dễ hiểu, phát âm, cụm từ, sửa chữa trong tương tác và chuyển giao sang những câu hỏi xa lạ; không xem việc xóa bỏ giọng vùng miền là mục tiêu của kỹ năng nói.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 口语篇：让意思清楚到达
+# Phần nói: để ý nghĩa được truyền đạt rõ ràng
 
-我曾经把口语想成一种临场考试：开口之前要先把句子在心里排好，发音要像录音里的人，停顿最好消失，错误不能被听见。于是，越想说好，开口前需要跨过的门槛越高。
+Trước đây, tôi từng nghĩ kỹ năng nói giống như một bài thi ứng biến: trước khi mở miệng phải sắp xếp câu trong đầu, phát âm phải giống người trong bản ghi âm, tốt nhất là không có khoảng ngừng, và không được để người khác nghe thấy lỗi. Vì vậy, càng muốn nói tốt, ngưỡng cửa phải vượt qua trước khi lên tiếng càng cao.
 
-真正的对话不是独自完成的表演。另一个人会追问、误解、补充、改变话题，也会带着不同口音、语速、设备和背景进入现场。口语能力因此不只住在发音里。它还包括：能否先说出主线，能否听见对方没有跟上，能否换一种说法，能否承认暂时不知道，并在一次修复之后继续共同完成事情。
+Một cuộc hội thoại thực sự không phải là màn trình diễn do một người hoàn thành. Người kia sẽ hỏi thêm, hiểu lầm, bổ sung, thay đổi chủ đề, đồng thời bước vào cuộc trò chuyện với giọng vùng miền, tốc độ nói, thiết bị và bối cảnh khác nhau. Vì thế, năng lực nói không chỉ nằm ở phát âm. Nó còn bao gồm: có thể nói ra mạch chính trước hay không, có nhận ra đối phương chưa theo kịp hay không, có thể diễn đạt theo cách khác hay không, có thể thừa nhận tạm thời chưa biết hay không, và sau một lần sửa chữa có thể tiếp tục cùng nhau hoàn thành công việc hay không.
 
-本章不承诺让口音消失，也不把美式、英式或任何单一声音写成英语的终点。它提供一条更可执行的路径：选择一个与你的受众相关的参考变体，保存未经修饰的录音，让真实听众复述所听见的意思；每轮只修一到三个高影响问题，再用陌生追问、不同听众和时间压力检查能力是否留下。
+Chương này không hứa sẽ làm giọng vùng miền biến mất, cũng không xem giọng Mỹ, giọng Anh hay bất kỳ một kiểu âm thanh đơn nhất nào là đích đến của tiếng Anh. Chương cung cấp một lộ trình khả thi hơn: chọn một biến thể tham chiếu có liên quan đến đối tượng người nghe của bạn, lưu lại bản ghi âm chưa chỉnh sửa, để người nghe thực tế thuật lại ý họ đã nghe; mỗi vòng chỉ sửa một đến ba vấn đề có ảnh hưởng lớn, sau đó dùng những câu hỏi truy vấn xa lạ, những người nghe khác nhau và áp lực thời gian để kiểm tra xem năng lực có còn được duy trì hay không.
 
-## 本章速览
+## Tóm tắt chương
 
-- 先定义说明、互动、修复或协作任务，再决定练什么；
-- 保存独白、问答与互动修复三种无稿基线，不用背稿代替口语；
-- 选择一种参考变体保持学习材料相对一致，同时逐步适应多种真实英语；
-- 区分口音显著度、可理解度和理解难度，不把“听起来不同”直接判成错误；
-- 优先修会改变词义、时间、数字、责任或句子重点的发音与节奏问题；
-- 跟读负责观察和模仿，复述、追问与协作才负责生成；
-- AI 和语音识别可以提供线索，真实听众的复述与下一步行动才是更强证据；
-- 十四天只追踪一个真实场景与少量高影响问题。
+- Trước tiên xác định nhiệm vụ giải thích, tương tác, sửa chữa hoặc hợp tác, rồi mới quyết định nên luyện gì;
+- Lưu lại ba loại đường cơ sở không có bản thảo: độc thoại, hỏi đáp và sửa chữa trong tương tác; không dùng việc học thuộc bản thảo để thay thế kỹ năng nói;
+- Chọn một biến thể tham chiếu để duy trì sự tương đối nhất quán của tài liệu học, đồng thời từng bước thích nghi với nhiều dạng tiếng Anh thực tế;
+- Phân biệt mức độ nổi bật của giọng vùng miền, khả năng dễ hiểu và độ khó khi hiểu; không trực tiếp xem “nghe khác biệt” là lỗi;
+- Ưu tiên sửa những vấn đề về phát âm và nhịp điệu có thể làm thay đổi nghĩa từ, thời gian, con số, trách nhiệm hoặc trọng tâm câu;
+- Luyện nói bám theo bản ghi âm giúp quan sát và bắt chước; còn thuật lại, hỏi thêm và hợp tác mới chịu trách nhiệm cho việc tạo ra lời nói;
+- AI và nhận dạng giọng nói có thể cung cấp manh mối; việc người nghe thực tế thuật lại và hành động tiếp theo mới là bằng chứng mạnh hơn;
+- Trong mười bốn ngày chỉ theo dõi một bối cảnh thực tế và một số ít vấn đề có ảnh hưởng lớn.
 
-## 1. 先把口语任务说清楚
+## 1. Trước hết hãy nói rõ nhiệm vụ nói
 
-“提高口语”太大，无法直接训练。把它改写成一个会发生的动作：
+“Nâng cao kỹ năng nói” quá rộng, không thể luyện trực tiếp. Hãy viết lại thành một hành động sẽ thực sự diễn ra:
 
-| 任务 | 练习条件 | 完成证据 |
+| Nhiệm vụ | Điều kiện luyện tập | Bằng chứng hoàn thành |
 | --- | --- | --- |
-| 说明 | 60-120 秒，无稿讲经历、观点或流程 | 听众能复述主旨和两个关键细节 |
-| 问答 | 至少五轮，包含一个陌生追问 | 回答没有完全偏题，并主动推进一次对话 |
-| 修复 | 故意保留一个没听清、范围不明或表达失败的时刻 | 双方通过重复、确认或重述恢复共同理解 |
-| 协作 | 会议、面试、客户沟通或共同决策 | 对方知道结论、分歧、责任人与下一步 |
-| 迁移 | 换主题、听众、设备、语速或时间限制 | 不依赖原稿仍能完成相近任务 |
+| Giải thích | Nói không có bản thảo trong 60-120 giây về một trải nghiệm, quan điểm hoặc quy trình | Người nghe có thể thuật lại ý chính và hai chi tiết quan trọng |
+| Hỏi đáp | Ít nhất năm lượt, bao gồm một câu hỏi truy vấn xa lạ | Câu trả lời không hoàn toàn lạc đề và chủ động thúc đẩy cuộc hội thoại một lần |
+| Sửa chữa | Cố ý giữ lại một thời điểm nghe chưa rõ, phạm vi chưa rõ hoặc diễn đạt thất bại | Hai bên khôi phục sự hiểu biết chung bằng cách lặp lại, xác nhận hoặc diễn đạt lại |
+| Hợp tác | Cuộc họp, phỏng vấn, trao đổi với khách hàng hoặc cùng ra quyết định | Đối phương biết kết luận, bất đồng, người chịu trách nhiệm và bước tiếp theo |
+| Chuyển giao | Thay đổi chủ đề, người nghe, thiết bị, tốc độ nói hoặc giới hạn thời gian | Vẫn hoàn thành được nhiệm vụ tương tự mà không phụ thuộc vào bản thảo |
 
-开始前写下：谁在听，为什么听，结束后对方需要知道或做什么。口语不是把所有英语都说得漂亮，而是在当前条件下完成这一个关系中的任务。
+Trước khi bắt đầu, hãy ghi lại: ai đang nghe, họ nghe để làm gì, và sau khi kết thúc họ cần biết hoặc làm gì. Kỹ năng nói không phải là làm cho toàn bộ tiếng Anh của bạn trở nên đẹp đẽ, mà là hoàn thành nhiệm vụ này trong mối quan hệ cụ thể và với những điều kiện hiện tại.
 
-可以复制[口语证据卡](../../templates/speaking-evidence.md)，把录音、听众复述、修复动作和延迟复测放在同一处。
+Bạn có thể sao chép [thẻ bằng chứng kỹ năng nói](../../templates/speaking-evidence.md), đặt bản ghi âm, phần thuật lại của người nghe, hành động sửa chữa và lần kiểm tra lại sau một khoảng trì hoãn vào cùng một nơi.
 
-## 2. 保存三种未经修饰的基线
+## 2. Lưu lại ba loại đường cơ sở chưa chỉnh sửa
 
-同一个人可能独白流畅，却在追问中失去方向；也可能发音清楚，却不会确认对方真正问了什么。至少保存三种样本：
+Cùng một người có thể nói độc thoại trôi chảy nhưng mất phương hướng khi bị hỏi thêm; cũng có thể phát âm rõ nhưng không biết xác nhận đối phương thực sự đang hỏi gì. Ít nhất hãy lưu lại ba loại mẫu:
 
-1. **独白基线**：无稿说 90-120 秒，说明一个真实经历或问题；
-2. **互动基线**：完成五轮问答，其中一题事先未知；
-3. **修复基线**：记录一次请求重复、确认范围、换一种说法或总结共识。
+1. **Đường cơ sở độc thoại**: nói không có bản thảo trong 90-120 giây, giải thích một trải nghiệm hoặc vấn đề có thật;
+2. **Đường cơ sở tương tác**: hoàn thành năm lượt hỏi đáp, trong đó có một câu hỏi chưa biết trước;
+3. **Đường cơ sở sửa chữa**: ghi lại một lần yêu cầu lặp lại, xác nhận phạm vi, diễn đạt theo cách khác hoặc tóm tắt sự đồng thuận.
 
-每份样本保留原始录音，不先降噪、剪掉停顿或用 AI 重写。记录设备、网络、是否看提纲、是否允许重录、听众是否熟悉主题。条件不同，表现不能直接比较。
+Giữ lại bản ghi âm gốc của mỗi mẫu; đừng khử tiếng ồn, cắt bỏ khoảng ngừng hoặc dùng AI viết lại trước. Ghi lại thiết bị, mạng, việc có xem dàn ý hay không, có được phép thu lại hay không, và người nghe có quen với chủ đề hay không. Điều kiện khác nhau thì biểu hiện không thể được so sánh trực tiếp.
 
-让听众只根据录音回答：
+Chỉ dựa vào bản ghi âm, hãy để người nghe trả lời:
 
 ```markdown
 你听到的主旨是什么：
@@ -59,22 +59,22 @@ sources_checked: 2026-09-02
 你接下来会问什么或做什么：
 ```
 
-转写稿能暴露词汇和结构，不能替代声音中的重音、停顿、语气和互动时机。先听，再看文字。
+Bản chép lời có thể cho thấy vấn đề về từ vựng và cấu trúc, nhưng không thể thay thế trọng âm, khoảng ngừng, ngữ điệu và thời điểm tương tác trong giọng nói. Hãy nghe trước, rồi mới xem văn bản.
 
-## 3. 选择参考变体，不制造高低等级
+## 3. Chọn biến thể tham chiếu, không tạo ra thứ bậc cao thấp
 
-英语存在地区、社群、职业与个人差异。美式和英式只是常见参考入口，不是全部英语，也不是高低等级。
+Tiếng Anh tồn tại những khác biệt theo vùng miền, cộng đồng, nghề nghiệp và cá nhân. Giọng Mỹ và giọng Anh chỉ là những lối vào tham chiếu phổ biến, không phải toàn bộ tiếng Anh, cũng không phải các cấp bậc cao thấp.
 
-选择参考变体时看四件事：
+Khi chọn biến thể tham chiếu, hãy xem xét bốn điều:
 
-1. **真实受众**：你主要面对哪类同事、客户、教师、考试或社区？
-2. **稳定材料**：词典音频、课程和反馈者能否长期保持相对一致？
-3. **任务成本**：拼写、词汇或发音差异是否真的影响当前交付？
-4. **个人身份**：你是否愿意长期使用这种声音，而不是把自己藏进模仿里？
+1. **Đối tượng thực tế**: bạn chủ yếu giao tiếp với kiểu đồng nghiệp, khách hàng, giáo viên, kỳ thi hay cộng đồng nào?
+2. **Tài liệu ổn định**: âm thanh từ điển, khóa học và người phản hồi có thể duy trì sự tương đối nhất quán trong thời gian dài hay không?
+3. **Chi phí nhiệm vụ**: khác biệt về chính tả, từ vựng hoặc phát âm có thực sự ảnh hưởng đến việc hoàn thành nhiệm vụ hiện tại hay không?
+4. **Bản sắc cá nhân**: bạn có sẵn lòng sử dụng âm thanh này lâu dài hay đang giấu mình trong việc bắt chước?
 
-参考变体的作用是减少初期决策：同一个词先跟随一套可靠音频，同一份正式文本保持拼写一致。它不要求你排斥其他变体。真实协作中，听众可能来自印度、新加坡、尼日利亚、中国、美国、英国或更多语言背景；因此还要逐步增加不同口音、语速和互动风格的输入。
+Tác dụng của biến thể tham chiếu là giảm số quyết định ở giai đoạn đầu: trước tiên đi theo một nguồn âm thanh đáng tin cậy cho cùng một từ, duy trì cách viết nhất quán trong cùng một văn bản trang trọng. Điều đó không yêu cầu bạn loại bỏ các biến thể khác. Trong hợp tác thực tế, người nghe có thể đến từ Ấn Độ, Singapore, Nigeria, Trung Quốc, Hoa Kỳ, Vương quốc Anh hoặc nhiều bối cảnh ngôn ngữ khác; vì vậy cũng cần từng bước tăng cường việc tiếp nhận các giọng vùng miền, tốc độ nói và phong cách tương tác khác nhau.
 
-可以给自己写两条边界：
+Bạn có thể viết cho mình hai ranh giới:
 
 ```markdown
 当前参考变体：
@@ -83,35 +83,35 @@ sources_checked: 2026-09-02
 哪些差异只需识别，不必强迫自己模仿：
 ```
 
-一致性服务于学习，差异耐受服务于现实。不要让“选一种”变成“只有一种正确”。
+Tính nhất quán phục vụ việc học, còn khả năng dung nạp khác biệt phục vụ thực tế. Đừng để “chọn một” biến thành “chỉ có một cách đúng”.
 
-## 4. 把口音、可理解度与理解难度分开
+## 4. Tách biệt giọng vùng miền, khả năng dễ hiểu và độ khó khi hiểu
 
-三个概念需要分开：
+Ba khái niệm cần được tách biệt:
 
-| 概念 | 本章怎样使用 | 怎样观察 |
+| Khái niệm | Cách chương này sử dụng | Cách quan sát |
 | --- | --- | --- |
-| 口音显著度 | 听者感到声音与其熟悉参照有多大差异 | 只能说明“听起来不同”，不能单独证明任务失败 |
-| 可理解度 | 听者实际恢复了多少词语、主旨和关系 | 让听众复述主旨、细节、数字、责任和下一步 |
-| 理解难度 | 听者为了理解需要付出多少努力 | 是否需要重听、猜测、暂停或多次确认 |
+| Mức độ nổi bật của giọng vùng miền | Người nghe cảm nhận âm thanh khác với chuẩn tham chiếu quen thuộc của họ đến mức nào | Chỉ có thể cho thấy “nghe khác biệt”, không thể một mình chứng minh nhiệm vụ thất bại |
+| Khả năng dễ hiểu | Người nghe thực sự khôi phục được bao nhiêu từ ngữ, ý chính và mối quan hệ | Để người nghe thuật lại ý chính, chi tiết, con số, trách nhiệm và bước tiếp theo |
+| Độ khó khi hiểu | Người nghe phải bỏ ra bao nhiêu nỗ lực để hiểu | Có cần nghe lại, đoán, tạm dừng hoặc xác nhận nhiều lần hay không |
 
-一个口音可以明显，却仍然容易理解；一句话也可能听起来接近某种标准，却因为重点、数字或逻辑关系不清而阻断任务。听者也会带着经验、偏见和熟悉度进入判断，所以不要把一次负面反应全部归因于说话者。
+Một giọng vùng miền có thể nổi bật nhưng vẫn dễ hiểu; một câu nói cũng có thể nghe gần với một dạng chuẩn nào đó nhưng vẫn làm gián đoạn nhiệm vụ vì trọng tâm, con số hoặc mối quan hệ logic không rõ ràng. Người nghe cũng bước vào quá trình đánh giá cùng với kinh nghiệm, định kiến và mức độ quen thuộc của họ, vì vậy đừng quy mọi phản ứng tiêu cực trong một lần duy nhất hoàn toàn cho người nói.
 
-更可靠的判断来自多个条件：至少两位听众、不同设备或一次新主题；同时保存他们听见了什么，而不只保存“像不像母语者”的评价。
+Đánh giá đáng tin cậy hơn đến từ nhiều điều kiện: ít nhất hai người nghe, các thiết bị khác nhau hoặc một chủ đề mới; đồng thời lưu lại họ đã nghe thấy gì, chứ không chỉ lưu đánh giá “có giống người bản ngữ hay không”.
 
-## 5. 发音训练先修高影响关系
+## 5. Khi luyện phát âm, trước tiên hãy sửa những mối quan hệ có ảnh hưởng lớn
 
-音标是地图，不是终点。它可以帮助定位口形、舌位、气流与声带状态，却不能替代可靠音频、自己的录音和真实听众。
+Ký hiệu phiên âm là bản đồ, không phải đích đến. Nó có thể giúp xác định khẩu hình, vị trí lưỡi, luồng hơi và trạng thái dây thanh, nhưng không thể thay thế nguồn âm thanh đáng tin cậy, bản ghi âm của chính bạn và người nghe thực tế.
 
-### 音与词义
+### Âm và nghĩa của từ
 
-只练当前样本里会改变词义或造成反复误解的对立。例如 `/ɪ/` 与 `/iː/`、`/r/` 与 `/l/`、清辅音与浊辅音是否重要，要由你的词语、受众和错误记录决定，不必平均刷完所有音。
+Chỉ luyện những sự đối lập trong mẫu hiện tại có thể làm thay đổi nghĩa từ hoặc gây hiểu lầm lặp đi lặp lại. Chẳng hạn `/ɪ/` và `/iː/`, `/r/` và `/l/`, hay phụ âm vô thanh và hữu thanh có quan trọng hay không phải do từ ngữ, đối tượng nghe và hồ sơ lỗi của bạn quyết định; không cần luyện đều tất cả các âm.
 
-使用五步：听辨两个词；观察口腔动作；慢速说；放回短句；在陌生句中再次选择。若孤立词能说对、句子里仍消失，问题已从单音转向节奏或调用。
+Sử dụng năm bước: phân biệt hai từ qua nghe; quan sát động tác của khoang miệng; nói chậm; đặt vào câu ngắn; rồi lựa chọn lại trong một câu xa lạ. Nếu có thể nói đúng từ đứng riêng nhưng âm đó vẫn biến mất trong câu, vấn đề đã chuyển từ âm đơn sang nhịp điệu hoặc khả năng gọi ra khi nói.
 
-### 词尾、重音与边界
+### Âm cuối, trọng âm và ranh giới
 
-真实任务中，词尾和重音可能携带时间、数量、词性或信息重点：
+Trong nhiệm vụ thực tế, âm cuối và trọng âm có thể mang thông tin về thời gian, số lượng, từ loại hoặc điểm nhấn:
 
 ```text
 work / worked
@@ -120,35 +120,35 @@ REcord / reCORD
 We need the BLUE file. / We NEED the blue file.
 ```
 
-不要只问“每个音准不准”。问听众是否听见过去、数字、关键词与对比。一个轻微音色差异的优先级，通常低于丢失关键词尾或把句子重点放错。
+Đừng chỉ hỏi “mỗi âm có chính xác không”. Hãy hỏi người nghe có nghe thấy thì quá khứ, con số, từ khóa và sự đối lập hay không. Mức độ ưu tiên của một khác biệt nhỏ về màu âm thường thấp hơn việc mất âm cuối của từ khóa hoặc đặt sai trọng tâm câu.
 
-### 句块、停顿与语气
+### Cụm câu, khoảng ngừng và ngữ điệu
 
-把长句按意思分成可呼吸的块：背景、主张、理由、条件、下一步。停顿放在关系之间，而不是随机切断词组。
+Chia câu dài thành những cụm có thể hít thở theo ý nghĩa: bối cảnh, luận điểm, lý do, điều kiện, bước tiếp theo. Đặt khoảng ngừng giữa các mối quan hệ, thay vì ngắt ngẫu nhiên giữa các cụm từ.
 
 ```text
 Based on the current test, / I recommend a smaller release, / because rollback is still available.
 ```
 
-节奏不是为了表演“地道”，而是帮助听者预测结构。先让主线清楚，再增加连读、弱读和语气细节。
+Nhịp điệu không nhằm trình diễn vẻ “bản địa”, mà giúp người nghe dự đoán cấu trúc. Trước tiên hãy làm cho mạch chính rõ ràng, sau đó mới bổ sung các chi tiết như nối âm, âm yếu và ngữ điệu.
 
-## 6. 跟读不是终点：从模仿走向生成
+## 6. Nói bám theo bản ghi không phải đích đến: từ bắt chước đến tạo lời
 
-跟读能帮助观察声音、节奏和停顿，但完全跟在原音后面时，内容、词序和下一句都已经由别人决定。它不能单独证明你会在真实对话中生成意思。
+Nói bám theo bản ghi giúp quan sát âm thanh, nhịp điệu và khoảng ngừng, nhưng khi hoàn toàn đi theo âm thanh gốc, nội dung, trật tự từ và câu tiếp theo đều đã do người khác quyết định. Điều đó không thể một mình chứng minh rằng bạn có thể tạo ra ý nghĩa trong hội thoại thực tế.
 
-把同一段材料走完五级：
+Hãy đưa cùng một tài liệu đi qua năm cấp độ:
 
-1. **听与标记**：写下主旨、重音、停顿和没听清的位置；
-2. **朗读**：看文本说清楚，不急着复制所有细节；
-3. **延迟跟读**：与原音保持短暂距离，观察节奏而不抢速度；
-4. **合上复述**：保留意思，用自己的词序说；
-5. **陌生追问**：回答材料没有预先提供的问题。
+1. **Nghe và đánh dấu**: ghi lại ý chính, trọng âm, khoảng ngừng và những chỗ chưa nghe rõ;
+2. **Đọc thành tiếng**: nhìn văn bản và nói rõ ràng, không vội bắt chước mọi chi tiết;
+3. **Nói bám theo có độ trễ**: giữ một khoảng cách ngắn với âm thanh gốc, quan sát nhịp điệu thay vì cố chạy theo tốc độ;
+4. **Đóng tài liệu và thuật lại**: giữ nguyên ý nghĩa, dùng trật tự từ của mình để nói;
+5. **Câu hỏi truy vấn xa lạ**: trả lời những câu hỏi mà tài liệu chưa cung cấp trước.
 
-若第四级一开始就崩塌，不要回去无限增加跟读次数。缩短材料、减少信息点，练习从记住三个关键词开始重新组织。
+Nếu cấp độ thứ tư sụp đổ ngay từ đầu, đừng quay lại tăng vô hạn số lần nói bám theo. Hãy rút ngắn tài liệu, giảm số điểm thông tin và bắt đầu luyện lại việc tổ chức lời nói từ ba từ khóa.
 
-## 7. 用词块建立可变的支架
+## 7. Dùng cụm từ để xây dựng một giàn giáo có thể biến đổi
 
-口语需要一些能快速调用的结构，但背完整稿件会把流畅锁在固定条件里。更有用的是可替换词块：
+Kỹ năng nói cần một số cấu trúc có thể gọi ra nhanh chóng, nhưng học thuộc toàn bộ bản thảo sẽ khóa sự trôi chảy trong những điều kiện cố định. Hữu ích hơn là các cụm từ có thể thay thế:
 
 ```text
 The main issue is ...
@@ -158,106 +158,106 @@ Could we first clarify ...?
 My recommendation is ..., because ...
 ```
 
-每个词块至少做三种变化：换主题、换立场、换听众。再加入一个意外条件，例如“对方不同意”“数据不完整”“只剩三十秒”。
+Mỗi cụm từ hãy tạo ít nhất ba biến thể: thay đổi chủ đề, lập trường và người nghe. Sau đó thêm một điều kiện bất ngờ, chẳng hạn “đối phương không đồng ý”, “dữ liệu chưa đầy đủ” hoặc “chỉ còn ba mươi giây”.
 
-词块是脚手架，不是面具。真正的目标不是随时说出同一句，而是能借它建立主线，再根据对方的反应改变下一句。
+Cụm từ là giàn giáo, không phải chiếc mặt nạ. Mục tiêu thực sự không phải là lúc nào cũng nói ra cùng một câu, mà là có thể dùng nó để xây dựng mạch chính, rồi thay đổi câu tiếp theo dựa trên phản ứng của đối phương.
 
-## 8. 互动修复不是补救，是能力
+## 8. Sửa chữa trong tương tác không phải biện pháp cứu vãn, mà là năng lực
 
-对话中出现误解并不异常。异常的是双方已经失去共同理解，却因为害怕暴露问题继续往下说。
+Hiểu lầm xuất hiện trong hội thoại không có gì bất thường. Điều bất thường là hai bên đã mất đi sự hiểu biết chung nhưng vẫn tiếp tục nói vì sợ để lộ vấn đề.
 
-可以练五类修复：
+Có thể luyện năm loại sửa chữa:
 
-| 情况 | 修复动作 | 示例 |
+| Tình huống | Hành động sửa chữa | Ví dụ |
 | --- | --- | --- |
-| 没听清 | 请求重复或降低速度 | `Could you say the last part again?` |
-| 范围不明 | 确认问题 | `Are you asking about the cause or the next step?` |
-| 需要思考 | 争取有限时间 | `Let me think for a moment.` |
-| 表达失败 | 换一种说法 | `Let me put that another way.` |
-| 共识不稳 | 总结并请确认 | `So we will test it today and decide tomorrow. Is that right?` |
+| Nghe chưa rõ | Yêu cầu lặp lại hoặc nói chậm hơn | `Could you say the last part again?` |
+| Phạm vi chưa rõ | Xác nhận câu hỏi | `Are you asking about the cause or the next step?` |
+| Cần suy nghĩ | Xin một khoảng thời gian có giới hạn | `Let me think for a moment.` |
+| Diễn đạt thất bại | Nói theo cách khác | `Let me put that another way.` |
+| Đồng thuận chưa vững | Tóm tắt và yêu cầu xác nhận | `So we will test it today and decide tomorrow. Is that right?` |
 
-不要只背修复句。让同伴故意说快、改变问题、误解一个数字或追问证据，观察你能否发现断点并恢复任务。
+Đừng chỉ học thuộc các câu sửa chữa. Hãy để bạn luyện cố ý nói nhanh, thay đổi câu hỏi, hiểu sai một con số hoặc hỏi thêm về bằng chứng; quan sát xem bạn có thể nhận ra điểm đứt gãy và khôi phục nhiệm vụ hay không.
 
-如果目标是海外求职或远程协作，进入[求职英语篇](8-job-search-english.md)，把项目说明、陌生追问、承认未知和异步总结放进同一场景。
+Nếu mục tiêu là tìm việc ở nước ngoài hoặc hợp tác từ xa, hãy chuyển sang [phần tiếng Anh xin việc](8-job-search-english.md), đặt phần giới thiệu dự án, câu hỏi truy vấn xa lạ, việc thừa nhận điều chưa biết và bản tóm tắt không đồng bộ vào cùng một bối cảnh.
 
-## 9. 真实听众、教师与 AI 怎样分工
+## 9. Người nghe thực tế, giáo viên và AI phân công như thế nào
 
-| 角色 | 适合做什么 | 不能单独证明什么 |
+| Vai trò | Phù hợp để làm gì | Không thể một mình chứng minh điều gì |
 | --- | --- | --- |
-| 自己 | 保存原始录音、标记停顿、比较版本 | 熟悉自己的声音，容易补全听者没听见的信息 |
-| 真实听众 | 复述主旨、指出需要猜测之处、继续行动 | 一位听众可能受熟悉度与偏见影响 |
-| 教师/教练 | 观察口腔动作、节奏、可教问题与训练顺序 | 反馈仍需回到你的任务和迁移样本 |
-| AI/语音识别 | 转写候选、生成追问、定位可能不清片段 | 识别结果会受口音、麦克风、噪声、模型与网络影响 |
+| Bản thân | Lưu bản ghi âm gốc, đánh dấu khoảng ngừng, so sánh các phiên bản | Đã quen với giọng của mình nên dễ tự bổ sung những điều người nghe không nghe thấy |
+| Người nghe thực tế | Thuật lại ý chính, chỉ ra chỗ cần đoán, tiếp tục hành động | Một người nghe có thể bị ảnh hưởng bởi mức độ quen thuộc và định kiến |
+| Giáo viên/huấn luyện viên | Quan sát động tác khoang miệng, nhịp điệu, vấn đề có thể dạy và trình tự luyện tập | Phản hồi vẫn cần quay về nhiệm vụ và mẫu chuyển giao của bạn |
+| AI/nhận dạng giọng nói | Đưa ra bản chép lời dự kiến, tạo câu hỏi truy vấn, xác định những đoạn có thể chưa rõ | Kết quả nhận dạng chịu ảnh hưởng của giọng vùng miền, micro, tiếng ồn, mô hình và mạng |
 
-向 AI 请求反馈时，先提交任务和自己的第一版，再要求它区分：可能听错、明确听错、表达组织问题、语法问题、语域选择和风格偏好。保留原始音频与工具版本，不把识别分数写成发音真相。
+Khi yêu cầu AI phản hồi, trước tiên hãy cung cấp nhiệm vụ và phiên bản đầu tiên của mình, sau đó yêu cầu AI phân biệt: có thể nghe nhầm, chắc chắn nghe nhầm, vấn đề tổ chức diễn đạt, vấn đề ngữ pháp, lựa chọn ngữ vực và sở thích phong cách. Giữ lại âm thanh gốc và phiên bản công cụ; đừng biến điểm nhận dạng thành sự thật về phát âm.
 
-涉及客户、同事、学生、家庭、医疗或未公开项目时，先取得录音与上传许可；否则使用虚构信息或本地处理。真实交流的价值不能建立在越过隐私边界之上。
+Khi liên quan đến khách hàng, đồng nghiệp, học sinh, gia đình, y tế hoặc dự án chưa công bố, trước tiên hãy xin phép ghi âm và tải lên; nếu không, hãy sử dụng thông tin hư cấu hoặc xử lý cục bộ. Giá trị của giao tiếp thực tế không thể được xây dựng trên việc vượt qua ranh giới quyền riêng tư.
 
-## 10. 把练习放回生活
+## 10. Đưa việc luyện tập trở lại đời sống
 
-我确实买过一个麦克风，也曾跟着喜欢的歌反复唱。唱歌不能替代问答、修复和真实协作，但它让声音离开脑内审查，进入身体。低压力练习有它的位置：朗读一段喜欢的文字，给朋友留一条语音，唱一首歌，或用英语讲述今天真正发生的小事。
+Tôi thực sự từng mua một chiếc micro, và cũng từng hát đi hát lại theo những bài hát mình yêu thích. Ca hát không thể thay thế hỏi đáp, sửa chữa và hợp tác thực tế, nhưng nó giúp âm thanh rời khỏi sự kiểm duyệt trong đầu và đi vào cơ thể. Luyện tập trong trạng thái ít áp lực có vị trí riêng: đọc thành tiếng một đoạn văn mình thích, để lại tin nhắn thoại cho bạn bè, hát một bài hát hoặc dùng tiếng Anh kể lại một việc thực sự xảy ra hôm nay.
 
-![口语练习示意图](../../assets/speaking-practice.svg)
+![Sơ đồ minh họa luyện nói](../../assets/speaking-practice.svg)
 
-关键是让轻松练习与真实任务相连：从歌词里取一个词块，第二天用在自己的句子里；从语音留言进入一次追问；从朗读进入合上材料后的复述。兴趣负责让你回来，证据负责告诉你是否前进。
+Điều quan trọng là kết nối việc luyện tập thư giãn với nhiệm vụ thực tế: lấy một cụm từ trong lời bài hát và dùng nó trong câu của mình vào ngày hôm sau; từ một tin nhắn thoại tiến tới một lần hỏi thêm; từ việc đọc thành tiếng tiến tới thuật lại sau khi đóng tài liệu. Sở thích khiến bạn quay lại, còn bằng chứng cho bạn biết liệu mình có tiến bộ hay không.
 
-一个 12 分钟闭环可以是：
+Một vòng khép kín kéo dài 12 phút có thể là:
 
-1. 2 分钟无稿首版；
-2. 3 分钟回听并标记一个高影响问题；
-3. 3 分钟做音、词块或修复练习；
-4. 2 分钟重录；
-5. 2 分钟回答陌生追问并写下下次变量。
+1. 2 phút nói phiên bản đầu tiên không có bản thảo;
+2. 3 phút nghe lại và đánh dấu một vấn đề có ảnh hưởng lớn;
+3. 3 phút luyện âm, cụm từ hoặc sửa chữa;
+4. 2 phút thu lại;
+5. 2 phút trả lời một câu hỏi truy vấn xa lạ và ghi lại biến số cho lần sau.
 
-## 11. 十四天口语实验
+## 11. Thử nghiệm kỹ năng nói trong mười bốn ngày
 
-| 天数 | 动作 | 留下的证据 |
+| Ngày | Hành động | Bằng chứng lưu lại |
 | --- | --- | --- |
-| 1 | 定义一个真实场景，录独白与五轮问答 | 原始录音、条件、听众复述 |
-| 2 | 选择参考变体与可靠音频 | 选择理由与不必模仿的差异 |
-| 3 | 找一个高影响发音或节奏问题 | 错误片段与任务影响 |
-| 4 | 完成听辨、慢说、短句、陌生句练习 | 四种条件录音 |
-| 5 | 对同一材料朗读、延迟跟读、合上复述 | 模仿与生成差异 |
-| 6 | 建立五个可替换词块 | 三种主题变式 |
-| 7 | 撤掉原稿，完成第一次延迟复测 | 新主题 90-120 秒录音 |
-| 8 | 让同伴制造一次没听清或范围不明 | 修复过程与确认结果 |
-| 9 | 更换听众或设备 | 条件变化后的听众复述 |
-| 10 | 听一种不熟悉的英语变体并复述 | 主旨、细节与不确定点 |
-| 11 | 只修仍然反复的一项问题 | 第三版与拒绝的低影响建议 |
-| 12 | 让 AI/同伴提出三个陌生追问 | 无稿回答与转写误差 |
-| 13 | 在时间压力下完成协作或决策说明 | 结论、责任人和下一步 |
-| 14 | 关闭提示，完成新场景并决定下一轮 | 保留/调整/转向的依据 |
+| 1 | Xác định một bối cảnh thực tế, thu độc thoại và năm lượt hỏi đáp | Bản ghi âm gốc, điều kiện, phần thuật lại của người nghe |
+| 2 | Chọn biến thể tham chiếu và nguồn âm thanh đáng tin cậy | Lý do lựa chọn và những khác biệt không cần bắt chước |
+| 3 | Tìm một vấn đề phát âm hoặc nhịp điệu có ảnh hưởng lớn | Đoạn lỗi và ảnh hưởng đến nhiệm vụ |
+| 4 | Hoàn thành bài luyện phân biệt qua nghe, nói chậm, câu ngắn và câu xa lạ | Bản ghi âm trong bốn điều kiện |
+| 5 | Với cùng một tài liệu, thực hiện đọc thành tiếng, nói bám theo có độ trễ và thuật lại sau khi đóng tài liệu | Khác biệt giữa bắt chước và tạo lời |
+| 6 | Xây dựng năm cụm từ có thể thay thế | Ba biến thể theo chủ đề |
+| 7 | Bỏ bản thảo, hoàn thành lần kiểm tra lại sau một khoảng trì hoãn đầu tiên | Bản ghi âm 90-120 giây về chủ đề mới |
+| 8 | Để bạn cùng luyện tạo ra một lần nghe chưa rõ hoặc phạm vi chưa rõ | Quá trình sửa chữa và kết quả xác nhận |
+| 9 | Thay đổi người nghe hoặc thiết bị | Phần thuật lại của người nghe sau khi thay đổi điều kiện |
+| 10 | Nghe một biến thể tiếng Anh chưa quen thuộc và thuật lại | Ý chính, chi tiết và điểm chưa chắc chắn |
+| 11 | Chỉ sửa một vấn đề vẫn lặp đi lặp lại | Phiên bản thứ ba và những đề xuất có ảnh hưởng thấp bị từ chối |
+| 12 | Để AI/bạn cùng luyện đưa ra ba câu hỏi truy vấn xa lạ | Câu trả lời không có bản thảo và sai lệch trong bản chép lời |
+| 13 | Hoàn thành phần giải thích về hợp tác hoặc quyết định dưới áp lực thời gian | Kết luận, người chịu trách nhiệm và bước tiếp theo |
+| 14 | Tắt các gợi ý, hoàn thành một bối cảnh mới và quyết định vòng tiếp theo | Căn cứ để giữ lại/điều chỉnh/chuyển hướng |
 
-十四天不是口语速成期限。它只用来回答一个较小的问题：在没有熟悉稿件、换了听众或出现追问之后，这项表达是否仍然可用？
+Mười bốn ngày không phải là thời hạn để học nói cấp tốc. Khoảng thời gian này chỉ dùng để trả lời một câu hỏi nhỏ hơn: khi không có bản thảo quen thuộc, khi thay đổi người nghe hoặc khi xuất hiện câu hỏi truy vấn, cách diễn đạt này có còn sử dụng được hay không?
 
-## 12. 怎样判断口语正在变成能力
+## 12. Làm thế nào nhận biết kỹ năng nói đang trở thành năng lực
 
-更强的证据包括：
+Những bằng chứng mạnh hơn bao gồm:
 
-- 听众一次能复述主旨和关键细节；
-- 数字、时间、责任、条件与下一步更少被误解；
-- 出现停顿或错误后能继续，而不是退出对话；
-- 能主动确认问题、请求重复、换一种说法并总结共识；
-- 七天后撤掉原稿仍能组织相近任务；
-- 换主题、听众、设备或口音后仍能完成；
-- 能区分必须修复的问题、参考变体差异与身份偏好；
-- 对 AI、教师或听众的反馈能解释采纳与拒绝理由。
+- Người nghe có thể thuật lại ý chính và các chi tiết quan trọng chỉ sau một lần nghe;
+- Số lần hiểu nhầm về con số, thời gian, trách nhiệm, điều kiện và bước tiếp theo giảm xuống;
+- Có thể tiếp tục sau khi xuất hiện khoảng ngừng hoặc lỗi, thay vì rời khỏi cuộc hội thoại;
+- Có thể chủ động xác nhận câu hỏi, yêu cầu lặp lại, diễn đạt theo cách khác và tóm tắt sự đồng thuận;
+- Sau bảy ngày, khi bỏ bản thảo, vẫn có thể tổ chức một nhiệm vụ tương tự;
+- Vẫn hoàn thành được nhiệm vụ sau khi thay đổi chủ đề, người nghe, thiết bị hoặc giọng vùng miền;
+- Có thể phân biệt vấn đề bắt buộc phải sửa, khác biệt của biến thể tham chiếu và sở thích về bản sắc;
+- Có thể giải thích lý do tiếp nhận hoặc từ chối phản hồi của AI, giáo viên hay người nghe.
 
-流畅不是单位时间里塞进更多词，也不是把停顿全部剪掉。它是注意力逐渐从“我听起来够不够像别人”转回“我们是否仍在理解同一件事”。
+Trôi chảy không phải là nhồi thêm nhiều từ hơn trong cùng một đơn vị thời gian, cũng không phải cắt bỏ toàn bộ khoảng ngừng. Đó là khi sự chú ý dần chuyển từ “mình nghe có đủ giống người khác không” trở lại với câu hỏi “chúng ta có còn hiểu cùng một điều hay không”.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Derwing & Munro (2005), Second Language Accent and Pronunciation Teaching](https://doi.org/10.2307/3588486)：研究综述区分口音与沟通结果，并把相互可理解性放在重要位置，同时提醒口音具有社会影响。
-- [Levis (2005), Changing Contexts and Shifting Paradigms in Pronunciation Teaching](https://doi.org/10.2307/3588485)：文章讨论从减少口音转向可理解度、身份、世界英语与说听双方协商的范式变化。
-- [Saito (2012), Effects of Instruction on L2 Pronunciation Development](https://doi.org/10.1002/tesq.67)：对 15 项准实验干预研究进行综合；本章不把群体平均结果写成个人效果保证。
-- 发音、词汇、语域和可接受性会随地区、社群、任务和听众变化。重要交付应结合当前受众、可靠词典音频、专业反馈与真实任务复测。
+- [Derwing & Munro (2005), Second Language Accent and Pronunciation Teaching](https://doi.org/10.2307/3588486): Tổng quan nghiên cứu phân biệt giọng vùng miền với kết quả giao tiếp, đặt khả năng hiểu lẫn nhau ở vị trí quan trọng, đồng thời nhắc rằng giọng vùng miền có ảnh hưởng xã hội.
+- [Levis (2005), Changing Contexts and Shifting Paradigms in Pronunciation Teaching](https://doi.org/10.2307/3588485): Bài viết thảo luận sự chuyển đổi mô hình từ giảm giọng vùng miền sang khả năng dễ hiểu, bản sắc, tiếng Anh thế giới và sự thương lượng giữa người nói với người nghe.
+- [Saito (2012), Effects of Instruction on L2 Pronunciation Development](https://doi.org/10.1002/tesq.67): Tổng hợp 15 nghiên cứu can thiệp bán thực nghiệm; chương này không biến kết quả trung bình của nhóm thành sự bảo đảm về hiệu quả cá nhân.
+- Phát âm, từ vựng, ngữ vực và mức độ được chấp nhận thay đổi theo vùng miền, cộng đồng, nhiệm vụ và người nghe. Với những nội dung giao tiếp quan trọng, cần kết hợp đối tượng hiện tại, âm thanh từ điển đáng tin cậy, phản hồi chuyên môn và việc kiểm tra lại trong nhiệm vụ thực tế.
 
-相关入口：[听力篇](3-listening.md) ｜ [语法篇](grammar.md) ｜ [用 AI 学英语](7-ai.md) ｜ [口语证据卡](../../templates/speaking-evidence.md) ｜ [证据链模板](../../templates/evidence-chain.md)
+Lối vào liên quan: [Phần nghe](3-listening.md) ｜ [Phần ngữ pháp](grammar.md) ｜ [Học tiếng Anh cùng AI](7-ai.md) ｜ [Thẻ bằng chứng kỹ năng nói](../../templates/speaking-evidence.md) ｜ [Mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)
 
-## 结语：让意思抵达
+## Lời kết: để ý nghĩa được truyền đạt
 
-口语不是消灭口音，也不是从此不再停顿。它是在时间有限、句子并不完美的时候，仍然让另一个人知道你想说明什么、为什么这样想，以及接下来可以怎样回应。
+Kỹ năng nói không phải là xóa bỏ giọng vùng miền, cũng không phải từ nay về sau không bao giờ ngừng lại. Đó là việc, ngay cả khi thời gian có hạn và câu nói chưa hoàn hảo, vẫn khiến người khác biết bạn muốn giải thích điều gì, vì sao bạn nghĩ như vậy và tiếp theo họ có thể phản hồi thế nào.
 
-你可以停下来，可以换一个说法，也可以承认某个词暂时找不到。真正的流畅不是永远不出错，而是在出错以后仍然留在对话里，愿意修复，也愿意听见对方没有理解的地方。
+Bạn có thể dừng lại, có thể diễn đạt theo cách khác, cũng có thể thừa nhận rằng tạm thời chưa tìm được một từ nào đó. Sự trôi chảy thực sự không phải là không bao giờ mắc lỗi, mà là sau khi mắc lỗi vẫn ở lại trong cuộc hội thoại, sẵn sàng sửa chữa và sẵn sàng nghe thấy những điều đối phương chưa hiểu.
 
-当你说出第一句并不完美的话，又认真等待对方的回答，语言就不再是一场独自完成的表演。它成为关系：意思从你这里出发，在另一个人的理解里获得回声，然后带着新的问题回到你身边。
+Khi bạn nói ra câu đầu tiên chưa hoàn hảo và nghiêm túc chờ đợi câu trả lời của đối phương, ngôn ngữ không còn là màn trình diễn do một người hoàn thành. Nó trở thành một mối quan hệ: ý nghĩa xuất phát từ bạn, nhận được tiếng vọng trong sự hiểu biết của người khác, rồi mang theo những câu hỏi mới quay trở lại bên bạn.

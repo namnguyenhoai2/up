@@ -1,73 +1,73 @@
 ---
-title: 关系篇：在关系中成为成年人
-description: 从在场、边界、权力、同意、修复和离开出发，重新理解亲密关系、家庭、友谊与工作的责任和自由。
+title: "Chương về các mối quan hệ: Trưởng thành trong các mối quan hệ"
+description: Bắt đầu từ sự hiện diện, ranh giới, quyền lực, sự đồng thuận, hàn gắn và rời đi, để hiểu lại trách nhiệm và tự do trong các mối quan hệ thân mật, gia đình, tình bạn và công việc.
 updated: 2026-10-04
 ---
 
-# 关系篇：在关系中成为成年人
+# Chương về các mối quan hệ: Trưởng thành trong các mối quan hệ
 
-一个人很容易在独处时相信自己已经足够成熟。真正的检验发生在关系里：有人误解你，有人让你失望，有人需要你，而你也正在疲惫、害怕或想逃走。
+Khi ở một mình, một người rất dễ tin rằng mình đã đủ trưởng thành. Bài kiểm tra thực sự diễn ra trong các mối quan hệ: có người hiểu lầm bạn, có người khiến bạn thất vọng, có người cần bạn, trong khi chính bạn cũng đang mệt mỏi, sợ hãi hoặc muốn bỏ chạy.
 
-我曾经以为，爱一个人就是替她规划更好的未来；后来才知道，关系不是一个人展示能力的舞台。它需要两个具体的人，在有限的时间、钱、精力和情绪里，反复确认：我们正在经历什么？哪些事情可以一起承担？哪些边界不能被越过？
+Tôi từng nghĩ rằng yêu một người nghĩa là vạch ra cho cô ấy một tương lai tốt đẹp hơn; sau này tôi mới hiểu, một mối quan hệ không phải là sân khấu để một người phô diễn năng lực. Nó cần hai con người cụ thể, trong giới hạn của thời gian, tiền bạc, năng lượng và cảm xúc, không ngừng xác nhận: Chúng ta đang trải qua điều gì? Những việc nào có thể cùng nhau gánh vác? Những ranh giới nào không được vượt qua?
 
-所谓在关系中成为成年人，不是永远冷静，也不是从不犯错，而是逐渐学会把感受说清楚，把责任分开，把承诺写得小一点，把对方的自由当作现实的一部分。
+Trở thành người trưởng thành trong một mối quan hệ không có nghĩa là luôn bình tĩnh, cũng không có nghĩa là không bao giờ mắc lỗi, mà là dần học cách nói rõ cảm xúc, tách bạch trách nhiệm, viết những lời cam kết nhỏ hơn, và xem tự do của đối phương là một phần của thực tế.
 
-## 本章速览
+## Tổng quan chương
 
-- 在场比及时给建议更重要，倾听不是等待反驳的间隙；
-- 边界不是惩罚对方，而是说明自己能做什么、不能做什么；
-- 冲突时先处理安全和事实，再谈立场和输赢；
-- 道歉要面对影响，修复要留下可观察的改变，和好不能被当作修复的验收条件；
-- 权力越不对等，越需要保护真实拒绝、撤回同意和无报复退出的空间；
-- 离开也可以是负责任的选择；
-- 不把 AI 当成操控感情、窥探隐私或替自己说出承诺的工具。
+- Hiện diện quan trọng hơn việc lập tức đưa ra lời khuyên; lắng nghe không phải là khoảng trống để chờ phản bác;
+- Ranh giới không phải là hình phạt dành cho đối phương, mà là nói rõ mình có thể làm gì và không thể làm gì;
+- Khi xung đột, trước hết hãy xử lý sự an toàn và sự thật, sau đó mới bàn về lập trường và thắng thua;
+- Xin lỗi phải đối diện với tác động; hàn gắn phải để lại những thay đổi có thể quan sát; làm hòa không thể bị xem là điều kiện nghiệm thu của việc hàn gắn;
+- Quyền lực càng bất cân xứng, càng cần bảo vệ không gian cho sự từ chối chân thật, rút lại sự đồng thuận và rời đi mà không bị trả đũa;
+- Rời đi cũng có thể là một lựa chọn có trách nhiệm;
+- Không coi AI là công cụ thao túng tình cảm, dòm ngó đời tư hoặc thay mình nói ra những lời cam kết.
 
-## 1. 在场：先让对方被听见
+## 1. Hiện diện: Trước hết hãy để đối phương được lắng nghe
 
-很多争吵并不是因为两个人没有答案，而是因为其中一个人还没有被真正听见。我们急着解释、安慰、分析和解决，往往跳过了对方正在经历的事实。
+Nhiều cuộc cãi vã không phải vì hai người không có câu trả lời, mà vì một trong hai vẫn chưa thực sự được lắng nghe. Chúng ta vội giải thích, an ủi, phân tích và giải quyết, thường bỏ qua những gì đối phương đang trải qua.
 
-一次完整的倾听，可以先做三步：
+Một lần lắng nghe trọn vẹn có thể bắt đầu bằng ba bước:
 
-1. **复述事实**： “我听见你今天在会议上被当众否定了。”
-2. **确认感受**： “这让你很委屈，也有些孤单。”
-3. **询问需要**： “你现在想让我听你说，还是一起想办法？”
+1. **Nhắc lại sự việc**: “Tôi nghe bạn nói rằng hôm nay bạn bị phủ nhận trước mặt mọi người trong cuộc họp.”
+2. **Xác nhận cảm xúc**: “Điều đó khiến bạn rất tủi thân và cũng có phần cô đơn.”
+3. **Hỏi về nhu cầu**: “Bây giờ bạn muốn tôi lắng nghe bạn nói, hay cùng nhau nghĩ cách giải quyết?”
 
-这不是心理咨询话术，而是给谈话留出一个不被抢走的开头。对方不一定需要你同意，也不一定需要你立刻解决；有时他只需要知道，自己的经历没有被你轻轻推开。
+Đây không phải là những câu chữ trong kỹ thuật tư vấn tâm lý, mà là cách dành cho cuộc trò chuyện một khởi đầu không bị giành mất. Đối phương không nhất thiết cần bạn đồng ý, cũng không nhất thiết cần bạn lập tức giải quyết; đôi khi họ chỉ cần biết rằng trải nghiệm của mình không bị bạn nhẹ nhàng gạt sang một bên.
 
-在场也包括承认自己的容量：
+Hiện diện cũng bao gồm việc thừa nhận giới hạn của bản thân:
 
-> “我现在很累，但我愿意认真听十分钟。十分钟后如果还没说完，我们明天继续。”
+> “Bây giờ tôi rất mệt, nhưng tôi sẵn lòng nghiêm túc lắng nghe trong mười phút. Nếu mười phút mà vẫn chưa nói xong, ngày mai chúng ta nói tiếp.”
 
-有限的在场，比敷衍的全天候承诺更可靠。
+Sự hiện diện có giới hạn đáng tin cậy hơn một lời hứa phục vụ cả ngày nhưng hời hợt.
 
-## 2. 边界：把责任放回各自手里
+## 2. Ranh giới: Đưa trách nhiệm về đúng tay mỗi người
 
-没有边界的关系，表面上很亲密，实际上每个人都在猜测、试探和积累怨气。边界不是“你必须怎样”，而是“当某件事发生时，我会怎样保护自己并说明后果”。
+Một mối quan hệ không có ranh giới, bề ngoài có vẻ rất thân mật, nhưng thực tế mọi người đều đang phỏng đoán, thăm dò và tích tụ oán giận. Ranh giới không phải là “bạn nhất định phải thế này”, mà là “khi một việc nào đó xảy ra, tôi sẽ bảo vệ mình như thế nào và nói rõ hậu quả ra sao”.
 
-把下面两句话区分开：
+Hãy phân biệt hai câu sau:
 
-- 控制：“你不许再和那个人联系。”
-- 边界：“如果谈话继续出现辱骂，我会先结束这次通话，等双方冷静后再约时间。”
+- Kiểm soát: “Bạn không được liên lạc với người đó nữa.”
+- Ranh giới: “Nếu cuộc trò chuyện tiếp tục có lời lăng mạ, tôi sẽ kết thúc cuộc gọi này trước, rồi hẹn thời gian khác khi cả hai đã bình tĩnh.”
 
-边界应该尽量具体：行为是什么、我能做什么、什么时候重新沟通。它不需要对方完全赞同才能成立，但需要你自己愿意执行。
+Ranh giới nên càng cụ thể càng tốt: hành vi là gì, tôi có thể làm gì, khi nào sẽ trao đổi lại. Ranh giới không cần đối phương hoàn toàn đồng tình mới có hiệu lực, nhưng bạn phải sẵn lòng thực hiện nó.
 
-关系中常见的边界包括：
+Những ranh giới thường gặp trong các mối quan hệ gồm:
 
-- 时间边界：我今晚只能谈 20 分钟；
-- 信息边界：这件事涉及第三方隐私，我不会转发截图；
-- 金钱边界：我能借出的金额和归还日期是什么；
-- 工作边界：下班后哪些情况可以联系我；
-- 身体边界：任何亲密行为都需要当下明确同意。
+- Ranh giới thời gian: Tối nay tôi chỉ có thể nói chuyện 20 phút;
+- Ranh giới thông tin: Việc này liên quan đến đời tư của bên thứ ba, tôi sẽ không chuyển tiếp ảnh chụp màn hình;
+- Ranh giới tiền bạc: Số tiền tôi có thể cho vay và ngày hoàn trả là bao nhiêu;
+- Ranh giới công việc: Sau giờ làm, trong những trường hợp nào bạn có thể liên lạc với tôi;
+- Ranh giới cơ thể: Mọi hành vi thân mật đều cần có sự đồng thuận rõ ràng tại thời điểm đó.
 
-边界不是把人推远，而是让靠近不再依赖猜谜。
+Ranh giới không đẩy con người ra xa, mà khiến sự gần gũi không còn phụ thuộc vào việc đoán ý.
 
-## 3. 冲突：先处理安全，再处理观点
+## 3. Xung đột: Trước hết xử lý sự an toàn, sau đó mới xử lý quan điểm
 
-观点不同不等于关系失败。真正需要优先处理的是威胁、暴力、持续羞辱、跟踪、经济控制和其他让人无法安全表达的行为。
+Khác biệt quan điểm không đồng nghĩa với thất bại của mối quan hệ. Điều thực sự cần được ưu tiên xử lý là đe dọa, bạo lực, làm nhục kéo dài, theo dõi, kiểm soát kinh tế và những hành vi khác khiến một người không thể bày tỏ một cách an toàn.
 
-如果谈话中出现这些风险，先离开现场、联系可信任的人和专业支持，不要把“沟通技巧”当作解决危险的唯一工具。安全没有被保障时，双方是否学会非暴力表达并不是首要问题。
+Nếu những rủi ro này xuất hiện trong cuộc trò chuyện, trước hết hãy rời khỏi hiện trường, liên hệ với người đáng tin cậy và các dịch vụ hỗ trợ chuyên môn; đừng coi “kỹ năng giao tiếp” là công cụ duy nhất để giải quyết nguy hiểm. Khi sự an toàn chưa được bảo đảm, việc hai bên có học được cách diễn đạt bất bạo lực hay không không phải là vấn đề hàng đầu.
 
-在相对安全的冲突里，可以使用一个简单结构：
+Trong những xung đột tương đối an toàn, có thể sử dụng một cấu trúc đơn giản:
 
 ```text
 当我观察到【具体事实】时，我感到【具体影响】。
@@ -76,151 +76,151 @@ updated: 2026-10-04
 如果做不到，我会【自己能执行的边界】。
 ```
 
-例如：
+Ví dụ:
 
-> 当项目变更没有提前告诉我时，我会在交付前反复返工。我需要知道哪些决定已经确定。我希望以后每次变更都在共享文档里留下日期和负责人；如果今晚还没有确认，我会先暂停发布。
+> Khi dự án thay đổi mà không báo trước cho tôi, tôi sẽ phải làm lại nhiều lần trước thời hạn bàn giao. Tôi cần biết những quyết định nào đã được xác định. Tôi mong rằng từ nay mỗi thay đổi đều được ghi ngày tháng và người phụ trách trong tài liệu dùng chung; nếu tối nay vẫn chưa xác nhận, tôi sẽ tạm dừng việc phát hành.
 
-这个结构不保证对方接受，但它能让你停止用人格判断代替事实沟通。
+Cấu trúc này không bảo đảm đối phương sẽ chấp nhận, nhưng giúp bạn ngừng dùng phán xét về nhân cách để thay thế cho việc trao đổi dựa trên sự thật.
 
-## 4. 道歉：不把痛苦当成免责条款
+## 4. Xin lỗi: Không biến nỗi đau thành điều khoản miễn trách
 
-真正的道歉不以“我也很难受”开头。你的痛苦可以被看见，但它不能抹掉别人承受的影响。
+Một lời xin lỗi chân thành không bắt đầu bằng “Tôi cũng rất khó chịu”. Nỗi đau của bạn có thể được nhìn nhận, nhưng không thể xóa đi tác động mà người khác đã phải chịu.
 
-一份负责任的道歉应当包含：
+Một lời xin lỗi có trách nhiệm nên bao gồm:
 
-1. 具体说出自己做了什么；
-2. 承认这件事给对方造成了什么影响；
-3. 不用环境、压力或善意替自己减刑；
-4. 说明一个可观察的修正动作；
-5. 接受对方可能不回复、不原谅或需要离开的事实。
+1. Nói cụ thể mình đã làm gì;
+2. Thừa nhận việc đó đã gây ra tác động gì cho đối phương;
+3. Không dùng hoàn cảnh, áp lực hay ý tốt để giảm nhẹ trách nhiệm;
+4. Nêu một hành động sửa chữa có thể quan sát được;
+5. Chấp nhận việc đối phương có thể không trả lời, không tha thứ hoặc cần rời đi.
 
-“对不起，你别生气了”通常是在请求对方尽快照顾你的情绪。更诚实的说法是：
+“Xin lỗi, bạn đừng giận nữa” thường là đang yêu cầu đối phương nhanh chóng chăm lo cảm xúc của bạn. Cách nói thành thật hơn là:
 
-> “我在没有确认的情况下替你做了决定，导致你承担了额外压力。这个影响是我造成的。接下来我会先征求你的同意，并在本周把相关安排改回由你决定。你不需要现在回复我。”
+> “Tôi đã tự quyết định thay bạn mà không xác nhận trước, khiến bạn phải chịu thêm áp lực. Tác động này là do tôi gây ra. Từ nay tôi sẽ hỏi ý kiến và xin sự đồng thuận của bạn trước, đồng thời trong tuần này sẽ điều chỉnh lại các sắp xếp liên quan để bạn là người quyết định. Bạn không cần trả lời tôi ngay bây giờ.”
 
-道歉之后，行动才开始。一次漂亮的长文，不如几周里稳定、没有掌声的改变。
+Sau lời xin lỗi, hành động mới bắt đầu. Một bài viết dài đẹp đẽ không bằng sự thay đổi ổn định, không có tiếng vỗ tay, kéo dài qua vài tuần.
 
-## 5. 修复：不是把关系恢复成原样
+## 5. Hàn gắn: Không phải đưa mối quan hệ trở lại như cũ
 
-道歉回答“我是否愿意承认影响”，修复回答“接下来的生活会不会因此不同”。如果同一种伤害不断发生，而每次都用更动人的解释结束，语言就会成为拖延改变的工具。
+Lời xin lỗi trả lời câu hỏi “Tôi có sẵn lòng thừa nhận tác động hay không”, còn hàn gắn trả lời câu hỏi “Cuộc sống sau này có khác đi vì chuyện đó hay không”. Nếu cùng một tổn thương liên tục lặp lại, và lần nào cũng kết thúc bằng một lời giải thích cảm động hơn, ngôn từ sẽ trở thành công cụ trì hoãn thay đổi.
 
-修复通常至少经过四步：
+Hàn gắn thường ít nhất trải qua bốn bước:
 
-1. **先停止伤害**：撤下公开内容、停止辱骂、暂停未经同意的决定，或控制正在扩大的财务风险；
-2. **让影响被说清楚**：听见对方失去了什么，不急着证明自己的动机；
-3. **归还能够归还的东西**：时间、钱、选择权、署名、隐私、劳动或一份迟到的说明；
-4. **在一段时间里改变行为**：约定谁做什么、何时复查、再次发生时如何处理。
+1. **Trước hết chấm dứt tổn thương**: Gỡ nội dung công khai, ngừng lăng mạ, tạm dừng quyết định khi chưa có sự đồng thuận, hoặc kiểm soát rủi ro tài chính đang lan rộng;
+2. **Để tác động được nói rõ**: Lắng nghe những gì đối phương đã mất, không vội chứng minh động cơ của mình;
+3. **Hoàn trả những gì có thể hoàn trả**: Thời gian, tiền bạc, quyền lựa chọn, quyền ghi tên, sự riêng tư, công sức hoặc một lời giải thích đến muộn;
+4. **Thay đổi hành vi trong một khoảng thời gian**: Thống nhất ai làm gì, khi nào xem xét lại, và sẽ xử lý thế nào nếu chuyện đó lặp lại.
 
-| 看似在修复 | 真正需要留下的证据 |
+| Trông có vẻ đang hàn gắn | Bằng chứng thực sự cần để lại |
 | --- | --- |
-| 写了一封很长的道歉信 | 受影响的行为停止了，边界被持续遵守 |
-| 解释当时为什么那么做 | 影响被承认，责任没有转回受伤的人 |
-| 对方说“算了” | 对方可以不安慰、不原谅，也不会因此受罚 |
-| 一次补偿或一次浪漫行动 | 共同生活中的责任、信息和选择权发生稳定改变 |
+| Viết một lá thư xin lỗi rất dài | Hành vi gây ảnh hưởng đã dừng lại, ranh giới được tuân thủ bền bỉ |
+| Giải thích vì sao lúc đó mình lại làm như vậy | Tác động được thừa nhận, trách nhiệm không bị đẩy ngược về phía người bị tổn thương |
+| Đối phương nói “thôi bỏ qua” | Đối phương có thể không an ủi, không tha thứ mà không vì thế bị trừng phạt |
+| Một lần bồi thường hoặc một hành động lãng mạn | Trách nhiệm, thông tin và quyền lựa chọn trong đời sống chung thay đổi ổn định |
 
-修复不等于和好。对方可以承认你在改变，同时仍然决定保持距离；一段关系也可以结束，而迟到的归还、说明和责任仍然值得完成。不要把“你必须回来”藏在道歉和补偿里面。
+Hàn gắn không đồng nghĩa với làm hòa. Đối phương có thể thừa nhận rằng bạn đang thay đổi, đồng thời vẫn quyết định giữ khoảng cách; một mối quan hệ cũng có thể kết thúc, trong khi việc hoàn trả, giải thích và chịu trách nhiệm đến muộn vẫn đáng được hoàn tất. Đừng giấu yêu cầu “bạn phải quay lại” bên trong lời xin lỗi và sự bồi thường.
 
-真正困难的修复往往很安静。它没有宣言，只是在下一次冲突里少一次羞辱，在下一笔支出前多一次确认，在下一篇公开文字里不再拿别人的隐私替自己的故事增加重量。
+Việc hàn gắn thực sự khó thường diễn ra rất lặng lẽ. Nó không có lời tuyên bố, chỉ là trong cuộc xung đột tiếp theo bớt đi một lần làm nhục, trước khoản chi tiếp theo có thêm một lần xác nhận, và trong bài viết công khai tiếp theo không còn lấy đời tư của người khác làm sức nặng cho câu chuyện của mình.
 
-## 6. 亲密关系里的共同生活
+## 6. Đời sống chung trong mối quan hệ thân mật
 
-亲密关系不是持续浪漫的表演，而是许多具体事务的共同管理：钱、家务、睡眠、工作、孩子、父母、空间和未来的不确定。
+Mối quan hệ thân mật không phải là màn trình diễn lãng mạn liên tục, mà là cùng quản lý nhiều công việc cụ thể: tiền bạc, việc nhà, giấc ngủ, công việc, con cái, cha mẹ, không gian và những bất định của tương lai.
 
-可以每周安排一次 30 分钟的“生活会议”，只讨论四件事：
+Có thể sắp xếp một “cuộc họp đời sống” kéo dài 30 phút mỗi tuần, chỉ thảo luận bốn việc:
 
-- 这周什么事情让我们感到被支持？
-- 哪件具体事务正在制造压力？
-- 下周谁负责什么，何时完成？
-- 哪个问题不在今晚解决，但需要约定复查日期？
+- Tuần này, điều gì khiến chúng ta cảm thấy được hỗ trợ?
+- Công việc cụ thể nào đang tạo ra áp lực?
+- Tuần tới ai phụ trách việc gì, hoàn thành khi nào?
+- Vấn đề nào không giải quyết tối nay, nhưng cần thống nhất ngày xem xét lại?
 
-会议的目的不是把关系变成项目管理，而是让隐形的劳动和情绪不再只由一个人默默承担。浪漫需要空间，可靠也需要日历。
+Mục đích của cuộc họp không phải biến mối quan hệ thành quản lý dự án, mà là để công việc và cảm xúc vô hình không còn chỉ do một người âm thầm gánh vác. Sự lãng mạn cần không gian, còn sự đáng tin cậy cũng cần lịch trình.
 
-## 7. 家庭、友谊与工作的边界
+## 7. Ranh giới trong gia đình, tình bạn và công việc
 
-不同关系的承诺不同，不要用同一套标准要求所有人：
+Cam kết trong các mối quan hệ khác nhau cũng khác nhau, đừng dùng cùng một tiêu chuẩn để yêu cầu tất cả mọi người:
 
-- 家庭可以提供长期支持，但不意味着拥有你全部的选择权；
-- 朋友可以陪伴和提醒，但不能被迫承担治疗、借贷或拯救责任；
-- 同事需要清晰协作，不需要知道你所有的私人细节；
-- 管理者要对团队负责，但不能以“大家是一家人”取消劳动边界。
+- Gia đình có thể cung cấp sự hỗ trợ lâu dài, nhưng không có nghĩa là họ sở hữu toàn bộ quyền lựa chọn của bạn;
+- Bạn bè có thể đồng hành và nhắc nhở, nhưng không thể bị buộc phải gánh trách nhiệm trị liệu, cho vay hoặc cứu rỗi;
+- Đồng nghiệp cần phối hợp rõ ràng, không cần biết tất cả chi tiết riêng tư của bạn;
+- Người quản lý phải chịu trách nhiệm với đội ngũ, nhưng không thể dùng câu “mọi người là một gia đình” để xóa bỏ ranh giới lao động.
 
-关系越重要，越需要把“我希望你理解”翻译成具体请求。期待没有说出口时，最后常常会以指责的形式出现。
+Mối quan hệ càng quan trọng, càng cần chuyển “Tôi mong bạn hiểu” thành một yêu cầu cụ thể. Khi kỳ vọng không được nói ra, cuối cùng nó thường xuất hiện dưới dạng lời trách móc.
 
-## 8. 权力差异：让拒绝真的有出口
+## 8. Khác biệt quyền lực: Để sự từ chối thực sự có lối thoát
 
-人格尊严可以平等，现实权力却常常不平等。管理者决定绩效，父母掌握未成年人的生活条件，照护者控制信息和行动，经济提供者影响住所与日常支出，平台管理员拥有账号和数据。越有能力让对方承担后果的人，越不能把一句“他也同意了”当作全部证明。
+Nhân phẩm có thể bình đẳng, nhưng quyền lực trong thực tế thường không bình đẳng. Người quản lý quyết định hiệu suất, cha mẹ nắm giữ điều kiện sống của trẻ vị thành niên, người chăm sóc kiểm soát thông tin và hành động, người chu cấp tài chính ảnh hưởng đến nơi ở và chi tiêu hằng ngày, quản trị viên nền tảng sở hữu tài khoản và dữ liệu. Người càng có khả năng khiến đối phương phải gánh chịu hậu quả, càng không thể xem câu “người đó cũng đồng ý mà” là toàn bộ bằng chứng.
 
-真实同意至少需要四个条件：
+Sự đồng thuận thực sự ít nhất cần bốn điều kiện:
 
-- **具体**：同意一件事，不等于同意所有后续用途；
-- **知情**：重要代价、公开范围和替代选项没有被隐藏；
-- **当下**：过去的同意不能无限延长到今天；
-- **可撤回**：拒绝、暂停或改变决定不会立刻带来羞辱、报复或基本生活威胁。
+- **Cụ thể**: Đồng ý một việc không có nghĩa là đồng ý với mọi mục đích sử dụng về sau;
+- **Được biết đầy đủ**: Những cái giá quan trọng, phạm vi công khai và các lựa chọn thay thế không bị che giấu;
+- **Tại thời điểm hiện tại**: Sự đồng thuận trong quá khứ không thể kéo dài vô hạn đến hôm nay;
+- **Có thể rút lại**: Việc từ chối, tạm dừng hoặc thay đổi quyết định không lập tức dẫn đến làm nhục, trả đũa hay đe dọa những nhu cầu sống cơ bản.
 
-沉默不是自动同意，依赖也不是空白授权。一个人如果必须冒着失去工作、住所、照护、学业机会或关系安全的风险才能说“不”，这段关系就需要更明确的退出通道，而不是更漂亮的劝说。
+Im lặng không tự động là đồng thuận, lệ thuộc cũng không phải là giấy ủy quyền trống. Nếu một người phải mạo hiểm mất việc, chỗ ở, sự chăm sóc, cơ hội học tập hoặc sự an toàn của mối quan hệ mới có thể nói “không”, mối quan hệ đó cần một lối rút lui rõ ràng hơn, chứ không phải những lời thuyết phục hoa mỹ hơn.
 
-可以根据场景增加保护：允许私下拒绝；把共同资金、账号和重要文件保持可查；让关键决定有冷静期；引入不受单方控制的第三人；说明撤回照片、故事和数据的方法；明确拒绝不会影响评价、照护或基本尊重。成年人尤其不应让孩子为家庭冲突传话，或用孩子无法真正拒绝的“同意”公开其隐私。
+Có thể tăng cường bảo vệ tùy theo hoàn cảnh: cho phép từ chối riêng tư; giữ cho tài chính chung, tài khoản và giấy tờ quan trọng có thể được kiểm tra; dành thời gian bình tĩnh trước các quyết định then chốt; đưa vào một bên thứ ba không chịu sự kiểm soát của một phía; nêu rõ cách rút lại ảnh, câu chuyện và dữ liệu; khẳng định rằng việc từ chối không ảnh hưởng đến đánh giá, sự chăm sóc hay sự tôn trọng cơ bản. Đặc biệt, người lớn không nên để trẻ em truyền đạt xung đột gia đình, hoặc dùng sự “đồng thuận” mà trẻ không thể thực sự từ chối để công khai đời tư của trẻ.
 
-权力本身不等于伤害。权力不被检查、善意被当成许可时，伤害才更容易越过边界。
+Bản thân quyền lực không đồng nghĩa với tổn thương. Tổn thương dễ vượt qua ranh giới hơn khi quyền lực không được kiểm tra và ý tốt bị xem là sự cho phép.
 
-## 9. AI 时代的关系伦理
+## 9. Đạo đức quan hệ trong thời đại AI
 
-当 AI 可以模仿语气、生成道歉、分析聊天记录时，我们更需要知道哪些事情不该交给工具：
+Khi AI có thể bắt chước giọng điệu, tạo lời xin lỗi và phân tích lịch sử trò chuyện, chúng ta càng cần biết những việc nào không nên giao cho công cụ:
 
-- 不上传未经同意的私密聊天、照片、录音和身份信息；
-- 不让 AI 伪造自己的情绪、承诺或道歉；
-- 不用模型批量生成操控、施压或诱导对方的消息；
-- 不把 AI 对一个人的推测当作诊断、事实或道德判决；
-- 公开涉及他人的故事前，重新确认授权、必要范围和可删除性。
+- Không tải lên các cuộc trò chuyện riêng tư, ảnh, bản ghi âm và thông tin nhận dạng khi chưa được đồng ý;
+- Không để AI giả tạo cảm xúc, lời cam kết hoặc lời xin lỗi của mình;
+- Không dùng mô hình để tạo hàng loạt tin nhắn thao túng, gây áp lực hoặc dụ dỗ đối phương;
+- Không xem suy đoán của AI về một người là chẩn đoán, sự thật hay phán quyết đạo đức;
+- Trước khi công khai câu chuyện liên quan đến người khác, hãy xác nhận lại sự cho phép, phạm vi cần thiết và khả năng xóa bỏ.
 
-AI 可以帮你把一段混乱的感受整理成草稿，也可以模拟对方可能提出的问题；真正的谈话、同意和责任仍然必须由人完成。
+AI có thể giúp bạn sắp xếp một cảm xúc hỗn loạn thành bản nháp, cũng có thể mô phỏng những câu hỏi mà đối phương có thể đưa ra; nhưng cuộc trò chuyện, sự đồng thuận và trách nhiệm thực sự vẫn phải do con người hoàn thành.
 
-## 10. 离开：不是所有关系都需要被挽回
+## 10. Rời đi: Không phải mối quan hệ nào cũng cần được cứu vãn
 
-成长叙事常常把坚持写得很高贵，把离开写成失败。可一段关系如果长期让人恐惧、羞耻、失去安全或无法保持自我，离开可能是对双方最诚实的选择。
+Câu chuyện trưởng thành thường viết sự kiên trì như một điều cao quý, còn rời đi như một thất bại. Nhưng nếu một mối quan hệ trong thời gian dài khiến một người sợ hãi, xấu hổ, mất đi sự an toàn hoặc không thể giữ được chính mình, rời đi có thể là lựa chọn thành thật nhất đối với cả hai bên.
 
-离开之前，先区分三件事：
+Trước khi rời đi, hãy phân biệt ba điều:
 
-- 我是在逃避一次可以修复的冲突，还是在回应持续的伤害？
-- 我是否已经清楚表达过边界和需要？
-- 继续留下的代价由谁承担，是否有人处于危险之中？
+- Tôi đang né tránh một xung đột có thể hàn gắn, hay đang phản ứng trước tổn thương kéo dài?
+- Tôi đã nói rõ ranh giới và nhu cầu của mình chưa?
+- Cái giá của việc tiếp tục ở lại do ai gánh chịu, và có ai đang ở trong tình trạng nguy hiểm không?
 
-如果存在暴力、威胁或跟踪，优先制定安全计划并寻求专业帮助，不要单独进行“最后一次谈判”。
+Nếu có bạo lực, đe dọa hoặc theo dõi, hãy ưu tiên lập kế hoạch an toàn và tìm kiếm sự trợ giúp chuyên môn, đừng một mình tiến hành “cuộc thương lượng cuối cùng”.
 
-离开也需要边界：说清楚必要事实，安排物品、财务和照护，减少反复解释，不用新的伤害证明旧的决定正确。
+Rời đi cũng cần có ranh giới: nói rõ những sự thật cần thiết, sắp xếp đồ đạc, tài chính và việc chăm sóc, giảm việc giải thích lặp đi lặp lại, không dùng những tổn thương mới để chứng minh quyết định cũ là đúng.
 
-## 11. 七天关系练习
+## 11. Bài tập về mối quan hệ trong bảy ngày
 
-1. **第 1 天**：写下一个你希望改善的关系，不写对方的性格判决；
-2. **第 2 天**：记录一次谈话中的事实、感受和需要；
-3. **第 3 天**：向对方提出一个小而具体的请求；
-4. **第 4 天**：为一个反复出现的问题写出自己的边界；
-5. **第 5 天**：完成一次不看手机的 20 分钟谈话；
-6. **第 6 天**：为一次过往伤害写道歉草稿，再写下一个无需对方原谅也会完成的修复动作；
-7. **第 7 天**：检查拒绝是否真的安全，再判断这段关系需要继续靠近、保持距离、寻求帮助，还是开始离开。
+1. **Ngày 1**: Viết ra một mối quan hệ mà bạn muốn cải thiện, không phán xét tính cách của đối phương;
+2. **Ngày 2**: Ghi lại sự thật, cảm xúc và nhu cầu trong một cuộc trò chuyện;
+3. **Ngày 3**: Đưa ra với đối phương một yêu cầu nhỏ và cụ thể;
+4. **Ngày 4**: Viết ranh giới của mình cho một vấn đề thường xuyên lặp lại;
+5. **Ngày 5**: Hoàn thành một cuộc trò chuyện kéo dài 20 phút mà không nhìn điện thoại;
+6. **Ngày 6**: Viết nháp lời xin lỗi cho một tổn thương trong quá khứ, sau đó viết ra một hành động hàn gắn mà bạn vẫn sẽ hoàn thành dù đối phương không tha thứ;
+7. **Ngày 7**: Kiểm tra xem việc từ chối có thực sự an toàn hay không, sau đó quyết định mối quan hệ này cần tiếp tục gần gũi, giữ khoảng cách, tìm kiếm sự trợ giúp hay bắt đầu rời đi.
 
-不要把七天练习变成逼迫别人改变的任务。你能直接控制的，只有自己的表达、边界、行动和求助方式。
+Đừng biến bài tập bảy ngày thành nhiệm vụ ép buộc người khác thay đổi. Điều bạn có thể trực tiếp kiểm soát chỉ là cách diễn đạt, ranh giới, hành động và cách tìm kiếm sự giúp đỡ của chính mình.
 
-可以把第 2–7 天的记录复制到[生活进阶工作表](../../templates/life-practice-toolkit.md)中的关系沟通卡；如果对方不愿意参与，仍然可以只记录自己的边界、责任、修复动作和下一次复查日期。
+Bạn có thể sao chép ghi chép từ ngày 2–7 vào[bảng bài tập nâng cao về đời sống](../../templates/life-practice-toolkit.md)thẻ giao tiếp trong các mối quan hệ; nếu đối phương không muốn tham gia, bạn vẫn có thể chỉ ghi lại ranh giới, trách nhiệm, hành động hàn gắn và ngày xem xét lại tiếp theo của mình.
 
-## 12. 关系的阶段性标准
+## 12. Tiêu chuẩn theo từng giai đoạn của một mối quan hệ
 
-一段健康的关系不必没有冲突，但通常能让人：
+Một mối quan hệ lành mạnh không nhất thiết phải không có xung đột, nhưng thường có thể giúp một người:
 
-- 说出不同意见，而不必先证明自己值得被爱；
-- 表达拒绝，而不担心遭到惩罚或报复；
-- 在权力和资源不对等时，仍有知情、暂停和撤回同意的空间；
-- 看见彼此的付出，也承认各自的有限；
-- 在造成伤害后停止行为、归还责任、持续修正，并接受修复不必带来和好；
-- 在需要时寻求外部支持，而不是把两个人关进孤岛；
-- 允许关系变化，不把离开解释成某个人没有价值。
+- Nói ra ý kiến khác biệt mà không cần trước hết chứng minh mình xứng đáng được yêu;
+- Bày tỏ sự từ chối mà không lo bị trừng phạt hoặc trả đũa;
+- Khi quyền lực và nguồn lực không ngang bằng, vẫn có không gian để được biết đầy đủ thông tin, tạm dừng và rút lại sự đồng thuận;
+- Nhìn thấy những đóng góp của nhau, đồng thời thừa nhận giới hạn của mỗi người;
+- Sau khi gây tổn thương, dừng hành vi, nhận lại trách nhiệm, không ngừng sửa đổi và chấp nhận rằng hàn gắn không nhất thiết dẫn đến làm hòa;
+- Khi cần, tìm kiếm sự hỗ trợ bên ngoài thay vì nhốt hai người vào một hòn đảo biệt lập;
+- Cho phép mối quan hệ thay đổi, không giải thích việc rời đi là vì một người nào đó không có giá trị.
 
-如果一段关系让你长期处于恐惧和控制中，先求助，再谈“如何变得更会沟通”。
+Nếu một mối quan hệ khiến bạn luôn sống trong sợ hãi và bị kiểm soát, hãy tìm kiếm sự giúp đỡ trước, rồi mới nói về việc “làm thế nào để giao tiếp tốt hơn”.
 
-当边界得到尊重，我们也可以继续练习怎样珍惜：[珍惜篇：从爱与牵挂中获得力量](care-and-carry-on.md)把在场带入日常照料、表达感谢、接受支持与共同分担。可以使用[生活进阶工作表](../../templates/life-practice-toolkit.md)中的“关心与分担卡”，一起决定一件具体事务；家人或伴侣不必成为唯一或必需的支持者，拒绝一项请求也不等于拒绝这段关系。
+Khi ranh giới được tôn trọng, chúng ta cũng có thể tiếp tục học cách trân trọng: [Chương về trân trọng: Tìm thấy sức mạnh từ tình yêu và sự quan tâm](care-and-carry-on.md)đưa sự hiện diện vào việc chăm sóc hằng ngày, bày tỏ lòng biết ơn, đón nhận sự hỗ trợ và cùng nhau gánh vác. Có thể sử dụng “thẻ quan tâm và cùng chia sẻ” trong[bảng bài tập nâng cao về đời sống](../../templates/life-practice-toolkit.md)để cùng quyết định một công việc cụ thể; người thân hoặc bạn đời không nhất thiết phải là người hỗ trợ duy nhất hoặc bắt buộc, và từ chối một yêu cầu không đồng nghĩa với từ chối mối quan hệ này.
 
-## 结语：让爱有边界，让选择有尊重
+## Lời kết: Để tình yêu có ranh giới, để lựa chọn có sự tôn trọng
 
-我仍然会在关系里犯错，也仍然会把沉默误读成体谅，把坚持误读成负责。现在我更愿意慢一点：先听见事实，说明自己的边界，承担造成的影响，再决定是否继续靠近。
+Tôi vẫn sẽ mắc lỗi trong các mối quan hệ, vẫn sẽ hiểu sự im lặng thành sự cảm thông, hiểu sự kiên trì thành trách nhiệm. Giờ đây tôi sẵn lòng chậm lại hơn: trước hết lắng nghe sự thật, nói rõ ranh giới của mình, chịu trách nhiệm về tác động đã gây ra, rồi mới quyết định có tiếp tục đến gần hay không.
 
-爱不是替另一个人设计人生，也不是把自己牺牲到无法呼吸。爱更像一种持续的尊重：我愿意在场，也承认你拥有自己的路；我愿意修复，也接受你可能选择离开。
+Tình yêu không phải là thiết kế cuộc đời thay cho một người khác, cũng không phải hy sinh bản thân đến mức không thể thở. Tình yêu giống một sự tôn trọng bền bỉ hơn: tôi sẵn lòng hiện diện, đồng thời thừa nhận bạn có con đường riêng; tôi sẵn lòng hàn gắn, đồng thời chấp nhận rằng bạn có thể lựa chọn rời đi.

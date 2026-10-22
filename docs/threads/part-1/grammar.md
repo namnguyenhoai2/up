@@ -1,35 +1,35 @@
 ---
-title: 语法篇：让结构服务于意思
-description: 从真实任务与未经修饰的样本出发，把语法还原成时间、参与者、确定性、因果与信息重点的选择，并用对比、输出、反馈、延迟复测和迁移建立可用结构。
+title: "Chuyên đề ngữ pháp: Để cấu trúc phục vụ ý nghĩa"
+description: Bắt đầu từ những nhiệm vụ thực tế và các mẫu nguyên bản chưa qua chỉnh sửa, đưa ngữ pháp trở về với những lựa chọn về thời gian, người tham gia, mức độ chắc chắn, quan hệ nhân quả và trọng tâm thông tin; đồng thời xây dựng các cấu trúc có thể sử dụng được thông qua đối chiếu, tạo đầu ra, phản hồi, kiểm tra lại có độ trễ và chuyển giao.
 updated: 2026-10-19
 sources_checked: 2026-09-02
 ---
 
-# 语法篇：让结构服务于意思
+# Chuyên đề ngữ pháp: Để cấu trúc phục vụ ý nghĩa
 
-语法常常以两种相反的方式让人失去方向。
+Ngữ pháp thường khiến người học mất phương hướng theo hai cách đối lập.
 
-一种是把它想象成一座必须从第一章背到最后一章的法规库：时态、从句、冠词、介词、倒装、虚拟语气，每一页都有规则和例外。学了很多年，做选择题时仍然犹豫，真正说话和写作时却顾不上调用。
+Một cách là hình dung nó như một kho luật lệ phải học thuộc từ chương đầu đến chương cuối: thì, mệnh đề, mạo từ, giới từ, đảo ngữ, câu giả định; trang nào cũng có quy tắc và ngoại lệ. Học nhiều năm, khi làm câu hỏi trắc nghiệm vẫn do dự, còn lúc thực sự nói và viết thì lại không kịp vận dụng.
 
-另一种是干脆相信“语法不重要，只要多听多说自然会有”。输入和交流当然重要，但当一个结构反复改变时间、责任、条件或确定性时，长期不看清它，也会让同一种误解不断回来。
+Cách kia là tin hẳn rằng “ngữ pháp không quan trọng, chỉ cần nghe và nói nhiều thì tự nhiên sẽ biết”. Đầu vào và giao tiếp dĩ nhiên quan trọng, nhưng khi một cấu trúc liên tục thay đổi thời gian, trách nhiệm, điều kiện hoặc mức độ chắc chắn, việc không nhìn rõ nó trong thời gian dài cũng sẽ khiến cùng một hiểu lầm lặp đi lặp lại.
 
-语法既不是语言之外的刑法，也不是可以完全跳过的装饰。它是人安排意思的方式：谁做了什么，发生在什么时候，事情是否完成，原因和结果怎样连接，我有多确定，哪一部分是背景，哪一部分希望对方先看见。
+Ngữ pháp không phải là bộ luật hình sự nằm ngoài ngôn ngữ, cũng không phải thứ trang trí có thể hoàn toàn bỏ qua. Nó là cách con người sắp xếp ý nghĩa: ai làm gì, xảy ra khi nào, sự việc đã hoàn tất hay chưa, nguyên nhân và kết quả liên kết ra sao, tôi chắc chắn đến mức nào, phần nào là bối cảnh, phần nào tôi muốn đối phương nhìn thấy trước.
 
-本章不试图覆盖所有英语语法。它提供一条更小的路：从一个真实任务和一份原始样本开始，找到最影响意思的结构；用简短解释和对比看清选择；在说、写、听、读中重新使用；几天后撤掉提示，再换一个条件检验它是否留下。
+Chương này không cố gắng bao quát toàn bộ ngữ pháp tiếng Anh. Nó đưa ra một con đường ngắn hơn: bắt đầu từ một nhiệm vụ thực tế và một mẫu nguyên bản, tìm ra cấu trúc ảnh hưởng nhiều nhất đến ý nghĩa; dùng giải thích ngắn gọn và đối chiếu để nhìn rõ lựa chọn; tái sử dụng trong nói, viết, nghe và đọc; vài ngày sau rút bỏ gợi ý, rồi thay đổi điều kiện để kiểm tra xem cấu trúc đó có còn được ghi nhớ hay không.
 
-## 本章速览
+## Tổng quan chương
 
-- 语法首先是意义与关系的选择，不是术语收藏；
-- 先保存真实任务中的首版，再决定学哪条规则；
-- 区分改变意思、阻断任务、反复出现、语域不合与低影响错误；
-- 明确讲解可以帮助看清结构，但必须重新进入有意义的输出；
-- 用最小句子骨架、时间与体、名词指称、情态、从句连接和信息重点建立可迁移基础；
-- AI 可以比较版本、生成平行练习和分类错误，但重要判断仍需词典、语料、教师或真实读者复核；
-- 十四天只追踪一个结构问题，不用一次修完全部语法。
+- Ngữ pháp trước hết là sự lựa chọn về ý nghĩa và quan hệ, không phải bộ sưu tập thuật ngữ;
+- Trước tiên lưu lại bản đầu tiên trong nhiệm vụ thực tế, rồi mới quyết định học quy tắc nào;
+- Phân biệt lỗi làm thay đổi ý nghĩa, cản trở nhiệm vụ, lặp lại nhiều lần, không phù hợp với văn phong và lỗi ít ảnh hưởng;
+- Giải thích rõ ràng có thể giúp nhìn rõ cấu trúc, nhưng cấu trúc đó phải quay trở lại trong hoạt động tạo đầu ra có ý nghĩa;
+- Dùng khung câu tối thiểu, thời và thể, quy chiếu danh từ, tình thái, liên kết mệnh đề và trọng tâm thông tin để xây dựng nền tảng có thể chuyển giao;
+- AI có thể so sánh các phiên bản, tạo bài luyện song song và phân loại lỗi, nhưng những phán đoán quan trọng vẫn cần được từ điển, ngữ liệu, giáo viên hoặc độc giả thực tế kiểm chứng;
+- Trong mười bốn ngày chỉ theo dõi một vấn đề về cấu trúc, không cố sửa toàn bộ ngữ pháp trong một lần.
 
-## 1. 语法不是把句子变复杂
+## 1. Ngữ pháp không phải là làm cho câu trở nên phức tạp
 
-下面三句都很短，却承担不同关系：
+Ba câu dưới đây đều rất ngắn nhưng đảm nhiệm những quan hệ khác nhau:
 
 ```text
 I sent the report.
@@ -37,9 +37,9 @@ I have sent the report.
 I will send the report after the review.
 ```
 
-区别不在“哪一句更高级”。它们分别回答：过去发生了什么；当前结果是否已经成立；未来动作依赖什么条件。
+Điểm khác biệt không nằm ở việc “câu nào cao cấp hơn”. Chúng lần lượt trả lời: điều gì đã xảy ra trong quá khứ; kết quả hiện tại đã được xác lập hay chưa; hành động trong tương lai phụ thuộc vào điều kiện nào.
 
-再看：
+Hãy xem thêm:
 
 ```text
 The service failed.
@@ -47,36 +47,36 @@ We caused the service to fail.
 The service was taken offline after repeated failures.
 ```
 
-结构改变了责任、焦点和叙述角度。语法选择会影响读者怎样理解事件，也会影响作者是否把自己的动作藏在句子之外。
+Cấu trúc làm thay đổi trách nhiệm, trọng tâm và góc nhìn trần thuật. Lựa chọn ngữ pháp ảnh hưởng đến cách người đọc hiểu sự việc, đồng thời ảnh hưởng đến việc tác giả có giấu hành động của mình ra ngoài câu hay không.
 
-因此，学习语法时先问：**这个结构让听众多知道了什么，或避免了什么误解？** 如果只能背出名称，却说不清它在任务中承担的意思，学习还没有进入使用。
+Vì vậy, khi học ngữ pháp, trước hết hãy hỏi: **Cấu trúc này giúp người nghe biết thêm điều gì, hoặc tránh được hiểu lầm nào?** Nếu chỉ có thể nói ra tên gọi mà không giải thích được nó đảm nhiệm ý nghĩa gì trong nhiệm vụ, việc học vẫn chưa bước vào giai đoạn sử dụng.
 
-## 2. 从六类意义选择开始
+## 2. Bắt đầu từ sáu loại lựa chọn về ý nghĩa
 
-不必先按传统语法书目录平均推进。真实表达里，下面六类选择更容易暴露当前缺口：
+Không cần bắt đầu bằng cách lần lượt học đều theo mục lục của các sách ngữ pháp truyền thống. Trong diễn đạt thực tế, sáu loại lựa chọn dưới đây dễ bộc lộ khoảng trống hiện tại hơn:
 
-| 意义问题 | 常见结构 | 需要回答的任务问题 |
+| Vấn đề về ý nghĩa | Cấu trúc thường gặp | Câu hỏi của nhiệm vụ cần trả lời |
 | --- | --- | --- |
-| 谁参与、谁负责 | 主语、宾语、主动/被动、代词 | 谁做了动作？谁受到影响？责任是否被隐藏？ |
-| 时间与状态 | 时态、进行、完成、时间状语 | 事情何时发生？是否持续？当前结果是否成立？ |
-| 什么对象 | 冠词、单复数、可数性、限定词 | 是第一次提到、特定对象、一般类别，还是一个数量？ |
-| 否定与提问 | 助动词、疑问词、否定范围 | 否定的是动作、程度还是条件？问题真正询问哪一部分？ |
-| 关系与逻辑 | 并列、从句、条件、因果、让步 | 哪件事是原因、条件、背景、对比或结果？ |
-| 确定性与态度 | 情态动词、副词、缓和表达 | 这是事实、可能、建议、义务、假设还是礼貌请求？ |
+| Ai tham gia, ai chịu trách nhiệm | Chủ ngữ, tân ngữ, chủ động/bị động, đại từ | Ai thực hiện hành động? Ai bị tác động? Trách nhiệm có bị che giấu không? |
+| Thời gian và trạng thái | Thì, tiếp diễn, hoàn thành, trạng ngữ chỉ thời gian | Sự việc xảy ra khi nào? Có kéo dài không? Kết quả hiện tại đã được xác lập chưa? |
+| Đối tượng nào | Mạo từ, số ít/số nhiều, tính đếm được, từ hạn định | Đây là đối tượng được nhắc đến lần đầu, đối tượng cụ thể, một loại nói chung hay một số lượng? |
+| Phủ định và câu hỏi | Trợ động từ, từ để hỏi, phạm vi phủ định | Điều bị phủ định là hành động, mức độ hay điều kiện? Câu hỏi thực sự hỏi về phần nào? |
+| Quan hệ và logic | Liên kết đẳng lập, mệnh đề, điều kiện, nguyên nhân–kết quả, nhượng bộ | Sự việc nào là nguyên nhân, điều kiện, bối cảnh, đối lập hay kết quả? |
+| Mức độ chắc chắn và thái độ | Động từ tình thái, trạng từ, cách diễn đạt giảm nhẹ | Đây là sự thật, khả năng, lời khuyên, nghĩa vụ, giả định hay lời yêu cầu lịch sự? |
 
-一次任务通常只暴露其中一两类。先处理会改变任务结果的选择，不必因为看到一个错误就从整本语法书重新开始。
+Một nhiệm vụ thường chỉ bộc lộ một hoặc hai loại trong số đó. Hãy xử lý trước những lựa chọn có thể làm thay đổi kết quả nhiệm vụ; không cần vì nhìn thấy một lỗi mà quay lại học từ đầu cả cuốn sách ngữ pháp.
 
-## 3. 用真实任务保存基线
+## 3. Dùng nhiệm vụ thực tế để lưu lại đường cơ sở
 
-选择一个你近期真的会做的任务：写邮件、说明项目、讲述经历、复述文章、提出请求、回答面试问题或参加会议。限时完成第一版，不查语法答案，不让 AI 改写。
+Hãy chọn một nhiệm vụ mà gần đây bạn thực sự sẽ làm: viết email, trình bày dự án, kể lại trải nghiệm, thuật lại một bài viết, đưa ra yêu cầu, trả lời câu hỏi phỏng vấn hoặc tham gia cuộc họp. Hoàn thành bản đầu tiên trong thời gian giới hạn, không tra đáp án ngữ pháp và không nhờ AI viết lại.
 
-可以使用三种样本之一：
+Có thể sử dụng một trong ba loại mẫu sau:
 
-1. **口语**：无稿说 90–120 秒并转写；
-2. **写作**：在 15–20 分钟内写 150–250 词；
-3. **理解**：读或听一小段真实材料，标出你无法解释的结构关系，再用自己的话重构。
+1. **Nói**: nói không có bản thảo trong 90–120 giây rồi chép lại;
+2. **Viết**: viết 150–250 từ trong 15–20 phút;
+3. **Hiểu**: đọc hoặc nghe một đoạn tài liệu thực tế, đánh dấu những quan hệ cấu trúc bạn không thể giải thích, rồi diễn đạt lại bằng lời của mình.
 
-然后填写：
+Sau đó điền vào:
 
 ```markdown
 真实任务与受众：
@@ -87,21 +87,21 @@ The service was taken offline after repeated failures.
 最可能影响意思的一项结构：
 ```
 
-不要先请别人把全文改对。基线要保留你当时如何组织意思，否则未来只能比较两个成品，无法知道哪一项能力真的改变。
+Đừng vội nhờ người khác sửa đúng toàn bộ văn bản. Cần giữ lại đường cơ sở để biết khi đó bạn đã tổ chức ý nghĩa như thế nào; nếu không, về sau bạn chỉ có thể so sánh hai sản phẩm hoàn chỉnh mà không biết năng lực nào thực sự đã thay đổi.
 
-## 4. 建立错误地图，不把一切叫“语法差”
+## 4. Lập bản đồ lỗi, không gọi tất cả là “kém ngữ pháp”
 
-“语法基础差”太大，无法直接训练。把错误按影响分类：
+“Kém nền tảng ngữ pháp” là một khái niệm quá rộng, không thể dùng trực tiếp để luyện tập. Hãy phân loại lỗi theo mức độ ảnh hưởng:
 
-| 类型 | 示例 | 优先级 |
+| Loại | Ví dụ | Mức ưu tiên |
 | --- | --- | --- |
-| 意思改变 | 时间、否定范围、条件或责任被理解错 | 最高 |
-| 任务阻断 | 对方无法知道请求、结论或下一步 | 最高 |
-| 高频重复 | 同一结构在多个样本反复出现 | 高 |
-| 语域不合 | 语法上可能成立，但对邮件、面试或关系过强/过弱 | 中 |
-| 低影响偏差 | 对方理解无障碍，且当前任务不依赖此细节 | 后置 |
+| Làm thay đổi ý nghĩa | Thời gian, phạm vi phủ định, điều kiện hoặc trách nhiệm bị hiểu sai | Cao nhất |
+| Cản trở nhiệm vụ | Đối phương không biết được yêu cầu, kết luận hoặc bước tiếp theo | Cao nhất |
+| Lặp lại thường xuyên | Cùng một cấu trúc xuất hiện nhiều lần trong các mẫu khác nhau | Cao |
+| Không phù hợp với văn phong | Có thể đúng về ngữ pháp nhưng quá mạnh/quá yếu đối với email, phỏng vấn hoặc mối quan hệ | Trung bình |
+| Sai lệch ít ảnh hưởng | Đối phương vẫn hiểu dễ dàng và nhiệm vụ hiện tại không phụ thuộc vào chi tiết này | Để sau |
 
-例如 `I work here since 2022` 暴露时间起点与持续状态没有被清楚编码。训练重点不是给句子贴“现在完成时错误”的标签，而是比较：
+Ví dụ, `I work here since 2022` cho thấy điểm bắt đầu của thời gian và trạng thái kéo dài chưa được mã hóa rõ ràng. Trọng tâm luyện tập không phải là gắn nhãn câu đó là “lỗi thì hiện tại hoàn thành”, mà là so sánh:
 
 ```text
 I started working here in 2022.
@@ -109,28 +109,28 @@ I have worked here since 2022.
 I worked there from 2022 to 2024.
 ```
 
-三句对应不同现实。先确认你想说哪一种，再选择形式。
+Ba câu tương ứng với ba thực tế khác nhau. Trước tiên hãy xác định bạn muốn nói loại nào, rồi mới chọn hình thức.
 
-## 5. 明确讲解之后，必须重新使用
+## 5. Sau khi được giải thích rõ ràng, nhất định phải sử dụng lại
 
-二语教学研究的元分析显示，针对性的语言教学可以产生显著学习效果，明确讲解在许多研究条件下也显示出优势；同时，效果大小会受到目标结构、教学处理、结果测量和研究设计影响。这支持“看清规则有价值”，不支持“听懂讲解就已经会用”。
+Các phân tích tổng hợp về nghiên cứu giảng dạy ngôn ngữ thứ hai cho thấy việc dạy ngôn ngữ có trọng tâm có thể tạo ra hiệu quả học tập đáng kể; trong nhiều điều kiện nghiên cứu, việc giải thích rõ ràng cũng cho thấy ưu thế. Đồng thời, mức độ hiệu quả còn chịu ảnh hưởng của cấu trúc mục tiêu, cách thức giảng dạy, phương pháp đo lường kết quả và thiết kế nghiên cứu. Điều này ủng hộ quan điểm “nhìn rõ quy tắc là có giá trị”, chứ không ủng hộ quan điểm “nghe hiểu phần giải thích là đã biết sử dụng”.
 
-一次结构学习可以用六步：
+Có thể học một cấu trúc theo sáu bước:
 
-1. **观察**：从自己的错误和两个真实例句中找差异；
-2. **说明**：用一句话写结构承担的意义，不抄长定义；
-3. **对比**：改变一个条件，比较两到三种形式；
-4. **检索**：合上说明，根据情境自己选择；
-5. **输出**：回到原任务完成新版本；
-6. **复测**：三到七天后，用新主题或新受众再做一次。
+1. **Quan sát**: tìm sự khác biệt từ lỗi của bản thân và hai câu ví dụ thực tế;
+2. **Giải thích**: dùng một câu để viết cấu trúc đảm nhiệm ý nghĩa gì, không chép định nghĩa dài;
+3. **Đối chiếu**: thay đổi một điều kiện, so sánh hai hoặc ba hình thức;
+4. **Gợi nhớ**: đóng phần giải thích lại, tự lựa chọn dựa trên ngữ cảnh;
+5. **Tạo đầu ra**: quay lại nhiệm vụ ban đầu và hoàn thành phiên bản mới;
+6. **Kiểm tra lại**: sau ba đến bảy ngày, thực hiện lại với chủ đề hoặc đối tượng người nghe mới.
 
-讲解负责让选择可见，输出负责让选择可调用，延迟复测负责检查它是否只停留在刚看完答案的短时记忆里。
+Giải thích giúp làm cho lựa chọn trở nên rõ ràng, việc tạo đầu ra giúp lựa chọn có thể được gọi ra khi cần, còn kiểm tra lại có độ trễ giúp xác định liệu kiến thức đó chỉ dừng ở trí nhớ ngắn hạn ngay sau khi vừa xem đáp án hay không.
 
-## 6. 先建立六块可用地基
+## 6. Trước hết xây dựng sáu nền tảng có thể sử dụng
 
-### 句子骨架与动词
+### Khung câu và động từ
 
-先确认句子是否拥有清楚的核心动作，以及动作需要哪些参与者：
+Trước hết hãy xác nhận câu có một hành động cốt lõi rõ ràng hay không, và hành động đó cần những người tham gia nào:
 
 ```text
 The team discussed the risk.
@@ -138,11 +138,11 @@ The team gave the client an update.
 The change made the service slower.
 ```
 
-不要把所有长句问题归因于“词汇不够”。核心动词不清、参与者位置混乱时，增加形容词只会让句子更难读。
+Đừng quy mọi vấn đề của câu dài cho việc “thiếu từ vựng”. Khi động từ cốt lõi không rõ và vị trí của các bên tham gia bị xáo trộn, thêm tính từ chỉ khiến câu khó đọc hơn.
 
-### 提问与否定
+### Câu hỏi và phủ định
 
-问题和否定依赖助动词与范围：
+Câu hỏi và câu phủ định phụ thuộc vào trợ động từ và phạm vi:
 
 ```text
 Did the test fail?
@@ -150,11 +150,11 @@ Why did the test fail?
 The test did not fail because of the network.
 ```
 
-最后一句可能有两种理解：不是网络导致失败，或测试没有失败。真实任务中要通过重写或上下文消除歧义。
+Câu cuối có thể được hiểu theo hai cách: mạng không phải là nguyên nhân gây ra thất bại, hoặc bài kiểm tra đã không thất bại. Trong nhiệm vụ thực tế, cần loại bỏ sự mơ hồ bằng cách viết lại hoặc dựa vào ngữ cảnh.
 
-### 时间与体
+### Thời và thể
 
-不要把时态只记成时间表。比较事件、过程和当前结果：
+Đừng chỉ ghi nhớ thì như một bảng thời gian. Hãy so sánh sự kiện, quá trình và kết quả hiện tại:
 
 ```text
 We fixed the issue yesterday.
@@ -162,11 +162,11 @@ We were fixing the issue when the service restarted.
 We have fixed the issue, so deployment can continue.
 ```
 
-每次先画事实时间线，再决定形式。时间线说不清，时态选择通常也不会稳定。
+Mỗi lần trước hết hãy vẽ dòng thời gian của sự việc, rồi mới quyết định hình thức. Nếu không nói rõ được dòng thời gian, lựa chọn thì thường cũng sẽ không ổn định.
 
-### 名词、冠词与可数性
+### Danh từ, mạo từ và tính đếm được
 
-冠词和单复数帮助听众识别对象：
+Mạo từ và số ít/số nhiều giúp người nghe nhận diện đối tượng:
 
 ```text
 We found a problem.
@@ -174,11 +174,11 @@ The problem affects two services.
 We need more information before making a decision.
 ```
 
-不要只背“可数/不可数清单”。记录你在任务中需要介绍新对象、回指特定对象、谈一般类别还是表达数量。
+Đừng chỉ học thuộc danh sách “đếm được/không đếm được”. Hãy ghi lại trong nhiệm vụ của mình khi nào cần giới thiệu một đối tượng mới, quy chiếu lại một đối tượng cụ thể, nói về một loại nói chung hay biểu đạt số lượng.
 
-### 从句与逻辑连接
+### Mệnh đề và liên kết logic
 
-长句不是越多越成熟。先确认关系：
+Câu dài không phải càng có nhiều thành phần thì càng trưởng thành. Trước hết hãy xác định quan hệ:
 
 ```text
 We delayed the release because two tests failed.
@@ -186,11 +186,11 @@ Although two tests failed, the rollback remained available.
 If the final test passes, we will release tomorrow.
 ```
 
-原因、让步和条件不同。连接词选择错误，会让事实关系改变；连接词过多，也可能掩盖没有主线的段落。
+Nguyên nhân, nhượng bộ và điều kiện là những quan hệ khác nhau. Chọn sai từ nối sẽ làm thay đổi quan hệ thực tế; quá nhiều từ nối cũng có thể che giấu việc đoạn văn không có mạch chính.
 
-### 情态与缓和
+### Tình thái và cách diễn đạt giảm nhẹ
 
-远程协作、求职和关系沟通都需要表达确定程度：
+Cộng tác từ xa, tìm việc và giao tiếp trong các mối quan hệ đều cần biểu đạt mức độ chắc chắn:
 
 ```text
 This will fail.
@@ -199,11 +199,11 @@ We should test it before release.
 Could we review the assumption first?
 ```
 
-语气强弱不是纯礼貌装饰。它说明证据、责任、建议和请求之间的边界。
+Mức độ mạnh yếu của giọng điệu không chỉ là một chi tiết trang trí lịch sự. Nó cho biết ranh giới giữa bằng chứng, trách nhiệm, lời khuyên và yêu cầu.
 
-## 7. 用对比卡替代长篇规则笔记
+## 7. Dùng thẻ đối chiếu thay cho ghi chép quy tắc dài dòng
 
-每个结构只保留一张小卡：
+Mỗi cấu trúc chỉ cần giữ lại một thẻ nhỏ:
 
 ```markdown
 我要表达的意义：
@@ -215,20 +215,20 @@ Could we review the assumption first?
 第 7 天平行任务：
 ```
 
-例如不要写十页冠词规则，而是保留：第一次介绍 `a problem`，再次回指 `the problem`，谈一般概念 `problems can emerge`。等真实任务出现新边界，再扩充卡片。
+Ví dụ, thay vì viết mười trang quy tắc về mạo từ, hãy giữ lại: lần đầu giới thiệu `a problem`, lần sau quy chiếu lại `the problem`, nói về khái niệm chung `problems can emerge`. Khi nhiệm vụ thực tế xuất hiện một ranh giới mới, hãy mở rộng thẻ sau.
 
-语法笔记的价值不在完整，而在下一次表达时能帮助做决定。
+Giá trị của ghi chép ngữ pháp không nằm ở tính đầy đủ, mà ở việc nó có thể giúp bạn ra quyết định trong lần diễn đạt tiếp theo.
 
-## 8. 反馈先问意思，再问形式
+## 8. Khi phản hồi, trước hết hỏi về ý nghĩa, sau đó mới hỏi về hình thức
 
-一次反馈最多处理一到三个问题，顺序如下：
+Mỗi lần phản hồi chỉ nên xử lý nhiều nhất một đến ba vấn đề, theo thứ tự sau:
 
-1. 任务是否完成，听众是否理解意图；
-2. 哪个结构改变了时间、参与者、否定、条件或确定性；
-3. 哪个错误跨样本反复出现；
-4. 最后才处理不影响当前任务的细节。
+1. Nhiệm vụ đã hoàn thành chưa, người nghe có hiểu ý định không;
+2. Cấu trúc nào đã làm thay đổi thời gian, người tham gia, sự phủ định, điều kiện hoặc mức độ chắc chắn;
+3. Lỗi nào lặp lại qua nhiều mẫu;
+4. Cuối cùng mới xử lý những chi tiết không ảnh hưởng đến nhiệm vụ hiện tại.
 
-反馈不要只写正确答案。要求反馈者回答：
+Phản hồi không nên chỉ viết ra đáp án đúng. Hãy yêu cầu người phản hồi trả lời:
 
 ```markdown
 我原句最可能被理解成什么：
@@ -237,89 +237,89 @@ Could we review the assumption first?
 修改后为什么更符合事实和任务：
 ```
 
-若改写者无法说明原因，只给出更漂亮的句子，你获得了一个版本，却未必获得可迁移的判断。
+Nếu người viết lại không thể giải thích lý do mà chỉ đưa ra một câu trau chuốt hơn, bạn có được một phiên bản, nhưng chưa chắc có được năng lực phán đoán có thể chuyển giao.
 
-## 9. 在听与读中观察，在说与写中调用
+## 9. Quan sát khi nghe và đọc, vận dụng khi nói và viết
 
-语法不能只活在填空题里。四项能力承担不同工作：
+Ngữ pháp không thể chỉ tồn tại trong các bài điền vào chỗ trống. Bốn kỹ năng đảm nhiệm những công việc khác nhau:
 
-| 能力 | 语法任务 |
+| Kỹ năng | Nhiệm vụ ngữ pháp |
 | --- | --- |
-| 听力 | 听出时间、否定、条件、主从关系和说话者确定程度 |
-| 阅读 | 追踪代词指向、修饰范围、句间逻辑和信息重点 |
-| 口语 | 在时间压力下调用足够清楚的结构，并在出错后修复 |
-| 写作 | 让关系可检查，通过修订比较不同结构的效果 |
+| Nghe | Nhận ra thời gian, sự phủ định, điều kiện, quan hệ chính–phụ và mức độ chắc chắn của người nói |
+| Đọc | Theo dõi đối tượng quy chiếu của đại từ, phạm vi bổ nghĩa, logic giữa các câu và trọng tâm thông tin |
+| Nói | Vận dụng cấu trúc đủ rõ dưới áp lực thời gian, đồng thời tự sửa sau khi mắc lỗi |
+| Viết | Làm cho các quan hệ có thể kiểm tra, thông qua việc sửa và so sánh hiệu quả của các cấu trúc khác nhau |
 
-同一周可以围绕一个结构跨四项练习。例如练条件关系：听两段建议，标出条件；读一封风险邮件；口头提出一个条件计划；最后写一段包含事实、条件和下一步的更新。
+Trong cùng một tuần, có thể luyện cả bốn kỹ năng xoay quanh một cấu trúc. Ví dụ, để luyện quan hệ điều kiện: nghe hai đoạn lời khuyên và đánh dấu điều kiện; đọc một email về rủi ro; nói một kế hoạch có điều kiện; cuối cùng viết một đoạn cập nhật bao gồm sự thật, điều kiện và bước tiếp theo.
 
-## 10. AI、词典、语料与教师怎样分工
+## 10. AI, từ điển, ngữ liệu và giáo viên phân công như thế nào
 
-AI 可以：
+AI có thể:
 
-- 从你的首版中找反复结构，并按影响分类；
-- 生成只改变一个条件的对比例句；
-- 模拟不同受众，指出可能的理解；
-- 生成平行任务，并在你作答后反馈；
-- 帮助把长规则压缩成一张意义对比卡。
+- Tìm các cấu trúc lặp lại trong bản đầu tiên của bạn và phân loại theo mức độ ảnh hưởng;
+- Tạo các câu đối chiếu chỉ thay đổi một điều kiện;
+- Mô phỏng những đối tượng người nghe khác nhau và chỉ ra các cách hiểu có thể có;
+- Tạo các nhiệm vụ song song và phản hồi sau khi bạn trả lời;
+- Giúp nén các quy tắc dài thành một thẻ đối chiếu ý nghĩa.
 
-AI 也可能把可接受变体改成单一风格，把语域偏好说成绝对错误，或编造并不存在的规则。重要输出应结合可靠词典、语料实例、教师、编辑或真实受众复核。
+AI cũng có thể biến các biến thể được chấp nhận thành một phong cách duy nhất, coi sở thích về văn phong là lỗi tuyệt đối, hoặc bịa ra những quy tắc không tồn tại. Những đầu ra quan trọng nên được đối chiếu với từ điển đáng tin cậy, ví dụ ngữ liệu, giáo viên, biên tập viên hoặc người tiếp nhận thực tế.
 
-使用顺序：
+Trình tự sử dụng:
 
-1. 先提交自己的首版；
-2. 要求指出最多三个高影响问题；
-3. 要求区分“错误、可能歧义、语域选择和风格偏好”；
-4. 自己修改并说明理由；
-5. 关闭工具完成平行任务。
+1. Trước tiên nộp bản đầu tiên của mình;
+2. Yêu cầu chỉ ra nhiều nhất ba vấn đề có ảnh hưởng lớn;
+3. Yêu cầu phân biệt “lỗi, khả năng gây mơ hồ, lựa chọn văn phong và sở thích phong cách”;
+4. Tự sửa và giải thích lý do;
+5. Đóng công cụ lại và hoàn thành nhiệm vụ song song.
 
-不要把全文交给工具润色后，只通过“看起来更自然”判断自己学会了。
+Đừng giao toàn bộ văn bản cho công cụ trau chuốt rồi chỉ dựa vào việc “trông có vẻ tự nhiên hơn” để phán đoán rằng mình đã học được.
 
-## 11. 十四天语法实验
+## 11. Thí nghiệm ngữ pháp mười bốn ngày
 
-| 天数 | 动作 | 证据 |
+| Ngày | Hành động | Bằng chứng |
 | --- | --- | --- |
-| 1 | 完成真实任务基线，找一个高影响结构 | 原始样本与错误地图 |
-| 2 | 收集三到五个真实例句 | 来源与意义对比 |
-| 3 | 写一张对比卡，完成五个情境选择 | 选择理由 |
-| 4 | 回到原任务完成第二版 | 修改前后差异 |
-| 5 | 在口语或写作中做五次受限输出 | 录音/文本 |
-| 6 | 用听力或阅读寻找同一结构 | 输入观察记录 |
-| 7 | 撤掉说明完成延迟复测 | 平行样本 |
-| 8–9 | 改变主题或受众，保留同一意义任务 | 迁移结果 |
-| 10 | 请真实读者/听众复述 | 误解与反馈 |
-| 11 | 只修仍然反复的一个问题 | 第三版 |
-| 12 | 让 AI/教师提出陌生变式 | 决策与拒绝理由 |
-| 13 | 限时完成新任务 | 压力条件样本 |
-| 14 | 关闭工具完成最终复测并决定下一步 | 保留/调整/停止 |
+| 1 | Hoàn thành đường cơ sở của nhiệm vụ thực tế, tìm một cấu trúc có ảnh hưởng lớn | Mẫu nguyên bản và bản đồ lỗi |
+| 2 | Thu thập ba đến năm câu ví dụ thực tế | Nguồn và đối chiếu ý nghĩa |
+| 3 | Viết một thẻ đối chiếu, hoàn thành năm lựa chọn theo ngữ cảnh | Lý do lựa chọn |
+| 4 | Quay lại nhiệm vụ ban đầu và hoàn thành phiên bản thứ hai | Khác biệt trước và sau khi sửa |
+| 5 | Thực hiện năm lần tạo đầu ra có giới hạn trong nói hoặc viết | Bản ghi âm/văn bản |
+| 6 | Tìm cùng một cấu trúc trong hoạt động nghe hoặc đọc | Ghi chép quan sát đầu vào |
+| 7 | Rút bỏ phần giải thích và hoàn thành bài kiểm tra lại có độ trễ | Mẫu song song |
+| 8–9 | Thay đổi chủ đề hoặc đối tượng người nghe, giữ nguyên nhiệm vụ ý nghĩa | Kết quả chuyển giao |
+| 10 | Nhờ độc giả/người nghe thực tế thuật lại | Hiểu lầm và phản hồi |
+| 11 | Chỉ sửa một vấn đề vẫn còn lặp lại | Phiên bản thứ ba |
+| 12 | Nhờ AI/giáo viên đưa ra biến thể xa lạ | Quyết định và lý do từ chối |
+| 13 | Hoàn thành một nhiệm vụ mới trong thời gian giới hạn | Mẫu trong điều kiện áp lực |
+| 14 | Đóng công cụ, hoàn thành bài kiểm tra cuối cùng và quyết định bước tiếp theo | Giữ lại/điều chỉnh/dừng lại |
 
-若一个结构已经不再影响任务，就不必为了“系统完整”继续停留。下一轮可以换另一个高影响问题，也可以回到词汇、听力、组织或内容缺口。
+Nếu một cấu trúc không còn ảnh hưởng đến nhiệm vụ, không cần tiếp tục dừng lại chỉ để đạt “tính đầy đủ có hệ thống”. Vòng tiếp theo có thể chuyển sang một vấn đề khác có ảnh hưởng lớn, hoặc quay lại với khoảng trống về từ vựng, nghe, tổ chức hay nội dung.
 
-## 12. 怎样判断语法正在变成能力
+## 12. Làm thế nào để nhận biết ngữ pháp đang trở thành năng lực
 
-下面的变化比“做完一本练习册”更接近可用证据：
+Những thay đổi dưới đây gần với bằng chứng sử dụng được hơn việc “làm xong một quyển bài tập”:
 
-- 能说清两个形式表达的现实差异；
-- 在未见过的新句子中识别同一关系；
-- 在时间压力下能调用，或出错后能自我修复；
-- 七天后撤掉规则说明仍能选择；
-- 换主题、受众或任务后仍能使用；
-- 真实听众更少误解时间、责任、条件和确定性；
-- 能判断一个修改是必要纠错、语域选择还是风格偏好。
+- Có thể nói rõ sự khác biệt trong thực tế mà hai hình thức biểu đạt;
+- Nhận ra cùng một quan hệ trong những câu mới chưa từng gặp;
+- Có thể vận dụng dưới áp lực thời gian, hoặc tự sửa sau khi mắc lỗi;
+- Bảy ngày sau, khi rút bỏ phần giải thích quy tắc, vẫn có thể lựa chọn;
+- Vẫn có thể sử dụng khi thay đổi chủ đề, đối tượng người nghe hoặc nhiệm vụ;
+- Người nghe thực tế ít hiểu lầm hơn về thời gian, trách nhiệm, điều kiện và mức độ chắc chắn;
+- Có thể phán đoán một chỉnh sửa là sửa lỗi cần thiết, lựa chọn văn phong hay sở thích phong cách.
 
-语法准确度可以逐步提高，但不需要等到零错误才交流。当前门槛是：错误不持续改变关键意思；你能看见高频问题；下一轮知道只修什么。
+Độ chính xác ngữ pháp có thể tăng dần, nhưng không cần chờ đến khi không còn lỗi mới giao tiếp. Ngưỡng hiện tại là: lỗi không liên tục làm thay đổi ý nghĩa then chốt; bạn nhìn thấy được vấn đề thường gặp; lần tiếp theo biết chỉ sửa điều gì.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [Norris & Ortega (2000), Effectiveness of L2 Instruction](https://doi.org/10.1111/0023-8333.00136)：元分析支持针对性二语教学与明确教学的作用，同时作者指出研究构念、测量和可推广性限制。
-- [Spada & Tomita (2010), Interactions Between Type of Instruction and Type of Language Feature](https://doi.org/10.1111/j.1467-9922.2010.00562.x)：元分析比较明确与隐性教学在不同语法特征上的效果；本章不把平均结果写成个人保证。
-- 语法变体、语域和可接受性会随地区、体裁、社群与任务变化。重要交付应结合当前受众、可靠词典/语料和专业反馈。
+- [Norris & Ortega (2000), Effectiveness of L2 Instruction](https://doi.org/10.1111/0023-8333.00136)：Phân tích tổng hợp ủng hộ tác dụng của việc giảng dạy ngôn ngữ thứ hai có trọng tâm và giảng dạy rõ ràng; đồng thời các tác giả chỉ ra những hạn chế về cấu trúc nghiên cứu, đo lường và khả năng khái quát hóa.
+- [Spada & Tomita (2010), Interactions Between Type of Instruction and Type of Language Feature](https://doi.org/10.1111/j.1467-9922.2010.00562.x)：Phân tích tổng hợp so sánh hiệu quả của việc dạy rõ ràng và dạy ngầm đối với những đặc điểm ngữ pháp khác nhau; chương này không biến kết quả trung bình thành lời bảo đảm cho từng cá nhân.
+- Các biến thể ngữ pháp, văn phong và mức độ chấp nhận được có thể thay đổi theo khu vực, thể loại, cộng đồng và nhiệm vụ. Những sản phẩm quan trọng nên được đối chiếu với đối tượng người đọc hiện tại, từ điển/ngữ liệu đáng tin cậy và phản hồi chuyên môn.
 
-相关入口：[认知与训练原则](1-understanding.md) ｜ [词汇篇](2-vocabulary.md) ｜ [听力篇](3-listening.md) ｜ [语法证据卡](../../templates/grammar-evidence.md)
+Lối vào liên quan: [Các nguyên tắc nhận thức và luyện tập](1-understanding.md) ｜ [Chuyên đề từ vựng](2-vocabulary.md) ｜ [Chuyên đề nghe](3-listening.md) ｜ [Thẻ bằng chứng ngữ pháp](../../templates/grammar-evidence.md)
 
-## 结语：句子不是规则的展柜
+## Kết lời: Câu không phải là tủ trưng bày các quy tắc
 
-我们学习语法，不是为了让每一句话都像一场考试，也不是为了在别人开口时立刻寻找错误。语言真正发生时，人正在说明、请求、拒绝、承担、猜测、安慰和改变主意。结构之所以重要，是因为这些关系值得被听清。
+Chúng ta học ngữ pháp không phải để mỗi câu nói đều giống một bài thi, cũng không phải để lập tức tìm lỗi khi người khác vừa mở lời. Khi ngôn ngữ thực sự diễn ra, con người đang giải thích, yêu cầu, từ chối, chịu trách nhiệm, phỏng đoán, an ủi và thay đổi ý định. Cấu trúc quan trọng vì những mối quan hệ ấy đáng được lắng nghe một cách rõ ràng.
 
-你可以从一条并不漂亮的句子开始。先问它有没有让对方知道谁做了什么，事情发生在何时，你有多确定，下一步需要什么。然后只修一个真正影响意思的地方，让句子更接近事实，也更接近你愿意承担的表达。
+Bạn có thể bắt đầu từ một câu chưa thật đẹp. Trước hết hãy hỏi xem câu đó đã cho đối phương biết ai làm gì, sự việc xảy ra khi nào, bạn chắc chắn đến mức nào và bước tiếp theo cần gì hay chưa. Sau đó chỉ sửa một điểm thực sự ảnh hưởng đến ý nghĩa, để câu nói gần với sự thật hơn và cũng gần với cách diễn đạt mà bạn sẵn sàng chịu trách nhiệm hơn.
 
-当规则离开纸面，进入一次澄清、一封邮件、一段故事或一句道歉，它才不再是被背诵的知识。它成为一种秩序：帮助意思穿过犹豫和差异，抵达另一个人那里。
+Khi rời khỏi trang giấy để đi vào một lần làm rõ, một email, một câu chuyện hay một lời xin lỗi, quy tắc không còn là kiến thức được học thuộc. Nó trở thành một trật tự: giúp ý nghĩa vượt qua sự do dự và khác biệt, rồi đến được với một người khác.

@@ -1,222 +1,222 @@
 ---
-title: 恢复篇：先把自己接住
-description: 在失败、失眠、关系变化或长期失序之后，先分辨安全与容量，恢复身体、支持、边界与可行动性，再用明确门槛逐步复工。
+title: "Chương hồi phục: Trước hết, hãy đỡ lấy chính mình"
+description: Sau thất bại, mất ngủ, những thay đổi trong các mối quan hệ hoặc một thời gian dài sống trong hỗn loạn, trước hết hãy phân biệt mức độ an toàn và khả năng chịu đựng; khôi phục cơ thể, sự hỗ trợ, ranh giới và khả năng hành động, rồi từng bước quay lại công việc dựa trên những ngưỡng rõ ràng.
 updated: 2026-09-07
 sources_checked: 2026-09-07
 socialImage: /assets/social/recovery-zh.png
-socialImageAlt: 恢复阶段的节律、安全边界与行动台阶
+socialImageAlt: Nhịp điệu, ranh giới an toàn và các bậc hành động trong giai đoạn hồi phục
 ---
 
-# 恢复篇：先把自己接住
+# Chương hồi phục: Trước hết, hãy đỡ lấy chính mình
 
-> 内容提示：本章涉及失眠、长期压力、关系破裂和曾经出现过的轻生念头。它不是医疗、心理、法律或财务建议。若你正处于紧迫危险，请立即联系身边可信任的人和当地专业支持，先保证安全。
+> Lưu ý nội dung: Chương này đề cập đến tình trạng mất ngủ, căng thẳng kéo dài, đổ vỡ trong quan hệ và những ý nghĩ tự sát từng xuất hiện. Đây không phải là lời khuyên y tế, tâm lý, pháp lý hay tài chính. Nếu bạn đang ở trong tình trạng nguy hiểm cấp bách, hãy lập tức liên hệ với một người đáng tin cậy bên cạnh và các dịch vụ hỗ trợ chuyên môn tại địa phương; trước tiên hãy bảo đảm an toàn.
 
-我曾经把“重新出发”想得很响亮。公司倒闭以后，我以为只要找到下一个项目、写出下一个产品、赚回失去的钱，一切就会重新获得意义。
+Đã từng có lúc tôi nghĩ về việc “bắt đầu lại” với đầy hào nhoáng. Sau khi công ty phá sản, tôi cứ nghĩ rằng chỉ cần tìm được dự án tiếp theo, viết ra sản phẩm tiếp theo, kiếm lại số tiền đã mất, thì mọi thứ sẽ lại tìm được ý nghĩa.
 
-后来我才知道，低谷里的第一件事，通常不是加速，而是停止继续坠落。
+Sau này tôi mới hiểu, việc đầu tiên trong vực sâu thường không phải là tăng tốc, mà là ngừng tiếp tục rơi xuống.
 
-恢复不是成功故事里等待被剪掉的空白，也不是完成目标之后才配领取的奖励。它是一项基础工程：让身体重新拥有节奏，让情绪不再独自掌舵，让关系回到诚实的边界，让工作缩小到能够承担的重量。
+Hồi phục không phải là khoảng trống chờ bị cắt bỏ trong một câu chuyện thành công, cũng không phải phần thưởng chỉ được nhận sau khi hoàn thành mục tiêu. Đó là một công trình nền tảng: giúp cơ thể lấy lại nhịp điệu, để cảm xúc không còn tự mình cầm lái, để các mối quan hệ trở về với những ranh giới trung thực, và để công việc thu nhỏ xuống mức có thể gánh vác.
 
-## 本章速览
+## Tóm lược chương
 
-- 先确认安全，再讨论效率和未来；
-- 根据安全、基本照料和可行动性选择安全模式、降档模式或重建模式，不凭羞耻决定负荷；
-- 把身体当作生活的一部分，而不是完成目标的工具；
-- 把羞耻拆成事实、解释和责任，避免用一句“我很失败”覆盖全部现实；
-- 求助要具体，支持要有边界，道歉不以换取对方原谅为条件；
-- 复工先通过安全、基本生活、任务、边界与复查门槛，再逐级增加负荷；
-- 用七天恢复最小秩序，再用九十天行动篇建立长期节奏。
+- Trước hết xác nhận an toàn, rồi mới bàn đến hiệu suất và tương lai;
+- Dựa trên mức độ an toàn, việc chăm sóc cơ bản và khả năng hành động để chọn chế độ an toàn, chế độ giảm tải hoặc chế độ tái thiết; không để sự hổ thẹn quyết định khối lượng cần gánh;
+- Coi cơ thể là một phần của đời sống, không phải công cụ để hoàn thành mục tiêu;
+- Tách sự hổ thẹn thành sự kiện, cách diễn giải và trách nhiệm, tránh dùng một câu “Tôi thật thất bại” để che phủ toàn bộ thực tế;
+- Khi tìm kiếm sự giúp đỡ, hãy nói cụ thể; khi hỗ trợ, hãy có ranh giới; lời xin lỗi không được đặt điều kiện là đối phương phải tha thứ;
+- Trước khi quay lại làm việc, cần vượt qua các ngưỡng về an toàn, đời sống cơ bản, nhiệm vụ, ranh giới và xem xét lại, rồi mới từng bước tăng tải;
+- Dùng bảy ngày để khôi phục trật tự tối thiểu, sau đó dùng chương hành động chín mươi ngày để xây dựng nhịp điệu dài hạn.
 
-## 1. 先确认安全
+## 1. Trước hết xác nhận an toàn
 
-当一个人长期失眠、绝望、疼痛或被债务压住时，判断力会变窄。此时最重要的不是证明自己坚强，而是把不可逆的风险暂时移开。
+Khi một người mất ngủ, tuyệt vọng, đau đớn hoặc bị nợ nần đè nặng trong thời gian dài, khả năng phán đoán sẽ bị thu hẹp. Lúc này, điều quan trọng nhất không phải là chứng minh mình mạnh mẽ, mà là tạm thời loại bỏ những rủi ro không thể đảo ngược.
 
-可以先做四件小事：
+Trước tiên có thể làm bốn việc nhỏ:
 
-1. 告诉一个可信任的人：“我最近状态不安全，需要你陪我一起处理。”
-2. 暂停高风险决定：大额借贷、冲动辞职、危险驾驶、彻底断联或伤害自己的计划；
-3. 把药物、刀具、绳索、武器或其他可能造成伤害的物品交给可信任的人保管；
-4. 联系当地急救、医院、心理危机干预或其他具备资质的专业支持。
+1. Nói với một người đáng tin cậy: “Gần đây trạng thái của tôi không an toàn, tôi cần bạn cùng tôi xử lý việc này.”
+2. Tạm dừng những quyết định rủi ro cao: vay nợ số tiền lớn, nghỉ việc bốc đồng, lái xe nguy hiểm, cắt đứt hoàn toàn liên lạc hoặc lên kế hoạch làm hại bản thân;
+3. Giao thuốc, dao, dây thừng, vũ khí hoặc những vật dụng khác có thể gây thương tích cho một người đáng tin cậy cất giữ;
+4. Liên hệ với dịch vụ cấp cứu, bệnh viện, dịch vụ can thiệp khủng hoảng tâm lý hoặc các dịch vụ hỗ trợ chuyên môn có đủ tư cách khác tại địa phương.
 
-如果你已经有明确的伤害自己或他人的计划，不要独处，也不要把希望寄托在下一次聊天里。请立刻联系身边的人和当地紧急服务。
+Nếu bạn đã có kế hoạch cụ thể để làm hại bản thân hoặc người khác, đừng ở một mình và cũng đừng đặt hy vọng vào cuộc trò chuyện tiếp theo. Hãy lập tức liên hệ với người bên cạnh và các dịch vụ khẩn cấp tại địa phương.
 
-求助不是对人生失去控制，而是在最需要的时候把控制权交给更可靠的支持网络。
+Tìm kiếm sự giúp đỡ không có nghĩa là mất kiểm soát cuộc đời, mà là trao quyền kiểm soát cho một mạng lưới hỗ trợ đáng tin cậy hơn vào lúc cần thiết nhất.
 
-## 2. 先选择今天的恢复模式
+## 2. Trước hết chọn chế độ hồi phục cho hôm nay
 
-恢复阶段最容易出现两种误判：只要还能回复消息，就认为自己应该恢复全部工作；只要今天做得少，就认为自己正在退步。更可靠的做法，是根据今天能够承担的现实选择模式，而不是根据羞耻决定负荷。
+Trong giai đoạn hồi phục, hai kiểu phán đoán sai thường xuất hiện: chỉ cần vẫn có thể trả lời tin nhắn thì cho rằng mình nên khôi phục toàn bộ công việc; chỉ cần hôm nay làm được ít thì cho rằng mình đang thụt lùi. Cách đáng tin cậy hơn là chọn chế độ dựa trên những gì thực tế hôm nay có thể gánh vác, thay vì để sự hổ thẹn quyết định khối lượng công việc.
 
-| 模式 | 适用信号 | 今天的任务 |
+| Chế độ | Dấu hiệu phù hợp | Nhiệm vụ hôm nay |
 | --- | --- | --- |
-| 安全模式 | 有伤害计划、无法保证基本安全、严重失序或现实威胁正在扩大 | 不独处，联系身边支持与当地紧急或专业服务，移开不可逆风险 |
-| 降档模式 | 没有紧迫危险，但睡眠、饮食、疼痛、惊恐、债务或照护压力明显影响功能 | 保护基本生活，暂停高风险决定，只保留必要沟通和一个最小动作 |
-| 重建模式 | 基本安全相对稳定，能够完成简单照料和短任务，且支持与复查仍在 | 用短时、可逆的任务试载，记录第二天代价，不立即恢复全部负荷 |
+| Chế độ an toàn | Có kế hoạch làm hại bản thân, không thể bảo đảm an toàn cơ bản, tình trạng mất trật tự nghiêm trọng hoặc mối đe dọa thực tế đang gia tăng | Không ở một mình, liên hệ với người hỗ trợ bên cạnh và các dịch vụ khẩn cấp hoặc chuyên môn tại địa phương, loại bỏ rủi ro không thể đảo ngược |
+| Chế độ giảm tải | Không có nguy hiểm cấp bách, nhưng giấc ngủ, ăn uống, cơn đau, hoảng loạn, nợ nần hoặc áp lực chăm sóc đang ảnh hưởng rõ rệt đến chức năng | Bảo vệ đời sống cơ bản, tạm dừng các quyết định rủi ro cao, chỉ giữ lại những trao đổi cần thiết và một hành động tối thiểu |
+| Chế độ tái thiết | Mức độ an toàn cơ bản tương đối ổn định, có thể hoàn thành việc chăm sóc đơn giản và nhiệm vụ ngắn, đồng thời sự hỗ trợ và việc xem xét lại vẫn được duy trì | Thử tải bằng những nhiệm vụ ngắn, có thể đảo ngược, ghi lại cái giá phải trả vào ngày hôm sau, không lập tức khôi phục toàn bộ khối lượng |
 
-这三种模式不是诊断，也不是等级。一个人可以上午处于重建模式，晚上因新风险回到安全模式；也可以在几周里反复切换。模式变化不是失败，而是新事实进入了计划。
+Ba chế độ này không phải là chẩn đoán hay thứ hạng. Một người có thể ở chế độ tái thiết vào buổi sáng, rồi vì xuất hiện rủi ro mới mà trở về chế độ an toàn vào buổi tối; cũng có thể chuyển đổi qua lại nhiều lần trong vài tuần. Sự thay đổi chế độ không phải là thất bại, mà là một sự kiện mới được đưa vào kế hoạch.
 
-每次只回答四个问题：
+Mỗi lần chỉ cần trả lời bốn câu hỏi:
 
-1. 今天是否能够保证自己和他人的基本安全？
-2. 今天能否完成饮食、必要用药或照护、睡眠准备和关键沟通？
-3. 一个 10–20 分钟任务会帮助恢复秩序，还是会继续扩大透支？
-4. 如果状态恶化，我会联系谁、停止什么、去哪里获得支持？
+1. Hôm nay tôi có thể bảo đảm an toàn cơ bản cho bản thân và người khác không?
+2. Hôm nay tôi có thể ăn uống, dùng thuốc hoặc chăm sóc cần thiết, chuẩn bị ngủ và thực hiện những trao đổi quan trọng không?
+3. Một nhiệm vụ kéo dài 10–20 phút sẽ giúp khôi phục trật tự, hay tiếp tục làm mức kiệt sức tăng lên?
+4. Nếu tình trạng xấu đi, tôi sẽ liên hệ với ai, dừng việc gì và đi đâu để nhận hỗ trợ?
 
-如果第一项不能肯定回答，停止评估工作效率，进入安全模式。若持续症状或功能变化让你无法判断模式，应让当地合格的医疗或心理专业人员参与评估，而不是让一本书替你下结论。
+Nếu không thể trả lời chắc chắn câu hỏi đầu tiên, hãy ngừng đánh giá hiệu suất làm việc và chuyển sang chế độ an toàn. Nếu các triệu chứng kéo dài hoặc thay đổi về chức năng khiến bạn không thể xác định chế độ, hãy để chuyên gia y tế hoặc tâm lý có đủ tư cách tại địa phương tham gia đánh giá, thay vì để một cuốn sách thay bạn đưa ra kết luận.
 
-## 3. 先恢复身体，不拿纪律惩罚自己
+## 3. Trước hết khôi phục cơ thể, đừng dùng kỷ luật để trừng phạt bản thân
 
-低谷中的身体常常先于语言发出信号：胃口消失，睡眠破碎，视线模糊，心跳加快，疼痛游走。不要用“都是我想太多”把这些信号压回去，也不要根据网上的相似症状自行下结论。
+Trong vực sâu, cơ thể thường phát tín hiệu trước cả ngôn ngữ: mất cảm giác thèm ăn, giấc ngủ đứt quãng, thị lực mờ, tim đập nhanh, cơn đau di chuyển. Đừng dùng câu “Chỉ là tôi nghĩ quá nhiều” để nén những tín hiệu này xuống, cũng đừng tự chẩn đoán dựa trên những triệu chứng tương tự trên mạng.
 
-更稳妥的恢复顺序是：
+Trình tự hồi phục thận trọng hơn là:
 
-- **就医**：持续或反复的症状交给合格的医疗专业人士评估；
-- **睡眠**：先固定起床时间，减少熬夜补偿，不把一晚的好坏当作人格评分；
-- **饮食**：从能接受的简单食物开始，规律比完美重要；
-- **活动**：每天出门走一小段，活动量以第二天不会明显恶化为准；
-- **记录**：记下时间、症状、诱因和已经尝试的办法，带着记录去求助。
+- **Khám bệnh**: giao các triệu chứng kéo dài hoặc tái diễn cho chuyên gia y tế có đủ tư cách đánh giá;
+- **Giấc ngủ**: trước hết cố định giờ thức dậy, giảm thức khuya để bù lại, đừng xem chất lượng của một đêm ngủ là thước đo nhân cách;
+- **Ăn uống**: bắt đầu từ những món đơn giản mà bạn có thể chấp nhận, đều đặn quan trọng hơn hoàn hảo;
+- **Vận động**: mỗi ngày ra ngoài đi bộ một đoạn ngắn, lấy việc ngày hôm sau không xấu đi rõ rệt làm tiêu chuẩn cho mức độ vận động;
+- **Ghi chép**: ghi lại thời gian, triệu chứng, tác nhân và những cách đã thử, rồi mang ghi chép đó khi tìm kiếm sự giúp đỡ.
 
-恢复身体不等于制定一套更严厉的自律计划。你不需要在已经透支时再向自己收取利息。
+Khôi phục cơ thể không có nghĩa là lập ra một kế hoạch tự giác nghiêm khắc hơn. Khi đã kiệt sức, bạn không cần tiếp tục tính lãi với chính mình.
 
-## 4. 把羞耻还原成事实
+## 4. Đưa sự hổ thẹn trở về với sự thật
 
-失败之后，我们很容易把一串事实压缩成一句判决：我没用、我毁了、我不配再开始。这句话听起来像诚实，实际上没有提供任何可以处理的对象。
+Sau thất bại, chúng ta rất dễ nén một chuỗi sự kiện thành một phán quyết: tôi vô dụng, tôi đã hủy hoại mọi thứ, tôi không xứng đáng bắt đầu lại. Câu nói này nghe như sự thành thật, nhưng thực tế không đưa ra đối tượng nào có thể xử lý.
 
-试着写三栏：
+Hãy thử viết thành ba cột:
 
-| 事实 | 我的解释 | 我愿意承担的责任 |
+| Sự kiện | Cách diễn giải của tôi | Trách nhiệm tôi sẵn sàng gánh vác |
 | --- | --- | --- |
-| 项目没有获得持续订单 | 我把功能数量误当成用户价值 | 下次先做付费意愿和交付成本验证 |
-| 我连续几周睡不好 | 我担心停下来就会失去一切 | 预约专业评估，告诉家人真实状态 |
-| 一段关系结束了 | 我把失去理解成永远不会被爱 | 尊重对方边界，整理自己的行为模式 |
+| Dự án không có được đơn hàng ổn định | Tôi đã nhầm số lượng tính năng với giá trị đối với người dùng | Lần tới trước hết xác minh mức sẵn sàng trả tiền và chi phí bàn giao |
+| Tôi mất ngủ liên tục trong vài tuần | Tôi lo rằng nếu dừng lại thì sẽ mất tất cả | Đặt lịch đánh giá chuyên môn, nói cho gia đình biết trạng thái thực sự |
+| Một mối quan hệ đã kết thúc | Tôi hiểu sự mất mát thành việc mình sẽ không bao giờ được yêu nữa | Tôn trọng ranh giới của đối phương, sắp xếp lại các kiểu hành xử của bản thân |
 
-事实让问题有边界，解释让我们看见偏差，责任让下一步变得具体。三者缺一不可。
+Sự kiện giúp vấn đề có ranh giới, cách diễn giải giúp chúng ta nhìn thấy sai lệch, còn trách nhiệm khiến bước tiếp theo trở nên cụ thể. Không thể thiếu bất kỳ yếu tố nào trong ba yếu tố này.
 
-## 5. 关系需要道歉，也需要边界
+## 5. Các mối quan hệ cần lời xin lỗi, cũng cần ranh giới
 
-低谷里的人常常同时感到亏欠和孤独。你可能想把所有人都拉回来，解释每一个决定，要求他们理解你的难处。但对方有权不接受解释，也有权暂时离开。
+Người đang ở trong vực sâu thường đồng thời cảm thấy mắc nợ và cô đơn. Bạn có thể muốn kéo tất cả mọi người trở lại, giải thích từng quyết định, yêu cầu họ hiểu hoàn cảnh khó khăn của mình. Nhưng đối phương có quyền không chấp nhận lời giải thích và cũng có quyền tạm thời rời đi.
 
-一个负责任的道歉，至少包含四件事：
+Một lời xin lỗi có trách nhiệm ít nhất bao gồm bốn điều:
 
-1. 说清楚发生了什么，不用“如果你觉得受伤”来回避事实；
-2. 承认自己造成的影响，不把压力全部归给环境；
-3. 说明你准备怎样修正，而不是只表达痛苦；
-4. 不把对方的原谅当作你恢复的前提。
+1. Nói rõ điều gì đã xảy ra, không dùng câu “nếu bạn cảm thấy bị tổn thương” để né tránh sự thật;
+2. Thừa nhận ảnh hưởng do mình gây ra, không đổ toàn bộ áp lực cho hoàn cảnh;
+3. Nói rõ bạn định sửa chữa như thế nào, thay vì chỉ bày tỏ nỗi đau;
+4. Không coi sự tha thứ của đối phương là điều kiện tiên quyết để bạn hồi phục.
 
-道歉不是一封强迫对方回复的长信。很多时候，一段简短、具体、允许对方保持距离的话，比反复倾诉更尊重关系。
+Xin lỗi không phải là một bức thư dài buộc đối phương phải trả lời. Nhiều khi, một lời nhắn ngắn gọn, cụ thể và cho phép đối phương giữ khoảng cách sẽ tôn trọng mối quan hệ hơn việc liên tục trút bầu tâm sự.
 
-同时，你也需要边界：不接受羞辱，不在深夜无限争吵，不为了证明自己有错而承担不属于你的全部责任。恢复不是把自己交还给任何一个声音最大的审判者。
+Đồng thời, bạn cũng cần có ranh giới: không chấp nhận bị sỉ nhục, không tranh cãi vô tận vào ban đêm, không gánh toàn bộ trách nhiệm không thuộc về mình chỉ để chứng minh rằng mình có lỗi. Hồi phục không có nghĩa là giao nộp bản thân cho bất kỳ người phán xét nào có tiếng nói lớn nhất.
 
-## 6. 让工作回到可承受的尺度
+## 6. Đưa công việc trở về quy mô có thể gánh vác
 
-工作对很多人来说既是收入，也是尊严和秩序。可在恢复阶段，工作不应该继续扮演惩罚工具。
+Với nhiều người, công việc vừa là thu nhập, vừa là phẩm giá và trật tự. Nhưng trong giai đoạn hồi phục, công việc không nên tiếp tục đóng vai trò như một công cụ trừng phạt.
 
-把任务缩小到一个可以保存的结果：
+Thu nhỏ nhiệm vụ thành một kết quả có thể lưu lại:
 
-- 整理一页资料，而不是“重新规划职业”；
-- 修复一个测试，而不是“重写整套系统”；
-- 写三句话，而不是“写出代表作”；
-- 回复一封重要邮件，而不是“解决所有关系”；
-- 走完十分钟，而不是“立刻恢复到从前的状态”。
+- Sắp xếp một trang tài liệu, thay vì “lập lại kế hoạch nghề nghiệp”;
+- Sửa một bài kiểm thử, thay vì “viết lại toàn bộ hệ thống”;
+- Viết ba câu, thay vì “viết ra tác phẩm tiêu biểu”;
+- Trả lời một email quan trọng, thay vì “giải quyết mọi mối quan hệ”;
+- Đi bộ mười phút, thay vì “lập tức trở lại trạng thái trước đây”.
 
-每个小结果都要留下证据：文件、录音、提交记录、反馈或下一步。证据不是为了向别人表演，而是让你在情绪再次下沉时，仍然看得见自己做过什么。
+Mỗi kết quả nhỏ đều cần để lại bằng chứng: tệp, bản ghi âm, lịch sử gửi, phản hồi hoặc bước tiếp theo. Bằng chứng không phải để trình diễn với người khác, mà để khi cảm xúc lại chìm xuống, bạn vẫn nhìn thấy mình đã làm được những gì.
 
-## 7. 复工不是开关，而是一次逐级试载
+## 7. Quay lại làm việc không phải là một công tắc, mà là quá trình thử tải từng bước
 
-恢复一点力气之后，人很容易急着证明“我已经好了”。于是一天完成很多，第二天再次失去功能，然后把反复解释成意志薄弱。复工更像给一座维修中的桥逐级试载：先让低风险、可撤回的重量通过，再观察结构是否承受得住。
+Sau khi lấy lại được một chút sức lực, con người rất dễ vội vàng chứng minh rằng “mình đã ổn rồi”. Thế là một ngày làm rất nhiều, ngày hôm sau lại mất khả năng hoạt động, rồi giải thích sự lặp lại đó là do ý chí yếu kém. Quay lại làm việc giống như thử tải từng bước cho một cây cầu đang được sửa chữa: trước hết để trọng lượng có rủi ro thấp và có thể rút lại đi qua, sau đó quan sát xem kết cấu có chịu được hay không.
 
-复工前至少检查五个门槛：
+Trước khi quay lại làm việc, hãy kiểm tra ít nhất năm ngưỡng:
 
-| 门槛 | 可以观察的事实 | 未通过时 |
+| Ngưỡng | Sự kiện có thể quan sát | Khi chưa đạt |
 | --- | --- | --- |
-| 安全 | 没有正在扩大的紧迫危险，恶化时知道联系谁和去哪里 | 继续安全模式，暂停新增承诺 |
-| 基本生活 | 基本饮食、睡眠准备、必要照护和关键账单没有因试工持续失守 | 降低任务，先修复生活底线 |
-| 任务 | 能在限定时间完成一个清晰切片，并在结束时停下 | 继续拆小，不延长到“做完为止” |
-| 边界 | 相关人知道当前工时、不可承担事项和紧急联络方式 | 先完成沟通，不靠失联维持工作 |
-| 复查 | 有日期、有记录、有人能帮助看见恶化，必要时可暂停 | 不扩大负荷 |
+| An toàn | Không có nguy hiểm cấp bách đang gia tăng, biết sẽ liên hệ với ai và đi đâu nếu tình trạng xấu đi | Tiếp tục chế độ an toàn, tạm dừng các cam kết mới |
+| Đời sống cơ bản | Ăn uống cơ bản, chuẩn bị ngủ, chăm sóc cần thiết và các hóa đơn quan trọng không liên tục bị bỏ bê do thử làm việc | Giảm nhiệm vụ, trước hết khôi phục nền tảng đời sống |
+| Nhiệm vụ | Có thể hoàn thành một phần việc rõ ràng trong thời gian giới hạn và dừng lại khi kết thúc | Tiếp tục chia nhỏ, không kéo dài đến khi “làm xong mới thôi” |
+| Ranh giới | Những người liên quan biết thời gian làm việc hiện tại, những việc không thể gánh và cách liên lạc khẩn cấp | Hoàn thành trao đổi trước, không duy trì công việc bằng cách mất liên lạc |
+| Xem xét lại | Có ngày cụ thể, có ghi chép, có người giúp nhận ra tình trạng xấu đi và có thể tạm dừng khi cần | Không tăng tải |
 
-一次试载只增加一个变量：从 15 分钟到 30 分钟，或从内部练习到一次真实沟通，不同时增加时长、复杂度、责任和公开压力。结束后记录当天完成了什么、第二天付出了什么、是否需要额外恢复。
+Mỗi lần thử tải chỉ tăng một biến số: từ 15 phút lên 30 phút, hoặc từ bài tập nội bộ sang một cuộc trao đổi thực tế; không đồng thời tăng thời lượng, độ phức tạp, trách nhiệm và áp lực công khai. Sau khi kết thúc, ghi lại hôm đó đã hoàn thành gì, ngày hôm sau phải trả giá ra sao và có cần thêm thời gian hồi phục hay không.
 
-可以把负荷分成三层：
+Có thể chia khối lượng thành ba tầng:
 
-- **保温**：只保存联系、文件状态和下一步，不追求产出；
-- **试载**：完成一个短时、低风险、有人可复查的任务；
-- **有限复工**：连续几次试载后，增加一段固定工作，但保留明确上限和降档通道。
+- **Duy trì nhiệt**: chỉ giữ liên lạc, trạng thái tài liệu và bước tiếp theo, không theo đuổi sản lượng;
+- **Thử tải**: hoàn thành một nhiệm vụ ngắn, rủi ro thấp và có người có thể xem xét lại;
+- **Quay lại làm việc có giới hạn**: sau vài lần thử tải liên tiếp, tăng thêm một khoảng thời gian làm việc cố định nhưng vẫn giữ giới hạn rõ ràng và lối chuyển sang giảm tải.
 
-“今天做到了”只证明今天这次任务完成，不证明原强度已经可持续。复工门槛也不能取代医生、雇主、学校或当地制度要求；涉及病假、工伤、劳动安排或法定责任时，使用适用的专业和制度流程。
+“ hôm nay tôi đã làm được” chỉ chứng minh nhiệm vụ lần này đã hoàn thành, không chứng minh cường độ trước đây đã có thể duy trì. Các ngưỡng quay lại làm việc cũng không thể thay thế yêu cầu của bác sĩ, người sử dụng lao động, nhà trường hoặc hệ thống pháp luật địa phương; khi liên quan đến nghỉ bệnh, tai nạn lao động, sắp xếp lao động hoặc trách nhiệm pháp định, hãy sử dụng các quy trình chuyên môn và thể chế phù hợp.
 
-WHO 的工作场所心理健康事实页把合理调整与分阶段重返工作列为支持方式，并强调持续的临床照护和工作侧支持可以同时存在。本章把这一方向缩成个人记录和沟通门槛，不代表所有人适合同一种工时、阶段或返回日期，也不替代所在地区的医疗判断、劳动规则与雇主责任。
+Trang thông tin về sức khỏe tâm thần tại nơi làm việc của WHO liệt kê điều chỉnh hợp lý và quay lại làm việc theo từng giai đoạn là những hình thức hỗ trợ, đồng thời nhấn mạnh rằng chăm sóc lâm sàng liên tục và hỗ trợ từ phía nơi làm việc có thể tồn tại đồng thời. Chương này thu gọn định hướng đó thành các ngưỡng ghi chép và trao đổi cá nhân, không có nghĩa là mọi người đều phù hợp với cùng một thời lượng làm việc, giai đoạn hoặc ngày quay lại, cũng không thay thế đánh giá y tế, quy định lao động và trách nhiệm của người sử dụng lao động tại nơi bạn sống.
 
-## 8. 求助要具体，也要保留主体性
+## 8. Tìm kiếm sự giúp đỡ một cách cụ thể, đồng thời giữ quyền chủ động
 
-“我很难受”是真实的，但它不一定能帮助别人知道怎样靠近你。可以把求助写成一个动作：
+“Tôi rất khó chịu” là điều chân thực, nhưng chưa chắc giúp người khác biết nên đến gần bạn như thế nào. Bạn có thể biến lời cầu cứu thành một hành động:
 
-- “请今晚陪我吃饭，不需要劝我。”
-- “请陪我去医院，并帮我记住医生的建议。”
-- “请帮我看一眼这份合同，我需要专业意见。”
-- “请在这周提醒我两次出门走路。”
-- “我暂时不能接这个项目，请帮我把交付边界说明白。”
+- “Tối nay hãy ăn cùng tôi, bạn không cần khuyên nhủ gì cả.”
+- “Hãy đi bệnh viện cùng tôi và giúp tôi ghi nhớ lời dặn của bác sĩ.”
+- “Hãy giúp tôi xem qua hợp đồng này, tôi cần ý kiến chuyên môn.”
+- “Tuần này hãy nhắc tôi ra ngoài đi bộ hai lần.”
+- “Tạm thời tôi không thể nhận dự án này, hãy giúp tôi nói rõ ranh giới bàn giao.”
 
-具体请求让别人有机会真正帮上忙，也让你保留选择帮助方式的权利。家庭支持、朋友支持和专业支持各有边界，不能互相替代。
+Yêu cầu cụ thể tạo cơ hội để người khác thực sự giúp được bạn, đồng thời giúp bạn giữ quyền lựa chọn cách thức nhận hỗ trợ. Hỗ trợ từ gia đình, bạn bè và chuyên gia đều có ranh giới riêng, không thể thay thế lẫn nhau.
 
-支持者也需要一份边界清楚的协议。可以约定：
+Người hỗ trợ cũng cần một thỏa thuận có ranh giới rõ ràng. Có thể thống nhất:
 
-- **可以做**：陪同就医、保存紧急联系人、一起处理一笔账单、代发一条必要说明、在约定时间确认安全；
-- **不替代**：不冒充本人签署决定，不擅自公开健康与关系信息，不把陪伴变成监控，不用“我是为你好”接管所有账号和财务；
-- **升级条件**：失去联系、明确危险计划、现实威胁扩大，或专业人员给出需要升级的建议时，联系约定的人或当地紧急支持；
-- **归还方式**：风险降低后，逐步把账号、文件、日程和决定权交还本人，并共同复查哪些支持仍有必要。
+- **Có thể làm**: đi cùng khi khám bệnh, lưu giữ thông tin liên hệ khẩn cấp, cùng xử lý một hóa đơn, thay mặt gửi một lời giải thích cần thiết, xác nhận an toàn vào thời gian đã thống nhất;
+- **Không thay thế**: không giả danh本人 để ký quyết định, không tự ý công khai thông tin sức khỏe và quan hệ, không biến việc đồng hành thành giám sát, không dùng câu “Tôi làm vậy vì muốn tốt cho bạn” để tiếp quản mọi tài khoản và tài chính;
+- **Điều kiện nâng cấp**: mất liên lạc, có kế hoạch nguy hiểm rõ ràng, mối đe dọa thực tế gia tăng hoặc chuyên gia đưa ra khuyến nghị cần nâng cấp hỗ trợ thì liên hệ với người đã thống nhất hoặc dịch vụ khẩn cấp tại địa phương;
+- **Cách trao trả**: sau khi rủi ro giảm xuống, từng bước trao lại tài khoản, tài liệu, lịch trình và quyền quyết định cho chính người đó, đồng thời cùng xem xét hỗ trợ nào vẫn còn cần thiết.
 
-隐私不是在危机中绝对保密一切，也不是把一切都告诉所有人。只向能够提供相应帮助的人分享完成安全任务所需的最少信息。支持者若无法承担，也可以诚实说明边界并帮助连接其他资源；一个朋友说“我不能单独处理这件事”不等于抛弃。
+Quyền riêng tư không có nghĩa là trong khủng hoảng phải tuyệt đối giữ bí mật mọi thứ, cũng không có nghĩa là nói mọi thứ cho tất cả mọi người. Chỉ chia sẻ lượng thông tin tối thiểu cần thiết để hoàn thành nhiệm vụ bảo đảm an toàn với những người có thể cung cấp sự giúp đỡ tương ứng. Nếu không thể đảm đương, người hỗ trợ cũng có thể thành thật nói rõ ranh giới của mình và giúp kết nối các nguồn lực khác; một người bạn nói “Tôi không thể tự mình xử lý việc này” không đồng nghĩa với việc họ bỏ rơi bạn.
 
-## 9. 七天恢复最小秩序
+## 9. Bảy ngày khôi phục trật tự tối thiểu
 
-这不是挑战赛，也不是必须满分完成的打卡。每天只做一件主事，其他事情维持最低限度。
+Đây không phải là một cuộc thi thử thách, cũng không phải việc điểm danh bắt buộc phải hoàn thành trọn vẹn. Mỗi ngày chỉ làm một việc chính, những việc khác duy trì ở mức tối thiểu.
 
-| 日程 | 主事 | 留下的证据 |
+| Lịch trình | Việc chính | Bằng chứng để lại |
 | --- | --- | --- |
-| 第 1 天 | 写安全联系人、症状和需要暂停的高风险决定 | 一页安全清单 |
-| 第 2 天 | 吃一顿规律的饭，预约或确认一次专业支持 | 预约记录 |
-| 第 3 天 | 出门走 10–20 分钟，观察身体反应 | 时间与感受 |
-| 第 4 天 | 把一件亏欠拆成事实、影响和责任 | 一段道歉草稿 |
-| 第 5 天 | 按当前模式完成一个 15 分钟工作切片，或只保存复工入口 | 文件、提交记录或下一步提示 |
-| 第 6 天 | 和一个可信的人约定可以提供、不能提供和需要升级的支持 | 一份支持边界 |
-| 第 7 天 | 回看这一周，决定保留、停止、求助和是否试载的事项 | 下一周模式与复查日期 |
+| Ngày 1 | Viết tên người liên hệ an toàn, triệu chứng và những quyết định rủi ro cao cần tạm dừng | Một trang danh sách an toàn |
+| Ngày 2 | Ăn một bữa đều đặn, đặt lịch hoặc xác nhận một lần hỗ trợ chuyên môn | Ghi chép cuộc hẹn |
+| Ngày 3 | Ra ngoài đi bộ 10–20 phút, quan sát phản ứng của cơ thể | Thời gian và cảm nhận |
+| Ngày 4 | Tách một món nợ thành sự kiện, ảnh hưởng và trách nhiệm | Một bản nháp lời xin lỗi |
+| Ngày 5 | Theo chế độ hiện tại hoàn thành một phần việc 15 phút, hoặc chỉ lưu lại điểm bắt đầu quay lại làm việc | Tệp, lịch sử gửi hoặc lời nhắc về bước tiếp theo |
+| Ngày 6 | Thống nhất với một người đáng tin cậy về sự hỗ trợ có thể cung cấp, không thể cung cấp và khi nào cần nâng cấp | Một bản ranh giới hỗ trợ |
+| Ngày 7 | Nhìn lại tuần qua, quyết định việc cần giữ lại, dừng lại, tìm kiếm sự giúp đỡ và có nên thử tải hay không | Chế độ của tuần tới và ngày xem xét lại |
 
-如果某一天做不到，就把主事缩小，不补作业，不熬夜追赶。恢复的目标是重新拥有边界，而不是制造另一种失败感。
+Nếu có ngày không làm được, hãy thu nhỏ việc chính, không làm bù và không thức khuya để đuổi theo. Mục tiêu của hồi phục là lấy lại ranh giới, không phải tạo ra một cảm giác thất bại khác.
 
-可以复制[生活进阶工作表](../../templates/life-practice-toolkit.md)中的恢复重置表，把当前模式、安全事项、支持边界、今天的最小任务和复工门槛放在一个私有页面里；每周再用[每周复盘](../../templates/weekly-review.md)检查是否需要调整。进入稳定的日常后，再用[生活系统篇](../part-4/daily-system.md)设计完整日、压缩日与恢复日。
+Có thể sao chép[bảng tính tiến bộ đời sống](../../templates/life-practice-toolkit.md)trong đó có bảng tái thiết lập hồi phục, đặt chế độ hiện tại, các vấn đề an toàn, ranh giới hỗ trợ, nhiệm vụ tối thiểu hôm nay và các ngưỡng quay lại làm việc trên một trang riêng tư; mỗi tuần lại dùng[xem xét hằng tuần](../../templates/weekly-review.md)để kiểm tra xem có cần điều chỉnh hay không. Khi bước vào nhịp sống ổn định hằng ngày, hãy dùng[chương hệ thống đời sống](../part-4/daily-system.md)để thiết kế ngày đầy đủ, ngày thu gọn và ngày hồi phục.
 
-## 10. 什么时候不能只靠意志
+## 10. Khi nào không thể chỉ dựa vào ý chí
 
-如果失眠、持续低落、惊恐、疼痛、食欲变化、无法工作或危险念头反复出现，应该尽早寻求医疗或心理专业评估。涉及债务、合同、劳动争议或公司责任时，也应咨询合格的法律、财务或行业专业人士。
+Nếu mất ngủ, tâm trạng sa sút kéo dài, hoảng loạn, đau đớn, thay đổi cảm giác thèm ăn, không thể làm việc hoặc những ý nghĩ nguy hiểm lặp đi lặp lại, hãy sớm tìm kiếm đánh giá từ chuyên gia y tế hoặc tâm lý. Khi liên quan đến nợ nần, hợp đồng, tranh chấp lao động hoặc trách nhiệm của công ty, bạn cũng nên tham khảo ý kiến của chuyên gia pháp lý, tài chính hoặc chuyên ngành có đủ tư cách.
 
-不要用网络上的一个测试结果给自己贴标签，也不要因为一次检查“没发现大问题”就否定持续存在的痛苦。专业支持的意义，是帮助你把问题分层、排除风险、安排下一步，而不是替你评判有没有资格难过。
+Đừng dùng một kết quả kiểm tra trên mạng để dán nhãn cho bản thân, cũng đừng vì một lần kiểm tra “không phát hiện vấn đề nghiêm trọng” mà phủ nhận nỗi đau vẫn đang tồn tại. Ý nghĩa của hỗ trợ chuyên môn là giúp bạn phân tầng vấn đề, loại trừ rủi ro và sắp xếp bước tiếp theo, chứ không phải phán xét xem bạn có đủ tư cách để buồn hay không.
 
-## 11. 恢复的阶段性标准
+## 11. Tiêu chuẩn theo giai đoạn của hồi phục
 
-恢复不是“我已经完全好了”。更可用的判断是：
+Hồi phục không có nghĩa là “Tôi đã hoàn toàn khỏe lại”. Cách đánh giá hữu ích hơn là:
 
-- 我能说出今天最重要的一件事；
-- 我能在需要时联系一个人，而不是彻底消失；
-- 我能识别身体和情绪的警报，并采取合适行动；
-- 我能根据安全和容量选择模式，而不是只根据羞耻增加负荷；
-- 我能完成一个小任务，同时允许自己停下来；
-- 我能说清支持者可以做什么、不能做什么，以及何时需要升级；
-- 我恢复工作时使用短时试载和复查，而不是一次回到原强度；
-- 我能区分事实、解释和责任；
-- 我开始为下一周做计划，但不再把计划当作自我惩罚。
+- Tôi có thể nói ra một việc quan trọng nhất hôm nay;
+- Khi cần, tôi có thể liên hệ với một người thay vì hoàn toàn biến mất;
+- Tôi có thể nhận ra tín hiệu cảnh báo của cơ thể và cảm xúc, rồi thực hiện hành động phù hợp;
+- Tôi có thể chọn chế độ dựa trên mức độ an toàn và khả năng chịu đựng, thay vì chỉ tăng tải vì hổ thẹn;
+- Tôi có thể hoàn thành một nhiệm vụ nhỏ, đồng thời cho phép bản thân dừng lại;
+- Tôi có thể nói rõ người hỗ trợ có thể làm gì, không thể làm gì và khi nào cần nâng cấp;
+- Khi quay lại làm việc, tôi sử dụng thử tải ngắn và xem xét lại, thay vì một lần trở về ngay cường độ cũ;
+- Tôi có thể phân biệt sự kiện, cách diễn giải và trách nhiệm;
+- Tôi bắt đầu lên kế hoạch cho tuần tới, nhưng không còn biến kế hoạch thành hình thức tự trừng phạt.
 
-这些变化很安静，却意味着生活的方向盘正在一点点回到手里。等最小秩序稳定下来，再进入[九十天行动篇](../part-5/90-day-plan.md)，把恢复后的力量用于一项真实能力和一个可交付作品。
+Những thay đổi này rất âm thầm, nhưng có nghĩa là tay lái của cuộc sống đang từng chút một trở về tay bạn. Khi trật tự tối thiểu đã ổn định, hãy bước vào[chương hành động chín mươi ngày](../part-5/90-day-plan.md), dùng sức mạnh sau hồi phục cho một năng lực thực tế và một sản phẩm có thể bàn giao.
 
-## 来源与边界
+## Nguồn và giới hạn
 
-- [WHO：Suicide fact sheet](https://www.who.int/news-room/fact-sheets/detail/suicide)：用于核对减少致伤手段可及性、尽早识别、评估、管理与随访的公共卫生方向；本章不提供风险诊断、当地热线号码或个体治疗方案。
-- [WHO：Mental health at work](https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work) 与 [Guidelines on mental health at work](https://www.who.int/publications/i/item/9789240053052)：用于核对合理调整、分阶段复工、持续临床照护与工作场所支持的方向；具体安排仍由个人、专业人员、雇主与适用制度共同决定。
-- “安全 / 降档 / 重建”是本书为了决定当天生活负荷而设计的记录语言，不是 WHO 或任何医疗机构的临床量表。
+- [WHO: Tờ thông tin về tự sát](https://www.who.int/news-room/fact-sheets/detail/suicide): dùng để đối chiếu định hướng y tế công cộng về giảm khả năng tiếp cận các phương tiện gây thương tích, nhận diện, đánh giá, quản lý và theo dõi sớm; chương này không cung cấp chẩn đoán rủi ro, số điện thoại đường dây nóng tại địa phương hay phương án điều trị cá nhân.
+- [WHO: Sức khỏe tâm thần tại nơi làm việc](https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work) và [Hướng dẫn về sức khỏe tâm thần tại nơi làm việc](https://www.who.int/publications/i/item/9789240053052): dùng để đối chiếu định hướng về điều chỉnh hợp lý, quay lại làm việc theo từng giai đoạn, chăm sóc lâm sàng liên tục và hỗ trợ tại nơi làm việc; cách sắp xếp cụ thể vẫn do cá nhân, chuyên gia, người sử dụng lao động và hệ thống áp dụng cùng quyết định.
+- “An toàn / giảm tải / tái thiết” là ngôn ngữ ghi chép do cuốn sách này thiết kế để quyết định khối lượng sinh hoạt trong ngày, không phải thang đo lâm sàng của WHO hay bất kỳ cơ sở y tế nào.
 
-## 结语：先接住，再向前
+## Lời kết: Trước hết đỡ lấy chính mình, rồi tiến về phía trước
 
-我不再把低谷看作人生必须尽快删掉的一页。它记录了我曾经相信过什么、忽略过什么，也记录了谁在我没有力气时陪我坐过一段路。
+Tôi không còn xem vực sâu là một trang mà cuộc đời nhất định phải nhanh chóng xóa bỏ. Nó ghi lại những điều tôi từng tin, những điều tôi từng bỏ qua, cũng ghi lại những người đã ngồi bên tôi một đoạn đường khi tôi không còn sức lực.
 
-一个人能够重新开始，并不是因为他终于变得无坚不摧，而是因为他学会承认自己的重量，也学会在需要时让别人帮忙托住一部分。
+Một người có thể bắt đầu lại không phải vì cuối cùng họ trở nên không thể bị đánh bại, mà vì họ học cách thừa nhận sức nặng của chính mình, đồng thời học cách để người khác giúp đỡ và đỡ lấy một phần khi cần.
 
-先把自己接住。然后，再走下一步。
+Trước hết, hãy đỡ lấy chính mình. Sau đó, hãy bước tiếp bước tiếp theo.

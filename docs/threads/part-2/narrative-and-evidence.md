@@ -1,36 +1,36 @@
 ---
-title: 叙事与证据篇：不把经历写成命运
-description: 在个人故事、事后解释和可迁移原则之间建立边界，用时间线、证据和责任重新阅读一次经历。
+title: "Phần về tự sự và bằng chứng: Đừng biến trải nghiệm thành số phận"
+description: Thiết lập ranh giới giữa câu chuyện cá nhân, lời giải thích nhìn lại và những nguyên tắc có thể chuyển giao; đọc lại trải nghiệm một lần nữa bằng dòng thời gian, bằng chứng và trách nhiệm.
 updated: 2026-09-01
 ---
 
-# 叙事与证据篇：不把经历写成命运
+# Phần về tự sự và bằng chứng: Đừng biến trải nghiệm thành số phận
 
-人回望自己时，很难只看见事实。我们会把几年的生活压缩成一句话：我因为坚持所以成功，我因为胆小所以失败，我遇见了某个人，于是人生从此改变。这样的句子有力量，也有危险。它让混乱获得形状，却可能把偶然写成必然，把别人的付出藏进背景，把今天的答案倒灌回昨天。
+Khi nhìn lại bản thân, con người rất khó chỉ nhìn thấy sự thật. Chúng ta thường nén vài năm cuộc đời thành một câu: Tôi thành công vì đã kiên trì, tôi thất bại vì nhút nhát, tôi gặp một người nào đó, rồi cuộc đời từ đó thay đổi. Những câu như vậy có sức mạnh, nhưng cũng nguy hiểm. Chúng khiến hỗn loạn có hình hài, nhưng có thể biến ngẫu nhiên thành tất yếu, che khuất đóng góp của người khác, và đem câu trả lời của hôm nay áp ngược trở lại ngày hôm qua.
 
-一个好故事不必失去文学性，才配得上证据。相反，越愿意承认时间、视角和未知，故事越有机会真正抵达另一个人。它不再是作者替生活盖章，而是邀请读者一起看见：事情怎样发生，哪些判断曾经有效，哪些代价不能被抹去，下一次我们愿意怎样做得更诚实。
+Một câu chuyện hay không cần đánh mất tính văn chương mới xứng đáng với bằng chứng. Ngược lại, càng sẵn lòng thừa nhận thời gian, góc nhìn và những điều chưa biết, câu chuyện càng có cơ hội thực sự chạm đến một người khác. Nó không còn là việc tác giả đóng dấu lên cuộc đời, mà là lời mời độc giả cùng nhìn thấy: sự việc đã diễn ra như thế nào, phán đoán nào từng có hiệu lực, cái giá nào không thể bị xóa bỏ, và lần tới chúng ta muốn hành động trung thực hơn ra sao.
 
-## 本章速览
+## Tóm lược chương
 
-- 区分当时知道的事实、后来形成的解释和仍然未知的部分；
-- 用时间线和证据检查因果，不让结果反过来伪装成命运；
-- 在承担责任时保留他人的主体性，不替别人解释全部感受；
-- 把个人经验转译成有条件的原则，而不是普遍成功学；
-- 用一页案例复盘和七天练习，把回望变成下一次可检验的行动。
+- Phân biệt sự thật đã biết vào thời điểm đó, lời giải thích hình thành về sau và những phần vẫn chưa biết;
+- Dùng dòng thời gian và bằng chứng để kiểm tra quan hệ nhân quả, không để kết quả giả dạng thành số phận;
+- Khi nhận trách nhiệm, vẫn giữ được tính chủ thể của người khác, không thay họ giải thích toàn bộ cảm xúc;
+- Chuyển hóa kinh nghiệm cá nhân thành những nguyên tắc có điều kiện, thay vì công thức thành công phổ quát;
+- Dùng bản tổng kết một trang về một trường hợp và bài tập bảy ngày để biến việc nhìn lại thành hành động có thể kiểm chứng vào lần tới.
 
-## 1. 一件事至少有三个版本
+## 1. Một sự việc ít nhất có ba phiên bản
 
-同一件事通常同时存在三个版本：
+Một sự việc thường tồn tại đồng thời dưới ba phiên bản:
 
-| 版本 | 它回答什么 | 常见风险 |
+| Phiên bản | Nó trả lời điều gì | Rủi ro thường gặp |
 | --- | --- | --- |
-| 当时的版本 | 那一天我看见什么、知道什么、害怕什么？ | 信息有限，容易把感受当成事实 |
-| 回望的版本 | 现在的我如何解释当时的选择？ | 用结果制造“早就知道”的错觉 |
-| 公开的版本 | 为了让别人理解，我删掉和保留了什么？ | 为了完整叙事而暴露他人或夸大转折 |
+| Phiên bản tại thời điểm đó | Ngày hôm ấy tôi nhìn thấy gì, biết gì, sợ điều gì? | Thông tin hạn chế, dễ xem cảm xúc là sự thật |
+| Phiên bản khi nhìn lại | Hiện tại tôi giải thích lựa chọn khi ấy như thế nào? | Dùng kết quả để tạo ảo tưởng rằng mình đã “biết từ lâu” |
+| Phiên bản công khai | Để người khác hiểu, tôi đã lược bỏ và giữ lại điều gì? | Vì muốn câu chuyện trọn vẹn mà phơi bày người khác hoặc phóng đại bước ngoặt |
 
-写作前先把三个版本分开。不要因为今天知道公司最终失败，就把 2019 年的每个决定都写成“注定错误”；也不要因为后来重新站起来，就把低谷中的每个动作都安排成通往成功的伏笔。
+Trước khi viết, hãy tách riêng ba phiên bản này. Đừng vì hôm nay biết công ty cuối cùng đã thất bại mà viết mọi quyết định năm 2019 thành “sai lầm tất yếu”; cũng đừng vì sau đó đã đứng dậy mà sắp đặt mọi hành động trong giai đoạn sa sút thành những dấu hiệu báo trước thành công.
 
-可以先写三行：
+Có thể bắt đầu bằng ba dòng:
 
 ```markdown
 当时可以确认的事实：
@@ -38,70 +38,70 @@ updated: 2026-09-01
 我仍然无法确认的部分：
 ```
 
-这三行不是削弱故事，而是给故事留下呼吸。
+Ba dòng này không làm câu chuyện yếu đi, mà tạo khoảng thở cho câu chuyện.
 
-## 2. 时间线比漂亮因果更可靠
+## 2. Dòng thời gian đáng tin cậy hơn quan hệ nhân quả đẹp đẽ
 
-人喜欢因果链：因为我换了工作，所以身体变差；因为产品没有用户，所以公司失败；因为某个人离开，我才学会成长。因果有时确实存在，但“先发生”不等于“导致”，同时发生也不等于互相解释。
+Con người thích những chuỗi nhân quả: vì tôi đổi việc nên sức khỏe xấu đi; vì sản phẩm không có người dùng nên công ty thất bại; vì một người nào đó rời đi nên tôi mới học được cách trưởng thành. Nhân quả đôi khi thực sự tồn tại, nhưng “xảy ra trước” không đồng nghĩa với “gây ra”, và xảy ra đồng thời cũng không đồng nghĩa với việc giải thích lẫn nhau.
 
-先画一条不带结论的时间线：
+Trước hết, hãy vẽ một dòng thời gian không kèm kết luận:
 
-1. 哪一天发生了什么可观察的动作？
-2. 当时有哪些条件已经存在？
-3. 谁受到影响，谁拥有决定权？
-4. 哪个证据让你改变了判断？
-5. 哪个部分至今没有足够资料？
+1. Vào ngày nào đã xảy ra hành động có thể quan sát nào?
+2. Khi đó những điều kiện nào đã tồn tại?
+3. Ai bị ảnh hưởng, ai có quyền quyết định?
+4. Bằng chứng nào khiến bạn thay đổi phán đoán?
+5. Phần nào đến nay vẫn chưa có đủ tư liệu?
 
-再把句子分成三层：
+Sau đó chia các câu thành ba tầng:
 
-- **事实**：有日期、文件、记录、直接观察或他人可复核的样本；
-- **解释**：我如何理解这些事实，可能随着新资料修正；
-- **假设**：我准备在下一次行动中检验的判断。
+- **Sự thật**: Có ngày tháng, tài liệu, ghi chép, quan sát trực tiếp hoặc mẫu có thể được người khác kiểm chứng;
+- **Lời giải thích**: Cách tôi hiểu những sự thật này, có thể được điều chỉnh khi có tư liệu mới;
+- **Giả định**: Phán đoán mà tôi chuẩn bị kiểm chứng trong hành động lần tới.
 
-例如，“产品两年没有订单”可以是事实；“我们没有真正理解用户”是事后解释；“下一次先做十次付费意愿访谈，会比先扩展功能更有信息量”才是待验证假设。把三者写在同一段里，读者就无法判断你究竟知道什么。
+Ví dụ, “sản phẩm không có đơn hàng trong hai năm” có thể là sự thật; “chúng tôi chưa thực sự hiểu người dùng” là lời giải thích sau sự việc; “lần tới, trước hết tiến hành mười cuộc phỏng vấn về ý định trả tiền sẽ cung cấp nhiều thông tin hơn so với việc mở rộng tính năng trước” mới là giả định đang chờ được kiểm chứng. Khi viết cả ba vào cùng một đoạn, độc giả sẽ không thể biết rốt cuộc bạn thực sự biết điều gì.
 
-## 3. 不用反事实惩罚过去
+## 3. Đừng dùng những giả định ngược để trừng phạt quá khứ
 
-失败之后，“如果当初……”几乎会自动出现：如果更努力、早点开始、换一个合伙人、少花一点钱，结局是不是会不同？反事实可以帮助学习，但也很容易变成一种没有终点的自我审判。
+Sau thất bại, câu “Giá như lúc đó…” gần như tự động xuất hiện: giá như mình cố gắng hơn, bắt đầu sớm hơn, đổi một người đồng sáng lập khác, tiêu ít tiền hơn, liệu kết cục có khác không? Những giả định ngược có thể giúp học hỏi, nhưng cũng rất dễ biến thành một kiểu tự phán xét không có hồi kết.
 
-把反事实改写成三个问题：
+Hãy chuyển giả định ngược thành ba câu hỏi:
 
-1. **当时可获得的信息是什么？** 不要把后来才出现的资料塞回过去；
-2. **哪个决定可以在下一次更早检查？** 把后悔变成流程门槛；
-3. **现在能做一个多小的实验？** 让未知通过行动减少，而不是通过想象扩大。
+1. **Thông tin nào có thể tiếp cận vào thời điểm đó?** Đừng đưa những tư liệu chỉ xuất hiện về sau ngược trở lại quá khứ;
+2. **Quyết định nào có thể được kiểm tra sớm hơn vào lần tới?** Biến sự hối tiếc thành một ngưỡng trong quy trình;
+3. **Hiện tại có thể thực hiện một thử nghiệm nhỏ đến mức nào?** Để giảm điều chưa biết bằng hành động, thay vì mở rộng nó bằng tưởng tượng.
 
-好的复盘不会保证另一条路一定更好。它只会留下一个更早的检查点：在继续投入之前，我要先看到什么证据；如果没有看到，我愿意在哪里停下。
+Một bản tổng kết tốt sẽ không đảm bảo rằng con đường khác chắc chắn tốt hơn. Nó chỉ để lại một điểm kiểm tra sớm hơn: trước khi tiếp tục đầu tư, tôi cần nhìn thấy bằng chứng nào; nếu không nhìn thấy, tôi sẵn sàng dừng lại ở đâu.
 
-## 4. 解释处境，不替他人定罪
+## 4. Giải thích hoàn cảnh, không kết tội người khác
 
-个人故事里经常有缺席的人：伴侣、父母、合伙人、同事、客户和孩子。作者知道自己的感受，却不可能拥有每个人的完整内心。写“她其实早就……”或“他就是……”时，故事会变得利落，现实却可能因此被误伤。
+Trong những câu chuyện cá nhân thường có những người vắng mặt: bạn đời, cha mẹ, người đồng sáng lập, đồng nghiệp, khách hàng và con cái. Tác giả biết cảm xúc của mình, nhưng không thể sở hữu trọn vẹn nội tâm của mỗi người. Khi viết “thật ra cô ấy đã…” hoặc “anh ta chính là…”, câu chuyện sẽ trở nên gọn ghẽ, nhưng hiện thực có thể bị tổn thương oan vì điều đó.
 
-可以把句子改成：
+Có thể sửa câu thành:
 
-- “我当时把她的沉默理解成同意；现在我知道那只是我的解释。”
-- “他当时说了这句话，造成了这个可观察的结果；他的动机我无法替他确认。”
-- “我承担自己造成的影响，但不替对方决定他应该如何感受或是否原谅。”
+- “Khi ấy tôi hiểu sự im lặng của cô ấy là sự đồng ý; bây giờ tôi biết đó chỉ là cách diễn giải của mình.”
+- “Khi ấy anh ấy đã nói câu này, và nó tạo ra kết quả có thể quan sát được; tôi không thể thay anh ấy xác nhận động cơ.”
+- “Tôi chịu trách nhiệm về ảnh hưởng do mình gây ra, nhưng không thay đối phương quyết định họ nên cảm thấy thế nào hoặc có tha thứ hay không.”
 
-这不是讨好所有人。责任仍然要写清楚，伤害仍然可以被命名；只是不要用自己的叙述夺走他人的主体性。涉及真实身份、孩子、健康、财务或私密对话时，先执行最少必要原则和授权边界。
+Điều này không có nghĩa là phải làm hài lòng tất cả mọi người. Trách nhiệm vẫn cần được viết rõ, tổn thương vẫn có thể được gọi tên; chỉ là đừng dùng lời kể của mình để tước đi tính chủ thể của người khác. Khi liên quan đến danh tính thật, trẻ em, sức khỏe, tài chính hoặc những cuộc trò chuyện riêng tư, trước hết hãy tuân thủ nguyên tắc tối thiểu cần thiết và ranh giới ủy quyền.
 
-## 5. 从经验提炼有条件的原则
+## 5. Chắt lọc những nguyên tắc có điều kiện từ kinh nghiệm
 
-经验最容易被误读成建议。一个人没有被某次投资击倒，不代表投资安全；一个人靠某种学习方法进步，不代表它适合所有人；一家公司后来找到方向，不代表早期的每个选择都正确。
+Kinh nghiệm rất dễ bị hiểu nhầm thành lời khuyên. Một người không bị một khoản đầu tư nào đó quật ngã không có nghĩa là đầu tư an toàn; một người tiến bộ nhờ một phương pháp học tập nào đó không có nghĩa phương pháp ấy phù hợp với tất cả mọi người; một công ty về sau tìm được hướng đi không có nghĩa mọi lựa chọn ban đầu đều đúng.
 
-把原则写成带条件的句子：
+Hãy viết nguyên tắc thành những câu có điều kiện:
 
-| 过度概括 | 更可用的写法 |
+| Khái quát quá mức | Cách viết hữu dụng hơn |
 | --- | --- |
-| 坚持就会成功 | 在需求真实、成本可承受且能持续获得反馈时，坚持才值得继续 |
-| AI 能提高效率 | 对边界清楚、结果可验收的任务，AI 可能减少部分检索或返工时间 |
-| 失败是最好的老师 | 只有把失败拆成事实、代价和下一次门槛，它才可能提供信息 |
-| 关系需要一直挽回 | 在安全、尊重和双方意愿存在时修复；持续伤害中，离开也可能是责任 |
+| Kiên trì thì sẽ thành công | Chỉ đáng tiếp tục kiên trì khi nhu cầu là có thật, chi phí nằm trong khả năng chịu đựng và có thể liên tục nhận được phản hồi |
+| AI có thể nâng cao hiệu suất | Với những nhiệm vụ có ranh giới rõ ràng và kết quả có thể nghiệm thu, AI có thể giảm một phần thời gian tra cứu hoặc làm lại |
+| Thất bại là người thầy tốt nhất | Chỉ khi được tách thành sự thật, cái giá phải trả và ngưỡng cho lần tới, thất bại mới có thể cung cấp thông tin |
+| Mối quan hệ cần luôn được cứu vãn | Hãy hàn gắn khi có sự an toàn, tôn trọng và mong muốn từ cả hai phía; trong tình trạng liên tục bị tổn thương, rời đi cũng có thể là trách nhiệm |
 
-原则越有条件，越不适合做海报，却越适合指导真实决定。
+Nguyên tắc càng có nhiều điều kiện thì càng không phù hợp để làm áp phích, nhưng lại càng thích hợp để định hướng những quyết định thực tế.
 
-## 6. 一页案例复盘
+## 6. Bản tổng kết một trang về một trường hợp
 
-面对一篇公开报道、一个项目故事或自己的经历，可以复制[AI 经历案例复盘模板](../../templates/ai-case-review.md)，再补上下面的两道门：
+Khi đối diện với một bài viết công khai, câu chuyện về một dự án hoặc trải nghiệm của chính mình, bạn có thể sao chép[Mẫu tổng kết trường hợp trải nghiệm AI](../../templates/ai-case-review.md), rồi bổ sung hai cánh cửa dưới đây:
 
 ```markdown
 ## 叙事边界
@@ -115,50 +115,50 @@ updated: 2026-09-01
 - 什么证据会让我停止、降级或改写这条原则？
 ```
 
-然后请一个不熟悉背景的读者回答三件事：他认为发生了什么，哪一句最像未经证明的结论，读完后他知道可以做的下一步是什么。读者的复述比作者的自我感觉更能暴露叙事缺口。
+Sau đó, hãy nhờ một độc giả không quen thuộc với bối cảnh trả lời ba điều: họ cho rằng chuyện gì đã xảy ra, câu nào giống một kết luận chưa được chứng minh nhất, và sau khi đọc xong họ biết bước tiếp theo có thể làm là gì. Cách độc giả thuật lại sẽ bộc lộ những khoảng trống trong câu chuyện rõ hơn cảm nhận chủ quan của tác giả.
 
-## 7. 写作时保留一处不确定
+## 7. Giữ lại một điểm không chắc chắn khi viết
 
-文学并不要求每个空白都被解释。一个故事如果从头到尾只有确定句，读者看见的往往不是生活，而是已经剪辑好的宣传片。
+Văn chương không đòi hỏi mọi khoảng trống đều phải được giải thích. Nếu một câu chuyện từ đầu đến cuối chỉ có những câu khẳng định chắc chắn, thứ độc giả nhìn thấy thường không phải là cuộc sống, mà là một đoạn phim quảng bá đã được biên tập.
 
-保留不确定可以是：
+Giữ lại sự không chắc chắn có thể là:
 
-- 承认记忆可能出错；
-- 写出一个你无法知道的动机；
-- 保留当时没有解决的问题；
-- 说明某条经验没有经过独立验证；
-- 让结尾指向下一次行动，而不是宣布人格已经完成。
+- Thừa nhận ký ức có thể sai;
+- Viết ra một động cơ mà bạn không thể biết;
+- Giữ lại những vấn đề chưa được giải quyết vào thời điểm đó;
+- Nói rõ rằng một kinh nghiệm nào đó chưa được kiểm chứng độc lập;
+- Để phần kết hướng đến hành động tiếp theo, thay vì tuyên bố nhân cách đã hoàn thiện.
 
-这不是故作谦虚。未知本身就是事实的一部分。诚实的作者不是把自己写得无懈可击，而是让读者知道哪些地方可以相信，哪些地方需要保留判断。
+Đây không phải là giả vờ khiêm tốn. Điều chưa biết tự nó cũng là một phần của sự thật. Một tác giả trung thực không viết mình thành người không có kẽ hở, mà cho độc giả biết đâu là nơi có thể tin, đâu là nơi cần giữ lại phán đoán.
 
-## 8. 七天叙事复盘练习
+## 8. Bài tập tổng kết tự sự trong bảy ngày
 
-- **第 1 天**：选一段经历，只写十个可观察事实，不写形容词；
-- **第 2 天**：把每句话标成事实、解释或假设；
-- **第 3 天**：画出时间线，补上当时不知道的部分；
-- **第 4 天**：找出一个替他人解释动机的句子，改成自己的观察；
-- **第 5 天**：把一个绝对原则改写成带条件的原则；
-- **第 6 天**：请一位不了解背景的人复述主旨，并记录误解；
-- **第 7 天**：用[每周复盘模板](../../templates/weekly-review.md)决定保留、删去和下一项实验。
+- **Ngày 1**: Chọn một trải nghiệm, chỉ viết mười sự thật có thể quan sát, không dùng tính từ;
+- **Ngày 2**: Đánh dấu mỗi câu là sự thật, lời giải thích hay giả định;
+- **Ngày 3**: Vẽ dòng thời gian, bổ sung những phần khi đó chưa biết;
+- **Ngày 4**: Tìm một câu giải thích động cơ thay cho người khác, sửa thành quan sát của chính mình;
+- **Ngày 5**: Viết lại một nguyên tắc tuyệt đối thành nguyên tắc có điều kiện;
+- **Ngày 6**: Nhờ một người không biết bối cảnh thuật lại ý chính, và ghi lại những hiểu lầm;
+- **Ngày 7**: Dùng[Mẫu tổng kết hằng tuần](../../templates/weekly-review.md)để quyết định điều cần giữ lại, xóa đi và thử nghiệm tiếp theo.
 
-七天后，你不必得到一篇更煽情的文章。你应该更清楚：自己真正知道什么，哪些代价愿意承担，哪些话需要收回，以及下一次准备怎样让行动回答问题。
+Sau bảy ngày, bạn không nhất thiết phải có một bài viết giàu cảm xúc hơn. Bạn nên hiểu rõ hơn: mình thực sự biết điều gì, những cái giá nào sẵn sàng gánh chịu, những lời nào cần rút lại, và lần tới sẽ để hành động trả lời câu hỏi ra sao.
 
-## 9. 阶段性标准
+## 9. Tiêu chuẩn theo từng giai đoạn
 
-一次可靠的叙事复盘通常能做到：
+Một bản tổng kết tự sự đáng tin cậy thường có thể làm được những điều sau:
 
-- 读者能复述事件，而不必猜作者想让他相信什么；
-- 事实、感受、解释和假设彼此可区分；
-- 他人的隐私、授权和主体性没有被故事的完整性牺牲；
-- 个人经验被写成有条件的原则，并说明适用边界；
-- 文章留下一个可执行、可停止、可复查的下一步。
+- Độc giả có thể thuật lại sự việc mà không cần đoán tác giả muốn họ tin điều gì;
+- Sự thật, cảm xúc, lời giải thích và giả định có thể được phân biệt với nhau;
+- Quyền riêng tư, sự ủy quyền và tính chủ thể của người khác không bị hy sinh vì sự trọn vẹn của câu chuyện;
+- Kinh nghiệm cá nhân được viết thành nguyên tắc có điều kiện, đồng thời nêu rõ ranh giới áp dụng;
+- Bài viết để lại một bước tiếp theo có thể thực hiện, có thể dừng và có thể kiểm tra lại.
 
-如果这些条件还不满足，先不要急着发表“我的方法”。继续收集样本，或把文章明确标为一次个人记录。
+Nếu những điều kiện này vẫn chưa được đáp ứng, đừng vội công bố “phương pháp của tôi”. Hãy tiếp tục thu thập mẫu, hoặc ghi rõ bài viết chỉ là một bản ghi cá nhân.
 
-练习时，可以把[我的故事：失败、恢复与重新出发](my-story.md)当作一份仍在修改的个人样本，用[回声篇：不要把逃避写成浪漫](x-misc.md)检查旧解释如何影响今天，再回到[写作篇：从初稿到可验证修订](../part-1/6-writing.md)，让叙事接受真实读者的复述与修订。
+Khi luyện tập, có thể xem[Câu chuyện của tôi: Thất bại, hồi phục và bắt đầu lại](my-story.md)như một mẫu cá nhân vẫn đang được chỉnh sửa, dùng[Phần tiếng vọng: Đừng biến sự né tránh thành lãng mạn](x-misc.md)để kiểm tra cách những lời giải thích cũ ảnh hưởng đến hôm nay, rồi quay lại[Phần viết: Từ bản nháp đầu tiên đến bản chỉnh sửa có thể kiểm chứng](../part-1/6-writing.md), để câu chuyện tiếp nhận cách thuật lại và chỉnh sửa của độc giả thật.
 
-## 结语：让故事回到生活
+## Kết lời: Đưa câu chuyện trở về với cuộc sống
 
-我们都需要故事，才能在漫长的日子里辨认自己。但故事不应该把人生关进一个结论。它可以有转折，却不必假装转折早已写在开头；它可以有责任，却不必把所有人都安排成陪衬；它可以给出方向，却要允许下一次证据修改它。
+Tất cả chúng ta đều cần những câu chuyện để nhận ra mình giữa những ngày tháng dài. Nhưng câu chuyện không nên nhốt cuộc đời vào một kết luận. Nó có thể có bước ngoặt, nhưng không cần giả vờ rằng bước ngoặt ấy đã được viết sẵn ngay từ đầu; nó có thể có trách nhiệm, nhưng không cần sắp đặt tất cả mọi người thành vai phụ; nó có thể đưa ra phương hướng, nhưng phải cho phép bằng chứng lần tới sửa đổi nó.
 
-回望最好的结果，不是终于证明自己当初是对的，而是获得一种更温柔、更准确的能力：我知道自己从哪里来，也知道仍然有哪些地方需要继续学习。若要把叙事中的下一项行动变成可以比较的样本，请继续阅读[证据篇：变化要如何被看见](../part-3/5-evidence-and-transfer.md)，把基线、延迟保持和迁移写回生活。
+Kết quả tốt nhất của việc nhìn lại không phải là cuối cùng chứng minh rằng mình đã đúng ngay từ đầu, mà là có được một năng lực dịu dàng và chính xác hơn: tôi biết mình đến từ đâu, cũng biết vẫn còn những nơi nào cần tiếp tục học hỏi. Nếu muốn biến hành động tiếp theo trong tự sự thành một mẫu có thể so sánh, hãy tiếp tục đọc[Phần bằng chứng: Làm thế nào để nhìn thấy sự thay đổi](../part-3/5-evidence-and-transfer.md), và đưa đường cơ sở, khả năng duy trì sau trì hoãn và sự chuyển giao trở lại cuộc sống.
