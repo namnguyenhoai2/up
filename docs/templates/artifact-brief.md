@@ -13,25 +13,25 @@ Sản phẩm không nhất thiết phải hoàn chỉnh ngay từ đầu, nhưng
 ```markdown
 # Artifact Brief — YYYY-MM-DD
 
-作品名称：
-真实场景：
-受众/使用者：
-要解决的一个问题：
+Tên sản phẩm:
+Bối cảnh thực tế:
+Đối tượng tiếp nhận/người dùng:
+Một vấn đề cần giải quyết:
 
-输入材料与来源：
-我当前的基线：
-关键假设：
+Tài liệu đầu vào và nguồn:
+Đường cơ sở hiện tại của tôi:
+Giả định then chốt:
 
-最小交付物：
-格式、时间与其他限制：
-完成标准：
-明确不做什么：
+Sản phẩm bàn giao tối thiểu:
+Định dạng, thời gian và các giới hạn khác:
+Tiêu chí hoàn thành:
+Điều xác định rõ là không làm:
 
-第一版截止时间：
-谁会提供反馈：
-需要保留的证据：
-失败时如何缩小、暂停或回滚：
-下一次复查日期：
+Hạn chót bản đầu:
+Ai sẽ cung cấp phản hồi:
+Bằng chứng cần lưu giữ:
+Cách thu nhỏ, tạm dừng hoặc hoàn tác khi thất bại:
+Ngày xem lại tiếp theo:
 ```
 
 ## 2. Bốn phiên bản
@@ -58,13 +58,13 @@ Những nội dung “đạt” không có bằng chứng trước tiên hãy gh
 ## 4. Ghi chép về AI và phản hồi
 
 ```markdown
-AI/工具与日期：
-允许它做的工作：
-我保留的人类判断：
-它指出的三个最高影响问题：
-我采纳/拒绝了什么，为什么：
-真实读者/用户复述的主旨：
-最需要修正的一处：
+AI/công cụ và ngày:
+Công việc được phép để nó làm:
+Phán đoán của con người tôi giữ lại:
+Ba vấn đề ảnh hưởng cao nhất mà nó chỉ ra:
+Điều tôi chấp nhận/từ chối và lý do:
+Ý chính mà độc giả/người dùng thực tế diễn đạt lại:
+Một điểm cần chỉnh sửa nhất:
 ```
 
 Trước tiên hãy lưu phiên bản của chính mình, sau đó mới để AI chẩn đoán, mô phỏng đối tượng hoặc tạo nhiệm vụ song song. Con người phải xác nhận các sự kiện quan trọng, quyền hạn, quyền riêng tư, chi phí và tên người chịu trách nhiệm cuối cùng.
@@ -72,15 +72,15 @@ Trước tiên hãy lưu phiên bản của chính mình, sau đó mới để A
 ## 5. Bàn giao và khôi phục
 
 ```markdown
-交付对象与授权范围：
-交付日期与版本：
-使用说明：
-已知限制：
-支持与联系人：
-成本与留存期限：
-暂停/降级/回滚触发条件：
-发现问题后的通知对象：
-下一次复查日期：
+Đối tượng bàn giao và phạm vi ủy quyền:
+Ngày và phiên bản bàn giao:
+Hướng dẫn sử dụng:
+Giới hạn đã biết:
+Hỗ trợ và người liên hệ:
+Chi phí và thời hạn lưu giữ:
+Điều kiện kích hoạt tạm dừng/hạ cấp/hoàn tác:
+Người được thông báo khi phát hiện vấn đề:
+Ngày xem lại tiếp theo:
 ```
 
 Bàn giao không phải là điểm kết thúc. Ít nhất sau 3–7 ngày, hãy kiểm thử lại một lần trong các điều kiện tương tự, ghi lại liệu người khác có thể tự mình bắt đầu hay không, nơi nào cần giải thích, và phiên bản tiếp theo chỉ thay đổi điều gì.

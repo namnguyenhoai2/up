@@ -15,11 +15,11 @@ Không ghi mật khẩu, giấy tờ tùy thân, thông tin khách hàng, thông
 ## 1. Vấn đề chính trong tuần
 
 ```markdown
-日期范围：
-本周只回答一个问题：
-真实场景与受众：
-完成标准：
-本周开始时的基线证据：
+Khoảng ngày:
+Tuần này chỉ trả lời một câu hỏi:
+Bối cảnh thực tế và đối tượng tiếp nhận:
+Tiêu chí hoàn thành:
+Bằng chứng đường cơ sở vào đầu tuần:
 ```
 
 Vấn đề chính phải có thể quan sát được, chẳng hạn như “Tôi có thể giải thích một rủi ro của dự án bằng tiếng Anh và trả lời các câu hỏi tiếp theo khi không có bản thảo hay không?”. Đừng viết “Tuần này trở nên tốt hơn”.
@@ -48,11 +48,11 @@ Nếu lặp lại bốn lần liên tiếp mà vẫn không tạo ra thông tin 
 ## 4. Ghi lại một phản hồi hữu ích
 
 ```markdown
-反馈来自谁或什么结果：
-观察：对方实际看见、听见或测到了什么？
-影响：它怎样影响理解、使用或结果？
-下一次调整：我只改变哪一个重要变量？
-证据位置：
+Phản hồi đến từ ai hoặc kết quả nào:
+Quan sát: Người kia thực sự đã thấy, nghe hoặc đo được điều gì?
+Tác động: Điều đó ảnh hưởng thế nào đến việc hiểu, sử dụng hoặc kết quả?
+Điều chỉnh lần tới: Tôi chỉ thay đổi biến số quan trọng nào?
+Vị trí bằng chứng:
 ```
 
 Khi yêu cầu AI phản hồi, trước tiên hãy gửi phiên bản của chính bạn và yêu cầu AI chỉ ra nhiều nhất ba vấn đề ảnh hưởng đến kết quả, đồng thời phân biệt giữa quan sát, suy luận và đề xuất. Cuối cùng có tiếp thu hay không là do con người quyết định.
@@ -60,11 +60,11 @@ Khi yêu cầu AI phản hồi, trước tiên hãy gửi phiên bản của ch�
 ## 5. Gián đoạn và quay lại
 
 ```markdown
-发生了什么事实（不做人格判断）：
-哪个条件改变了：时间 / 精力 / 难度 / 环境 / 责任
-24 小时内能完成的最小回归动作：
-这次明确不补做什么：
-需要联系谁或升级什么风险：
+Sự việc nào đã xảy ra (không phán xét con người):
+Điều kiện nào đã thay đổi: thời gian / năng lượng / độ khó / môi trường / trách nhiệm
+Hành động quay lại nhỏ nhất có thể hoàn thành trong 24 giờ:
+Lần này xác định rõ điều gì sẽ không làm bù:
+Cần liên hệ ai hoặc nâng cấp rủi ro nào:
 ```
 
 Nếu cùng một trở lực xuất hiện liên tiếp ba lần, hãy thay đổi khung thời gian, quy mô nhiệm vụ, môi trường, ranh giới hoặc mạng lưới hỗ trợ. Đừng dùng việc thức khuya và sự xấu hổ để bù đắp cho những lần vắng mặt.
@@ -72,21 +72,21 @@ Nếu cùng một trở lực xuất hiện liên tiếp ba lần, hãy thay đ�
 ## 6. Quyết định trong tuần
 
 ```markdown
-本周保留的一个设计：
-本周删除的一个要求或入口：
-下周要改变的一个条件：
-我停止追踪的一个数字：
-下次复查日期：
-下次打开文件后的第一步：
+Một thiết kế giữ lại trong tuần này:
+Một yêu cầu hoặc điểm bắt đầu bỏ đi trong tuần này:
+Một điều kiện sẽ thay đổi vào tuần sau:
+Một con số tôi ngừng theo dõi:
+Ngày xem lại tiếp theo:
+Bước đầu tiên sau khi mở tệp lần tới:
 ```
 
 ## 7. Bàn giao và vị trí bằng chứng
 
 ```markdown
-首版位置：
-修订版位置：
-反馈或复测位置：
-下一项任务交给谁/何时：
+Vị trí bản đầu:
+Vị trí bản sửa đổi:
+Vị trí phản hồi hoặc kiểm tra lại:
+Nhiệm vụ tiếp theo giao cho ai/khi nào:
 ```
 
 Các chương liên quan: [Phần về nhịp độ: Để những việc nhỏ vượt qua thời gian](../threads/part-4/rhythm-and-compounding.md) ｜ [Phần về hệ thống cuộc sống: Đặt sự thay đổi vào trong từng ngày](../threads/part-4/daily-system.md) ｜ [Mẫu rà soát hằng tuần](weekly-review.md)

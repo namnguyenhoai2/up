@@ -15,11 +15,11 @@ Hãy sao chép vào ghi chú riêng của mình, mỗi câu hỏi chính dùng m
 ## 1. Trước tiên, xác định câu hỏi cần trả lời
 
 ```markdown
-记录开始日期：
-真实场景与受众/用户：
-本次只回答的问题：
-完成标准：
-可能的风险与停止条件：
+Ngày bắt đầu ghi chép:
+Bối cảnh thực tế và đối tượng/người dùng:
+Câu hỏi duy nhất cần trả lời lần này:
+Tiêu chí hoàn thành:
+Rủi ro có thể xảy ra và điều kiện dừng:
 ```
 
 Câu hỏi phải có thể quan sát được, chẳng hạn như “Tôi có thể trình bày rủi ro của dự án bằng tiếng Anh và trả lời một câu hỏi tiếp theo mà không cần bản thảo không?” Đừng viết “Tôi có trở nên tốt hơn không”.
@@ -33,9 +33,9 @@ Câu hỏi phải có thể quan sát được, chẳng hạn như “Tôi có t
 | | | Không | | |
 
 ```markdown
-我在基线时能够独立完成什么：
-我在哪里停住或需要提示：
-基线不能说明什么：
+Tôi có thể hoàn thành độc lập điều gì ở đường cơ sở:
+Tôi dừng ở đâu hoặc cần gợi ý ở đâu:
+Đường cơ sở không thể nói lên điều gì:
 ```
 
 ## 3. Ghi lại biểu hiện tức thời
@@ -54,13 +54,13 @@ Nếu sử dụng AI, hãy ghi rõ AI đã làm gì và bạn đã tự mình ho
 Chờ một khoảng thời gian, bỏ các gợi ý gần đây và câu trả lời ban đầu, sau đó hoàn thành một nhiệm vụ tương tự. Khoảng thời gian được quyết định tùy theo nhiệm vụ và khả năng của mỗi người, nhưng phải ghi rõ.
 
 ```markdown
-复测日期：
-距离上次练习：
-撤掉了哪些提示：
-相近任务：
-独立结果：
-仍然出现的错误：
-证据位置：
+Ngày kiểm tra lại:
+Khoảng cách từ lần thực hành trước:
+Đã bỏ những gợi ý nào:
+Nhiệm vụ tương tự:
+Kết quả độc lập:
+Lỗi vẫn xuất hiện:
+Vị trí bằng chứng:
 ```
 
 ## 5. Thực hiện một lần chuyển giao
@@ -76,10 +76,10 @@ Chuyển giao thất bại không có nghĩa là những bài luyện tập trư
 ## 6. Tách biệt sự việc, cách diễn giải và giả định
 
 ```markdown
-事实：我能指出日期、条件、样本、来源或直接观察。
-解释：我如何理解这些事实；它可能需要修正。
-假设：我准备在下一项行动中检验的判断。
-不能推出的结论：
+Sự thật: Tôi có thể chỉ ra ngày, điều kiện, mẫu, nguồn hoặc quan sát trực tiếp.
+Diễn giải: Tôi hiểu những sự thật này thế nào; có thể cần điều chỉnh.
+Giả thuyết: Phán đoán tôi chuẩn bị kiểm tra trong hành động tiếp theo.
+Kết luận không thể suy ra:
 ```
 
 Ví dụ, “Phiên bản độc lập được hoàn thành trong 90 giây” là ghi chép; “Vì giấc ngủ được cải thiện nên cách diễn đạt rõ ràng hơn” là cách diễn giải; “Chỉ khi tuần sau vẫn hoàn thành với một người nghe xa lạ thì mới có thể nói rằng thay đổi này có khả năng mang lại hiệu quả” là giả định cần được kiểm chứng.
@@ -87,12 +87,12 @@ Ví dụ, “Phiên bản độc lập được hoàn thành trong 90 giây” l
 ## 7. Để bằng chứng quyết định bước tiếp theo
 
 ```markdown
-这条证据最支持：继续 / 降档 / 改变变量 / 暂停或停止
-我只改变的一个条件：
-下一项最小任务：
-下一项任务的完成标准：
-需要的支持、授权或专业判断：
-下一次复查日期：
+Bằng chứng này ủng hộ nhất: tiếp tục / hạ mức / đổi biến số / tạm dừng hoặc dừng
+Một điều kiện duy nhất tôi thay đổi:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Tiêu chí hoàn thành của nhiệm vụ tiếp theo:
+Hỗ trợ, ủy quyền hoặc phán đoán chuyên môn cần thiết:
+Ngày xem lại tiếp theo:
 ```
 
 Nếu các bằng chứng mâu thuẫn với nhau, đừng dùng giá trị trung bình để che giấu mâu thuẫn. Trước tiên, hãy ghi ra các điều kiện khác nhau, sau đó quyết định có cần bổ sung một mẫu nữa hay không. Khi bằng chứng chưa đủ, thu hẹp câu hỏi thường trung thực hơn việc tạo ra một điểm số chính xác.
@@ -100,12 +100,12 @@ Nếu các bằng chứng mâu thuẫn với nhau, đừng dùng giá trị trun
 ## 8. Tóm tắt bàn giao
 
 ```markdown
-主问题与完成标准：
-最可靠的证据：
-最不可靠或仍缺少的证据：
-重复出现的错误/风险：
-下一项最小任务与停止条件：
-证据文件夹或链接：
+Câu hỏi chính và tiêu chí hoàn thành:
+Bằng chứng đáng tin cậy nhất:
+Bằng chứng kém tin cậy nhất hoặc còn thiếu:
+Lỗi/rủi ro tái diễn:
+Nhiệm vụ nhỏ nhất tiếp theo và điều kiện dừng:
+Thư mục hoặc liên kết bằng chứng:
 ```
 
 Khi giao phần tóm tắt này cho chính mình trong tương lai, bạn cùng nhóm hoặc AI, hãy yêu cầu đối phương chỉ làm việc dựa trên bản ghi này, không giả vờ nhớ các cuộc trò chuyện khác và không tự bổ sung những sự thật không tồn tại.

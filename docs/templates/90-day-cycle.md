@@ -15,12 +15,12 @@ Bảng này phụ trách định hướng chu kỳ và các ngưỡng theo giai 
 ```markdown
 # 90-Day Cycle — YYYY-MM-DD to YYYY-MM-DD
 
-真实场景：
-九十天后要完成的交付：
-完成标准：
-三项核心证据：
-每周可用时间与边界：
-必须减少或暂停的事情：
+Bối cảnh thực tế:
+Sản phẩm cần bàn giao sau 90 ngày:
+Tiêu chí hoàn thành:
+Ba bằng chứng cốt lõi:
+Thời gian có thể dùng mỗi tuần và các giới hạn:
+Việc bắt buộc phải giảm bớt hoặc tạm dừng:
 ```
 
 ## 2. Đường cơ sở ngày đầu tiên
@@ -74,12 +74,12 @@ Lịch sử trò chuyện, thời lượng phát và ảnh chụp màn hình đi
 ## 6. Giao thức gián đoạn và phục hồi
 
 ```markdown
-中断事实（不做人格判断）：
-主要阻力：时间 / 难度 / 精力 / 环境 / 责任
-任务缩小到原来的：
-24 小时内能完成的最小输出：
-不需要补做的内容：
-重新检查日期：
+Sự thật về gián đoạn (không phán xét con người):
+Trở lực chính: thời gian / độ khó / năng lượng / môi trường / trách nhiệm
+Thu nhỏ nhiệm vụ còn:
+Đầu ra nhỏ nhất có thể hoàn thành trong 24 giờ:
+Nội dung không cần làm bù:
+Ngày kiểm tra lại:
 ```
 
 Đừng thức khuya để bù cho những lần vắng mặt, cũng đừng dùng một lần thất bại để viết lại 90 ngày. Khi cùng một trở lực xuất hiện ba lần liên tiếp, trước tiên hãy ghi lại năng lực và trở lực trong [sổ cái nhịp điệu](rhythm-ledger.md), sau đó thay đổi điều kiện của hệ thống, thay vì chỉ yêu cầu bản thân cố gắng hơn.
@@ -87,13 +87,13 @@ Lịch sử trò chuyện, thời lượng phát và ảnh chụp màn hình đi
 ## 7. Tổng kết ngày thứ chín mươi
 
 ```markdown
-最终交付：
-相对基线真正改变的地方：
-仍然反复出现的错误：
-真实读者/用户如何评价：
-哪项代价不可持续：
-下一周期保留的一个习惯：
-下一周期停止的一个入口：
+Sản phẩm bàn giao cuối cùng:
+Điểm thực sự thay đổi so với đường cơ sở:
+Lỗi vẫn lặp lại:
+Độc giả/người dùng thực tế đánh giá thế nào:
+Chi phí nào không bền vững:
+Một thói quen giữ lại cho chu kỳ tiếp theo:
+Một điểm bắt đầu dừng lại trong chu kỳ tiếp theo:
 ```
 
 Các chương liên quan: [Phần hành động: 90 ngày, trao trả cuộc sống cho chính mình](../threads/part-5/90-day-plan.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md) ｜ [Sổ cái nhịp điệu](rhythm-ledger.md)

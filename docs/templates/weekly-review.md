@@ -11,55 +11,55 @@ Rà soát không phải là tự chấm điểm cho bản thân, mà là để l
 ```markdown
 # Weekly Review — YYYY-Www
 
-## 本周主问题
-- 目标：
-- 本周只回答一个问题：
-- 完成标准：
-- 约束（时间、精力、责任）：
+## Vấn đề chính tuần này
+- Mục tiêu:
+- Câu hỏi duy nhất cần trả lời tuần này:
+- Tiêu chí hoàn thành:
+- Ràng buộc (thời gian, năng lượng, trách nhiệm):
 
-## 证据清单
-- 完成了什么：
-- 作品/录音/测试位置：
-- 首版、辅助版、延迟复测位置：
-- 外部读者/用户反馈：
+## Danh sách bằng chứng
+- Đã hoàn thành điều gì:
+- Vị trí sản phẩm/bản ghi âm/kiểm thử:
+- Vị trí bản đầu, bản có hỗ trợ và kiểm tra lại trễ:
+- Phản hồi từ độc giả/người dùng bên ngoài:
 
-| 证据 | 它说明了什么 | 仍然不能说明什么 |
+| Bằng chứng | Nó cho thấy điều gì | Vẫn không thể cho thấy điều gì |
 | --- | --- | --- |
 | | | |
 
-## 四项检查（0–2）
-| 项目 | 分数 | 评分理由与证据 |
+## Bốn mục kiểm tra (0–2)
+| Hạng mục | Điểm | Lý do chấm điểm và bằng chứng |
 | --- | ---: | --- |
-| 完成：任务是否完成 | | |
-| 质量：是否达到标准 | | |
-| 保持：几天后还能复现 | | |
-| 迁移：换条件还能使用 | | |
+| Hoàn thành: nhiệm vụ đã xong chưa | | |
+| Chất lượng: có đạt tiêu chuẩn không | | |
+| Duy trì: vài ngày sau có tái hiện được không | | |
+| Chuyển giao: có dùng được khi đổi điều kiện không | | |
 
-## 错误与原因
-| 错误/阻碍 | 证据 | 可能原因 | 下一次测试 |
+## Lỗi và nguyên nhân
+| Lỗi/trở ngại | Bằng chứng | Nguyên nhân có thể | Kiểm tra lần tới |
 | --- | --- | --- | --- |
 | | | | |
 
-## 精力与恢复
-- 睡眠/压力对表现的影响：
-- 哪个安排不可持续：
-- 本周需要暂停或求助的事项：
+## Năng lượng và phục hồi
+- Tác động của giấc ngủ/căng thẳng đến hiệu suất:
+- Sắp xếp nào không bền vững:
+- Việc cần tạm dừng hoặc tìm trợ giúp tuần này:
 
-## 下周只改一个变量
-- 保留：
-- 停止：
-- 调整：
-- 最重要任务及完成标准：
-- 下次复查日期：
+## Tuần sau chỉ đổi một biến số
+- Giữ lại:
+- Dừng:
+- Điều chỉnh:
+- Nhiệm vụ quan trọng nhất và tiêu chí hoàn thành:
+- Ngày xem lại tiếp theo:
 
-## 写回状态
+## Ghi lại trạng thái
 
-复盘只写回真正改变决定的内容，不要把同一段话复制到四个文件。按任务选择职责：
+Chỉ ghi lại nội dung thực sự thay đổi quyết định; không sao chép cùng một đoạn vào bốn tệp. Chọn trách nhiệm theo nhiệm vụ:
 
-- [证据链模板](evidence-chain.md)：保存基线、即时表现、延迟保持和迁移的比较；
-- [节律账本](rhythm-ledger.md)：保存本周节奏、容量版本、反复阻力和下周要改变的条件；
-- [学习状态](learning-state.md)：保存跨会话交接、未确认事实、边界和下一项最小任务；
-- [九十日行动总表](90-day-cycle.md)：保存阶段门槛、十二周主问题和周期方向。
+- [Mẫu chuỗi bằng chứng](evidence-chain.md): lưu so sánh đường cơ sở, hiệu suất tức thời, duy trì trễ và chuyển giao;
+- [Sổ nhịp điệu](rhythm-ledger.md): lưu nhịp tuần này, phiên bản sức chứa, trở lực lặp lại và điều kiện sẽ đổi tuần sau;
+- [Trạng thái học tập](learning-state.md): lưu bàn giao giữa các phiên, sự thật chưa xác nhận, ranh giới và nhiệm vụ nhỏ nhất tiếp theo;
+- [Bảng tổng hợp hành động 90 ngày](90-day-cycle.md): lưu ngưỡng giai đoạn, vấn đề chính 12 tuần và hướng chu kỳ.
 
 ```markdown
 Chuỗi bằng chứng đã được cập nhật: Có / Không / Không áp dụng

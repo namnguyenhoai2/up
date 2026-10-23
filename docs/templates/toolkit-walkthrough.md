@@ -55,17 +55,17 @@ Trước tiên, người học tạo `python-learning-state.md`, thay vì coi ph
 ```markdown
 # Learning State — python-90d-v1
 
-更新日期：2026-09-02
-九十天场景：独立交付一个 CSV 摘要命令行工具，并能解释输入校验、错误处理和测试。
-当前基线：能写变量、if 和 for；不能独立读取 CSV、拆函数或写测试。
-可用容量：周一、周三、周五、周日各 45 分钟。
-已有证据：baseline/day-01.py；运行后在空值行报错。
-反复错误：先看答案；把能运行误认为能解释；修改多个变量后无法判断原因。
-边界：不用真实公司数据；先提交自己的版本；不在 23:00 后补课。
-当前阶段：第 1–14 天校准。
-下一项最小任务：读取一份 12 行合成 CSV，跳过空行，输出有效行数与总金额。
-完成标准：独立版能运行；我能解释每个函数；至少保存一个失败测试。
-停止条件：45 分钟结束即保存状态，不用熬夜完成。
+Ngày cập nhật: 2026-09-02
+Bối cảnh 90 ngày: Bàn giao độc lập một công cụ dòng lệnh tóm tắt CSV và giải thích được kiểm tra đầu vào, xử lý lỗi và kiểm thử.
+Đường cơ sở hiện tại: Có thể viết biến, if và for; chưa thể tự đọc CSV, tách hàm hoặc viết kiểm thử.
+Sức chứa có thể dùng: 45 phút mỗi thứ Hai, Tư, Sáu và Chủ nhật.
+Bằng chứng hiện có: baseline/day-01.py; lỗi tại dòng giá trị trống khi chạy.
+Lỗi lặp lại: Xem đáp án trước; nhầm chạy được với giải thích được; không xác định được nguyên nhân sau khi đổi nhiều biến số.
+Ranh giới: Không dùng dữ liệu công ty thật; nộp phiên bản của mình trước; không học bù sau 23:00.
+Giai đoạn hiện tại: Hiệu chỉnh ngày 1–14.
+Nhiệm vụ nhỏ nhất tiếp theo: Đọc một CSV tổng hợp 12 dòng, bỏ qua dòng trống, xuất số dòng hợp lệ và tổng số tiền.
+Tiêu chí hoàn thành: Phiên bản độc lập chạy được; tôi giải thích được mọi hàm; lưu ít nhất một kiểm thử thất bại.
+Điều kiện dừng: Hết 45 phút thì lưu trạng thái, không thức khuya để hoàn thành.
 ```
 
 Tệp trạng thái chỉ giữ lại những nội dung có thể làm thay đổi hành động lần sau. Các trích đoạn khóa học, toàn bộ cuộc trò chuyện và mọi chi tiết của từng lần thử được đặt trong thư mục bằng chứng, không nhồi vào trang trạng thái.
@@ -75,10 +75,10 @@ Tệp trạng thái chỉ giữ lại những nội dung có thể làm thay đ�
 Khi bắt đầu phiên mới, không yêu cầu AI “nhớ tôi”. Chỉ gửi trạng thái mới nhất và bản tóm lược nhiệm vụ lần này:
 
 ```markdown
-下面是我的学习状态文件。请先用不超过 6 条要点复述版本、目标、当前证据、主要错误、边界和下一任务，指出冲突或缺口。不要补写文件里没有的事实。
+Dưới đây là tệp trạng thái học tập của tôi. Trước hết, hãy tóm tắt bằng không quá 6 ý: phiên bản, mục tiêu, bằng chứng hiện tại, lỗi chính, ranh giới và nhiệm vụ tiếp theo; chỉ ra xung đột hoặc khoảng trống. Không bổ sung sự thật không có trong tệp.
 
-本次只做一项任务：读取合成 CSV，跳过空行，输出有效行数与总金额。
-流程：先让我提交独立版；你最多指出 3 个影响结果的问题，不直接给完整代码；我修改后，再用两个测试检查。45 分钟结束时，输出“完成、证据、错误/风险、交接、下一步”五项更新。
+Lần này chỉ làm một nhiệm vụ: đọc CSV tổng hợp, bỏ qua dòng trống, xuất số dòng hợp lệ và tổng số tiền.
+Quy trình: để tôi nộp phiên bản độc lập trước; bạn chỉ ra tối đa 3 vấn đề ảnh hưởng kết quả, không đưa mã hoàn chỉnh trực tiếp; sau khi tôi sửa, kiểm tra bằng hai bài test. Khi hết 45 phút, xuất năm mục cập nhật: “Hoàn thành, bằng chứng, lỗi/rủi ro, bàn giao, bước tiếp theo”.
 ```
 
 Công việc đầu tiên của AI là nhắc lại trạng thái, không phải lập tức giảng bài. Nếu phần nhắc lại có sai sót, trước hết hãy sửa trạng thái hoặc lời nhắc, đừng tiếp tục tạo kế hoạch dựa trên tiền đề sai.

@@ -28,13 +28,13 @@ Không có hành động, không có kiểm tra lại, bạn vẫn có thể đi
 ### 1. Vấn đề dẫn lối vào
 
 ```markdown
-日期：
-章节或页面：
-我为什么打开它：
-当时的真实场景：
-阅读前已经会什么：
-阅读前卡在哪里：
-今天可用的时间与容量：
+Ngày:
+Chương hoặc trang:
+Vì sao tôi mở nó:
+Bối cảnh thực tế khi đó:
+Tôi đã biết gì trước khi đọc:
+Tôi mắc ở đâu trước khi đọc:
+Thời gian và sức chứa có thể dùng hôm nay:
 ```
 
 Đừng viết “Tôi muốn trở nên xuất sắc hơn”. Hãy viết một tình huống có thể thực sự xảy ra, chẳng hạn: “Tôi cần bàn giao rủi ro của dự án cho đồng nghiệp, nhưng hồ sơ hiện có chỉ gồm các đoạn trò chuyện và ảnh chụp màn hình rời rạc.”
@@ -44,9 +44,9 @@ Không có hành động, không có kiểm tra lại, bạn vẫn có thể đi
 Gập trang lại, viết không quá ba câu:
 
 ```markdown
-我理解的核心判断：
-它依据的事实、例子或来源：
-它仍然不能替我证明什么：
+Nhận định cốt lõi tôi hiểu:
+Sự thật, ví dụ hoặc nguồn mà nó dựa vào:
+Điều nó vẫn không thể chứng minh thay tôi:
 ```
 
 Nếu chỉ có thể sao chép nguyên văn, trước hết đừng vội đánh giá hay dở. Hãy viết “Tôi vẫn chưa thể giải thích bằng lời của mình”; điều này sẽ chính xác hơn một đoạn trích dẫn trau chuốt.
@@ -56,12 +56,12 @@ Nếu chỉ có thể sao chép nguyên văn, trước hết đừng vội đán
 Chọn một hành động có thể hoàn thành trong 10–45 phút. Hành động đó phải để lại dấu vết có thể kiểm tra.
 
 ```markdown
-我要完成的最小动作：
-完成标准：
-是否使用 AI / 他人帮助：
-我必须自己决定的部分：
-作品、录音、代码或记录位置：
-停止条件：
+Hành động nhỏ nhất tôi sẽ hoàn thành:
+Tiêu chí hoàn thành:
+Có sử dụng AI / hỗ trợ của người khác không:
+Phần tôi phải tự quyết định:
+Vị trí sản phẩm, bản ghi âm, mã hoặc ghi chép:
+Điều kiện dừng:
 ```
 
 Các hành động có thể thực hiện gồm: viết lại một email, ghi âm một đoạn giải thích, sửa một bài kiểm thử, lập một trang theo dõi tình trạng học tập, xóa một yêu cầu không hiệu quả, hoặc xác nhận ranh giới với một người bị ảnh hưởng. Tiếp tục lưu thêm tài liệu không được tính là hành động.
@@ -69,12 +69,12 @@ Các hành động có thể thực hiện gồm: viết lại một email, ghi 
 ### 4. Lưu lại kết quả tức thời
 
 ```markdown
-实际完成了什么：
-没有完成什么：
-收到的直接反馈或结果：
-最大错误 / 阻力：
-现在最容易夸大的结论：
-下一次复测日期：
+Đã thực sự hoàn thành điều gì:
+Chưa hoàn thành điều gì:
+Phản hồi hoặc kết quả trực tiếp nhận được:
+Lỗi / trở lực lớn nhất:
+Kết luận dễ bị phóng đại nhất lúc này:
+Ngày kiểm tra lại tiếp theo:
 ```
 
 Việc diễn ra suôn sẻ ngay lập tức chỉ cho biết điều gì đã xảy ra trong lần này và với các điều kiện hiện tại. Nếu sử dụng AI, hãy lưu riêng bản có hỗ trợ và bản độc lập sau khi tắt AI.
@@ -86,13 +86,13 @@ Việc diễn ra suôn sẻ ngay lập tức chỉ cho biết điều gì đã x
 Trước tiên đừng mở chương gốc, lịch sử trò chuyện hay câu trả lời. Hãy hoàn thành một nhiệm vụ tương tự, rồi điền:
 
 ```markdown
-复测日期与间隔：
-撤掉了哪些提示：
-相近任务：
-我独立完成了什么：
-我仍然需要什么提示：
-与第一次相比，真正留下了什么：
-证据位置：
+Ngày và khoảng cách kiểm tra lại:
+Đã bỏ những gợi ý nào:
+Nhiệm vụ tương tự:
+Tôi đã hoàn thành độc lập điều gì:
+Tôi vẫn cần gợi ý gì:
+So với lần đầu, điều gì thực sự còn lại:
+Vị trí bằng chứng:
 ```
 
 Nếu hoàn toàn không nhớ gì, cũng đừng biến thất bại thành “Gần đây tôi quá bận”. Trước hết hãy ghi lại sự thật, rồi quyết định xem nhiệm vụ có quá lớn không, lối vào có rõ ràng không, hay nội dung chỉ tạo ra sự đồng tình trong ngắn hạn.
@@ -112,12 +112,12 @@ Chuyển đổi thất bại không phải là một đánh giá tiêu cực. N�
 Hãy cố gắng chỉ rõ đoạn văn, tiêu đề, ví dụ hoặc công cụ cụ thể:
 
 ```markdown
-最帮助我行动的一处：
-仍然抽象或不知道怎样使用的一处：
-缺少的边界、例子或前置条件：
-可以删除或缩短的一处：
-我尝试后没有奏效的部分：
-我希望下一版回答的问题：
+Điểm giúp tôi hành động nhiều nhất:
+Điểm vẫn trừu tượng hoặc tôi chưa biết cách dùng:
+Ranh giới, ví dụ hoặc điều kiện tiên quyết còn thiếu:
+Điểm có thể xóa hoặc rút ngắn:
+Phần không hiệu quả sau khi tôi thử:
+Câu hỏi tôi muốn phiên bản sau trả lời:
 ```
 
 “Viết rất hay” khiến tác giả vui, nhưng khó giúp thay đổi phiên bản tiếp theo. “Tôi đã làm theo bước thứ ba, nhưng không biết phải viết tiêu chuẩn hoàn thành như thế nào” có giá trị biên tập hơn.

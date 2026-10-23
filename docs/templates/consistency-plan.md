@@ -45,11 +45,11 @@ Ngày hoặc điều kiện xem xét lại:
 - Bước tiếp theo cần lưu lại trước khi kết thúc:
 
 **## Ba phiên bản**
-\| Phiên bản | Điều kiện sử dụng | Hành động cụ thể và điều kiện kết thúc | Lưu lại gì |
-\| --- | --- | --- | --- |
-\| Tối thiểu | | | |
-\| Tiêu chuẩn | | | |
-\| Mở rộng (có thể không cần) | | | |
+| Phiên bản | Điều kiện sử dụng | Hành động cụ thể và điều kiện kết thúc | Lưu lại gì |
+| --- | --- | --- | --- |
+| Tối thiểu | | | |
+| Tiêu chuẩn | | | |
+| Mở rộng (có thể không cần) | | | |
 
 - Nội dung luyện tập hoặc kiểm chứng mà phiên bản tối thiểu không thể thay thế:
 - Giới hạn thời gian cho mỗi lần thực hiện:
@@ -64,8 +64,8 @@ Ngày hoặc điều kiện xem xét lại:
 - Cách điều chỉnh phạm vi hoặc thương lượng khi thời hạn bị ảnh hưởng:
 
 **## Ghi chép trong chu kỳ**
-\| Ngày | Hành động dự kiến | Sản phẩm thực tế và vị trí lưu | Trở ngại / chi phí | Bước tiếp theo |
-\| --- | --- | --- | --- | --- |
+| Ngày | Hành động dự kiến | Sản phẩm thực tế và vị trí lưu | Trở ngại / chi phí | Bước tiếp theo |
+| --- | --- | --- | --- | --- |
 
 **## Xem xét cuối chu kỳ**
 - Điều gì đã thay đổi so với mức ban đầu (kèm bằng chứng):

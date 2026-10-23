@@ -11,22 +11,22 @@ Mỗi lần, thẻ này chỉ theo dõi một cấu trúc có ảnh hưởng l�
 ## 1. Xác định nhiệm vụ thực tế
 
 ```markdown
-日期：
-场景：邮件 / 说明 / 对话 / 复述 / 面试 / 其他
-受众：
-任务必须让对方理解或完成什么：
-时间、工具和长度限制：
-原始样本位置：
+Ngày:
+Bối cảnh: email / giải thích / hội thoại / diễn đạt lại / phỏng vấn / khác
+Đối tượng tiếp nhận:
+Nhiệm vụ phải khiến người kia hiểu hoặc hoàn thành điều gì:
+Giới hạn thời gian, công cụ và độ dài:
+Vị trí mẫu gốc:
 ```
 
 ## 2. Tìm một vấn đề về cấu trúc
 
 ```markdown
-我的原句/片段：
-对方最可能理解成：
-我真正想表达：
-影响类型：意思改变 / 任务阻断 / 高频重复 / 语域不合 / 低影响
-本轮只追踪的结构：
+Câu/đoạn gốc của tôi:
+Người kia có khả năng hiểu thành:
+Điều tôi thực sự muốn diễn đạt:
+Loại tác động: thay đổi nghĩa / cản trở nhiệm vụ / lặp lại thường xuyên / không phù hợp ngữ vực / tác động thấp
+Cấu trúc duy nhất theo dõi trong lượt này:
 ```
 
 | Mẫu | Lựa chọn cấu trúc | Mối quan hệ thực tế được diễn đạt | Có phù hợp với nhiệm vụ không |
@@ -38,11 +38,11 @@ Mỗi lần, thẻ này chỉ theo dõi một cấu trúc có ảnh hưởng l�
 ## 3. Viết một thẻ đối chiếu ý nghĩa
 
 ```markdown
-我要表达的意义：
-容易混淆的形式：
-来自可靠材料的例句与来源：
-一句自己的解释：
-反例或适用边界：
+Ý nghĩa tôi muốn diễn đạt:
+Hình thức dễ nhầm lẫn:
+Câu ví dụ từ tài liệu đáng tin cậy và nguồn:
+Một câu giải thích của riêng tôi:
+Phản ví dụ hoặc ranh giới áp dụng:
 ```
 
 Phần giải thích cần trả lời câu hỏi “tại sao hình thức này phù hợp với sự việc này”, thay vì chỉ sao chép định nghĩa thuật ngữ.
@@ -56,9 +56,9 @@ Phần giải thích cần trả lời câu hỏi “tại sao hình thức này
 | Làm lại độc lập | Đã đóng tài liệu | | | |
 
 ```markdown
-修改后对方如何理解：
-仍然影响任务的问题：
-被建议但我没有采纳的风格修改：
+Cách người kia hiểu sau khi sửa:
+Vấn đề vẫn ảnh hưởng nhiệm vụ:
+Thay đổi phong cách được đề xuất nhưng tôi không chấp nhận:
 ```
 
 ## 5. Vận dụng trong bốn năng lực
@@ -75,12 +75,12 @@ Không nhất thiết phải hoàn thành cả bốn năng lực trong mỗi vò
 ## 6. Ghi chép về AI và phản hồi
 
 ```markdown
-工具/反馈者与日期：
-它观察到的问题：
-它给出的解释：
-它是否区分错误、歧义、语域和风格：
-我如何用词典、语料、教师或读者复核：
-我采纳/拒绝什么，为什么：
+Công cụ/người phản hồi và ngày:
+Vấn đề nó quan sát được:
+Giải thích nó đưa ra:
+Nó có phân biệt lỗi, mơ hồ, ngữ vực và phong cách không:
+Cách tôi đối chiếu bằng từ điển, ngữ liệu, giáo viên hoặc độc giả:
+Điều tôi chấp nhận/từ chối và lý do:
 ```
 
 ## 7. Kiểm tra lại sau một khoảng thời gian
@@ -92,14 +92,14 @@ Không nhất thiết phải hoàn thành cả bốn năng lực trong mỗi vò
 | Ngày 14 | Đối tượng tiếp nhận mới hoặc áp lực thời gian | Nhiệm vụ chuyển giao | | |
 
 ```markdown
-第 7 天仍然保留的判断：
-再次出现的错误：
-换条件后失败在哪里：
+Phán đoán vẫn giữ ở ngày 7:
+Lỗi xuất hiện lại:
+Thất bại ở đâu sau khi đổi điều kiện:
 ```
 
 ## 8. Chấm điểm và quyết định giữ hay loại
 
-Mỗi mục 0–2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
+Mỗi mục 0–2: `0=chưa hoàn thành`, `1=phụ thuộc vào gợi ý hoặc chưa ổn định`, `2=hoàn thành trong điều kiện hiện tại`.
 
 | Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | --- |
@@ -110,11 +110,11 @@ Mỗi mục 0–2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件�
 | Không còn liên tục làm thay đổi ý nghĩa then chốt | | | | |
 
 ```markdown
-当前最支持：继续同一结构 / 增加变式 / 转向另一问题 / 暂停
-依据：
-仍不能推出的结论：
-下一项最小任务：
-下一次复查日期：
+Hiện tại ủng hộ nhất: tiếp tục cùng cấu trúc / thêm biến thể / chuyển sang vấn đề khác / tạm dừng
+Căn cứ:
+Kết luận vẫn không thể suy ra:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 Các chương liên quan: [Phần ngữ pháp: để cấu trúc phục vụ ý nghĩa](../threads/part-1/grammar.md) ｜ [Nguyên tắc nhận thức và luyện tập](../threads/part-1/1-understanding.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

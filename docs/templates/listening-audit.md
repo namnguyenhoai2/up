@@ -13,12 +13,12 @@ Sao chép thẻ này vào ghi chú riêng tư, mỗi lần chỉ xử lý một 
 ```markdown
 # Listening Evidence — YYYY-MM-DD
 
-真实场景：
-任务：抓主旨 / 找细节 / 追踪关系 / 执行动作 / 进入互动 / 迁移
-听完以后需要回答、决定或做什么：
-完成标准：
-现实中允许的确认、字幕与书面辅助：
-录音、上传、转写和分享许可：
+Bối cảnh thực tế:
+Nhiệm vụ: nắm ý chính / tìm chi tiết / theo dõi mối quan hệ / thực hiện hành động / tham gia tương tác / chuyển giao
+Sau khi nghe cần trả lời, quyết định hoặc làm gì:
+Tiêu chí hoàn thành:
+Xác nhận, phụ đề và hỗ trợ văn bản được phép trong thực tế:
+Cho phép ghi âm, tải lên, chép lại và chia sẻ:
 ```
 
 Việc luyện tập có thể tháo bỏ giàn giáo, nhưng công việc thực tế không thể từ bỏ những xác nhận an toàn cần thiết chỉ để chứng minh năng lực.
@@ -26,14 +26,14 @@ Việc luyện tập có thể tháo bỏ giàn giáo, nhưng công việc thự
 ## 2. Kiểm tra tài liệu và điều kiện
 
 ```markdown
-主材料标题、来源与访问日期：
-平行材料标题、来源与访问日期：
-片段时长：
-可靠英文转写：人工 / 自动待核 / 无
-主题、说话者与口音熟悉度：
-设备 / 网络 / 房间噪声：
-版权与保存边界：
-我为什么愿意在七天内回来：
+Tiêu đề, nguồn và ngày truy cập tài liệu chính:
+Tiêu đề, nguồn và ngày truy cập tài liệu song song:
+Độ dài đoạn:
+Bản chép tiếng Anh đáng tin cậy: thủ công / tự động chờ kiểm tra / không có
+Mức độ quen thuộc với chủ đề, người nói và giọng:
+Thiết bị / mạng / tiếng ồn phòng:
+Ranh giới bản quyền và lưu giữ:
+Vì sao tôi sẵn lòng quay lại trong bảy ngày:
 ```
 
 | Điều kiện | Tài liệu chính | Tài liệu song song | Có thể so sánh hay không |
@@ -49,14 +49,14 @@ Tài liệu khác nhau không có nghĩa là các điều kiện chuyển giao c
 ## 3. Lưu lại lượt nghe đầu không phụ đề
 
 ```markdown
-首听允许：暂停 / 倍速 / 字幕 / 笔记 / 重播
-一句话主旨：
-三个确定细节：
-说话者态度或目的：
-关键数字 / 时间 / 人物 / 条件：
-不确定时间段：
-我根据所听会采取的行动：
-首听答案位置：
+Được phép ở lần nghe đầu: tạm dừng / tăng tốc / phụ đề / ghi chú / nghe lại
+Ý chính trong một câu:
+Ba chi tiết chắc chắn:
+Thái độ hoặc mục đích của người nói:
+Con số / thời gian / nhân vật / điều kiện then chốt:
+Đoạn thời gian chưa chắc:
+Hành động tôi sẽ thực hiện dựa trên điều đã nghe:
+Vị trí câu trả lời lần nghe đầu:
 ```
 
 Đừng dùng đáp án sau lần nghe thứ hai hoặc sau khi xem phụ đề để ghi đè lên kết quả của lượt nghe đầu. Đây là đường cơ sở để so sánh về sau.
@@ -68,9 +68,9 @@ Tài liệu khác nhau không có nghĩa là các điều kiện chuyển giao c
 | | | | Môi trường kỹ thuật / Ngôn ngữ chưa biết / Đã biết nhưng không nghe ra / Cấu trúc và quan hệ chỉ dẫn / Suy luận bối cảnh / Dung lượng chú ý | Thay đổi ý nghĩa / Cản trở nhiệm vụ / Lặp lại thường xuyên / Tốn sức để hiểu / Ảnh hưởng thấp | |
 
 ```markdown
-最影响任务的一到三个问题：
-先不处理的低影响漏词：
-可能来自设备或疲劳、不能直接归因于能力的部分：
+Một đến ba vấn đề ảnh hưởng nhiệm vụ nhất:
+Từ bỏ sót tác động thấp chưa xử lý:
+Phần có thể do thiết bị hoặc mệt mỏi, không thể quy trực tiếp cho năng lực:
 ```
 
 ## 5. Sử dụng bậc thang giàn giáo
@@ -85,10 +85,10 @@ Tài liệu khác nhau không có nghĩa là các điều kiện chuyển giao c
 | 6 | Sau ba đến bảy ngày, dùng tài liệu song song để kiểm tra lại mà không có giàn giáo | | |
 
 ```markdown
-自动字幕错误：
-中文翻译帮助了什么：
-关闭文字后仍然触发的意思：
-只在字幕可见时才理解的片段：
+Lỗi phụ đề tự động:
+Bản dịch tiếng Trung đã hỗ trợ điều gì:
+Ý nghĩa vẫn nhận ra sau khi tắt văn bản:
+Đoạn chỉ hiểu khi thấy phụ đề:
 ```
 
 ## 6. Để mỗi lượt nghe tạo ra bằng chứng khác nhau
@@ -106,15 +106,15 @@ Số lần phát không phải là kết quả. Mỗi lượt nghe đều nên �
 ## 7. Từ chính tả và đọc nhại đến tạo lập
 
 ```markdown
-高影响 5-20 秒片段：
-我的听写：
-可靠转写：
-词界 / 词尾 / 弱读 / 重音差异：
-延迟跟读录音：
-三个关键词：
-合上文本后的复述：
-改变一个事实或立场后的说明：
-陌生追问与回答：
+Đoạn 5–20 giây tác động cao:
+Phần nghe chép của tôi:
+Bản chép đáng tin cậy:
+Khác biệt về ranh giới từ / cuối từ / âm yếu / trọng âm:
+Bản ghi âm nhại lại có độ trễ:
+Ba từ khóa:
+Diễn đạt lại sau khi đóng văn bản:
+Giải thích sau khi thay đổi một sự thật hoặc lập trường:
+Câu hỏi tiếp theo lạ và câu trả lời:
 ```
 
 Khi đọc nhại trôi chảy nhưng không thể diễn đạt lại, hãy rút ngắn độ dài bắt chước và tăng cường tái cấu trúc bằng từ khóa; khi viết đúng từng từ nhưng không nói được ý chính, hãy quay lại với cấu trúc và mối quan hệ.
@@ -122,13 +122,13 @@ Khi đọc nhại trôi chảy nhưng không thể diễn đạt lại, hãy rú
 ## 8. Ghi nhận phản hồi từ AI, giáo viên và nhiệm vụ thực tế
 
 ```markdown
-工具 / 反馈者 / 模型版本与日期：
-它使用原始音频、自动转写还是我的候选转写：
-它提出的错误分类：
-它是否编造词语、背景或说话者意图：
-教师/同伴核验：
-真实任务中的回应、执行或修复结果：
-我采纳 / 拒绝什么，为什么：
+Công cụ / người phản hồi / phiên bản mô hình và ngày:
+Nó dùng âm thanh gốc, bản chép tự động hay bản chép phương án của tôi:
+Phân loại lỗi nó đề xuất:
+Nó có bịa từ ngữ, bối cảnh hoặc ý định người nói không:
+Xác minh bằng giáo viên/bạn học:
+Kết quả phản hồi, thực hiện hoặc khắc phục trong nhiệm vụ thực tế:
+Điều tôi chấp nhận / từ chối và lý do:
 ```
 
 AI và bản chép lời tự động có thể đưa ra phương án tham khảo, nhưng không phải là trọng tài cuối cùng của âm thanh gốc.
@@ -143,16 +143,16 @@ AI và bản chép lời tự động có thể đưa ra phương án tham khả
 | Ngày 30 | Tắt toàn bộ gợi ý luyện tập | Cuộc họp, khóa học hoặc cuộc trò chuyện thực tế | Nhiệm vụ hoàn chỉnh | |
 
 ```markdown
-七天后仍能使用的方法：
-换材料后再次出现的障碍：
-是否更少依赖全文字幕或翻译：
-是否更能请求重复、确认并留下共识：
-下一轮只改变的变量：
+Phương pháp vẫn dùng được sau bảy ngày:
+Trở ngại xuất hiện lại khi đổi tài liệu:
+Có bớt phụ thuộc vào phụ đề toàn văn hoặc bản dịch không:
+Có thể yêu cầu lặp lại, xác nhận và lưu sự đồng thuận tốt hơn không:
+Biến số duy nhất thay đổi ở lượt tiếp theo:
 ```
 
 ## 10. Chấm điểm và quyết định giữ hay loại
 
-Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
+Mỗi mục 0-2: `0=chưa hoàn thành`, `1=phụ thuộc vào gợi ý hoặc chưa ổn định`, `2=hoàn thành trong điều kiện hiện tại`.
 
 | Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do bằng chứng |
 | --- | ---: | ---: | ---: | --- |
@@ -164,11 +164,11 @@ Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下
 | Vẫn hoàn thành được sau khi thay đổi tài liệu, người nói hoặc thiết bị | | | | |
 
 ```markdown
-当前证据支持：继续主材料 / 降级为泛听 / 更换材料 / 转向另一问题
-最重要的依据：
-仍不能推出的结论：
-下一项最小任务：
-下一次复查日期：
+Bằng chứng hiện tại ủng hộ: tiếp tục tài liệu chính / hạ xuống nghe lướt / đổi tài liệu / chuyển sang vấn đề khác
+Căn cứ quan trọng nhất:
+Kết luận vẫn không thể suy ra:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 Các chương liên quan: [Phần nghe: từ nhận diện âm thanh đến hiểu thực tế](../threads/part-1/3-listening.md) ｜ [Phần nói](../threads/part-1/5-speaking.md) ｜ [Học tiếng Anh bằng AI](../threads/part-1/7-ai.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

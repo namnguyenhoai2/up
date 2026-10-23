@@ -13,50 +13,50 @@ Mỗi lần chỉ kiểm thử một thay đổi. Đây không phải là danh m
 ```markdown
 # AI Trend Radar - YYYY-MM-DD
 
-## 1. 信号与证据
-趋势或能力：
-一手来源、发布日期/版本、访问日期：
-来源明确观察到什么：
-我的条件判断或未来假设：
-仍然未知、可能过期或不能从来源推出的内容：
+## 1. Tín hiệu và bằng chứng
+Xu hướng hoặc năng lực:
+Nguồn gốc, ngày phát hành/phiên bản và ngày truy cập:
+Nguồn quan sát rõ điều gì:
+Phán đoán có điều kiện hoặc giả định tương lai của tôi:
+Nội dung vẫn chưa biết, có thể lỗi thời hoặc không thể suy ra từ nguồn:
 
-## 2. 真实任务
-使用者、场景和要完成的动作：
-当前瓶颈：
-不使用新能力的人工基线位置、时间和质量：
-不适用的任务或输入：
+## 2. Nhiệm vụ thực tế
+Người dùng, bối cảnh và hành động cần hoàn thành:
+Nút thắt hiện tại:
+Vị trí, thời gian và chất lượng đường cơ sở thủ công khi không dùng năng lực mới:
+Nhiệm vụ hoặc đầu vào không phù hợp:
 
-## 3. 最小实验
-本轮只改变：
-模型、版本、地区、提示、材料、记忆和工具：
-允许的输入模态：文字 / 音频 / 图片 / 视频 / 混合
-数据、版权、隐私和权限边界：
-允许的自动化级别：只读 / 草稿 / 可撤销动作 / 不可逆动作（需批准）
-正常、缺项、冲突、过期、失败和提示注入案例：
-开发集 / 未参与调优的保留集：
+## 3. Thử nghiệm tối thiểu
+Trong lượt này chỉ thay đổi:
+Mô hình, phiên bản, khu vực, lời nhắc, tài liệu, bộ nhớ và công cụ:
+Phương thức đầu vào được phép: văn bản / âm thanh / hình ảnh / video / kết hợp
+Ranh giới về dữ liệu, bản quyền, quyền riêng tư và quyền hạn:
+Mức tự động hóa được phép: chỉ đọc / bản nháp / hành động có thể hoàn tác / hành động không thể đảo ngược (cần phê duyệt)
+Các trường hợp bình thường, thiếu mục, xung đột, lỗi thời, thất bại và tiêm chỉ dẫn:
+Tập phát triển / tập giữ lại không tham gia tinh chỉnh:
 
-## 4. 证据与成本
-AI 样本位置：
-任务/运行编号、过程轨迹和检查点位置：
-干净环境、网络出口白名单、凭证范围与页面/链接不可信输入说明：
-工具调用、授权和最终环境状态位置：
-独立样本（关闭 AI）位置：
-平行任务（换主题/受众/模态/工具）位置：
-首次合格 / 人工修订后合格：
-总时间：准备 / 运行 / 核验 / 返工 / 维护：
-工具费用、设备资源和人工时间估值：
-来源、识别、事实、权限和安全失败：
+## 4. Bằng chứng và chi phí
+Vị trí mẫu AI:
+Mã nhiệm vụ/lần chạy, dấu vết quá trình và vị trí điểm kiểm tra:
+Môi trường sạch, danh sách cho phép đầu ra mạng, phạm vi thông tin xác thực và lưu ý về đầu vào không đáng tin cậy từ trang/liên kết:
+Vị trí lời gọi công cụ, ủy quyền và trạng thái môi trường cuối:
+Vị trí mẫu độc lập (tắt AI):
+Vị trí nhiệm vụ song song (đổi chủ đề/đối tượng/phương thức/công cụ):
+Đạt yêu cầu ngay lần đầu / đạt sau khi sửa thủ công:
+Tổng thời gian: chuẩn bị / chạy / xác minh / làm lại / bảo trì:
+Ước tính chi phí công cụ, tài nguyên thiết bị và thời gian con người:
+Thất bại về nguồn, nhận diện, sự thật, quyền hạn và an toàn:
 
-## 5. 决定与退出
-硬门是否全部通过，证据在哪里：
-继续 / 降档 / 停止：
-允许范围与人工接管条件：
-模型、资料、工具或记忆变化后的复测触发：
-可恢复版本、断开工具或手工退路：
-供应商政策/版本、生效日期、地区和高风险人工复核：
-独立复核人、复核方式和可发表的证据位置：
-切换供应商或换会话后能否继续：
-负责人和 30 天复查日期：
+## 5. Quyết định và rút lui
+Các cổng cứng đã đều vượt qua chưa, bằng chứng ở đâu:
+Tiếp tục / hạ mức / dừng:
+Phạm vi cho phép và điều kiện con người tiếp quản:
+Kích hoạt kiểm tra lại sau khi mô hình, tài liệu, công cụ hoặc bộ nhớ thay đổi:
+Phiên bản có thể khôi phục, ngắt công cụ hoặc phương án thủ công:
+Chính sách/phiên bản nhà cung cấp, ngày hiệu lực, khu vực và việc rà soát thủ công rủi ro cao:
+Người rà soát độc lập, cách rà soát và vị trí bằng chứng có thể công bố:
+Có thể tiếp tục sau khi đổi nhà cung cấp hoặc phiên trò chuyện không:
+Người phụ trách và ngày xem lại sau 30 ngày:
 ```
 
 ## Trình tự đánh giá

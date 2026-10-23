@@ -15,18 +15,18 @@ Hãy sao chép thẻ này vào ghi chú riêng tư. Không ghi mật khẩu, th�
 ```markdown
 # English Diagnostic - YYYY-MM-DD
 
-真实场景：工作 / 学习 / 求职 / 生活 / 其他
-真实主题：
-目标受众或对话对象：
-四项共同的最小交付：
-诊断开始/结束日期：
-材料、版本与来源：
-共同限制（时间、设备、环境）：
-允许的词典 / 字幕 / 翻译 / 搜索 / AI / 人工帮助：
-隐私、版权、考试、专业责任边界：
-第 7 天平行任务日期：
-第 30 天复测日期：
-第 12 周真实任务日期：
+Bối cảnh thực tế: công việc / học tập / tìm việc / đời sống / khác
+Chủ đề thực tế:
+Đối tượng tiếp nhận hoặc người đối thoại mục tiêu:
+Sản phẩm bàn giao tối thiểu chung cho bốn kỹ năng:
+Ngày bắt đầu/kết thúc đánh giá:
+Tài liệu, phiên bản và nguồn:
+Giới hạn chung (thời gian, thiết bị, môi trường):
+Từ điển / phụ đề / dịch thuật / tìm kiếm / AI / hỗ trợ con người được phép:
+Ranh giới về quyền riêng tư, bản quyền, thi cử và trách nhiệm chuyên môn:
+Ngày nhiệm vụ song song vào ngày 7:
+Ngày kiểm tra lại vào ngày 30:
+Ngày nhiệm vụ thực tế vào tuần 12:
 ```
 
 Bốn kỹ năng không nhất thiết phải sử dụng hoàn toàn cùng một loại tài liệu, nhưng chủ đề, độ khó, thời gian và tiêu chuẩn hoàn thành phải có tính so sánh. Nếu mục tiêu thực tế là công việc, đừng để một cấp độ tổng hợp thay thế cho các hành động ngôn ngữ cụ thể được mô tả trong yêu cầu công việc.
@@ -39,7 +39,7 @@ Bốn kỹ năng không nhất thiết phải sử dụng hoàn toàn cùng mộ
 | --- | --- | --- |
 | Nghe | Nghe một lần đoạn âm thanh thực tế dài 2-4 phút | Viết chủ đề chính, 3 chi tiết chắc chắn, trách nhiệm/bước tiếp theo và tóm tắt lại trong 60 giây |
 | Đọc | Đọc văn bản thực tế dài 600-1000 từ | Viết năm câu về mạch chính, một vị trí bằng chứng, một điểm nghi vấn hoặc điều chưa biết |
-| Nói | Không nhìn稿, ghi âm 2 phút giải thích, kể trải nghiệm hoặc trình bày quy trình | Người nghe có thể nhắc lại mục đích, sự kiện chính và bước tiếp theo |
+| Nói | Không nhìn bản thảo, ghi âm 2 phút giải thích, kể trải nghiệm hoặc trình bày quy trình | Người nghe có thể nhắc lại mục đích, sự kiện chính và bước tiếp theo |
 | Viết | Hoàn thành trong 20 phút một email, bản giải thích hoặc bài viết ngắn dài 180-250 từ | Người đọc biết kết luận, căn cứ, giới hạn và hành động cần thực hiện |
 
 Đừng cắt giảm sự khác biệt giữa các nhiệm vụ thực tế chỉ để làm cho bốn kỹ năng “công bằng”. Chẩn đoán cần cho thấy năng lực hoạt động trong những điều kiện nào, chứ không phải tạo ra một bảng điểm trung bình đẹp mắt.
@@ -66,14 +66,14 @@ Nếu một trong các khía cạnh này là mắt xích có rủi ro cao, đừ
 | Viết | | | | | |
 
 ```markdown
-首版之后我仍能独立说明的内容：
-如果重做，我最想改变的条件：
-不能从首版推出的结论：
+Nội dung tôi vẫn có thể tự giải thích sau bản đầu:
+Điều kiện tôi muốn thay đổi nhất nếu làm lại:
+Kết luận không thể suy ra từ bản đầu:
 ```
 
 ## 4. Chấm điểm theo mức độ ảnh hưởng, không theo cảm giác
 
-Mỗi mục `0-2` điểm: `0=没有证据或未完成`, `1=部分完成、依赖提示或不稳定`, `2=在当前条件下独立完成`. Với mỗi điểm, hãy ghi rõ vị trí bằng chứng.
+Mỗi mục `0-2` điểm: `0=không có bằng chứng hoặc chưa hoàn thành`, `1=hoàn thành một phần, phụ thuộc vào gợi ý hoặc chưa ổn định`, `2=hoàn thành độc lập trong điều kiện hiện tại`. Với mỗi điểm, hãy ghi rõ vị trí bằng chứng.
 
 | Kỹ năng | Hoàn thành nhiệm vụ | Mức độ dễ hiểu | Độ chính xác và phạm vi | Tổ chức/lưu loát | Tính độc lập và chuyển giao | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
@@ -106,13 +106,13 @@ Nếu không thể chỉ ra mẫu hoặc khoảng thời gian cho một trở ng
 ## 6. Thiết kế một lần khắc phục có định hướng
 
 ```markdown
-我只要修复的一个障碍：
-修复动作（25-45 分钟）：
-材料与来源：
-允许的最小支架：
-完成标准：
-我要保存的前后样本：
-哪条反馈会让我改变方案：
+Một trở ngại duy nhất tôi cần khắc phục:
+Hành động khắc phục (25–45 phút):
+Tài liệu và nguồn:
+Giàn giáo tối thiểu được phép:
+Tiêu chí hoàn thành:
+Mẫu trước và sau tôi sẽ lưu:
+Phản hồi nào sẽ khiến tôi thay đổi phương án:
 ```
 
 Trình tự thường là: trước tiên bảo đảm ý nghĩa và việc hoàn thành nhiệm vụ, sau đó sửa sự kiện và cấu trúc, tiếp theo xử lý từ vựng, ngữ pháp, phát âm hoặc ngữ vực viết có ảnh hưởng lớn, cuối cùng mới chỉnh các chi tiết phong cách không làm thay đổi kết quả.
@@ -127,24 +127,24 @@ Trình tự thường là: trước tiên bảo đảm ý nghĩa và việc hoà
 | Tuần 12 | Nhiệm vụ và điểm số cũ | Bối cảnh công việc/khóa học/cuộc sống mục tiêu | Nhiệm vụ hoàn chỉnh | |
 
 ```markdown
-第 7 天仍然能独立完成：
-第 30 天仍然反复的错误：
-哪一项只在熟悉主题成功：
-四项能力中最值得增加时间的地方：
-我不能从这次复测推出什么：
+Ngày 7 vẫn có thể hoàn thành độc lập:
+Lỗi vẫn lặp lại vào ngày 30:
+Mục nào chỉ thành công với chủ đề quen thuộc:
+Điểm đáng đầu tư thêm thời gian nhất trong bốn kỹ năng:
+Điều tôi không thể suy ra từ lần kiểm tra lại này:
 ```
 
 ## 8. Ghi lại phản hồi của AI, bản dịch và con người
 
 ```markdown
-工具 / 模型 / 版本与日期：
-工具介入前的样本位置：
-它只做了什么：诊断 / 追问 / 反例 / 转写 / 反馈 / 其他
-它生成或改写的范围：
-我用什么一手来源、词典、教师、同伴或真实受众核验：
-我采纳、拒绝或延后的建议及理由：
-关闭工具后的独立样本：
-按学校、客户、雇主或考试规则需要怎样披露：
+Công cụ / mô hình / phiên bản và ngày:
+Vị trí mẫu trước khi công cụ can thiệp:
+Nó chỉ làm gì: chẩn đoán / hỏi tiếp / phản ví dụ / chép lại / phản hồi / khác
+Phạm vi nó tạo hoặc viết lại:
+Nguồn gốc, từ điển, giáo viên, bạn học hoặc đối tượng thực tế tôi dùng để xác minh:
+Gợi ý tôi chấp nhận, từ chối hoặc trì hoãn và lý do:
+Mẫu độc lập sau khi đóng công cụ:
+Cần công khai thế nào theo quy định của trường, khách hàng, nhà tuyển dụng hoặc kỳ thi:
 ```
 
 Câu trả lời của mô hình, điểm nhận dạng giọng nói và bản thảo cuối đã được trau chuốt đều không thể tự mình chứng minh năng lực. Những nhận định quan trọng phải quay về tài liệu nguyên bản, phản hồi thực tế và người chịu trách nhiệm được nêu tên.
@@ -152,15 +152,15 @@ Câu trả lời của mô hình, điểm nhận dạng giọng nói và bản t
 ## 9. Đưa ra quyết định cho chu kỳ tiếp theo
 
 ```markdown
-当前分项方向（不是永久等级）：
-最强的真实证据：
-最弱且最影响生活的证据：
-继续：
-降档：
-换变量：
-暂停或求助：
-下一项最小任务：
-下一次复查日期：
+Định hướng hiện tại theo từng mục (không phải cấp độ vĩnh viễn):
+Bằng chứng thực tế mạnh nhất:
+Bằng chứng yếu nhất và ảnh hưởng lớn nhất đến cuộc sống:
+Tiếp tục:
+Hạ mức:
+Đổi biến số:
+Tạm dừng hoặc tìm trợ giúp:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 Lối vào liên quan: [Chuyên đề nhận thức: biến nỗ lực thành việc học có thể kiểm chứng](../threads/part-1/1-understanding.md) ｜ [Thẻ bằng chứng từ vựng](vocabulary-audit.md) ｜ [Thẻ bằng chứng ngữ pháp](grammar-evidence.md) ｜ [Thẻ bằng chứng nghe](listening-audit.md) ｜ [Thẻ bằng chứng đọc](reading-evidence.md) ｜ [Thẻ bằng chứng nói](speaking-evidence.md) ｜ [Thẻ bằng chứng viết](writing-evidence.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

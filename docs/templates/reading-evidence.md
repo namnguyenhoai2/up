@@ -13,13 +13,13 @@ updated: 2026-09-02
 ```markdown
 # Reading Evidence - YYYY-MM-DD
 
-真实场景：
-任务：定位信息 / 理解论证 / 读懂技术文档 / 建立耐力 / 综合来源 / 支持决定
-读完以后谁要知道、决定、执行或交接什么：
-完成标准：
-限时：
-允许的词典 / 翻译 / 搜索 / 笔记 / AI：
-版权、隐私与保存边界：
+Bối cảnh thực tế:
+Nhiệm vụ: tìm thông tin / hiểu lập luận / đọc tài liệu kỹ thuật / xây sức bền / tổng hợp nguồn / hỗ trợ quyết định
+Sau khi đọc, ai cần biết, quyết định, thực hiện hoặc bàn giao điều gì:
+Tiêu chí hoàn thành:
+Giới hạn thời gian:
+Từ điển / dịch thuật / tìm kiếm / ghi chú / AI được phép:
+Ranh giới về bản quyền, quyền riêng tư và lưu giữ:
 ```
 
 Hãy viết tiêu chí hoàn thành dưới dạng kết quả, chẳng hạn như “có thể chạy ví dụ tối thiểu trên phiên bản hiện tại”, thay vì chỉ viết “đã đọc xong”.
@@ -40,15 +40,15 @@ Trang web có thể được thiết kế lại, chuyển sang hình thức tr�
 ## 3. Lưu lại lần đọc đầu tiên chưa qua chỉnh sửa
 
 ```markdown
-首读条件：
-首读用时：
-是否逐词查词：
-一句话主旨：
-文章/文档怎样推进：
-三个确定细节：
-作者/维护者要我相信或完成什么：
-一个仍然不确定的地方：
-根据当前理解我会采取什么行动：
+Điều kiện đọc lần đầu:
+Thời gian đọc lần đầu:
+Có tra từng từ không:
+Ý chính trong một câu:
+Bài viết/tài liệu triển khai thế nào:
+Ba chi tiết chắc chắn:
+Tác giả/người duy trì muốn tôi tin hoặc hoàn thành điều gì:
+Một điểm vẫn chưa chắc:
+Hành động tôi sẽ thực hiện theo cách hiểu hiện tại:
 ```
 
 Hãy hoàn thành lần đọc đầu tiên trước, sau đó mới tra từ hoặc xem giải thích. Đừng dùng một bản tóm tắt đẹp hơn sau khi dịch để thay thế nó.
@@ -60,9 +60,9 @@ Hãy hoàn thành lần đọc đầu tiên trước, sau đó mới tra từ ho
 | | | Từ vựng và ngữ pháp / Cấu trúc và quy chiếu / Bối cảnh và lược đồ / Lập luận và bằng chứng / Bố cục và kỹ thuật / Sự chú ý và dung lượng | Thay đổi ý nghĩa / Cản trở nhiệm vụ / Lặp lại thường xuyên / Khó hiểu / Ảnh hưởng thấp | |
 
 ```markdown
-最影响任务的一到三个障碍：
-可以先略过的低影响词句：
-可能来自设备、版本、疲劳或环境的部分：
+Một đến ba trở ngại ảnh hưởng nhiệm vụ nhất:
+Từ/câu tác động thấp có thể bỏ qua trước:
+Phần có thể do thiết bị, phiên bản, mệt mỏi hoặc môi trường:
 ```
 
 Nếu gần như câu nào cũng cản trở việc nắm bắt ý chính, trước tiên hãy đổi sang tài liệu song song dễ hơn hoặc bổ sung các cụm từ thuộc lĩnh vực. Hạ thấp ngưỡng tiếp cận không có nghĩa là hạ thấp mục tiêu.
@@ -74,11 +74,11 @@ Nếu gần như câu nào cũng cản trở việc nắm bắt ý chính, trư�
 | | | | | |
 
 ```markdown
-原文直接说出的事实：
-有原文支持的推断：
-我自己的判断或联想：
-仍缺少的证据：
-什么新证据会改变我的判断：
+Sự thật nêu trực tiếp trong văn bản:
+Suy luận có văn bản hỗ trợ:
+Phán đoán hoặc liên tưởng của riêng tôi:
+Bằng chứng vẫn còn thiếu:
+Bằng chứng mới nào sẽ thay đổi phán đoán của tôi:
 ```
 
 Hãy tách biệt “tác giả đã nói gì” và “tôi có đồng ý hay không”. Đối với nội dung kỹ thuật, sức khỏe, pháp lý hoặc tài chính, hãy quay về nguồn sơ cấp đáng tin cậy hoặc ý kiến chuyên môn đủ năng lực.
@@ -88,16 +88,16 @@ Hãy tách biệt “tác giả đã nói gì” và “tôi có đồng ý hay 
 Nếu tài liệu là API, SDK, hướng dẫn di chuyển, phần trợ giúp dòng lệnh, tài liệu lỗi hoặc README, hãy bổ sung trang này:
 
 ```markdown
-目标与适用版本：
-前置条件、权限与环境：
-最小输入：
-预期输出：
-实际输出：
-默认值、范围、顺序或副作用：
-失败条件与错误信息：
-文档明确写出的限制：
-我仍然推测的部分：
-下一项最小测试：
+Mục tiêu và phiên bản áp dụng:
+Điều kiện tiên quyết, quyền hạn và môi trường:
+Đầu vào tối thiểu:
+Đầu ra dự kiến:
+Đầu ra thực tế:
+Giá trị mặc định, phạm vi, thứ tự hoặc tác dụng phụ:
+Điều kiện thất bại và thông báo lỗi:
+Giới hạn được tài liệu nêu rõ:
+Phần tôi vẫn suy đoán:
+Bài kiểm tra nhỏ nhất tiếp theo:
 ```
 
 Đọc xong tài liệu kỹ thuật nhưng chưa chạy, tính toán thủ công, tái hiện hoặc xác nhận một dữ kiện tối thiểu chỉ có thể cho thấy bạn đã xem trang đó, chứ không cho thấy bạn đã nắm vững nội dung.
@@ -109,9 +109,9 @@ Nếu tài liệu là API, SDK, hướng dẫn di chuyển, phần trợ giúp d
 | | Cốt lõi / Lặp lại / Kỹ thuật / Ảnh hưởng thấp | | | |
 
 ```markdown
-翻译帮助我补充的背景：
-翻译可能遮住的英文结构、语气或限定：
-我决定暂时不查的词：
+Bối cảnh mà bản dịch giúp tôi bổ sung:
+Cấu trúc, giọng điệu hoặc giới hạn tiếng Anh mà bản dịch có thể che khuất:
+Từ tôi quyết định tạm thời không tra:
 ```
 
 Số lượng từ chưa biết được dùng để chẩn đoán độ khó của tài liệu, không trực tiếp quyết định trình độ. Họ từ giúp đoán nghĩa và độ bao phủ, nhưng từ phái sinh không mặc nhiên đồng nghĩa với từ có thể sử dụng.
@@ -119,11 +119,11 @@ Số lượng từ chưa biết được dùng để chẩn đoán độ khó c�
 ## 8. So sánh nhiều nguồn và đầu ra thực tế
 
 ```markdown
-共同问题：
-来源 A 的定义、时间与证据：
-来源 B 的定义、时间与证据：
-各自省略或利益关系：
-哪些差异是事实，哪些是价值判断：
+Vấn đề chung:
+Định nghĩa, thời điểm và bằng chứng của nguồn A:
+Định nghĩa, thời điểm và bằng chứng của nguồn B:
+Điểm bỏ sót hoặc lợi ích liên quan của mỗi nguồn:
+Khác biệt nào là sự thật, khác biệt nào là phán đoán giá trị:
 ```
 
 | Đầu ra | Đối tượng | Tôi đã bàn giao gì | Đối phương phản hồi thế nào | Căn cứ có thể truy xuất không |
@@ -135,12 +135,12 @@ Sau khi hoàn thành việc đọc, hãy ưu tiên để người đọc, mã, q
 ## 9. Ghi lại công cụ và phản hồi
 
 ```markdown
-工具 / 反馈者 / 版本与日期：
-它看到了原文、我的首读还是我的摘要：
-它指出的遗漏位置：
-它是否混淆事实、推断和风格：
-教师/同伴/一手来源核验：
-我采纳 / 拒绝什么，为什么：
+Công cụ / người phản hồi / phiên bản và ngày:
+Nó thấy văn bản gốc, phần đọc đầu hay bản tóm tắt của tôi:
+Vị trí bỏ sót mà nó chỉ ra:
+Nó có nhầm lẫn sự thật, suy luận và phong cách không:
+Xác minh bằng giáo viên/bạn học/nguồn gốc:
+Điều tôi chấp nhận / từ chối và lý do:
 ```
 
 AI có thể trích xuất các thuật ngữ ứng viên, cấu trúc câu hỏi và tạo ra các nhiệm vụ song song, nhưng cũng có thể bịa ra phần tóm tắt, trích dẫn, bối cảnh và ý định của tác giả. Trước tiên hãy giữ lại lần đọc đầu tiên của mình, sau đó yêu cầu xác định vị trí trong nguyên văn.
@@ -155,16 +155,16 @@ AI có thể trích xuất các thuật ngữ ứng viên, cấu trúc câu hỏ
 | Ngày 30 | Tắt toàn bộ gợi ý | Tài liệu, báo cáo hoặc bàn giao thực tế | Bàn giao đầy đủ | |
 
 ```markdown
-七天后仍能保留的方法：
-换材料后再次出现的障碍：
-是否更少逐词翻译或依赖摘要：
-哪一个读后动作仍然不稳定：
-下一轮只改变的变量：
+Phương pháp vẫn giữ được sau bảy ngày:
+Trở ngại xuất hiện lại khi đổi tài liệu:
+Có giảm dịch từng từ hoặc phụ thuộc vào tóm tắt không:
+Hành động nào sau khi đọc vẫn chưa ổn định:
+Biến số duy nhất thay đổi ở lượt tiếp theo:
 ```
 
 ## 11. Chấm điểm và quyết định tiếp tục hay dừng
 
-Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下完成`.
+Mỗi mục 0-2: `0=chưa hoàn thành`, `1=phụ thuộc vào gợi ý hoặc chưa ổn định`, `2=hoàn thành trong điều kiện hiện tại`.
 
 | Hạng mục | Ngày 1 | Ngày 7 | Ngày 14 | Lý do dựa trên bằng chứng |
 | --- | ---: | ---: | ---: | --- |
@@ -176,11 +176,11 @@ Mỗi mục 0-2: `0=未完成`, `1=依赖提示或不稳定`, `2=当前条件下
 | Vẫn có thể bàn giao sau khi đổi tài liệu, chủ đề hoặc thể loại | | | | |
 
 ```markdown
-当前证据支持：继续主材料 / 降级为泛读 / 更换材料 / 转向另一问题
-最重要的依据：
-仍不能推出的结论：
-下一项最小任务：
-下一次复查日期：
+Bằng chứng hiện tại ủng hộ: tiếp tục tài liệu chính / hạ xuống đọc lướt / đổi tài liệu / chuyển sang vấn đề khác
+Căn cứ quan trọng nhất:
+Kết luận vẫn không thể suy ra:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 Các chương liên quan: [Chuyên đề đọc: Từ dịch từng từ đến quan điểm và bằng chứng](../threads/part-1/4-reading.md) ｜ [Chuyên đề từ vựng](../threads/part-1/2-vocabulary.md) ｜ [Chuyên đề ngữ pháp](../threads/part-1/grammar.md) ｜ [Chuyên đề nghe](../threads/part-1/3-listening.md) ｜ [Học tiếng Anh bằng AI](../threads/part-1/7-ai.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

@@ -9,30 +9,30 @@ updated: 2026-08-24
 Chỉ sử dụng các bài viết công khai, trang chính thức hoặc tài liệu được cấp phép rõ ràng của chính người đó. Tường thuật của bên thứ ba không thể tự mình chứng minh năng lực, thu nhập hoặc hiệu quả của dự án.
 
 ```markdown
-# AI Case Review — YYYY-MM-DD
+**# Đánh giá trường hợp ứng dụng AI — YYYY-MM-DD**
 
-## 来源与事实
-- 经历/项目：
-- 原始来源与发布日期：
-- 访问/核验日期：
-- 哪些内容可以公开：
-- 哪些内容必须删除或脱敏：
+**## Nguồn và sự thật**
+- Kinh nghiệm / dự án:
+- Nguồn gốc và ngày công bố:
+- Ngày truy cập / kiểm chứng:
+- Những nội dung có thể công khai:
+- Những nội dung phải xóa hoặc ẩn danh:
 
-## 判断
-- 当时面对的问题：
-- 当时知道的事实：
-- 当时的假设：
-- 做出的选择：
+**## Đánh giá**
+- Vấn đề gặp phải khi đó:
+- Những sự thật đã biết vào thời điểm đó:
+- Các giả định khi đó:
+- Lựa chọn đã đưa ra:
 
-## 结果
-- 发生了什么：
-- 证据在哪里：
-- 哪些结果仍未知：
-- 失败或代价：
+**## Kết quả**
+- Điều gì đã xảy ra:
+- Bằng chứng nằm ở đâu:
+- Những kết quả nào vẫn chưa rõ:
+- Thất bại hoặc cái giá phải trả:
 
-## 可迁移原则
-- 今天仍成立的原则：
-- 只适用于当时条件的部分：
-- 读者可以完成的最小练习：
-- 下一次如何检验：
+**## Nguyên tắc có thể áp dụng trong trường hợp khác**
+- Nguyên tắc vẫn còn đúng đến hôm nay:
+- Phần chỉ phù hợp với điều kiện khi đó:
+- Bài tập nhỏ nhất mà người đọc có thể thực hiện:
+- Cách kiểm chứng trong lần tiếp theo:
 ```

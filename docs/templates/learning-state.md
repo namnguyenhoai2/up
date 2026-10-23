@@ -15,12 +15,12 @@ Sao chép mẫu dưới đây vào ghi chú riêng tư của bạn. Đây là ng
 ```markdown
 # Learning State — minimum
 
-日期：YYYY-MM-DD
-我正在处理的真实问题：
-我已经拥有的证据：
-今天能完成的最小动作：
-完成后要留下的证据：
-我不会上传或公开的内容：
+Ngày: YYYY-MM-DD
+Vấn đề thực tế tôi đang xử lý:
+Bằng chứng tôi đã có:
+Hành động nhỏ nhất có thể hoàn thành hôm nay:
+Bằng chứng cần để lại sau khi hoàn thành:
+Nội dung tôi sẽ không tải lên hoặc công khai:
 ```
 
 Tiêu chuẩn hoàn thành của phiên bản tối thiểu là: một phiên bản tương lai khác của chính bạn có thể hiểu hiện tại cần giải quyết điều gì, đã biết những gì, bước tiếp theo là gì và những ranh giới nào không được vượt qua. Đây không phải là kế hoạch hoàn chỉnh, cũng không thể thay thế việc kiểm tra lại một cách độc lập; nó chỉ giúp hành động diễn ra trước.
@@ -28,70 +28,70 @@ Tiêu chuẩn hoàn thành của phiên bản tối thiểu là: một phiên b�
 ```markdown
 # Learning State
 
-状态版本：v1
-更新时间：YYYY-MM-DD
-维护人：
-主文件位置：
+Phiên bản trạng thái: v1
+Ngày cập nhật: YYYY-MM-DD
+Người duy trì:
+Vị trí tệp chính:
 
-## 目标
-- 真实场景：
-- 当前主任务：
-- 12 周结果：
-- 本周重点：
-- 完成标准：
-- 截止日期：
+## Mục tiêu
+- Bối cảnh thực tế:
+- Nhiệm vụ chính hiện tại:
+- Kết quả sau 12 tuần:
+- Trọng tâm tuần này:
+- Tiêu chí hoàn thành:
+- Hạn chót:
 
-## 约束与边界
-- 每周可用时间/精力：
-- 可以使用的材料与工具：
-- 不应上传或公开的内容：
-- AI 可以协助：
-- 必须由人确认：
+## Ràng buộc và ranh giới
+- Thời gian/năng lượng có thể dùng mỗi tuần:
+- Tài liệu và công cụ có thể sử dụng:
+- Nội dung không nên tải lên hoặc công khai:
+- AI có thể hỗ trợ:
+- Bắt buộc do con người xác nhận:
 
-## 当前水平与基线
-- 我现在能完成：
-- 基线样本位置：
-- 最近一次评分/反馈：
+## Trình độ hiện tại và đường cơ sở
+- Tôi hiện có thể hoàn thành:
+- Vị trí mẫu đường cơ sở:
+- Lần chấm điểm/phản hồi gần nhất:
 
-| 样本 | 条件 | 位置 | 日期 | 仍然不能说明什么 |
+| Mẫu | Điều kiện | Vị trí | Ngày | Vẫn không thể nói lên điều gì |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
-## 已完成
-- [日期] 任务 — 输出/证据位置 — 结果/下一步
+## Đã hoàn thành
+- [Ngày] Nhiệm vụ — vị trí đầu ra/bằng chứng — kết quả/bước tiếp theo
 
-## 错误、风险与待补知识
-| 错误/风险 | 证据 | 可能原因/置信度 | 下一次处理与停止条件 |
+## Lỗi, rủi ro và kiến thức cần bổ sung
+| Lỗi/rủi ro | Bằng chứng | Nguyên nhân có thể/mức tin cậy | Xử lý lần tới và điều kiện dừng |
 | --- | --- | --- | --- |
 
-## 已验证有效的方法
-- 方法 — 在什么条件下有效 — 证据
+## Phương pháp đã được xác minh hiệu quả
+- Phương pháp — hiệu quả trong điều kiện nào — bằng chứng
 
-## 待验证假设
-- 假设 — 反例 — 下一次怎么检验 — 截止日期
+## Giả thuyết cần xác minh
+- Giả thuyết — phản ví dụ — kiểm tra thế nào lần tới — hạn chót
 
-## 最近一次交接
-- 已完成与证据：
-- 仍未确认的事实：
-- 未决选择：
-- 已发生的成本/返工：
-- 下一次打开文件先做什么：
-- 需要通知或征求意见的人：
+## Bàn giao gần nhất
+- Phần đã hoàn thành và bằng chứng:
+- Sự thật vẫn chưa xác nhận:
+- Lựa chọn chưa quyết:
+- Chi phí/làm lại đã phát sinh:
+- Việc làm đầu tiên khi mở tệp lần tới:
+- Người cần thông báo hoặc xin ý kiến:
 
-## 下一步
-1. 下一项最小任务：
-2. 预计时长：
-3. 需要材料：
-4. 完成后保存什么证据：
-5. 下次复查日期：
+## Bước tiếp theo
+1. Nhiệm vụ nhỏ nhất tiếp theo:
+2. Thời lượng dự kiến:
+3. Tài liệu cần có:
+4. Lưu bằng chứng gì sau khi hoàn thành:
+5. Ngày xem lại tiếp theo:
 ```
 
 ## Lời nhắc khôi phục AI qua nhiều phiên
 
 ```text
-下面是我的学习状态文件。先用不超过 6 条要点复述状态版本、目标、当前证据、主要错误、边界和下一步，指出信息冲突或缺口，不要假装记得其他会话，也不要补写文件里没有的事实。然后只为“下一项最小任务”设计一次练习：先让我作答，再按完成标准反馈；除非我请求，不要直接给完整答案。结束时输出可粘贴回状态文件的“本次完成、证据、错误/风险、交接、下一步”五项更新。
+Dưới đây là tệp trạng thái học tập của tôi. Trước hết, hãy tóm tắt bằng không quá 6 ý: phiên bản trạng thái, mục tiêu, bằng chứng hiện tại, lỗi chính, ranh giới và bước tiếp theo; chỉ ra xung đột hoặc khoảng trống thông tin, không giả vờ nhớ các phiên khác và không bổ sung sự thật không có trong tệp. Sau đó chỉ thiết kế một bài thực hành cho “nhiệm vụ nhỏ nhất tiếp theo”: để tôi trả lời trước, rồi phản hồi theo tiêu chí hoàn thành; trừ khi tôi yêu cầu, không đưa đáp án hoàn chỉnh trực tiếp. Khi kết thúc, xuất năm mục cập nhật có thể dán lại vào tệp trạng thái: “Hoàn thành lần này, bằng chứng, lỗi/rủi ro, bàn giao, bước tiếp theo”.
 
-[粘贴 Learning State]
+[Dán Learning State]
 ```
 
 Bản tóm tắt trạng thái do AI tạo ra không phải là nguồn sự thật. Mỗi lần khôi phục, hãy lấy tệp, sản phẩm, nguồn và số phiên bản bạn đã lưu làm chuẩn; sau khi hoàn thành một lần xem xét hằng tuần, hãy cập nhật [bản xem xét hằng tuần](weekly-review.md), [chuỗi bằng chứng](evidence-chain.md) và [bảng hành động chín mươi ngày](90-day-cycle.md) theo đúng chức năng của từng tệp, đừng sao chép cùng một đoạn ghi chép.

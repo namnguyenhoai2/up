@@ -13,23 +13,23 @@ Mỗi lần chỉ ghi lại một lát cắt học tập có thể kiểm tra. T
 ```markdown
 # AI Learning Log - YYYY-MM-DD
 
-真实场景与受众：
-本次主问题：
-要完成的动作与标准：
-材料、版本与来源：
-时间、设备和环境限制：
-允许的词典 / 翻译 / 搜索 / AI / 人工帮助：
-隐私、版权、考试与责任边界：
+Bối cảnh thực tế và đối tượng tiếp nhận:
+Câu hỏi chính của lần này:
+Hành động và tiêu chuẩn cần hoàn thành:
+Tài liệu, phiên bản và nguồn:
+Giới hạn về thời gian, thiết bị và môi trường:
+Từ điển / dịch thuật / tìm kiếm / AI / hỗ trợ con người được phép:
+Ranh giới về quyền riêng tư, bản quyền, thi cử và trách nhiệm:
 ```
 
 ## 2. Đường cơ sở không dùng AI
 
 ```markdown
-独立尝试的开始/结束时间：
-无 AI 样本位置：
-我当时能够解释或完成的内容：
-暴露的错误、未知和判断盲点：
-当时的信心（0-2）：
+Thời gian bắt đầu/kết thúc thử độc lập:
+Vị trí mẫu không dùng AI:
+Nội dung tôi có thể giải thích hoặc hoàn thành khi đó:
+Lỗi, điều chưa biết và điểm mù phán đoán được bộc lộ:
+Mức tự tin khi đó (0–2):
 ```
 
 Đừng để AI viết câu trả lời trước rồi gọi đó là điểm xuất phát. Nếu bản thân nhiệm vụ cho phép tra từ hoặc xem tài liệu, hãy ghi lại những hỗ trợ được phép; giá trị của đường cơ sở là cho thấy trong những điều kiện đó, bạn có thể độc lập làm được gì.
@@ -37,17 +37,17 @@ Mỗi lần chỉ ghi lại một lát cắt học tập có thể kiểm tra. T
 ## 3. Thống nhất AI chỉ làm gì
 
 ```markdown
-模型 / 版本 / 日期：
-本次输入模态：文字 / 音频 / 图片 / 视频 / 混合
-实际提供的上下文、检索材料与记忆设置：
-任务/运行编号、过程轨迹和检查点位置：
-浏览器页面、截图和外部链接是否按不可信输入处理：
-网络出口、工具授权和外部写入收据：
-使用模式：诊断 / 追问 / 解释 / 反例 / 转写 / 候选 / 其他
-AI 可以做：
-AI 不可以做：
-传给模型的最小材料：
-不会传入的字段或文件：
+Mô hình / phiên bản / ngày:
+Phương thức đầu vào lần này: văn bản / âm thanh / hình ảnh / video / kết hợp
+Ngữ cảnh, tài liệu truy xuất và thiết lập bộ nhớ thực tế được cung cấp:
+Mã nhiệm vụ/lần chạy, dấu vết quá trình và vị trí điểm kiểm tra:
+Trang trình duyệt, ảnh chụp màn hình và liên kết ngoài có được xử lý như đầu vào không đáng tin cậy không:
+Đầu ra mạng, quyền công cụ và biên nhận ghi ra bên ngoài:
+Chế độ sử dụng: chẩn đoán / hỏi tiếp / giải thích / phản ví dụ / chép lại / phương án / khác
+AI có thể làm:
+AI không được làm:
+Tài liệu tối thiểu truyền cho mô hình:
+Các trường hoặc tệp sẽ không được truyền vào:
 ```
 
 Mỗi vòng chỉ thúc đẩy một lát cắt. Trước tiên hãy để mô hình chỉ ra những thiếu sót, giả định, nguồn và điều chưa chắc chắn; đừng yêu cầu nó làm thay cả đoạn ngay từ đầu.
@@ -59,12 +59,12 @@ Mỗi vòng chỉ thúc đẩy một lát cắt. Trước tiên hãy để mô h
 | | | | Giải thích / hỏi thêm / phương án / phản hồi / mã / khác | | Chấp nhận / một phần / từ chối / chờ kiểm chứng |
 
 ```markdown
-我核对过的原始来源：
-原始录音、图片或视频位置，以及时间段 / 页码 / 图中区域：
-转写、识图或引用错误，与我的知识错误分别记录：
-我发现的错误、过时或捏造内容：
-哪些建议改变了我的理解，为什么：
-哪些建议只改变了表面表达：
+Nguồn gốc tôi đã đối chiếu:
+Vị trí bản ghi âm, hình ảnh hoặc video gốc, cùng đoạn thời gian / số trang / vùng trong ảnh:
+Lỗi chép lại, nhận dạng hình ảnh hoặc trích dẫn, được ghi riêng với lỗi kiến thức của tôi:
+Nội dung sai, lỗi thời hoặc bịa đặt mà tôi phát hiện:
+Những gợi ý nào đã thay đổi cách hiểu của tôi, và vì sao:
+Những gợi ý nào chỉ thay đổi cách diễn đạt bề mặt:
 ```
 
 Con người xác nhận nguồn, sự thật, quyền hạn, quyền riêng tư và phán đoán cuối cùng. Việc mô hình nói một cách tự tin không làm tăng cấp độ bằng chứng.
@@ -72,12 +72,12 @@ Con người xác nhận nguồn, sự thật, quyền hạn, quyền riêng tư
 ## 5. Sản phẩm chủ động sau khi tắt AI
 
 ```markdown
-关闭 AI 的时间：
-独立完成的作品、解释、代码或决定：
-独立用时：
-仍然需要的提示：
-我能否解释每个关键步骤：是 / 部分 / 否
-测试、读者/用户反馈或运行结果：
+Thời điểm tắt AI:
+Sản phẩm, lời giải thích, mã hoặc quyết định hoàn thành độc lập:
+Thời gian thực hiện độc lập:
+Gợi ý vẫn cần:
+Tôi có thể giải thích từng bước then chốt không: Có / Một phần / Không
+Kết quả kiểm thử, phản hồi của độc giả/người dùng hoặc kết quả chạy:
 ```
 
 ## 6. Đối chiếu ba lần
@@ -105,36 +105,36 @@ Một lần đối chiếu không thể chứng minh quan hệ nhân quả, như
 | | | Sự thật / từ vựng / cấu trúc / ngữ pháp / chiến lược / chú ý / phụ thuộc công cụ | | |
 
 ```markdown
-真实读者/用户复述或执行结果：
-我采纳、部分采纳、拒绝或延后的反馈及理由：
-换主题/受众/模态/时间后仍能完成的动作：
-仍然只在原题成功的动作：
+Kết quả người đọc/người dùng thực tế diễn đạt lại hoặc thực hiện:
+Phản hồi tôi chấp nhận, chấp nhận một phần, từ chối hoặc trì hoãn và lý do:
+Hành động vẫn hoàn thành được sau khi đổi chủ đề/đối tượng/phương thức/thời gian:
+Hành động vẫn chỉ thành công trong đề bài gốc:
 ```
 
 ## 8. Duy trì sau một khoảng thời gian và bàn giao
 
 ```markdown
-第 1 天：撤掉了什么，独立完成什么：
-第 3-7 天：换了什么条件，结果如何：
-第 14 天：关闭旧对话后能否解释和使用：
-第 30 天：真实任务是否减少猜测或返工：
-状态文件位置：
-最后一次运行/恢复编号与最终环境状态：
-换新会话或另一工具后，能否仅凭状态文件继续：
-交接给谁、何时、什么权限：
-停止或回滚条件：
+Ngày 1: Đã bỏ điều gì, hoàn thành độc lập điều gì:
+Ngày 3–7: Đã đổi điều kiện nào, kết quả ra sao:
+Ngày 14: Sau khi đóng cuộc trò chuyện cũ, có thể giải thích và sử dụng không:
+Ngày 30: Nhiệm vụ thực tế có giảm việc suy đoán hoặc làm lại không:
+Vị trí tệp trạng thái:
+Mã lần chạy/khôi phục cuối cùng và trạng thái môi trường cuối:
+Sau khi đổi sang phiên mới hoặc công cụ khác, có thể tiếp tục chỉ dựa vào tệp trạng thái không:
+Bàn giao cho ai, khi nào, với quyền gì:
+Điều kiện dừng hoặc hoàn tác:
 ```
 
 ## 9. Quyết định cho chu kỳ tiếp theo
 
 ```markdown
-工具真正帮助的部分：
-工具制造的风险或依赖：
-我已经拥有的独立能力证据：
-仍无证据的结论：
-继续 / 降档 / 改变变量 / 暂停 / 求助：
-下一项最小任务：
-下一次复查日期：
+Phần công cụ thực sự hỗ trợ:
+Rủi ro hoặc sự phụ thuộc do công cụ tạo ra:
+Bằng chứng về năng lực độc lập tôi đã có:
+Kết luận vẫn chưa có bằng chứng:
+Tiếp tục / hạ mức / đổi biến số / tạm dừng / tìm trợ giúp:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 Các mục liên quan: [Bài viết về nhận thức: Biến nỗ lực thành việc học có thể kiểm chứng](../threads/part-1/1-understanding.md) ｜ [Học tập với AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](../threads/part-3/1-ai-learning.md) ｜ [Bản tóm tắt nhiệm vụ AI](ai-task-brief.md) ｜ [Trạng thái học tập](learning-state.md) ｜ [Mẫu chuỗi bằng chứng](evidence-chain.md)

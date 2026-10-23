@@ -1,6 +1,6 @@
 ---
 title: "Bảng thực hành nâng cao cho cuộc sống"
-description: "Đưa năm nhóm bài tập về lựa chọn, sự chú ý, các mối quan hệ, phục hồi, và quan tâm cũng như chia sẻ trách nhiệm vào một bảng thực hành riêng tư có thể sao chép, liên tục lưu lại sự thật, giá trị, quyền quyết định, sự đồng thuận, khả năng, ngưỡng dừng, hành động sửa chữa và bằng chứng rà soát."
+description: "Đưa năm nhóm bài tập về lựa chọn, sự chú ý, các mối quan hệ, phục hồi, quan tâm và chia sẻ trách nhiệm vào một bảng thực hành riêng tư có thể sao chép, liên tục lưu lại sự thật, giá trị, quyền quyết định, sự đồng thuận, khả năng, ngưỡng dừng, hành động sửa chữa và bằng chứng rà soát."
 updated: 2026-10-04
 ---
 
@@ -21,45 +21,45 @@ Hãy lưu tệp trong ghi chú hoặc thư mục dự án riêng tư của bạn
 ## I. Tóm lược lựa chọn
 
 ```markdown
-# 选择简报 — YYYY-MM-DD
+# Tóm lược lựa chọn — YYYY-MM-DD
 
-要解决的问题：
-必须在什么时候决定：
+Vấn đề cần giải quyết:
+Phải quyết định trước thời điểm nào:
 
-已知事实与来源：
-我的解释：
-仍然未知：
-问题类型：信息不足 / 结果不确定 / 价值冲突 / 身份防卫
-不可谈判的价值与底线：
+Sự thật và nguồn đã biết:
+Diễn giải của tôi:
+Điều vẫn chưa biết:
+Loại vấn đề: thiếu thông tin / kết quả không chắc chắn / xung đột giá trị / phòng vệ bản sắc
+Giá trị và giới hạn không thể thương lượng:
 
-选项 A：
-选项 B：
-暂不行动：
+Phương án A:
+Phương án B:
+Tạm thời không hành động:
 
-每个选项的收益：
-每个选项的金钱成本：
-每个选项的健康成本：
-每个选项对关系和责任的影响：
-哪些部分可逆：
+Lợi ích của từng phương án:
+Chi phí tiền bạc của từng phương án:
+Chi phí sức khỏe của từng phương án:
+Ảnh hưởng của từng phương án lên các mối quan hệ và trách nhiệm:
+Những phần nào có thể đảo ngược:
 
-最小实验：
-证据门槛及复查日期：
-成本门槛：
-安全门槛：
-责任门槛：
-触发后采取：暂停 / 停止 / 回滚 / 升级求助
-什么证据会推翻当前选择：
+Thử nghiệm tối thiểu:
+Ngưỡng bằng chứng và ngày rà soát:
+Ngưỡng chi phí:
+Ngưỡng an toàn:
+Ngưỡng trách nhiệm:
+Hành động khi bị kích hoạt: tạm dừng / dừng hẳn / quay lại / nâng cấp để tìm trợ giúp
+Bằng chứng nào sẽ bác bỏ lựa chọn hiện tại:
 
-提议者：
-最终决定者及其权限依据：
-受影响的人及其实际承担：
-需要明确同意的事项：
-执行者及所需资源：
-复查者及暂停权限：
-需要征求谁的意见：
-当前决定：
-复查日期：
-决定之后留下的证据：
+Người đề xuất:
+Người ra quyết định cuối cùng và căn cứ thẩm quyền:
+Những người bị ảnh hưởng và phần họ thực sự gánh chịu:
+Những việc cần được đồng ý rõ ràng:
+Người thực hiện và nguồn lực cần thiết:
+Người rà soát và quyền tạm dừng:
+Cần xin ý kiến của ai:
+Quyết định hiện tại:
+Ngày rà soát:
+Bằng chứng được lưu lại sau khi quyết định:
 ```
 
 Chương liên quan: [Phần lựa chọn: Ra quyết định trong sự không chắc chắn](../threads/part-2/decision.md); khi quyết định liên quan đến cuộc sống chung, quyền riêng tư hoặc quyền lực không cân xứng, hãy đồng thời sử dụng [Phần các mối quan hệ](../threads/part-2/relationships.md) để kiểm tra sự đồng thuận và lối rút lui.
@@ -67,23 +67,23 @@ Chương liên quan: [Phần lựa chọn: Ra quyết định trong sự không 
 ## II. Kiểm tra sự chú ý
 
 ```markdown
-# 注意力审计 — YYYY-MM-DD 至 YYYY-MM-DD
+# Kiểm tra sự chú ý — YYYY-MM-DD đến YYYY-MM-DD
 
-本周最重要的问题：
+Vấn đề quan trọng nhất tuần này:
 
-| 区域 | 本周事实 | 带来的结果 | 下周调整 |
+| Khu vực | Sự thật tuần này | Kết quả mang lại | Điều chỉnh tuần sau |
 | --- | --- | --- | --- |
-| 输入：阅读、视频、会议、聊天 | | | |
-| 切换：通知、临时任务、无意识浏览 | | | |
-| 输出：作品、决定、复述、交付 | | | |
-| 关系：真正投入在场的谈话 | | | |
-| 身体：睡眠、活动、精力 | | | |
+| Đầu vào: đọc, video, cuộc họp, trò chuyện | | | |
+| Chuyển đổi: thông báo, việc phát sinh, lướt vô thức | | | |
+| Đầu ra: sản phẩm, quyết định, diễn giải lại, bàn giao | | | |
+| Quan hệ: cuộc trò chuyện hiện diện và thực sự đầu tư | | | |
+| Cơ thể: giấc ngủ, hoạt động, năng lượng | | | |
 
-本周要关闭的一个入口：
-本周要保护的一个 25–45 分钟时间盒：
-使用 AI 前我已经知道：
-关闭 AI 后我还能独立完成：
-下一周只做的一个实验：
+Một lối vào cần đóng trong tuần này:
+Một khung thời gian 25–45 phút cần bảo vệ trong tuần này:
+Trước khi dùng AI, tôi đã biết:
+Sau khi tắt AI, tôi vẫn có thể tự hoàn thành:
+Một thử nghiệm duy nhất cho tuần sau:
 ```
 
 Chương liên quan: [Phần sự chú ý: Trả sự chú ý về cho chính mình](../threads/part-3/3-attention-and-judgment.md)
@@ -91,30 +91,30 @@ Chương liên quan: [Phần sự chú ý: Trả sự chú ý về cho chính m�
 ## III. Thẻ giao tiếp trong mối quan hệ
 
 ```markdown
-# 关系沟通卡 — YYYY-MM-DD
+# Thẻ giao tiếp trong mối quan hệ — YYYY-MM-DD
 
-关系与场景：
-谁掌握更多资源、评价权、账号、信息或退出成本：
-我希望这次谈话完成什么：
-对方是否可以安全地拒绝、暂停或退出这次谈话：
-是否获得记录、上传、转发或公开材料的明确同意：
+Mối quan hệ và bối cảnh:
+Ai nắm nhiều nguồn lực hơn, quyền đánh giá, tài khoản, thông tin hoặc chịu chi phí thoát ra cao hơn:
+Tôi mong cuộc trò chuyện này đạt được điều gì:
+Đối phương có thể từ chối, tạm dừng hoặc rời cuộc trò chuyện này một cách an toàn không:
+Đã có sự đồng ý rõ ràng để ghi âm, tải lên, chuyển tiếp hoặc công khai tài liệu chưa:
 
-我观察到的具体事实：
-我受到的影响和感受：
-我真正需要的是什么：
-我希望对方考虑的一个具体请求：
-我能执行的边界：
-哪些责任属于我，哪些不属于我：
-如果谈话变得不安全，我会联系：
+Những sự thật cụ thể tôi quan sát được:
+Ảnh hưởng và cảm nhận của tôi:
+Điều tôi thực sự cần:
+Một yêu cầu cụ thể tôi mong đối phương cân nhắc:
+Ranh giới tôi có thể thực hiện:
+Trách nhiệm nào thuộc về tôi, trách nhiệm nào không thuộc về tôi:
+Nếu cuộc trò chuyện trở nên không an toàn, tôi sẽ liên hệ:
 
-谈话后记录：
-- 对方实际说了什么：
-- 我是否真正听完：
-- 我们明确同意了什么，没有同意什么：
-- 谁负责哪个动作，何时完成：
-- 哪个修复可以被观察，而不以原谅或和好为条件：
-- 哪个问题仍未解决：
-- 下一次何时复查：
+Ghi chép sau cuộc trò chuyện:
+- Đối phương thực sự đã nói gì:
+- Tôi có thực sự nghe hết không:
+- Chúng tôi đã đồng ý rõ điều gì, và chưa đồng ý điều gì:
+- Ai chịu trách nhiệm cho hành động nào, hoàn thành khi nào:
+- Việc sửa chữa nào có thể quan sát được, thay vì lấy lời xin lỗi hoặc hòa giải làm điều kiện:
+- Vấn đề nào vẫn chưa được giải quyết:
+- Lần rà soát tiếp theo là khi nào:
 ```
 
 Chương liên quan: [Phần các mối quan hệ: Trở thành người trưởng thành trong các mối quan hệ](../threads/part-2/relationships.md)
@@ -122,76 +122,76 @@ Chương liên quan: [Phần các mối quan hệ: Trở thành người trưở
 ## IV. Bảng thiết lập lại để phục hồi
 
 ```markdown
-# 恢复重置 — YYYY-MM-DD
+# Thiết lập lại để phục hồi — YYYY-MM-DD
 
-今天最需要保护的安全事项：
-可以联系的人：
-需要暂停的高风险决定：
-今天的模式：安全 / 降档 / 重建
-如果安全恶化，我会停止什么、联系谁、去哪里：
+Việc an toàn cần bảo vệ nhất hôm nay:
+Người có thể liên hệ:
+Quyết định rủi ro cao cần tạm dừng:
+Chế độ hôm nay: an toàn / giảm tải / tái thiết
+Nếu an toàn xấu đi, tôi sẽ dừng việc gì, liên hệ ai, đi đâu:
 
-身体：
-- 睡眠情况：
-- 吃过什么：
-- 可以完成的轻量活动：
-- 需要咨询的专业支持：
+Cơ thể:
+- Tình hình giấc ngủ:
+- Đã ăn gì:
+- Hoạt động nhẹ có thể hoàn thành:
+- Hỗ trợ chuyên môn cần tham vấn:
 
-基本生活底线：饮食 / 睡眠准备 / 必要照护 / 关键账单与沟通
-今天的一个最小任务：
-任务完成证据：
-任务上限和结束时间：
-第二天需要检查的代价：
-今天允许自己不做的事：
-明天打开文件后要做的第一步：
+Giới hạn cơ bản của đời sống: ăn uống / chuẩn bị giấc ngủ / chăm sóc thiết yếu / hóa đơn và liên lạc quan trọng
+Một nhiệm vụ tối thiểu hôm nay:
+Bằng chứng đã hoàn thành nhiệm vụ:
+Giới hạn trên và thời điểm kết thúc nhiệm vụ:
+Cái giá cần kiểm tra vào ngày thứ hai:
+Việc hôm nay cho phép mình không làm:
+Bước đầu tiên cần làm sau khi mở tệp vào ngày mai:
 
-支持协议：
-- 支持者可以做：
-- 支持者不能替我做：
-- 需要升级求助的信号：
-- 风险降低后如何归还账号、文件和决定权：
-- 只分享完成安全任务所需的最少信息：
+Thỏa thuận hỗ trợ:
+- Người hỗ trợ có thể làm:
+- Người hỗ trợ không thể làm thay tôi:
+- Dấu hiệu cần nâng cấp để tìm trợ giúp:
+- Cách trả lại quyền kiểm soát tài khoản, tệp và quyết định sau khi rủi ro giảm:
+- Chỉ chia sẻ lượng thông tin tối thiểu cần để hoàn thành nhiệm vụ an toàn:
 
-复工门槛：
-- 安全门槛：
-- 基本生活门槛：
-- 限时任务门槛：
-- 边界沟通门槛：
-- 复查日期与有权暂停的人：
-下一次只增加的一个变量：
+Ngưỡng trở lại làm việc:
+- Ngưỡng an toàn:
+- Ngưỡng đời sống cơ bản:
+- Ngưỡng nhiệm vụ có giới hạn thời gian:
+- Ngưỡng giao tiếp về ranh giới:
+- Ngày rà soát và người có quyền tạm dừng:
+Biến số duy nhất sẽ thêm vào lần tới:
 ```
 
 Chương liên quan: [Phần phục hồi: Trước hết, hãy đỡ lấy chính mình](../threads/part-2/recovery.md)
 
 ## V. Thẻ quan tâm và chia sẻ trách nhiệm
 
-Hãy chọn một việc cụ thể có thể thảo luận, chẳng hạn như đưa đón, mua thực phẩm,陪伴, sắp xếp thời gian nghỉ ngơi hoặc xử lý hóa đơn. Trước tiên, hãy hỏi xem cần gì, sau đó xác nhận mỗi bên sẵn lòng đảm nhận điều gì. Thẻ này không dùng để chấm điểm tình yêu, theo dõi hành tung hoặc yêu cầu đối phương báo cáo; chỉ giữ lại lượng thông tin tối thiểu mà cả hai bên đồng ý ghi chép. Người thân hoặc bạn đời không phải là những người hỗ trợ bắt buộc; bạn có thể tìm đến bạn bè, cộng đồng hoặc nguồn hỗ trợ chuyên môn. Trẻ em có thể tham gia những việc nhỏ phù hợp với độ tuổi và có thể từ chối, nhưng không được đảm nhận trách nhiệm xoa dịu cảm xúc của người lớn, hòa giải xung đột hoặc giải cứu.
+Hãy chọn một việc cụ thể có thể thảo luận, chẳng hạn như đưa đón, mua thực phẩm, đồng hành, sắp xếp thời gian nghỉ ngơi hoặc xử lý hóa đơn. Trước tiên, hãy hỏi xem cần gì, sau đó xác nhận mỗi bên sẵn lòng đảm nhận điều gì. Thẻ này không dùng để chấm điểm tình yêu, theo dõi hành tung hoặc yêu cầu đối phương báo cáo; chỉ giữ lại lượng thông tin tối thiểu mà cả hai bên đồng ý ghi chép. Người thân hoặc bạn đời không phải là những người hỗ trợ bắt buộc; bạn có thể tìm đến bạn bè, cộng đồng hoặc nguồn hỗ trợ chuyên môn. Trẻ em có thể tham gia những việc nhỏ phù hợp với độ tuổi và có thể từ chối, nhưng không được đảm nhận trách nhiệm xoa dịu cảm xúc của người lớn, hòa giải xung đột hoặc giải cứu.
 
 ```markdown
-# 关心与分担卡 — YYYY-MM-DD
+# Thẻ quan tâm và chia sẻ trách nhiệm — YYYY-MM-DD
 
-当前需要关心的人或需要分担的具体事务：
-对方表达的需要（尚未询问时写“未知”）：
-我希望表达的一句关心或感谢：
+Người hiện cần được quan tâm hoặc công việc cụ thể cần được chia sẻ:
+Nhu cầu đối phương đã bày tỏ (nếu chưa hỏi, ghi “chưa biết”):
+Một câu quan tâm hoặc cảm ơn tôi muốn bày tỏ:
 
-我可以自行承担的具体任务：
-我需要支持的具体任务：
-哪些任务可以减少、推迟或停止：
-我目前愿意提供的时间、精力或资源上限：
-对方目前愿意提供的时间、精力或资源上限（未确认时写“未知”）：
-对方是否愿意参与这次讨论和记录：
-双方怎样拒绝、暂停或调整，而不被指责、报复或要求证明爱：
-如果对方无法支持，我可以联系的其他人或服务：
-哪些成人责任必须留在成人和适当支持者手中：
+Nhiệm vụ cụ thể tôi có thể tự đảm nhận:
+Nhiệm vụ cụ thể tôi cần hỗ trợ:
+Nhiệm vụ nào có thể giảm bớt, lùi lại hoặc dừng:
+Giới hạn thời gian, năng lượng hoặc nguồn lực tôi hiện sẵn lòng cung cấp:
+Giới hạn thời gian, năng lượng hoặc nguồn lực đối phương hiện sẵn lòng cung cấp (nếu chưa xác nhận, ghi “chưa biết”):
+Đối phương có sẵn lòng tham gia cuộc thảo luận và ghi chép này không:
+Hai bên có thể từ chối, tạm dừng hoặc điều chỉnh thế nào mà không bị trách móc, trả đũa hoặc bị yêu cầu chứng minh tình yêu:
+Nếu đối phương không thể hỗ trợ, những người hoặc dịch vụ khác tôi có thể liên hệ:
+Trách nhiệm của người lớn nào phải được giữ trong tay người lớn và người hỗ trợ phù hợp:
 
-共同决定的下一步（没有共同决定时不替对方填写）：
-- 我愿意负责的动作及完成时间：
-- 对方明确同意负责的动作及完成时间：
-- 暂不承担或需要外部支持的部分：
-- 我们同意保留哪些信息、保存在哪里、何时删除：
+Bước tiếp theo được cùng quyết định (không có quyết định chung thì không điền thay đối phương):
+- Hành động tôi sẵn lòng chịu trách nhiệm và thời điểm hoàn thành:
+- Hành động đối phương đồng ý rõ ràng chịu trách nhiệm và thời điểm hoàn thành:
+- Phần tạm thời không đảm nhận hoặc cần hỗ trợ từ bên ngoài:
+- Thông tin nào chúng tôi đồng ý giữ lại, lưu ở đâu, và xóa khi nào:
 
-下一次复查日期：
-需要提前减轻负荷或求助的信号：
-复查时：这项安排是否仍然自愿、是否太重、需要怎样调整：
+Ngày rà soát tiếp theo:
+Dấu hiệu cần giảm tải sớm hoặc tìm trợ giúp:
+Khi rà soát: sắp xếp này còn tự nguyện không, có quá nặng không, cần điều chỉnh thế nào:
 ```
 
 Chương liên quan: [Phần trân trọng: Nhận sức mạnh từ tình yêu và sự quan tâm](../threads/part-2/care-and-carry-on.md); khi liên quan đến ranh giới, từ chối hoặc sửa chữa, hãy đồng thời đọc [Phần các mối quan hệ](../threads/part-2/relationships.md).

@@ -73,10 +73,10 @@ Nếu một con số không giúp bạn quyết định tiếp tục, hạ mức
 Hôm nay chỉ cần làm bốn dòng:
 
 ```markdown
-我现在要解决的真实问题：
-我已经拥有的基线证据：
-我在 25–45 分钟内要完成的最小输出：
-完成后我会把证据保存在：
+Vấn đề thực tế tôi cần giải quyết lúc này:
+Bằng chứng đường cơ sở tôi đã có:
+Đầu ra nhỏ nhất tôi sẽ hoàn thành trong 25–45 phút:
+Sau khi hoàn thành, tôi sẽ lưu bằng chứng tại:
 ```
 
 Sau khi hoàn thành, chọn công cụ phù hợp nhất với nhiệm vụ, đặt cho nó một ngày và thời điểm kiểm tra lại tiếp theo. Đừng chờ đến khi điền đầy tất cả các mục mới bắt đầu; chỉ sau khi bắt đầu, những chỗ còn thiếu mới trở nên cụ thể.

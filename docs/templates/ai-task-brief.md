@@ -15,13 +15,13 @@ Không ghi mật khẩu, giấy tờ tùy thân, địa chỉ chính xác, thôn
 ```markdown
 # AI Task Brief - YYYY-MM-DD
 
-真实场景：
-使用者/受众：
-要完成的决策或动作：
-为什么现在做：
-截止时间与不可错过的节点：
-最终负责人与人工审阅者：
-如果不做或延迟，谁会受影响：
+Bối cảnh thực tế:
+Người dùng/đối tượng tiếp nhận:
+Quyết định hoặc hành động cần hoàn thành:
+Vì sao thực hiện ngay bây giờ:
+Hạn chót và mốc không thể bỏ lỡ:
+Người chịu trách nhiệm cuối cùng và người rà soát thủ công:
+Ai sẽ bị ảnh hưởng nếu không làm hoặc trì hoãn:
 ```
 
 Hãy chuyển “học AI” hoặc “làm một trợ lý thông minh” thành các hành động có thể quan sát được, chẳng hạn như “người dùng có thể nhập một tệp trong vòng 10 phút và xem một báo cáo có thể giải thích nguồn gốc và lỗi”.
@@ -33,13 +33,13 @@ Hãy chuyển “học AI” hoặc “làm một trợ lý thông minh” thàn
 | | Sự thật / suy luận / kinh nghiệm cá nhân / dữ liệu người dùng / nội dung bên thứ ba | | Công khai / đã ẩn danh / được tổ chức phê duyệt / cấm | | |
 
 ```markdown
-允许使用的文件和字段：
-明确不提供的材料：
-数据敏感等级：公开 / 内部 / 机密 / 受限
-收集、传输、留存和删除期限：
-是否取得必要同意：
-版权、许可证、引用和署名要求：
-模型能接触的最小数据范围：
+Tệp và trường được phép sử dụng:
+Tài liệu xác định không cung cấp:
+Mức độ nhạy cảm dữ liệu: công khai / nội bộ / mật / hạn chế
+Thời hạn thu thập, truyền, lưu giữ và xóa:
+Đã có sự đồng ý cần thiết chưa:
+Yêu cầu về bản quyền, giấy phép, trích dẫn và ghi công:
+Phạm vi dữ liệu tối thiểu mô hình có thể tiếp cận:
 ```
 
 Nguồn không đồng nghĩa với sự thật. Mỗi khẳng định quan trọng phải có thể truy về văn bản gốc, phiên bản, phạm vi dữ liệu hoặc quan sát trực tiếp; các liên kết, con số và trích dẫn do mô hình đưa ra vẫn cần được con người xác minh.
@@ -47,12 +47,12 @@ Nguồn không đồng nghĩa với sự thật. Mỗi khẳng định quan tr�
 ## 3. Kết quả đầu ra và tập đánh giá
 
 ```markdown
-最终交付物：
-格式、长度和受众：
-可观察的完成标准：
-必须通过的硬门：
-允许的可接受变体：
-明确不能出现的内容：
+Sản phẩm bàn giao cuối cùng:
+Định dạng, độ dài và đối tượng tiếp nhận:
+Tiêu chí hoàn thành có thể quan sát:
+Cổng cứng bắt buộc phải vượt qua:
+Các biến thể chấp nhận được:
+Nội dung tuyệt đối không được xuất hiện:
 ```
 
 Hãy xây dựng một tập đánh giá nhỏ nhưng chân thực, đừng chỉ sử dụng những ví dụ mà mô hình làm tốt nhất:
@@ -69,28 +69,28 @@ Nghiệm thu ít nhất phải trả lời được: sự thật có thể truy 
 ## 4. Phạm vi công việc của AI
 
 ```markdown
-AI 可以做：提问 / 分类 / 候选解释 / 反例 / 转写 / 草稿 / 测试建议
-AI 不可以做：最终事实判断 / 虚构来源 / 代替责任人批准 / 越过权限
-                    / 完成禁止外部帮助的考试或申请 / 自动发布
-使用模式：诊断 / 辅助 / 生成候选 / 批量处理 / 其他
-模型、版本、区域和调用日期：
-外部工具、MCP 服务器或其他协议及版本：
-每个工具的读取/写入范围、授权人和撤回方式：
-提示词、系统指令或工作流版本位置：
+AI có thể làm: đặt câu hỏi / phân loại / giải thích phương án / phản ví dụ / chép lại / bản nháp / gợi ý kiểm thử
+AI không được làm: phán đoán sự thật cuối cùng / bịa nguồn / thay người chịu trách nhiệm phê duyệt / vượt quyền
+                    / hoàn thành kỳ thi hoặc đơn đăng ký cấm hỗ trợ bên ngoài / tự động xuất bản
+Chế độ sử dụng: chẩn đoán / hỗ trợ / tạo phương án / xử lý hàng loạt / khác
+Mô hình, phiên bản, khu vực và ngày gọi:
+Công cụ bên ngoài, máy chủ MCP hoặc giao thức khác cùng phiên bản:
+Phạm vi đọc/ghi, người cấp quyền và cách thu hồi của từng công cụ:
+Vị trí phiên bản lời nhắc, chỉ dẫn hệ thống hoặc quy trình:
 ```
 
 Nếu nhiệm vụ sẽ chạy trong thời gian dài hoặc gọi các công cụ bên ngoài, cũng cần ghi lại:
 
 ```markdown
-运行/任务编号及父任务编号：
-异步或同步；预计与最大墙钟时间：
-检查点位置与恢复步骤：
-最大重试次数、超时和重复安全标识：
-浏览器页面、截图和外部指令均视为不可信输入：
-网络出口白名单与凭证范围：
-外部写入、收据和最终环境状态：
-人工接管点与紧急停止方式：
-供应商政策/版本、生效日期、地区和高风险复核：
+Mã lần chạy/nhiệm vụ và mã nhiệm vụ cha:
+Đồng bộ hay bất đồng bộ; thời gian dự kiến và tối đa theo đồng hồ thực:
+Vị trí điểm kiểm tra và các bước khôi phục:
+Số lần thử lại tối đa, hết hạn và mã an toàn chống lặp:
+Trang trình duyệt, ảnh chụp màn hình và chỉ dẫn bên ngoài đều được xem là đầu vào không đáng tin cậy:
+Danh sách cho phép đầu ra mạng và phạm vi thông tin xác thực:
+Ghi ra bên ngoài, biên nhận và trạng thái môi trường cuối:
+Điểm con người tiếp quản và cách dừng khẩn cấp:
+Chính sách/phiên bản nhà cung cấp, ngày hiệu lực, khu vực và rà soát rủi ro cao:
 ```
 
 Trước tiên hãy để mô hình nhắc lại mục tiêu, đầu vào, giới hạn, các mục chưa biết và tiêu chí nghiệm thu, rồi mới bắt đầu tạo nội dung. Quản lý phiên bản prompt; đừng coi một cửa sổ trò chuyện duy nhất là hồ sơ dự án duy nhất.
@@ -112,12 +112,12 @@ Các quyết định quan trọng không thể chỉ do mô hình tạo sinh, h�
 ## 6. Chi phí, lưu giữ và khả năng đảo ngược
 
 ```markdown
-预计调用量、时间和费用上限：
-人工审阅与返工预算：
-数据是否进入训练、日志或第三方留存：
-可接受延迟与降级方案：
-可以撤回、重跑或恢复到哪个版本：
-发布范围与灰度对象：
+Giới hạn ước tính về số lần gọi, thời gian và chi phí:
+Ngân sách rà soát thủ công và làm lại:
+Dữ liệu có đi vào huấn luyện, nhật ký hoặc lưu giữ bên thứ ba không:
+Độ trễ có thể chấp nhận và phương án hạ cấp:
+Có thể thu hồi, chạy lại hoặc khôi phục về phiên bản nào:
+Phạm vi phát hành và đối tượng triển khai từng phần:
 ```
 
 Một lần gọi rẻ tiền nếu gây ra sự cố quyền riêng tư, quyết định sai hoặc khối lượng làm lại lớn thì chi phí thực tế không hề rẻ. Ngoài chi phí mô hình, hãy ghi lại thời gian của con người, công việc thẩm định, thất bại, chạy lại và trao đổi.
@@ -137,13 +137,13 @@ Nếu chưa có người chịu trách nhiệm dừng, quy trình thông báo v�
 ## 8. Bàn giao và thông tin công khai
 
 ```markdown
-当前状态：未开始 / 实验 / 内部试用 / 灰度 / 已交付 / 已停止
-已完成与证据位置：
-未决问题和风险：
-下一项最小任务：
-交接负责人、时间和权限：
-读者/用户需要知道的 AI 参与范围：
-来源、隐私、版权和利益关系说明：
+Trạng thái hiện tại: chưa bắt đầu / thử nghiệm / dùng thử nội bộ / triển khai từng phần / đã bàn giao / đã dừng
+Phần đã hoàn thành và vị trí bằng chứng:
+Vấn đề chưa giải quyết và rủi ro:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Người phụ trách bàn giao, thời gian và quyền hạn:
+Phạm vi tham gia của AI mà độc giả/người dùng cần biết:
+Giải thích về nguồn, quyền riêng tư, bản quyền và lợi ích liên quan:
 ```
 
 Người nhận bàn giao không nên phải lục tìm lịch sử trò chuyện mới biết bước tiếp theo. Văn bản công khai ít nhất phải nêu rõ công cụ đã tham gia vào bước nào, những sự thật nào đã được con người xác nhận và nội dung nào vẫn chỉ là đề xuất.

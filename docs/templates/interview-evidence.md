@@ -13,13 +13,13 @@ Hãy sao chép vào ghi chú riêng tư. Mô tả công việc, email tuyển d�
 ## 1. Vị trí và quy trình
 
 ```markdown
-岗位名称与公开链接：
-申请截止或面试日期：
-工作方式：远程 / 混合 / 现场
-主要时区与协作方式：
-已知面试阶段：
-岗位明确语言要求：
-当前仍未知的招聘规则：
+Tên vị trí và liên kết công khai:
+Hạn nộp đơn hoặc ngày phỏng vấn:
+Hình thức làm việc: từ xa / kết hợp / tại chỗ
+Múi giờ chính và cách cộng tác:
+Các vòng phỏng vấn đã biết:
+Yêu cầu ngôn ngữ nêu rõ của vị trí:
+Quy tắc tuyển dụng vẫn chưa biết:
 ```
 
 ## 2. Bản đồ ngôn ngữ của vị trí
@@ -29,21 +29,21 @@ Hãy sao chép vào ghi chú riêng tư. Mô tả công việc, email tuyển d�
 | | Trao đổi tuyển dụng / trình bày dự án / truy vấn kỹ thuật / câu hỏi hành vi / viết không đồng bộ / trao đổi với khách hàng | | Cao / Trung bình / Thấp | |
 
 ```markdown
-已经能独立完成：
-需要准备才能完成：
-依赖提示或翻译：
-没有样本：
-只补的一个最高风险缺口：
+Đã có thể hoàn thành độc lập:
+Cần chuẩn bị mới hoàn thành được:
+Phụ thuộc vào gợi ý hoặc dịch thuật:
+Chưa có mẫu:
+Khoảng trống rủi ro cao duy nhất cần bổ sung:
 ```
 
 ## 3. Đường cơ sở đầy đủ
 
 ```markdown
-日期：
-准备时间：
-可见稿件：无 / 提纲 / 逐字稿
-工具：无 / 词典 / 字幕 / AI / 其他
-录音与文本位置：
+Ngày:
+Thời gian chuẩn bị:
+Bản thảo hiển thị: không / dàn ý / từng chữ
+Công cụ: không / từ điển / phụ đề / AI / khác
+Vị trí bản ghi âm và văn bản:
 ```
 
 | Giai đoạn | Thời gian | Tiêu chuẩn hoàn thành | Kết quả độc lập | Lỗi chính |
@@ -61,9 +61,9 @@ Hãy sao chép vào ghi chú riêng tư. Mô tả công việc, email tuyển d�
 | | Nội dung / truy xuất / nghe hiểu / tổ chức / tương tác / độ chính xác | | |
 
 ```markdown
-最大问题其实不是英语的部分：
-持续改变关键意思的语言错误：
-最值得保留的修复动作：
+Vấn đề lớn nhất thực ra không thuộc về tiếng Anh:
+Lỗi ngôn ngữ liên tục làm thay đổi ý nghĩa then chốt:
+Hành động khắc phục đáng giữ lại nhất:
 ```
 
 ## 5. Kho câu chuyện thực tế
@@ -71,13 +71,13 @@ Hãy sao chép vào ghi chú riêng tư. Mô tả công việc, email tuyển d�
 Mỗi câu chuyện chỉ lưu sáu dòng, không viết kịch bản từng chữ:
 
 ```markdown
-故事名称：
-场景与必须完成的任务：
-我的具体责任：
-关键动作与取舍：
-结果、代价和未知：
-如果重来会改变什么：
-证据位置：
+Tên câu chuyện:
+Bối cảnh và nhiệm vụ bắt buộc hoàn thành:
+Trách nhiệm cụ thể của tôi:
+Hành động then chốt và sự đánh đổi:
+Kết quả, chi phí và điều chưa biết:
+Điều sẽ thay đổi nếu làm lại:
+Vị trí bằng chứng:
 ```
 
 | Câu chuyện | Có thể trả lời câu hỏi nào | Sau câu hỏi truy vấn bất ngờ còn có thể sử dụng không | Kiểm tra sự thật/quyền riêng tư |
@@ -87,11 +87,11 @@ Mỗi câu chuyện chỉ lưu sáu dòng, không viết kịch bản từng ch�
 ## 6. Nghe hiểu và khắc phục
 
 ```markdown
-没有听清的原问题：
-我请求重复或确认的句子：
-对方重述后我理解的意思：
-我的回答：
-最后如何确认双方理解：
+Câu hỏi gốc tôi không nghe rõ:
+Câu tôi yêu cầu lặp lại hoặc xác nhận:
+Ý nghĩa tôi hiểu sau khi người kia diễn đạt lại:
+Câu trả lời của tôi:
+Cách xác nhận cuối cùng rằng hai bên cùng hiểu:
 ```
 
 | Năng lực khắc phục | Lần đầu 0–2 | Ngày thứ 7 0–2 | Bằng chứng |
@@ -116,23 +116,23 @@ Owner and next update:
 Hãy nhờ một độc giả trả lời:
 
 ```markdown
-发生了什么：
-什么需要决定：
-谁在什么时候继续：
-哪一句需要猜测：
+Điều gì đã xảy ra:
+Điều gì cần quyết định:
+Ai tiếp tục khi nào:
+Câu nào cần suy đoán:
 ```
 
 ## 8. Ghi chép về AI và tính trung thực
 
 ```markdown
-工具与日期：
-它模拟的角色：
-我先提交的独立版本：
-它提出的三个问题：
-我采纳/拒绝的反馈与理由：
-关闭工具后的平行问题结果：
-必须披露或禁止 AI 的阶段：
-没有上传的保密/个人信息：
+Công cụ và ngày:
+Vai trò nó mô phỏng:
+Phiên bản độc lập tôi nộp trước:
+Ba vấn đề nó nêu ra:
+Phản hồi tôi chấp nhận/từ chối và lý do:
+Kết quả câu hỏi song song sau khi đóng công cụ:
+Giai đoạn bắt buộc công khai hoặc cấm AI:
+Thông tin mật/cá nhân không tải lên:
 ```
 
 Không bịa đặt kinh nghiệm, số liệu và trách nhiệm. Nếu chưa được cho phép rõ ràng, không sử dụng lời nhắc thời gian thực một cách kín đáo trong phỏng vấn thực tế.
@@ -146,7 +146,7 @@ Không bịa đặt kinh nghiệm, số liệu và trách nhiệm. Nếu chưa �
 | Kiểm tra lại ngày 7 | Câu hỏi song song, bỏ đáp án ban đầu | | | | | |
 | Đánh giá khả năng chuyển giao ngày 14 | Người phỏng vấn/thứ tự/câu hỏi về vị trí mới | | | | | |
 
-Mỗi mục 0–2: `0=未完成`，`1=部分完成或依赖提示`，`2=在当前条件下完成`。Chỉ dùng để so sánh các nhiệm vụ cùng loại của cùng một người.
+Mỗi mục 0–2: `0=chưa hoàn thành`, `1=hoàn thành một phần hoặc phụ thuộc vào gợi ý`, `2=hoàn thành trong điều kiện hiện tại`. Chỉ dùng để so sánh các nhiệm vụ cùng loại của cùng một người.
 
 ## 10. Ngưỡng của vị trí hiện tại
 
@@ -160,25 +160,25 @@ Mỗi mục 0–2: `0=未完成`，`1=部分完成或依赖提示`，`2=在当�
 - [ ] Đã kiểm tra thiết bị phỏng vấn, múi giờ và môi trường.
 
 ```markdown
-当前最支持：立即投递并继续练习 / 先补一个高风险缺口 / 暂缓该岗位
-依据：
-仍不能推出的结论：
-下一项最小任务：
-下次复查日期：
+Hiện tại ủng hộ nhất: nộp đơn ngay và tiếp tục luyện tập / bổ sung một khoảng trống rủi ro cao trước / tạm hoãn vị trí này
+Căn cứ:
+Kết luận vẫn không thể suy ra:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
 ```
 
 ## 11. Tổng kết sau phỏng vấn
 
 ```markdown
-实际问题：
-理解正确的证据：
-有效的澄清：
-没有回答问题的故事：
-成功迁移的结构：
-并非英语造成的困难：
-招聘方原话反馈：
-下一次只改变的变量：
-停止准备的内容：
+Câu hỏi thực tế:
+Bằng chứng hiểu đúng:
+Làm rõ hiệu quả:
+Câu chuyện không trả lời câu hỏi:
+Cấu trúc chuyển giao thành công:
+Khó khăn không do tiếng Anh gây ra:
+Phản hồi nguyên văn từ nhà tuyển dụng:
+Biến số duy nhất thay đổi lần tới:
+Nội dung ngừng chuẩn bị:
 ```
 
 Chương liên quan: [Chương tiếng Anh khi xin việc: đưa năng lực vào phỏng vấn và phối hợp từ xa](../threads/part-1/8-job-search-english.md) ｜ [Thẻ bằng chứng nói](speaking-evidence.md) ｜ [Thẻ bằng chứng viết](writing-evidence.md)

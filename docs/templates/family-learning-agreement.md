@@ -15,23 +15,23 @@ Hãy lưu giữ tại một nơi riêng tư của gia đình. Không ghi mật k
 ### Người học viết trước
 
 ```markdown
-我希望两周后哪件真实事情变容易一点：
-我现在已经能够完成什么：
-我最常停住的地方：
-哪一种帮助对我有用：
-哪一种帮助让我更难开始或不愿说实话：
-今天我能承担的时间与容量：
+Việc thực tế nào tôi muốn dễ hơn sau hai tuần:
+Điều tôi đã có thể hoàn thành:
+Điểm tôi thường dừng lại nhất:
+Kiểu hỗ trợ nào hữu ích với tôi:
+Kiểu hỗ trợ nào khiến tôi khó bắt đầu hơn hoặc không muốn nói thật:
+Thời gian và sức chứa tôi có thể đảm nhận hôm nay:
 ```
 
 ### Cha mẹ/người giám hộ viết sau
 
 ```markdown
-我观察到的具体事实：
-我最担心的事情：
-哪些担心有证据：
-哪些部分仍然只是我的推测：
-我能提供的时间、空间、设备或沟通支持：
-我承诺不做的监督、代做或公开行为：
+Sự thật cụ thể tôi quan sát được:
+Điều tôi lo nhất:
+Mối lo nào có bằng chứng:
+Phần nào vẫn chỉ là suy đoán của tôi:
+Hỗ trợ về thời gian, không gian, thiết bị hoặc giao tiếp tôi có thể cung cấp:
+Việc giám sát, làm thay hoặc công khai tôi cam kết không làm:
 ```
 
 Khi cùng đọc, không lập tức phản bác. Trước tiên, hãy dùng một câu để nhắc lại ý của đối phương cho đến khi họ cho rằng cách diễn đạt đó cơ bản là chính xác.
@@ -39,13 +39,13 @@ Khi cùng đọc, không lập tức phản bác. Trước tiên, hãy dùng m�
 ## 2. Viết thành một vấn đề chung
 
 ```markdown
-十四天只回答的问题：
-它发生在哪个学校或生活场景：
-学校明确要求：
-孩子自己的完成标准：
-成人必须保护的安全与责任边界：
-什么结果会让我们继续：
-什么结果会让我们缩小、暂停或停止：
+Câu hỏi duy nhất cần trả lời trong 14 ngày:
+Việc này diễn ra trong bối cảnh trường học hay đời sống nào:
+Yêu cầu rõ ràng của nhà trường:
+Tiêu chí hoàn thành của chính trẻ:
+Ranh giới an toàn và trách nhiệm người lớn phải bảo vệ:
+Kết quả nào khiến chúng ta tiếp tục:
+Kết quả nào khiến chúng ta thu nhỏ, tạm dừng hoặc dừng:
 ```
 
 Vấn đề chung nên cho phép kết quả không thành công. Ví dụ: “Sau hai tuần, liệu có thể tự mình tóm tắt ý chính của một bài đọc tương tự hay không” sẽ dễ giữ lại kết quả thực tế hơn “Vốn từ nhất định phải tăng thêm 500 từ”.
@@ -57,9 +57,9 @@ Vấn đề chung nên cho phép kết quả không thành công. Ví dụ: “S
 | | | | | |
 
 ```markdown
-起点能够说明：
-起点仍然不能说明：
-这次只改变的一个条件：
+Điểm xuất phát có thể cho thấy:
+Điểm xuất phát vẫn không thể cho thấy:
+Một điều kiện duy nhất thay đổi lần này:
 ```
 
 Người lớn có thể giúp lưu tệp, nhưng không đưa ra đáp án đầy đủ trước khi hoàn tất dữ liệu ban đầu.
@@ -73,9 +73,9 @@ Người lớn có thể giúp lưu tệp, nhưng không đưa ra đáp án đ�
 | Ngày phục hồi | | | |
 
 ```markdown
-最晚结束时间：
-明确不补做的内容：
-中断后 24 小时内的最小回归动作：
+Thời gian kết thúc muộn nhất:
+Nội dung xác định rõ là không làm bù:
+Hành động quay lại nhỏ nhất trong 24 giờ sau gián đoạn:
 ```
 
 Ngày phục hồi có thể không có sản phẩm học tập. An toàn, chăm sóc cơ bản, giao tiếp và chuẩn bị điểm bắt đầu cho lần sau có thể là toàn bộ kết quả của ngày hôm đó.
@@ -103,14 +103,14 @@ Người lớn xác định không làm:
 ## 6. Thỏa thuận về AI và dữ liệu
 
 ```markdown
-允许使用的平台与账户：
-平台当前年龄/监护规则已核对：是 / 否 / 不适用
-学校是否允许本任务使用 AI：
-AI 可以做：提问 / 解释 / 反馈 / 平行练习 / 其他
-AI 不可以做：
-孩子必须先提交的独立版本：
-每次使用后要保存的证据：
-会话结束后的复述或独立动作：
+Nền tảng và tài khoản được phép dùng:
+Đã kiểm tra quy tắc độ tuổi/giám hộ hiện hành của nền tảng: Có / Không / Không áp dụng
+Nhà trường có cho phép dùng AI cho nhiệm vụ này không:
+AI có thể làm: đặt câu hỏi / giải thích / phản hồi / bài tập song song / khác
+AI không được làm:
+Phiên bản độc lập trẻ phải nộp trước:
+Bằng chứng cần lưu sau mỗi lần dùng:
+Diễn đạt lại hoặc hành động độc lập sau khi kết thúc phiên:
 ```
 
 Tuyệt đối không tải lên:
@@ -125,20 +125,20 @@ Nếu nền tảng, nhà trường hoặc gia đình không thể xác nhận r�
 ## 7. Quy tắc phản hồi
 
 ```markdown
-每次只保留的一个主问题：
-成人最多提供几条反馈：
-学习者可以如何拒绝或追问反馈：
-发生分歧时先确认哪项事实：
-何时需要请教师参与：
+Một vấn đề chính duy nhất giữ lại mỗi lần:
+Người lớn cung cấp tối đa bao nhiêu phản hồi:
+Người học có thể từ chối hoặc hỏi lại phản hồi thế nào:
+Khi bất đồng, xác nhận sự thật nào trước:
+Khi nào cần mời giáo viên tham gia:
 ```
 
 Mẫu câu phản hồi:
 
 ```markdown
-我观察到：
-它对任务的影响：
-我不确定的是：
-我建议下一次只测试：
+Điều tôi quan sát được:
+Tác động của nó đến nhiệm vụ:
+Điều tôi chưa chắc:
+Lần tới tôi chỉ đề nghị kiểm tra:
 ```
 
 Tránh nói “Em đúng là…” “Em chưa bao giờ…” và “Ai cũng làm được…”.
@@ -157,11 +157,11 @@ Thời lượng trò chuyện, số ngày đánh dấu hoàn thành và số l�
 ## 9. Tạm dừng và tìm kiếm hỗ trợ
 
 ```markdown
-出现哪些安全、身体、睡眠、情绪、校园或家庭情况时立即暂停：
-孩子可以先联系的可信成人：
-学校联系入口：
-当地专业或紧急支持入口：
-暂停后不需要补做的内容：
+Những tình huống an toàn, thể chất, giấc ngủ, cảm xúc, trường học hoặc gia đình nào cần dừng ngay:
+Người lớn đáng tin cậy trẻ có thể liên hệ trước:
+Đầu mối liên hệ nhà trường:
+Đầu mối hỗ trợ chuyên môn hoặc khẩn cấp tại địa phương:
+Nội dung không cần làm bù sau khi dừng:
 ```
 
 Khi xuất hiện suy giảm chức năng kéo dài, ý nghĩ tự làm hại bản thân, bạo lực, bắt nạt, đe dọa hoặc không thể giao tiếp an toàn, trước tiên hãy bảo đảm an toàn và tìm kiếm sự hỗ trợ phù hợp; không tự chẩn đoán hoặc xử lý bằng riêng biểu mẫu này.
@@ -171,30 +171,30 @@ Khi xuất hiện suy giảm chức năng kéo dài, ý nghĩ tự làm hại b�
 ### Người học
 
 ```markdown
-真正变容易的一件事：
-仍然不会或需要提示的一件事：
-最有用的支持：
-最没有价值或让我不舒服的监督：
-下一步我愿意继续的动作：
+Một việc thực sự đã trở nên dễ hơn:
+Một việc vẫn chưa làm được hoặc cần gợi ý:
+Hỗ trợ hữu ích nhất:
+Sự giám sát ít giá trị nhất hoặc khiến tôi khó chịu:
+Hành động tôi sẵn sàng tiếp tục ở bước sau:
 ```
 
 ### Cha mẹ/người giám hộ
 
 ```markdown
-我观察到的作品与事实：
-我减少了什么控制或无效要求：
-我仍然担心但尚无足够证据的部分：
-下一轮我只保留的支持：
+Sản phẩm và sự thật tôi quan sát được:
+Sự kiểm soát hoặc yêu cầu không hiệu quả tôi đã giảm:
+Phần tôi vẫn lo nhưng chưa đủ bằng chứng:
+Hỗ trợ duy nhất tôi giữ lại ở lượt sau:
 ```
 
 ### Cùng quyết định
 
 ```markdown
-继续 / 缩小 / 改变一个条件 / 暂停或停止：
-依据：
-下一项最小任务：
-下一次复查日期：
-需要教师或专业人员参与的事项：
+Tiếp tục / thu nhỏ / thay đổi một điều kiện / tạm dừng hoặc dừng:
+Căn cứ:
+Nhiệm vụ nhỏ nhất tiếp theo:
+Ngày xem lại tiếp theo:
+Việc cần giáo viên hoặc chuyên gia tham gia:
 ```
 
 ## Kết thúc: Sự giúp đỡ cũng cần được nhìn lại
