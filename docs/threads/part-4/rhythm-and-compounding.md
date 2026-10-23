@@ -1,83 +1,83 @@
 ---
-title: 节律篇：让小事穿过时间
-description: 解释重复、反馈、中断与长期复利如何共同形成可持续的成长节律，并把日常系统连接到九十天行动。
+title: "Phần Nhịp điệu: Để những việc nhỏ đi xuyên qua thời gian"
+description: Giải thích cách sự lặp lại, phản hồi, gián đoạn và lãi kép dài hạn cùng nhau hình thành nhịp điệu phát triển bền vững, đồng thời kết nối hệ thống hằng ngày với hành động chín mươi ngày.
 updated: 2026-09-19
 ---
 
-# 节律篇：让小事穿过时间
+# Phần Nhịp điệu: Để những việc nhỏ đi xuyên qua thời gian
 
-有些改变在发生的当天几乎没有声音。你只是在下班后打开同一个文件，第二次把一段话说得更清楚，第三次在想熬夜时选择关灯。它们不像一次胜利，更像水在石头上留下的细线。
+Có những thay đổi hầu như không gây ra tiếng động nào trong ngày chúng diễn ra. Bạn chỉ đơn giản là mở cùng một tệp sau giờ làm, lần thứ hai nói một đoạn văn rõ ràng hơn, lần thứ ba chọn tắt đèn khi đang định thức khuya. Chúng không giống một chiến thắng, mà giống những đường vân mảnh nước để lại trên đá.
 
-可当时间向前走，那些细线会开始相遇。一个更熟练的动作减少下一次的犹豫，一次诚实的反馈避免下一次的返工，一段被保护的睡眠让第二天不必从废墟里重新出发。所谓复利，并不是每天都变得更多，而是今天的选择让明天少付一点代价。
+Nhưng khi thời gian tiến về phía trước, những đường vân ấy bắt đầu gặp nhau. Một động tác thành thạo hơn làm giảm sự do dự ở lần sau, một phản hồi thành thật giúp tránh phải làm lại, một giấc ngủ được bảo vệ giúp ngày hôm sau không phải bắt đầu lại từ đống đổ nát. Cái gọi là lãi kép không có nghĩa là mỗi ngày đều trở nên nhiều hơn, mà là lựa chọn hôm nay giúp ngày mai phải trả giá ít hơn một chút.
 
-本章是[生活系统篇](daily-system.md)与[九十天行动篇](../part-5/90-day-plan.md)之间的一座桥。它不要求你把生活安排得密不透风，只邀请你观察：哪些小事值得被保留，怎样让它们在中断之后继续回来。遇到“变式”“复利”或“最小合同”等词时，可以回到[术语与方法索引](../../reference/glossary.md)查看定义和下一步入口。
+Chương này là một cây cầu giữa [Phần Hệ thống cuộc sống](daily-system.md) và [Phần Hành động chín mươi ngày](../part-5/90-day-plan.md). Nó không yêu cầu bạn sắp xếp cuộc sống kín kẽ không kẽ hở, mà chỉ mời bạn quan sát: việc nhỏ nào đáng được giữ lại, làm thế nào để chúng tiếp tục quay trở lại sau khi bị gián đoạn. Khi gặp các từ “biến thể”, “lãi kép” hoặc “hợp đồng tối thiểu”, bạn có thể quay lại [Mục lục thuật ngữ và phương pháp](../../reference/glossary.md) để xem định nghĩa và điểm bắt đầu tiếp theo.
 
-## 本章速览
+## Tóm lược chương
 
-- 区分看不见的积累与短暂的兴奋，不用一天的状态判断一段时间的方向；
-- 让重复带着反馈，避免把机械次数误认为能力；
-- 认识能力、信任、判断和恢复四种会互相支撑的复利；
-- 为完整日、压缩日和恢复日设计同一条可回归的节律；
-- 用一页“节律账本”和十四天实验，找到真正适合自己的速度；
-- 用阶段性标准检查系统是否让生活更有余地，而不是更会责备自己。
+- Phân biệt sự tích lũy vô hình với cảm giác hưng phấn ngắn ngủi, không dùng trạng thái của một ngày để phán đoán hướng đi của cả một giai đoạn;
+- Để sự lặp lại đi kèm phản hồi, tránh nhầm số lần lặp máy móc với năng lực;
+- Nhận biết bốn loại lãi kép là năng lực, niềm tin, phán đoán và khả năng hồi phục, vốn có thể nâng đỡ lẫn nhau;
+- Thiết kế cùng một nhịp điệu có thể quay lại cho ngày đầy đủ, ngày thu gọn và ngày hồi phục;
+- Dùng một “sổ cái nhịp điệu” một trang và thí nghiệm mười bốn ngày để tìm ra tốc độ thực sự phù hợp với mình;
+- Dùng các tiêu chuẩn theo từng giai đoạn để kiểm tra xem hệ thống có giúp cuộc sống rộng đường hơn hay không, thay vì khiến bạn giỏi tự trách mình hơn.
 
-## 1. 进步不是一条斜线
+## 1. Tiến bộ không phải là một đường thẳng
 
-我们很容易把进步想象成一条向上的线：今天比昨天多记十个单词，下周比这周多完成两项任务，下个月应该更自律、更有把握。可真实的学习更像潮水，有涨有落，也有一段时间看似停在原地，只是在水下重新排列力量。
+Chúng ta rất dễ hình dung tiến bộ như một đường hướng lên: hôm nay nhớ thêm mười từ so với hôm qua, tuần sau hoàn thành thêm hai nhiệm vụ so với tuần này, tháng sau sẽ kỷ luật hơn và tự tin hơn. Nhưng việc học trong thực tế giống thủy triều hơn, có lúc dâng lúc rút, cũng có những khoảng thời gian tưởng như đứng yên, trong khi sức mạnh đang được sắp xếp lại dưới mặt nước.
 
-如果只用当天的结果判断自己，你会在高点许诺过多，在低点否定过多。更可靠的观察单位不是“今天有没有赢”，而是“这一周是否保住了一条能够回来的路”。一次没有完成的练习，可能只是睡眠被打断；连续几周没有任何首版、反馈或复测，才提示系统需要改变。
+Nếu chỉ dùng kết quả trong ngày để phán đoán bản thân, bạn sẽ hứa quá nhiều ở điểm cao và phủ nhận quá nhiều ở điểm thấp. Đơn vị quan sát đáng tin cậy hơn không phải là “hôm nay mình có thắng không”, mà là “tuần này mình có giữ được một con đường để quay lại không”. Một lần không hoàn thành bài tập có thể chỉ là do giấc ngủ bị gián đoạn; nhiều tuần liên tiếp không có bản đầu tiên, phản hồi hay kiểm tra lại mới cho thấy hệ thống cần thay đổi.
 
-可以把变化分成三层：
+Có thể chia sự thay đổi thành ba tầng:
 
-| 层次 | 你能看到什么 | 不要急着推出什么结论 |
+| Tầng | Bạn có thể nhìn thấy gì | Đừng vội rút ra kết luận gì |
 | --- | --- | --- |
-| 当日表现 | 今天是否完成一次动作 | 不代表能力已经稳定 |
-| 一段保持 | 几天后仍能独立完成 | 不代表能迁移到新场景 |
-| 长期迁移 | 换主题、换听众仍能使用 | 也不代表未来永远不会退步 |
+| Biểu hiện trong ngày | Hôm nay có hoàn thành một động tác hay không | Không có nghĩa năng lực đã ổn định |
+| Duy trì trong một khoảng thời gian | Vài ngày sau vẫn có thể tự mình hoàn thành | Không có nghĩa có thể chuyển sang bối cảnh mới |
+| Chuyển giao dài hạn | Đổi chủ đề, đổi người nghe vẫn có thể sử dụng | Cũng không có nghĩa sau này sẽ không bao giờ thụt lùi |
 
-这三层不是互相竞争的成绩。它们像三次不同距离的回声，分别告诉你“现在做得到”“过一阵子还在”“换个地方也能用”。[证据篇](../part-3/5-evidence-and-transfer.md)会继续处理如何记录它们；本章只先提醒你，不要让最近的一次顺利替整段路盖章。
+Ba tầng này không phải những thành tích cạnh tranh với nhau. Chúng giống ba tiếng vọng ở những khoảng cách khác nhau, lần lượt cho bạn biết “bây giờ làm được”, “sau một thời gian vẫn còn” và “đổi nơi khác cũng dùng được”. [Phần Bằng chứng](../part-3/5-evidence-and-transfer.md) sẽ tiếp tục xử lý cách ghi lại chúng; trước hết, chương này chỉ muốn nhắc bạn đừng để một lần thuận lợi gần đây nhất đóng dấu cho cả chặng đường.
 
-## 2. 重复要有回声
+## 2. Sự lặp lại cần có tiếng vọng
 
-重复是能力的材料，却不是能力的证明。把同一套答案看十遍，会让页面变得熟悉；合上材料后重新解释，才会暴露哪些部分真的留在自己身上。
+Lặp lại là vật liệu của năng lực, nhưng không phải bằng chứng của năng lực. Xem cùng một bộ đáp án mười lần sẽ khiến trang giấy trở nên quen thuộc; gấp tài liệu lại rồi tự giải thích mới phơi bày phần nào thực sự còn ở lại với bạn.
 
-每一次重复至少带走一种回声：
+Mỗi lần lặp lại ít nhất nên mang về một loại tiếng vọng:
 
-1. **回忆**：不看资料，我还能说出什么？
-2. **辨别**：我能指出自己错在哪里，而不只是觉得“不够好”吗？
-3. **变式**：换一个主题、听众或限制，我还能使用吗？
-4. **反馈**：一个外部的人或结果，改变了我下一次的做法吗？
+1. **Gợi nhớ**: Không nhìn tài liệu, tôi còn nói ra được gì?
+2. **Phân biệt**: Tôi có thể chỉ ra mình sai ở đâu, thay vì chỉ cảm thấy “chưa đủ tốt”, không?
+3. **Biến thể**: Đổi chủ đề, người nghe hoặc giới hạn, tôi còn sử dụng được không?
+4. **Phản hồi**: Một người bên ngoài hoặc một kết quả có làm thay đổi cách tôi thực hiện lần sau không?
 
-如果四次重复都没有产生新信息，继续增加次数通常只会增加熟悉感。此时可以改一个变量：缩短提示、换一个例子、加一个追问、限制时间，或邀请真实读者试用。好的练习不是把同一天复制很多次，而是让每次相似都带着一点新的问题。
+Nếu cả bốn lần lặp lại đều không tạo ra thông tin mới, tiếp tục tăng số lần thường chỉ làm tăng cảm giác quen thuộc. Khi đó, có thể thay đổi một biến số: rút ngắn gợi ý, đổi ví dụ, thêm một câu hỏi truy vấn, giới hạn thời gian hoặc mời một độc giả thực tế dùng thử. Bài luyện tập tốt không phải là sao chép cùng một ngày nhiều lần, mà là để mỗi lần tương tự đều mang theo một chút vấn đề mới.
 
-## 3. 四种会复利的东西
+## 3. Bốn thứ có thể tạo lãi kép
 
-成长不只积累知识。一个人长期做事时，至少有四种东西会互相影响：
+Trưởng thành không chỉ là tích lũy kiến thức. Khi một người làm việc trong thời gian dài, ít nhất có bốn thứ ảnh hưởng lẫn nhau:
 
-| 复利 | 它怎样增长 | 它怎样被消耗 |
+| Loại lãi kép | Nó tăng trưởng như thế nào | Nó bị tiêu hao như thế nào |
 | --- | --- | --- |
-| 能力 | 经过回忆、输出、反馈和变式，动作越来越可靠 | 只看答案、长期不使用、任务难度失配 |
-| 信任 | 说到做到，交付可检查，出错后及时说明 | 过度承诺、隐藏代价、让别人替你收拾残局 |
-| 判断 | 记录事实、比较结果、允许证据修正观点 | 用情绪或身份保护结论，只寻找支持自己的材料 |
-| 恢复 | 睡眠、边界、求助和中断后的回归让系统续航 | 长期透支、把休息当奖励、用羞耻支付所有成本 |
+| Năng lực | Qua việc gợi nhớ, đầu ra, phản hồi và biến thể, động tác ngày càng đáng tin cậy | Chỉ xem đáp án, lâu ngày không sử dụng, độ khó của nhiệm vụ không phù hợp |
+| Niềm tin | Nói được làm được, bàn giao có thể kiểm tra, kịp thời giải thích khi mắc lỗi | Hứa quá mức, che giấu cái giá phải trả, để người khác dọn dẹp hậu quả thay mình |
+| Phán đoán | Ghi lại sự thật, so sánh kết quả, cho phép bằng chứng điều chỉnh quan điểm | Dùng cảm xúc hoặc danh tính để bảo vệ kết luận, chỉ tìm kiếm tài liệu ủng hộ mình |
+| Hồi phục | Giấc ngủ, ranh giới, sự trợ giúp và việc quay lại sau gián đoạn giúp hệ thống duy trì sức bền | Tiêu hao quá mức trong thời gian dài, coi nghỉ ngơi là phần thưởng, dùng xấu hổ để trả cho mọi cái giá |
 
-它们不是四个独立账户。能力提高，交付更可靠，信任会增加；信任增加，关系中的反馈更诚实，判断又会变好；判断变好之后，你更容易在该停下时停下，恢复也不必等到崩溃以后才开始。
+Chúng không phải bốn tài khoản độc lập. Năng lực tăng lên, việc bàn giao đáng tin cậy hơn, niềm tin sẽ tăng; niềm tin tăng, phản hồi trong các mối quan hệ trở nên chân thật hơn, phán đoán lại tốt lên; phán đoán tốt hơn, bạn dễ dừng lại khi cần dừng, và việc hồi phục cũng không phải chờ đến sau khi sụp đổ mới bắt đầu.
 
-相反，某一项长期透支也会拖住其他几项。一个人即使知识很多，如果睡眠已经破碎，就可能无法把知识变成作品；一个人即使很努力，如果总是隐瞒风险，别人也不会愿意把真实问题交给他。进阶不是把某一项推到极限，而是让这四种复利有机会互相托住。
+Ngược lại, một khoản bị tiêu hao quá mức trong thời gian dài cũng sẽ kéo theo những khoản khác. Một người dù có nhiều kiến thức, nếu giấc ngủ đã tan vỡ thì vẫn có thể không biến được kiến thức thành sản phẩm; một người dù rất nỗ lực, nếu luôn che giấu rủi ro thì người khác cũng sẽ không muốn giao vấn đề thật cho họ. Tiến bộ không phải là đẩy một yếu tố nào đó đến cực hạn, mà là tạo cơ hội để bốn loại lãi kép này nâng đỡ lẫn nhau.
 
-## 4. 把节律设计成能活下来的形状
+## 4. Thiết kế nhịp điệu theo hình dạng có thể sống sót
 
-节律不是固定频率，而是你在不同容量下仍能识别的动作。先给同一条主线设计三个版本：
+Nhịp điệu không phải là tần suất cố định, mà là những động tác bạn vẫn nhận ra được khi ở những mức năng lượng khác nhau. Trước tiên, hãy thiết kế ba phiên bản cho cùng một tuyến chính:
 
-| 容量 | 保留什么 | 一个例子 |
+| Năng lượng | Giữ lại điều gì | Một ví dụ |
 | --- | --- | --- |
-| 完整日 | 输入、输出和记录 | 精读一段材料，录一版说明，记下一个错误 |
-| 压缩日 | 最小输出和下一步 | 合上材料复述 60 秒，写下明天第一步 |
-| 恢复日 | 安全、照料和回归提示 | 吃饭、休息、联系支持者，把文件放到明天能找到的位置 |
+| Ngày đầy đủ | Tiếp nhận, đầu ra và ghi chép | Đọc kỹ một đoạn tài liệu, thu âm một bản giải thích, ghi lại một lỗi |
+| Ngày thu gọn | Đầu ra tối thiểu và bước tiếp theo | Gấp tài liệu lại, tự thuật lại trong 60 giây, viết bước đầu tiên của ngày mai |
+| Ngày hồi phục | An toàn, chăm sóc và lời nhắc quay lại | Ăn uống, nghỉ ngơi, liên hệ người hỗ trợ, đặt tệp ở nơi ngày mai có thể tìm thấy |
 
-三个版本服务同一个方向，不是三个互相否定的目标。完整日让能力变厚，压缩日让链条不断，恢复日让人不必用崩溃换取重新开始的资格。
+Ba phiên bản phục vụ cùng một hướng đi, chứ không phải ba mục tiêu phủ định lẫn nhau. Ngày đầy đủ giúp năng lực dày lên, ngày thu gọn giúp chuỗi không bị đứt, ngày hồi phục giúp bạn không phải dùng sự sụp đổ để đổi lấy quyền được bắt đầu lại.
 
-可以把节律写成一条“如果 - 那么”协议：
+Có thể viết nhịp điệu thành một giao thức “nếu - thì”:
 
 ```markdown
 如果我有 45 分钟和相对完整的精力：
@@ -90,31 +90,31 @@ updated: 2026-09-19
 那么暂停高风险决定，先完成照料和求助，再决定何时恢复。
 ```
 
-协议的价值不在于预测所有情况，而在于替你减少临场争论。真正困难的日子里，系统越简单，越容易被执行。
+Giá trị của giao thức không nằm ở việc dự đoán mọi tình huống, mà ở chỗ thay bạn giảm bớt tranh luận tại chỗ. Trong những ngày thực sự khó khăn, hệ thống càng đơn giản thì càng dễ được thực hiện.
 
-## 5. 反馈不是审判
+## 5. Phản hồi không phải là phán xét
 
-反馈之所以有用，不是因为它证明你够不够好，而是因为它让下一次行动多了一条信息。请把反馈拆成三部分：
+Phản hồi hữu ích không phải vì nó chứng minh bạn đủ tốt hay chưa, mà vì nó bổ sung thêm một thông tin cho hành động lần sau. Hãy tách phản hồi thành ba phần:
 
-- **观察**：别人实际看见、听见或测到什么；
-- **影响**：这件事如何影响理解、使用或结果；
-- **调整**：下一次只改变哪一个最重要的变量。
+- **Quan sát**: Người khác thực tế đã nhìn thấy, nghe thấy hoặc đo được điều gì;
+- **Ảnh hưởng**: Việc này ảnh hưởng thế nào đến sự hiểu, việc sử dụng hoặc kết quả;
+- **Điều chỉnh**: Lần sau chỉ thay đổi biến số quan trọng nhất nào.
 
-例如，不要把“你的演讲很差”直接写进复盘。可以记录：“听众在第二分钟问我正在解决什么问题；他在结尾复述错了完成标准；下一次我在开头先给场景和结果，并删掉一个背景段。”这样写，反馈才会从人格判断回到可操作的工作。
+Ví dụ, đừng viết thẳng vào phần tổng kết rằng “bài thuyết trình của bạn rất tệ”. Có thể ghi: “Đến phút thứ hai, người nghe hỏi tôi đang giải quyết vấn đề gì; ở phần kết, họ nhắc lại sai tiêu chuẩn hoàn thành; lần sau tôi sẽ đưa bối cảnh và kết quả ngay từ đầu, đồng thời bỏ một đoạn bối cảnh.” Viết như vậy, phản hồi mới trở về từ phán xét nhân cách với công việc có thể thực hiện.
 
-向 AI 请求反馈时也遵守同一边界：先交自己的版本，要求它指出最多三个影响结果的问题，要求它区分事实、推断和建议，再由你决定是否采纳。反馈越多不一定越好；如果没有下一项动作，十页批注只会成为新的收藏。
+Khi yêu cầu AI đưa ra phản hồi, cũng cần tuân thủ cùng một ranh giới: trước hết đưa phiên bản của mình, yêu cầu nó chỉ ra nhiều nhất ba vấn đề ảnh hưởng đến kết quả, yêu cầu nó phân biệt sự thật, suy luận và đề xuất, rồi bạn tự quyết định có tiếp thu hay không. Nhiều phản hồi hơn chưa chắc đã tốt hơn; nếu không có hành động tiếp theo, mười trang chú thích chỉ trở thành một bộ sưu tập mới.
 
-## 6. 坏日子里的最小合同
+## 6. Hợp đồng tối thiểu trong những ngày tồi tệ
 
-一个节律真正成熟的标志，不是好日子里完成得多，而是坏日子里不会把人彻底赶出系统。为自己写一份最小合同，内容只需要回答三件事：
+Dấu hiệu một nhịp điệu thực sự trưởng thành không phải là hoàn thành được bao nhiêu trong những ngày tốt, mà là trong những ngày tồi tệ, nó không đẩy con người ra khỏi hệ thống hoàn toàn. Hãy viết cho mình một hợp đồng tối thiểu, chỉ cần trả lời ba câu hỏi:
 
-1. 在什么情况下，我会把任务降档，而不是硬撑？
-2. 降档之后，什么最小动作仍然值得留下？
-3. 什么时候需要请人帮忙，或把专业问题交给合格的专业人士？
+1. Trong trường hợp nào tôi sẽ hạ cấp nhiệm vụ thay vì cố gắng chịu đựng?
+2. Sau khi hạ cấp, động tác tối thiểu nào vẫn đáng được giữ lại?
+3. Khi nào cần nhờ người khác giúp đỡ, hoặc giao vấn đề chuyên môn cho người có chuyên môn phù hợp?
 
-最小合同不是对懒惰的纵容。它保护的是判断力：当身体、财务、安全或关系出现重大风险时，继续完成计划不一定是勇敢。暂停、说明、求助和重新安排，也可以是对长期目标负责。
+Hợp đồng tối thiểu không phải là sự nuông chiều tính lười biếng. Điều nó bảo vệ là năng lực phán đoán: khi cơ thể, tài chính, sự an toàn hoặc các mối quan hệ xuất hiện rủi ro nghiêm trọng, tiếp tục hoàn thành kế hoạch chưa chắc đã là dũng cảm. Tạm dừng, giải thích, tìm sự trợ giúp và sắp xếp lại cũng có thể là cách chịu trách nhiệm với mục tiêu dài hạn.
 
-每次中断后，只写四行：
+Sau mỗi lần gián đoạn, chỉ cần viết bốn dòng:
 
 ```markdown
 发生了什么事实：
@@ -123,11 +123,11 @@ updated: 2026-09-19
 这次明确不补做什么：
 ```
 
-如果同一阻力连续出现三次，不要只把它命名为“我不够自律”。它可能说明时间盒不现实、任务没有拆开、边界没有说清，或支持网络太薄。回到[生活进阶工作表](../../templates/life-practice-toolkit.md)，让系统承担它本来应该承担的工作。
+Nếu cùng một trở lực xuất hiện liên tiếp ba lần, đừng chỉ gọi nó là “mình chưa đủ kỷ luật”. Có thể điều đó cho thấy khung thời gian không thực tế, nhiệm vụ chưa được chia nhỏ, ranh giới chưa được nói rõ hoặc mạng lưới hỗ trợ quá mỏng. Hãy quay lại [Bảng bài tập tiến bộ cuộc sống](../../templates/life-practice-toolkit.md), để hệ thống đảm nhận phần việc vốn dĩ nó phải đảm nhận.
 
-## 7. 一页节律账本
+## 7. Sổ cái nhịp điệu một trang
 
-账本不是用来监控人格，而是帮助你看见哪些设计值得保留。每周只记一页：
+Sổ cái không dùng để giám sát nhân cách, mà để giúp bạn nhìn thấy những thiết kế nào đáng được giữ lại. Mỗi tuần chỉ ghi một trang:
 
 ```markdown
 # 节律账本 — YYYY-MM-DD
@@ -140,42 +140,42 @@ updated: 2026-09-19
 我明确不再追踪的数字：
 ```
 
-最后一行很重要。任何记录都要付出注意力成本；删掉一个不能帮助决定的数字，也是节律设计的一部分。若你发现自己每天都在更新表格，却没有首版、反馈或复测，就把记录缩短，把时间还给行动。需要直接复制使用时，打开[节律账本模板](../../templates/rhythm-ledger.md)。
+Dòng cuối cùng rất quan trọng. Mọi ghi chép đều phải trả giá bằng sự chú ý; xóa bỏ một con số không giúp ích cho việc ra quyết định cũng là một phần của thiết kế nhịp điệu. Nếu phát hiện mình ngày nào cũng cập nhật bảng biểu nhưng không có bản đầu tiên, phản hồi hay kiểm tra lại, hãy rút ngắn phần ghi chép và trả thời gian lại cho hành động. Khi cần sao chép trực tiếp để sử dụng, hãy mở [Mẫu sổ cái nhịp điệu](../../templates/rhythm-ledger.md).
 
-要把账本里的一项阻力转成行动，可参考 [自律与坚持实操](../practice/discipline-and-consistency.md) 的排查表和对照案例，并用 [持续行动计划](../../templates/consistency-plan.md) 记录一次改动、投入上限与验收结果。案例练习细化本章节律，实验结束后仍回到账本复查。
+Để chuyển một trở lực trong sổ cái thành hành động, có thể tham khảo bảng kiểm tra và các trường hợp đối chiếu trong [Thực hành kỷ luật và kiên trì](../practice/discipline-and-consistency.md), đồng thời dùng [Kế hoạch hành động liên tục](../../templates/consistency-plan.md) để ghi lại một thay đổi, giới hạn đầu tư và kết quả nghiệm thu. Các bài tập tình huống giúp cụ thể hóa nhịp điệu của chương này; sau khi thí nghiệm kết thúc, vẫn quay lại sổ cái để kiểm tra.
 
-## 8. 十四天节律实验
+## 8. Thí nghiệm nhịp điệu mười bốn ngày
 
-不要一次改变整套生活。用十四天验证一个假设：
+Đừng thay đổi toàn bộ cuộc sống trong một lần. Hãy dùng mười bốn ngày để kiểm chứng một giả thuyết:
 
-1. **第 1 天**：写下当前主问题、基线样本和最小合同；
-2. **第 2—4 天**：在完整日、压缩日中各执行至少一次，记录启动和退出的摩擦；
-3. **第 5 天**：让一个真实的人或一个可复现结果提供反馈；
-4. **第 6—7 天**：删除一个不产生信息的步骤，保留一个有效锚点；
-5. **第 8—10 天**：改变一个变量，例如时间限制、听众、主题或工具权限；
-6. **第 11 天**：模拟一次中断，测试回归协议是否真的够小；
-7. **第 12—13 天**：完成一次独立版和一次修订版，不看原来的解释；
-8. **第 14 天**：用[每周复盘模板](../../templates/weekly-review.md)决定继续、降档、改题，或停止这个实验。
+1. **Ngày 1**: Viết ra vấn đề chính hiện tại, mẫu cơ sở và hợp đồng tối thiểu;
+2. **Ngày 2—4**: Thực hiện ít nhất một lần ở ngày đầy đủ và ngày thu gọn, ghi lại ma sát khi bắt đầu và kết thúc;
+3. **Ngày 5**: Để một người thực tế hoặc một kết quả có thể tái hiện cung cấp phản hồi;
+4. **Ngày 6—7**: Xóa một bước không tạo ra thông tin, giữ lại một điểm neo có hiệu quả;
+5. **Ngày 8—10**: Thay đổi một biến số, chẳng hạn như giới hạn thời gian, người nghe, chủ đề hoặc quyền sử dụng công cụ;
+6. **Ngày 11**: Mô phỏng một lần gián đoạn, kiểm tra xem giao thức quay lại có thực sự đủ nhỏ hay không;
+7. **Ngày 12—13**: Hoàn thành một phiên bản độc lập và một phiên bản đã chỉnh sửa, không xem phần giải thích ban đầu;
+8. **Ngày 14**: Dùng [Mẫu tổng kết hằng tuần](../../templates/weekly-review.md) để quyết định tiếp tục, hạ cấp, đổi đề bài hoặc dừng thí nghiệm này.
 
-实验结束时，不只问“我坚持了几天”。请比较首版与末版：完成时间是否改变，错误是否变少，别人是否更容易理解，你是否更知道什么时候该停下。能让下一次决定更清楚，就是实验已经产生的回报。
+Khi thí nghiệm kết thúc, đừng chỉ hỏi “mình đã kiên trì bao nhiêu ngày”. Hãy so sánh bản đầu tiên với bản cuối cùng: thời gian hoàn thành có thay đổi không, số lỗi có giảm không, người khác có dễ hiểu hơn không, bạn có biết rõ hơn khi nào nên dừng lại không. Việc khiến quyết định lần sau rõ ràng hơn chính là lợi ích mà thí nghiệm đã tạo ra.
 
-## 9. 阶段性标准
+## 9. Tiêu chuẩn theo từng giai đoạn
 
-一条值得继续的节律通常具备以下特征：
+Một nhịp điệu đáng được tiếp tục thường có những đặc điểm sau:
 
-- 在至少两种容量下都能执行，而不是只在理想日成立；
-- 每次重复都会产生回忆、反馈或变式中的一种新信息；
-- 有真实的首版、修订版和复测，而不只有完成记录；
-- 中断后能在合理时间内回到一个小动作，不需要补偿性透支；
-- 能说清楚什么应该继续、什么应该删除，以及什么风险需要升级求助；
-- 让关系、身体和注意力拥有可保护的边界。
+- Có thể thực hiện ở ít nhất hai mức năng lượng, thay vì chỉ phù hợp với những ngày lý tưởng;
+- Mỗi lần lặp lại đều tạo ra một thông tin mới thuộc về gợi nhớ, phản hồi hoặc biến thể;
+- Có bản đầu tiên, bản chỉnh sửa và lần kiểm tra lại thực tế, thay vì chỉ có ghi chép hoàn thành;
+- Sau khi bị gián đoạn, có thể quay lại một động tác nhỏ trong khoảng thời gian hợp lý, không cần tiêu hao quá mức để bù đắp;
+- Có thể nói rõ điều gì nên tiếp tục, điều gì nên xóa bỏ, và rủi ro nào cần nâng cấp hỗ trợ;
+- Cho phép các mối quan hệ, cơ thể và sự chú ý có những ranh giới được bảo vệ.
 
-如果一条节律让你越来越害怕打开记录，或者必须长期牺牲睡眠、诚实与关系才能维持，它就算带来了数字增长，也没有带来可靠的进阶。改变系统，不是放弃目标，而是让目标重新回到可承担的重量。
+Nếu một nhịp điệu khiến bạn ngày càng sợ mở phần ghi chép, hoặc buộc bạn phải hy sinh giấc ngủ, sự thành thật và các mối quan hệ trong thời gian dài để duy trì, thì dù nó tạo ra tăng trưởng về con số, nó vẫn chưa tạo ra sự tiến bộ đáng tin cậy. Thay đổi hệ thống không phải là từ bỏ mục tiêu, mà là đưa mục tiêu trở lại với một trọng lượng có thể gánh vác.
 
-## 结语：让时间成为同伴
+## Kết lời: Để thời gian trở thành bạn đồng hành
 
-我们常常想用一次大的决定证明自己已经换了一个人。可人生更愿意相信另一种证据：你在无人提醒时仍然打开文件，在反馈刺耳时仍然愿意听完，在中断之后没有把自己驱逐出生活。
+Chúng ta thường muốn dùng một quyết định lớn để chứng minh rằng mình đã trở thành một con người khác. Nhưng cuộc đời sẵn lòng tin vào một loại bằng chứng khác hơn: khi không ai nhắc nhở, bạn vẫn mở tệp; khi phản hồi chói tai, bạn vẫn sẵn lòng nghe hết; sau khi bị gián đoạn, bạn không trục xuất chính mình khỏi cuộc sống.
 
-小事不会因为小就没有力量。它们真正的力量，来自被重复、被修正、被带到新的场景，也来自在某些日子里被允许暂停。时间不是只负责把人变老的河流；如果我们把选择、作品、边界和照料放进去，它也会替我们保存一部分曾经很容易消失的努力。
+Việc nhỏ không mất đi sức mạnh chỉ vì nó nhỏ. Sức mạnh thực sự của chúng đến từ việc được lặp lại, được sửa chữa, được mang sang những bối cảnh mới, và cũng đến từ việc trong một số ngày, chúng được phép tạm dừng. Thời gian không chỉ là dòng sông có nhiệm vụ làm con người già đi; nếu chúng ta đặt vào đó những lựa chọn, sản phẩm, ranh giới và sự chăm sóc, nó cũng sẽ thay chúng ta lưu giữ một phần những nỗ lực từng rất dễ biến mất.
 
-下一步不必更大，只要更清楚。回到[生活系统篇](daily-system.md)调整你的三个容量版本，再进入[第五部：行动与长期改变](../part-5/long-term-action.md)，把一个节律交给真实问题和真实时间检验。
+Bước tiếp theo không cần lớn hơn, chỉ cần rõ ràng hơn. Hãy quay lại [Phần Hệ thống cuộc sống](daily-system.md) để điều chỉnh ba phiên bản năng lượng của bạn, rồi bước vào [Phần Năm: Hành động và thay đổi dài hạn](../part-5/long-term-action.md), giao một nhịp điệu cho vấn đề thực tế và thời gian thực tế kiểm chứng.

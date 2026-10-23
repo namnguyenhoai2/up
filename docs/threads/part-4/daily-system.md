@@ -1,37 +1,37 @@
 ---
-title: 生活系统篇：把改变安放在日子里
-description: 用最小可行的一天、精力预算、环境设计和中断回归，把学习与改变安放进真实生活。
+title: "Chương về hệ thống đời sống: Đặt sự thay đổi vào từng ngày"
+description: Đưa việc học và thay đổi vào đời sống thực qua một ngày khả thi tối thiểu, ngân sách năng lượng, thiết kế môi trường và việc quay lại sau gián đoạn.
 updated: 2026-09-19
 ---
 
-# 生活系统篇：把改变安放在日子里
+# Chương về hệ thống đời sống: Đặt sự thay đổi vào từng ngày
 
-人不是一张等待优化的表格。我们有睡不好的夜晚、临时的电话、需要照顾的人，也有突然失去力气的下午。任何只在理想状态下成立的计划，遇到真实生活就会立刻露出裂缝。
+Con người không phải là một bảng tính chờ được tối ưu hóa. Chúng ta có những đêm mất ngủ, những cuộc gọi đột xuất, những người cần được chăm sóc, và cả những buổi chiều bỗng nhiên cạn sức. Bất kỳ kế hoạch nào chỉ đúng trong trạng thái lý tưởng đều sẽ lập tức lộ ra những kẽ nứt khi gặp đời sống thực.
 
-所以，进阶不只是增加目标，也是在目标周围搭一座不会轻易塌掉的房子。本章不提供一套完美日程，而是帮助你把学习、工作、关系和恢复放在同一张桌上，先找到一个忙乱时也能回来的最小系统。
+Vì vậy, tiến bộ không chỉ là tăng thêm mục tiêu, mà còn là xây quanh mục tiêu một ngôi nhà không dễ dàng sụp đổ. Chương này không cung cấp một thời gian biểu hoàn hảo, mà giúp bạn đặt việc học, công việc, các mối quan hệ và sự hồi phục lên cùng một mặt bàn, trước hết tìm ra một hệ thống tối thiểu mà ngay cả khi bận rộn hỗn loạn, bạn vẫn có thể quay lại.
 
-## 本章速览
+## Tóm lược chương
 
-- 用“最小可行的一天”替代必须满分的日程；
-- 把时间、精力和责任一起预算，不用意志力支付所有成本；
-- 通过环境和默认选项减少启动摩擦，也减少无意识输入；
-- 为关系和工作提前说清楚边界，让专注不以失联为代价；
-- 计划中断时只重启下一步，并留下可供复盘的证据；
-- 用七天实践把这套系统改成适合自己的版本。
+- Dùng “một ngày khả thi tối thiểu” thay cho một thời gian biểu bắt buộc phải đạt điểm tối đa;
+- Lập ngân sách cho thời gian, năng lượng và trách nhiệm cùng lúc, không dùng ý chí để trả mọi chi phí;
+- Giảm ma sát khi bắt đầu và giảm cả những đầu vào vô thức thông qua môi trường và các lựa chọn mặc định;
+- Nói rõ trước ranh giới với các mối quan hệ và công việc, để sự tập trung không phải trả giá bằng việc mất liên lạc;
+- Khi kế hoạch bị gián đoạn, chỉ khởi động lại bước tiếp theo và để lại bằng chứng có thể dùng để nhìn lại;
+- Dùng thực hành bảy ngày để điều chỉnh hệ thống này thành phiên bản phù hợp với bản thân.
 
-## 1. 先设计最小可行的一天
+## 1. Trước hết, hãy thiết kế một ngày khả thi tối thiểu
 
-“每天学习两小时”听起来明确，却没有回答一个更实际的问题：今天只剩二十分钟时，我还做不做得了？
+“Học hai tiếng mỗi ngày” nghe có vẻ rõ ràng, nhưng chưa trả lời một câu hỏi thực tế hơn: hôm nay khi chỉ còn hai mươi phút, tôi còn làm được không?
 
-先写三层日程。它们不是成功、失败和放弃，而是同一系统在不同容量下的三个档位：
+Trước hết hãy viết ra ba tầng thời gian biểu. Chúng không phải là thành công, thất bại và từ bỏ, mà là ba mức của cùng một hệ thống trong những khả năng khác nhau:
 
-| 档位 | 适用时刻 | 必须留下的东西 |
+| Mức | Thời điểm phù hợp | Điều bắt buộc phải giữ lại |
 | --- | --- | --- |
-| 完整日 | 时间和精力相对稳定 | 一次输入、一次输出、一次记录 |
-| 压缩日 | 工作变长、注意力被切碎 | 10–25 分钟的最小输出 |
-| 恢复日 | 生病、失眠、悲伤或责任突然增加 | 安全、饮食、休息和一个回到系统的提示 |
+| Ngày đầy đủ | Thời gian và năng lượng tương đối ổn định | Một lần tiếp nhận, một lần tạo ra sản phẩm, một lần ghi chép |
+| Ngày rút gọn | Công việc kéo dài hơn, sự chú ý bị chia nhỏ | Một sản phẩm tối thiểu trong 10–25 phút |
+| Ngày hồi phục | Bị bệnh, mất ngủ, đau buồn hoặc trách nhiệm đột ngột tăng lên | An toàn, ăn uống, nghỉ ngơi và một lời nhắc để quay lại hệ thống |
 
-完整日不是标准答案，恢复日也不是道德失败。你可以把自己的版本写成：
+Ngày đầy đủ không phải đáp án chuẩn, và ngày hồi phục cũng không phải thất bại về mặt đạo đức. Bạn có thể viết phiên bản của mình như sau:
 
 ```markdown
 # 我的最小可行一天 — YYYY-MM-DD
@@ -43,79 +43,79 @@ updated: 2026-09-19
 明天打开文件后要做的第一步：
 ```
 
-如果你连最小输出都无法完成，先检查睡眠、身体、安全和责任，而不是继续加码。这里的判断是生活规划，不是医疗诊断；持续影响功能的状况应交给当地合格的专业人士评估。
+Nếu bạn không thể hoàn thành ngay cả sản phẩm tối thiểu, trước hết hãy kiểm tra giấc ngủ, cơ thể, sự an toàn và trách nhiệm, thay vì tiếp tục tăng mức yêu cầu. Đánh giá ở đây là lập kế hoạch đời sống, không phải chẩn đoán y khoa; những tình trạng liên tục ảnh hưởng đến khả năng hoạt động nên được giao cho chuyên gia có đủ tư cách tại địa phương đánh giá.
 
-## 2. 给时间、精力和责任做预算
+## 2. Lập ngân sách cho thời gian, năng lượng và trách nhiệm
 
-一天都有 24 小时，但可用于深度工作的小时数并不相同。精力会被通勤、疼痛、照护、会议、情绪和切换消耗。把这些写进计划，不是为自己找借口，而是让计划开始描述真实的人。
+Một ngày đều có 24 giờ, nhưng số giờ có thể dùng cho công việc sâu lại không giống nhau. Năng lượng bị tiêu hao bởi việc đi lại, đau đớn, chăm sóc, các cuộc họp, cảm xúc và việc chuyển đổi. Đưa những điều này vào kế hoạch không phải là viện cớ cho bản thân, mà là để kế hoạch bắt đầu mô tả con người thật.
 
-每周先回答四个问题：
+Mỗi tuần, trước hết hãy trả lời bốn câu hỏi:
 
-1. 哪些时间已经被固定责任占用？
-2. 哪些时段最容易留下 25–45 分钟的完整注意力？
-3. 哪些事情会在当晚消耗第二天的能力？
-4. 如果本周只完成一件重要的事，哪件事最值得被保护？
+1. Những khoảng thời gian nào đã bị các trách nhiệm cố định chiếm dụng?
+2. Những khung giờ nào dễ để lại 25–45 phút tập trung trọn vẹn nhất?
+3. Những việc nào sẽ tiêu hao năng lực của ngày hôm sau vào tối nay?
+4. Nếu tuần này chỉ hoàn thành được một việc quan trọng, việc nào đáng được bảo vệ nhất?
 
-可以用下面的表格做一次粗略预算：
+Bạn có thể dùng bảng dưới đây để lập một ngân sách sơ bộ:
 
-| 资源 | 本周事实 | 要保护的下限 | 超出时的调整 |
+| Nguồn lực | Thực tế trong tuần này | Mức tối thiểu cần bảo vệ | Điều chỉnh khi vượt quá |
 | --- | --- | --- | --- |
-| 时间 | 可用的固定时段 | 一个主线时间盒 | 缩小任务，不挤压休息 |
-| 精力 | 高、低和不可预测的时段 | 完成一个最小输出 | 换成低摩擦版本 |
-| 注意力 | 通知、切换和信息入口 | 一段不被打断的窗口 | 关闭一个入口 |
-| 关系 | 需要回应的人与责任 | 一次诚实沟通 | 提前说明延迟与边界 |
-| 身体 | 睡眠、疼痛、活动和恢复 | 基本照料与安全 | 暂停高风险决定，寻求支持 |
+| Thời gian | Những khung giờ cố định có thể sử dụng | Một khung thời gian cho việc chính | Thu nhỏ nhiệm vụ, không lấn át thời gian nghỉ |
+| Năng lượng | Những khoảng cao, thấp và không thể đoán trước | Hoàn thành một sản phẩm tối thiểu | Chuyển sang phiên bản ít ma sát |
+| Sự chú ý | Thông báo, chuyển đổi và các cổng thông tin | Một khoảng thời gian không bị gián đoạn | Đóng một cổng vào |
+| Các mối quan hệ | Những người và trách nhiệm cần phản hồi | Một lần giao tiếp thành thật | Nói trước về sự chậm trễ và ranh giới |
+| Cơ thể | Giấc ngủ, cơn đau, vận động và hồi phục | Chăm sóc cơ bản và sự an toàn | Tạm dừng các quyết định rủi ro cao, tìm kiếm hỗ trợ |
 
-不要把“我还能挤出一点”当作预算。预算应该先留下不可透支的底线，再安排可变的野心。
+Đừng coi “mình vẫn có thể cố thêm một chút” là ngân sách. Ngân sách trước hết phải chừa lại mức giới hạn không thể bội chi, rồi mới sắp xếp tham vọng có thể thay đổi.
 
-## 3. 让环境替你减少摩擦
+## 3. Để môi trường giúp bạn giảm ma sát
 
-很多拖延并不是价值观问题，而是第一步太远：文件藏在错误的目录，练习材料要重新寻找，手机一亮就带来十个入口。与其每次要求自己更坚强，不如把下一步放到手边。
+Nhiều sự trì hoãn không phải là vấn đề về giá trị, mà là do bước đầu tiên quá xa: tệp nằm trong sai thư mục, tài liệu luyện tập phải tìm lại từ đầu, điện thoại vừa sáng lên đã mang đến mười cổng vào. Thay vì mỗi lần đều yêu cầu bản thân phải mạnh mẽ hơn, hãy đặt bước tiếp theo ngay trong tầm tay.
 
-### 启动摩擦
+### Ma sát khi bắt đầu
 
-- 在前一天只打开一个文件，并把下一步写在文件最上方；
-- 把练习材料按“今天、备用、归档”分成三处，不让收藏夹决定任务；
-- 为 25 分钟任务准备一个固定入口：同一张卡、同一支笔或同一个终端命令；
-- 使用 AI 前先写自己的判断，避免把“打开聊天窗口”误认为已经开始学习。
+- Ngày hôm trước chỉ mở một tệp và viết bước tiếp theo ở đầu tệp;
+- Chia tài liệu luyện tập thành ba nơi theo các mục “hôm nay, dự phòng, lưu trữ”, không để thư mục yêu thích quyết định nhiệm vụ;
+- Chuẩn bị một cổng vào cố định cho nhiệm vụ 25 phút: cùng một tấm thẻ, cùng một cây bút hoặc cùng một lệnh trên terminal;
+- Trước khi sử dụng AI, hãy viết phán đoán của riêng mình trước, tránh nhầm việc “mở cửa sổ trò chuyện” với việc đã bắt đầu học.
 
-### 退出摩擦
+### Ma sát khi kết thúc
 
-系统也需要结束方式。设置一个明确的收尾动作：保存版本、写下一条错误、关闭标签页，并记录明天的第一步。没有收尾的任务会在脑中继续占用位置，下一次更难开始。
+Hệ thống cũng cần một cách kết thúc. Hãy thiết lập một hành động khép lại rõ ràng: lưu phiên bản, viết lại một lỗi, đóng các tab và ghi lại bước đầu tiên của ngày mai. Một nhiệm vụ không có phần kết sẽ tiếp tục chiếm chỗ trong đầu, khiến lần bắt đầu tiếp theo khó hơn.
 
-环境设计不是把生活变成军营。它只是把重要的事变得容易开始，把不重要的输入变得需要多一步确认。
+Thiết kế môi trường không phải là biến cuộc sống thành doanh trại. Nó chỉ khiến những việc quan trọng trở nên dễ bắt đầu, còn những đầu vào không quan trọng thì cần thêm một bước xác nhận.
 
-## 4. 把学习嵌入已有生活
+## 4. Đưa việc học vào đời sống vốn có
 
-新习惯最容易失败的地方，是它要求你先拥有一段从未存在的空白时间。更稳妥的做法是把动作挂在已经发生的事情上：
+Nơi thói quen mới dễ thất bại nhất là khi nó đòi hỏi bạn trước hết phải có một khoảng thời gian trống chưa từng tồn tại. Cách vững vàng hơn là gắn hành động vào những việc vốn đã diễn ra:
 
-| 已有锚点 | 可嵌入的动作 | 证据 |
+| Điểm neo có sẵn | Hành động có thể lồng vào | Bằng chứng |
 | --- | --- | --- |
-| 打开电脑 | 先写一句今天的问题 | 学习状态的一行更新 |
-| 午饭后 | 听一段短材料并记主旨 | 听力审计的一条记录 |
-| 会议前 | 用英语复述一个风险 | 60 秒录音 |
-| 关闭工作 | 保存今天的版本和下一步 | 作品或代码提交 |
-| 周末固定时段 | 回看首版与反馈 | 每周复盘 |
+| Mở máy tính | Trước tiên viết một câu về vấn đề của hôm nay | Một dòng cập nhật trạng thái học tập |
+| Sau bữa trưa | Nghe một đoạn tài liệu ngắn và ghi lại ý chính | Một bản ghi trong nhật ký rà soát kỹ năng nghe |
+| Trước cuộc họp | Diễn đạt lại một rủi ro bằng tiếng Anh | Bản ghi âm 60 giây |
+| Đóng công việc | Lưu phiên bản hôm nay và bước tiếp theo | Bản sản phẩm hoặc lần commit mã |
+| Khung giờ cố định cuối tuần | Xem lại bản đầu tiên và phản hồi | Tổng kết hằng tuần |
 
-锚点不是硬性规定。若某个场景经常被打断，就换一个更可靠的场景。目标不是让每分钟都有产出，而是让重要动作不必每次重新谈判。
+Điểm neo không phải quy định cứng nhắc. Nếu một bối cảnh thường xuyên bị gián đoạn, hãy đổi sang bối cảnh đáng tin cậy hơn. Mục tiêu không phải là để mỗi phút đều tạo ra sản phẩm, mà là để những hành động quan trọng không phải thương lượng lại từ đầu mỗi lần.
 
-## 5. 让关系知道你的边界
+## 5. Cho các mối quan hệ biết ranh giới của bạn
 
-专注不是消失。临时关闭通知、延迟回复或保留一段安静时间，都应该尽量让受影响的人知道：你何时可联系、何时会回到对话、遇到紧急情况用什么方式找到你。
+Tập trung không có nghĩa là biến mất. Khi tạm thời tắt thông báo, trả lời chậm hoặc giữ lại một khoảng thời gian yên tĩnh, hãy cố gắng cho những người bị ảnh hưởng biết: khi nào có thể liên hệ với bạn, khi nào bạn sẽ quay lại cuộc trò chuyện, và trong trường hợp khẩn cấp thì nên tìm bạn bằng cách nào.
 
-可以使用这样的句式：
+Bạn có thể dùng mẫu câu như sau:
 
-> 我今天 19:00–19:30 需要完成一项工作，期间不看即时消息。若不是紧急情况，我会在 20:00 前回复；如果事情需要我今天处理，请直接告诉我截止时间。
+> Hôm nay từ 19:00–19:30 tôi cần hoàn thành một công việc, trong thời gian đó tôi sẽ không xem tin nhắn tức thời. Nếu không khẩn cấp, tôi sẽ trả lời trước 20:00; nếu việc này cần tôi xử lý hôm nay, hãy nói thẳng cho tôi biết thời hạn.
 
-这不是要求别人围绕你的计划生活，而是把不确定的等待变成可协商的信息。关系篇讨论倾听、冲突和离开；这里补上的，是日常执行时如何把边界说出口。
+Đây không phải là yêu cầu người khác phải xoay quanh kế hoạch của bạn, mà là biến sự chờ đợi không chắc chắn thành thông tin có thể thương lượng. Phần về các mối quan hệ sẽ thảo luận về lắng nghe, xung đột và rời đi; điều được bổ sung ở đây là cách nói ra ranh giới trong quá trình thực hiện hằng ngày.
 
-如果一个边界只能靠威胁、羞辱或持续失联维持，它就还没有成为可靠的系统。安全和尊重优先于完成一项任务。
+Nếu một ranh giới chỉ có thể được duy trì bằng đe dọa, làm nhục hoặc liên tục mất liên lạc, thì nó vẫn chưa trở thành một hệ thống đáng tin cậy. An toàn và tôn trọng được ưu tiên hơn việc hoàn thành một nhiệm vụ.
 
-## 6. 中断时只重启下一步
+## 6. Khi bị gián đoạn, chỉ khởi động lại bước tiếp theo
 
-计划中断之后，人很容易做两件事：补偿性熬夜，或干脆把整个周期宣布作废。两者都会让回归成本变大。
+Sau khi kế hoạch bị gián đoạn, con người rất dễ làm hai việc: thức khuya để bù, hoặc thẳng tay tuyên bố cả chu kỳ đã hỏng. Cả hai đều khiến chi phí quay lại tăng lên.
 
-中断时写四行：
+Khi bị gián đoạn, hãy viết bốn dòng:
 
 ```markdown
 发生了什么（只写事实）：
@@ -124,42 +124,42 @@ updated: 2026-09-19
 我明确不补做的内容：
 ```
 
-然后选择一项足够小的动作：重读一段、重录 60 秒、修一个测试、回复一封关键邮件，或把明天的文件准备好。完成后不要立刻把难度调回原来的高度，先让系统连续两次成功。
+Sau đó chọn một hành động đủ nhỏ: đọc lại một đoạn, thu âm lại 60 giây, sửa một bài kiểm thử, trả lời một email quan trọng hoặc chuẩn bị sẵn tệp cho ngày mai. Sau khi hoàn thành, đừng lập tức đưa độ khó trở lại mức ban đầu; trước hết hãy để hệ thống thành công liên tiếp hai lần.
 
-当同一阻力连续出现三次，问题通常已经不只是当天的心情。回到[生活进阶工作表](../../templates/life-practice-toolkit.md)和[每周复盘](../../templates/weekly-review.md)，改变时间、环境、任务大小或支持网络；不要只给自己增加责备。
+Khi cùng một trở lực xuất hiện liên tiếp ba lần, vấn đề thường không còn chỉ là tâm trạng của ngày hôm đó. Hãy quay lại [bảng công việc tiến bộ trong đời sống](../../templates/life-practice-toolkit.md) và [mẫu tổng kết hằng tuần](../../templates/weekly-review.md), thay đổi thời gian, môi trường, quy mô nhiệm vụ hoặc mạng lưới hỗ trợ; đừng chỉ tăng thêm lời trách móc dành cho bản thân.
 
-## 7. 用证据而不是情绪判断系统
+## 7. Đánh giá hệ thống bằng bằng chứng thay vì cảm xúc
 
-一套生活系统是否有效，不由某一天的兴奋决定。每周保留以下五项证据：
+Một hệ thống đời sống có hiệu quả hay không không được quyết định bởi sự hào hứng của một ngày nào đó. Mỗi tuần hãy giữ lại năm loại bằng chứng sau:
 
-1. 我是否在压缩日仍留下过一个输出？
-2. 我是否知道下次打开文件要做什么？
-3. 我是否减少了一个反复打断的入口？
-4. 我是否向相关的人说清楚了时间与边界？
-5. 中断后，我用了多久回到一次可执行动作？
+1. Trong ngày rút gọn, tôi có từng để lại một sản phẩm nào không?
+2. Tôi có biết lần tới khi mở tệp thì phải làm gì không?
+3. Tôi có giảm được một cổng vào thường xuyên gây gián đoạn không?
+4. Tôi có nói rõ thời gian và ranh giới với những người liên quan không?
+5. Sau khi bị gián đoạn, tôi mất bao lâu để quay lại một hành động có thể thực hiện?
 
-这些问题没有统一分数。它们的作用是把“我好像更自律了”改写成可观察的变化。如果证据变差，先调整系统条件，再讨论个人意志。
+Những câu hỏi này không có một thang điểm thống nhất. Tác dụng của chúng là biến “hình như mình kỷ luật hơn” thành những thay đổi có thể quan sát. Nếu bằng chứng xấu đi, trước hết hãy điều chỉnh các điều kiện của hệ thống, rồi mới bàn đến ý chí cá nhân.
 
-## 8. 七天生活系统练习
+## 8. Bài thực hành hệ thống đời sống trong bảy ngày
 
-这一周不要同时改造所有习惯，每天只做一个动作：
+Tuần này đừng đồng thời cải tạo mọi thói quen, mỗi ngày chỉ làm một việc:
 
-- **第 1 天**：写下完整日、压缩日和恢复日的最小版本；
-- **第 2 天**：找出一个最可靠的 25 分钟时间盒；
-- **第 3 天**：关闭一个无意识输入入口，并记录它带来的变化；
-- **第 4 天**：为一个正在等待你的人写清楚回复时间；
-- **第 5 天**：完成一次不依赖 AI 的最小输出，再决定是否请求反馈；
-- **第 6 天**：模拟一次中断，写出 24 小时回归动作；
-- **第 7 天**：用[每周复盘模板](../../templates/weekly-review.md)保留一个有效设计，删除一个无效要求。
+- **Ngày 1**: Viết ra phiên bản tối thiểu của ngày đầy đủ, ngày rút gọn và ngày hồi phục;
+- **Ngày 2**: Tìm một khung thời gian 25 phút đáng tin cậy nhất;
+- **Ngày 3**: Đóng một cổng vào gây xao nhãng vô thức và ghi lại thay đổi do việc đó mang lại;
+- **Ngày 4**: Viết rõ thời gian trả lời cho một người đang chờ bạn;
+- **Ngày 5**: Hoàn thành một sản phẩm tối thiểu không dựa vào AI, rồi quyết định có yêu cầu phản hồi hay không;
+- **Ngày 6**: Mô phỏng một lần gián đoạn và viết ra hành động quay lại trong 24 giờ;
+- **Ngày 7**: Dùng [mẫu tổng kết hằng tuần](../../templates/weekly-review.md) để giữ lại một thiết kế hiệu quả và loại bỏ một yêu cầu không hiệu quả.
 
-七天后，你不需要得到一张漂亮的日程表。你只需要知道：在什么条件下，你比较容易开始；什么事情一发生，系统就会失去重量；下一周应该保护哪一个小窗口。
+Sau bảy ngày, bạn không cần có một thời gian biểu đẹp mắt. Bạn chỉ cần biết: trong điều kiện nào bạn dễ bắt đầu hơn; điều gì vừa xảy ra là hệ thống lập tức mất đi sức nặng; và tuần tới nên bảo vệ khoảng thời gian nhỏ nào.
 
-若仍卡在“计划很多却起不来”或“中断后不知道怎么接上”，可用 [自律与坚持实操](../practice/discipline-and-consistency.md) 的两个案例，把本章方法缩成一次有验收标准的调整，再用 [持续行动计划](../../templates/consistency-plan.md) 记录改动和停止条件。只补充当前需要的实验，不重做整套生活安排。
+Nếu vẫn mắc kẹt ở “có rất nhiều kế hoạch nhưng không thể bắt đầu” hoặc “sau khi bị gián đoạn thì không biết nối lại thế nào”, bạn có thể dùng hai trường hợp trong [thực hành tự kỷ luật và kiên trì](../practice/discipline-and-consistency.md) để rút gọn phương pháp của chương này thành một lần điều chỉnh có tiêu chí nghiệm thu, rồi dùng [kế hoạch hành động liên tục](../../templates/consistency-plan.md) để ghi lại những thay đổi và điều kiện dừng. Chỉ bổ sung những thử nghiệm hiện đang cần, không làm lại toàn bộ sắp xếp đời sống.
 
-## 结语：给生活留一条回来的路
+## Lời kết: Để lại cho đời sống một con đường quay về
 
-成熟的系统不是把人变成永远准时、永远专注、永远有能量的人。它是在你偏离之后，仍然留着一条不必羞辱自己的回来路。
+Một hệ thống trưởng thành không biến con người thành người luôn đúng giờ, luôn tập trung và luôn tràn đầy năng lượng. Đó là một hệ thống mà sau khi bạn chệch hướng, vẫn để lại một con đường quay về mà không cần làm nhục bản thân.
 
-学习需要时间，作品需要交付，关系需要在场，身体需要照料。它们不是互相争夺的项目，而是同一个人身上同时发生的事实。你可以把目标做小，把入口变少，把边界说清楚，把证据留下，然后在下一天继续。
+Việc học cần thời gian, sản phẩm cần được bàn giao, các mối quan hệ cần sự hiện diện, cơ thể cần được chăm sóc. Chúng không phải những dự án tranh giành lẫn nhau, mà là những sự thật đồng thời diễn ra trên cùng một con người. Bạn có thể thu nhỏ mục tiêu, giảm bớt các cổng vào, nói rõ ranh giới, lưu lại bằng chứng, rồi tiếp tục vào ngày hôm sau.
 
-这就是把改变安放在日子里：不等待理想生活出现，而是用今天能够承担的重量，先搭好一小块地面。
+Đó chính là đặt sự thay đổi vào từng ngày: không chờ đời sống lý tưởng xuất hiện, mà dùng sức nặng hôm nay có thể gánh vác để trước hết dựng lên một mảnh nền nhỏ.

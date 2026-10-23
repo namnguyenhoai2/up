@@ -1,55 +1,55 @@
 ---
-title: 第三部：借工具放大能力
-description: 把 AI、注意力、作品、证据与项目交付放进同一套责任结构，让工具扩大人的能力，而不是扩大未经检查的判断。
+title: "Phần III: Mượn công cụ để khuếch đại năng lực"
+description: Đặt AI, sự chú ý, tác phẩm, bằng chứng và việc bàn giao dự án vào cùng một cấu trúc trách nhiệm, để công cụ mở rộng năng lực của con người thay vì khuếch đại những phán đoán chưa được kiểm tra.
 updated: 2026-10-03
 ---
 
-# 第三部：借工具放大能力
+# Phần III: Mượn công cụ để khuếch đại năng lực
 
-工具从来不只放大效率。它也放大目标的清晰或混乱，放大判断的可靠或轻率，放大一个团队已经拥有的秩序，也放大它一直回避的问题。
+Công cụ chưa bao giờ chỉ khuếch đại hiệu suất. Nó cũng khuếch đại sự rõ ràng hay hỗn loạn của mục tiêu, độ đáng tin cậy hay sự hấp tấp của phán đoán, khuếch đại trật tự mà một đội ngũ đã có, cũng như những vấn đề mà đội ngũ ấy luôn né tránh.
 
-AI 让答案变得廉价，让草稿、代码和方案出现得前所未有地快。速度令人兴奋，却也容易制造一种错觉：只要产出足够多，我们就已经理解；只要页面能够运行，产品就已经成立；只要模型给出自信的句子，事实就已经被核验。
+AI khiến câu trả lời trở nên rẻ rạt, khiến bản nháp, mã nguồn và phương án xuất hiện nhanh hơn bao giờ hết. Tốc độ khiến người ta phấn khích, nhưng cũng dễ tạo ra một ảo giác: chỉ cần tạo ra đủ nhiều, chúng ta đã hiểu; chỉ cần trang có thể chạy, sản phẩm đã thành hình; chỉ cần mô hình đưa ra những câu chữ đầy tự tin, sự thật đã được kiểm chứng.
 
-这一部不讨论如何把人变成更熟练的提示词操作员。它讨论的是更难的事情：怎样保留问题的所有权，怎样保护注意力，怎样把回答推进成作品，怎样让作品接受证据，以及怎样在真实项目里为权限、成本、故障和他人的利益负责。
+Phần này không bàn về cách biến con người thành những người thao tác câu lệnh thành thạo hơn. Nó bàn về những việc khó hơn: làm thế nào để giữ quyền sở hữu vấn đề, bảo vệ sự chú ý, biến câu trả lời thành tác phẩm, để tác phẩm được kiểm chứng bằng bằng chứng, và chịu trách nhiệm về quyền hạn, chi phí, sự cố cũng như lợi ích của người khác trong các dự án thực tế.
 
-工具最好的位置，不是坐在驾驶座上替你决定方向，而是在你已经说清目的、边界和验收标准之后，帮助你走得更远。
+Vị trí tốt nhất của công cụ không phải là ngồi vào ghế lái để quyết định hướng đi thay bạn, mà là sau khi bạn đã nói rõ mục đích, ranh giới và tiêu chuẩn nghiệm thu, giúp bạn đi xa hơn.
 
-## 本部要回答的问题
+## Những câu hỏi phần này cần trả lời
 
-- 在打开 AI 之前，我需要先独立写下什么？
-- 哪些输入值得进入注意力，哪些入口应该关闭？
-- 一个回答怎样变成可署名、可交付、可回滚的作品？
-- 即时完成、延迟保持和新场景迁移之间，怎样建立可信的证据链？
-- 当工具进入客户、团队和商业系统，谁承担权限、成本、安全和最终结果？
+- Trước khi mở AI, tôi cần độc lập viết ra điều gì?
+- Những đầu vào nào đáng để đưa vào sự chú ý, và những lối vào nào nên đóng lại?
+- Một câu trả lời làm thế nào để trở thành một tác phẩm có thể đứng tên, bàn giao và khôi phục?
+- Làm thế nào xây dựng chuỗi bằng chứng đáng tin cậy giữa việc hoàn thành ngay lập tức, khả năng duy trì sau một khoảng trễ và việc chuyển sang bối cảnh mới?
+- Khi công cụ đi vào hệ thống khách hàng, đội ngũ và kinh doanh, ai chịu trách nhiệm về quyền hạn, chi phí, an toàn và kết quả cuối cùng?
 
-越强的工具，越需要清楚的停止条件。不能解释、测试或回滚的加速，可能只是让错误更快抵达更多人。
+Công cụ càng mạnh, càng cần các điều kiện dừng rõ ràng. Sự tăng tốc không thể giải thích, kiểm thử hoặc khôi phục có thể chỉ là khiến sai lầm đến với nhiều người hơn nhanh hơn.
 
-## 阅读路径
+## Lộ trình đọc
 
-| 路径 | 章节 | 要留下的东西 |
+| Lộ trình | Chương | Điều cần lưu lại |
 | --- | --- | --- |
-| 定义协作 | [使用 AI 学习一切](1-ai-learning.md) | 问题、基线、来源、隐私和人工判断边界 |
-| 判断变化 | [AI 趋势与学习路线](6-ai-trends-and-learning-roadmap.md) | 一手信号、待验证假设、任务对照与退出办法 |
-| 保护判断 | [注意力篇](3-attention-and-judgment.md) | 一个关闭的入口和一段独立思考窗口 |
-| 做出作品 | [作品篇](4-artifacts-and-delivery.md) | 受众、完成标准、版本、验收人与回滚方式 |
-| 验证变化 | [证据篇](5-evidence-and-transfer.md) | 基线、即时表现、延迟保持和迁移 |
-| 进入项目 | [AI 开发与资源层创业](2-ai-development-and-resource-layer.md) · [作者项目与现实实践](../../projects.md) | 测试、成本账本、权限记录、故障预案和关联披露 |
+| Xác định cách cộng tác | [Học mọi thứ bằng AI](1-ai-learning.md) | Vấn đề, đường cơ sở, nguồn, quyền riêng tư và ranh giới phán đoán của con người |
+| Nhận định sự thay đổi | [Xu hướng AI và lộ trình học tập](6-ai-trends-and-learning-roadmap.md) | Tín hiệu sơ cấp, giả thuyết cần kiểm chứng, đối chiếu nhiệm vụ và cách thoát |
+| Bảo vệ phán đoán | [Phần về sự chú ý](3-attention-and-judgment.md) | Một lối vào được đóng lại và một khoảng thời gian suy nghĩ độc lập |
+| Tạo ra tác phẩm | [Phần về tác phẩm](4-artifacts-and-delivery.md) | Đối tượng tiếp nhận, tiêu chuẩn hoàn thành, phiên bản, người nghiệm thu và cách khôi phục |
+| Kiểm chứng sự thay đổi | [Phần về bằng chứng](5-evidence-and-transfer.md) | Đường cơ sở, biểu hiện tức thời, khả năng duy trì sau một khoảng trễ và việc chuyển đổi |
+| Đi vào dự án | [Phát triển AI và khởi nghiệp ở tầng tài nguyên](2-ai-development-and-resource-layer.md) · [Dự án của tác giả và thực hành trong thực tế](../../projects.md) | Kiểm thử, sổ cái chi phí, nhật ký quyền hạn, phương án xử lý sự cố và công khai mối liên hệ |
 
-不要因为某个工具在榜单上领先，就把它放进所有任务。先选择问题，再选择证据，最后才选择工具。产品名称会变化，这个顺序应该能够留下。
+Đừng đưa một công cụ vào mọi nhiệm vụ chỉ vì nó đang dẫn đầu bảng xếp hạng. Trước tiên hãy chọn vấn đề, tiếp đó chọn bằng chứng, cuối cùng mới chọn công cụ. Tên sản phẩm sẽ thay đổi, nhưng thứ tự này cần được giữ lại.
 
-## 读完留下什么
+## Điều cần lưu lại sau khi đọc
 
-这一部结束时，请完成一次真实交付，而不是再保存一段精彩对话：
+Khi kết thúc phần này, hãy hoàn thành một lần bàn giao thực tế, thay vì lại lưu thêm một đoạn hội thoại ấn tượng:
 
-1. 一份写清问题、来源和数据边界的[AI 任务简报](../../templates/ai-task-brief.md)；
-2. 一个可以被真实受众验收的作品；
-3. 一次关闭 AI 之后的独立复测；
-4. 一项明确的保留、调整、停止或回滚决定。
+1. Một [bản tóm lược nhiệm vụ AI](../../templates/ai-task-brief.md) nêu rõ vấn đề, nguồn và ranh giới dữ liệu;
+2. Một tác phẩm có thể được đối tượng tiếp nhận thực tế nghiệm thu;
+3. Một lần kiểm tra lại độc lập sau khi tắt AI;
+4. Một quyết định rõ ràng về việc giữ lại, điều chỉnh, dừng hoặc khôi phục.
 
-如果关键结论只能在聊天记录里找到，项目还没有真正属于你。把决定写回代码、文档、账本和能够由别人接手的记录。
+Nếu chỉ có thể tìm thấy kết luận quan trọng trong lịch sử trò chuyện, dự án vẫn chưa thực sự thuộc về bạn. Hãy ghi lại quyết định vào mã nguồn, tài liệu, sổ cái và những bản ghi mà người khác có thể tiếp nhận.
 
-## 进入正文
+## Bước vào nội dung chính
 
-我们不从“哪个模型最好”开始。先把对话窗口关上，写下今天真正要解决的问题，以及什么结果才算完成。
+Chúng ta không bắt đầu từ câu hỏi “mô hình nào tốt nhất”. Trước tiên hãy đóng cửa sổ hội thoại, viết ra vấn đề thực sự cần giải quyết hôm nay và kết quả như thế nào mới được xem là hoàn thành.
 
-只有这样，工具带来的速度才不会把方向一起带走。
+Chỉ khi đó, tốc độ mà công cụ mang lại mới không cuốn theo cả phương hướng.

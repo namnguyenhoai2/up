@@ -1,239 +1,239 @@
 ---
-title: "案例篇：让这本书证明它的方法"
-description: 以《人生进阶指南》自身为贯穿案例，展示一个长期内容项目如何从模糊愿望走向结构、作品、证据、出版、读者反馈与可交接维护。
+title: "Phần trường hợp: Hãy để chính cuốn sách này chứng minh phương pháp của nó"
+description: Lấy chính 《Cẩm nang nâng cấp cuộc đời》 làm trường hợp xuyên suốt, cho thấy một dự án nội dung dài hạn có thể đi từ mong muốn mơ hồ đến cấu trúc, tác phẩm, bằng chứng, xuất bản, phản hồi của độc giả và khả năng bàn giao, bảo trì.
 updated: 2026-09-02
 prev:
-  text: "行动篇：九十天，把生活交还给自己"
+  text: "Phần hành động: Chín mươi ngày, trả cuộc sống lại cho chính mình"
   link: /threads/part-5/90-day-plan
 next:
-  text: "九十天以后：把改变留在生活里"
+  text: "Sau chín mươi ngày: Để sự thay đổi ở lại trong cuộc sống"
   link: /threads/part-5/after-90-days
 ---
 
-# 案例篇：让这本书证明它的方法
+# Phần trường hợp: Hãy để chính cuốn sách này chứng minh phương pháp của nó
 
-一本书很容易伪装成已经完成。
+Một cuốn sách rất dễ ngụy trang thành thứ đã hoàn tất.
 
-只要有封面、目录、几句像宣言的话，再把页面排得整齐，它就会显得像一个答案。作者也很容易被这种完整感说服：字数已经很多，章节已经铺开，网站能够访问，于是项目似乎只差更多读者。
+Chỉ cần có bìa, mục lục, vài câu nghe như tuyên ngôn, rồi dàn trang ngay ngắn, nó sẽ trông như một câu trả lời. Tác giả cũng rất dễ bị cảm giác hoàn chỉnh này thuyết phục: số chữ đã đủ nhiều, các chương đã trải ra, website có thể truy cập, vậy là dự án dường như chỉ còn thiếu thêm độc giả.
 
-可如果这本书反复要求读者保存基线、完成作品、核对来源、接受反馈、延迟复测，那么它自己也必须接受同样的审问。它不能一边要求别人用证据说话，一边只用篇幅证明自己；不能一边讲交付，一边把关键决定留在作者脑中；不能一边讲迁移，一边只能在一个人的电脑上成立。
+Nhưng nếu cuốn sách này liên tục yêu cầu độc giả lưu lại đường cơ sở, hoàn thành tác phẩm, kiểm tra nguồn, tiếp nhận phản hồi và trì hoãn việc đo lại, thì chính nó cũng phải chấp nhận sự chất vấn tương tự. Nó không thể vừa yêu cầu người khác dùng bằng chứng để lên tiếng, vừa chỉ dùng số trang để chứng minh mình; không thể vừa nói về bàn giao, vừa giữ những quyết định then chốt trong đầu tác giả; không thể vừa nói về khả năng chuyển giao, vừa chỉ có thể tồn tại trên máy tính của một người.
 
-所以，这一章不再介绍一种新方法。它把《人生进阶指南》放到桌面上，作为全书必须完成的一次公开案例复盘。
+Vì vậy, chương này không giới thiệu một phương pháp mới. Nó đặt 《Cẩm nang nâng cấp cuộc đời》 lên bàn, xem đây là một lần tổng kết trường hợp công khai mà toàn bộ cuốn sách buộc phải hoàn thành.
 
-## 本章为什么必须存在
+## Vì sao chương này nhất thiết phải tồn tại
 
-方法书最大的诱惑，是把正确的句子误认成有效的方法。
+Cám dỗ lớn nhất của sách phương pháp là nhầm những câu đúng với một phương pháp hữu hiệu.
 
-“从真实问题出发”“不要外包判断”“让作品接受反馈”“在中断后回来”，这些句子都没有错。问题在于，它们若从未共同进入一个复杂项目，就仍然可能只是彼此排列得很好的观念。
+“Bắt đầu từ vấn đề có thật”, “đừng thuê ngoài khả năng phán đoán”, “để tác phẩm tiếp nhận phản hồi”, “quay lại sau khi bị gián đoạn” — những câu này không sai. Vấn đề là nếu chúng chưa bao giờ cùng bước vào một dự án phức tạp, chúng vẫn có thể chỉ là những ý niệm được sắp xếp cạnh nhau rất khéo.
 
-这本书恰好提供了一个不够干净、也无法事先安排结局的现场。它从 2017 年的英语学习指南开始，经过多年内容积累、个人经历、技术实践和方向变化，后来试图成为一部关于终身学习、AI、真实项目与人生恢复的双语书。旧材料不能全部丢掉，新身份不能靠一句改名获得，作者的故事不能替所有读者证明方法，发布系统也不能只在本机看起来正常。
+Cuốn sách này tình cờ cung cấp một hiện trường không đủ sạch sẽ và không thể sắp đặt kết cục từ trước. Nó bắt đầu từ một cẩm nang học tiếng Anh năm 2017, trải qua nhiều năm tích lũy nội dung, trải nghiệm cá nhân, thực hành công nghệ và thay đổi định hướng, rồi sau đó cố gắng trở thành một cuốn sách song ngữ về học tập suốt đời, AI, dự án có thật và sự hồi phục trong cuộc sống. Không thể vứt bỏ toàn bộ tư liệu cũ, cũng không thể có được thân phận mới chỉ bằng một câu đổi tên; câu chuyện của tác giả không thể thay cho việc chứng minh phương pháp với mọi độc giả, hệ thống phát hành cũng không thể chỉ trông có vẻ hoạt động bình thường trên máy cục bộ.
 
-这使它足以接受一个更严格的问题：**一套关于学习、作品、证据和长期改变的方法，能不能先把提出它的这本书改造成一件更可靠的作品？**
+Điều này khiến nó đủ khả năng đối diện với một câu hỏi nghiêm khắc hơn: **Một phương pháp về học tập, tác phẩm, bằng chứng và thay đổi dài hạn có thể trước hết biến chính cuốn sách đề xuất nó thành một tác phẩm đáng tin cậy hơn hay không?**
 
-## 1. 把“写一本好书”改写成可验收问题
+## 1. Viết lại “viết một cuốn sách hay” thành những câu hỏi có thể nghiệm thu
 
-“把它写成畅销书”是一种愿望，不是完成标准。畅销需要销售、传播、口碑、渠道和时间共同给出结果，作者不能在结果发生之前自行宣布。当前真正可以负责的，是提高作品被理解、使用、讨论和继续改进的条件。
+“Viết nó thành sách bán chạy” là một mong muốn, không phải tiêu chuẩn hoàn thành. Sách bán chạy cần doanh số, lan truyền, danh tiếng, kênh phân phối và thời gian cùng tạo ra kết quả; tác giả không thể tự tuyên bố trước khi kết quả xuất hiện. Điều thực sự có thể chịu trách nhiệm lúc này là cải thiện các điều kiện để tác phẩm được hiểu, được sử dụng, được thảo luận và tiếp tục được cải tiến.
 
-这次重构先把愿望改写成一份项目简报：
+Lần tái cấu trúc này trước hết biến mong muốn thành một bản tóm lược dự án:
 
-| 项目要素 | 本书的具体答案 |
+| Yếu tố dự án | Câu trả lời cụ thể của cuốn sách này |
 | --- | --- |
-| 真实问题 | 多年内容已经丰富，却仍像文章、资源、故事和工具的集合，读者不容易看见一条完整变化路径 |
-| 核心读者 | 想提高英语或 AI 能力、正在做真实项目、处于低谷或需要重新开始的普通人 |
-| 主要约束 | 保留历史而不美化历史；保护第三方隐私；中英文含义对应；网页、EPUB 与 PDF 都能独立阅读 |
-| 核心作品 | 一部有主线、有案例、有工具、有出版物、能够持续维护的双语书稿 |
-| 验收证据 | 章节可连续阅读，方法能落到工作纸，来源与边界可检查，出版物可下载，改动能通过自动验证 |
-| 停止条件 | 不以虚构经历、夸大产品、泄露隐私、长期透支或牺牲事实准确为代价追求“更有冲击力” |
+| Vấn đề có thật | Nội dung tích lũy trong nhiều năm đã phong phú, nhưng vẫn giống một tập hợp các bài viết, tài nguyên, câu chuyện và công cụ; độc giả khó nhìn thấy một lộ trình thay đổi hoàn chỉnh |
+| Độc giả cốt lõi | Những người muốn nâng cao năng lực tiếng Anh hoặc AI, đang thực hiện dự án có thật, ở vào giai đoạn sa sút hoặc cần bắt đầu lại |
+| Ràng buộc chính | Giữ lại lịch sử nhưng không tô hồng lịch sử; bảo vệ quyền riêng tư của bên thứ ba; bảo đảm ý nghĩa tiếng Trung và tiếng Anh tương ứng; website, EPUB và PDF đều có thể đọc độc lập |
+| Tác phẩm cốt lõi | Một bản thảo sách song ngữ có mạch chính, trường hợp, công cụ, ấn phẩm và khả năng được bảo trì liên tục |
+| Bằng chứng nghiệm thu | Các chương có thể đọc liên tục, phương pháp có thể triển khai thành phiếu làm việc, nguồn và ranh giới có thể kiểm tra, ấn phẩm có thể tải xuống, thay đổi có thể được xác minh tự động |
+| Điều kiện dừng | Không theo đuổi “tác động mạnh hơn” bằng cách bịa đặt trải nghiệm, phóng đại sản phẩm, tiết lộ quyền riêng tư, tiêu hao quá mức trong thời gian dài hoặc hy sinh độ chính xác của sự thật |
 
-完成标准一旦具体，很多看似重要的工作便失去优先级。不是每一段旧文都要进入主线，不是每一项资源都值得继续推荐，也不是每一个技术功能都能让书更好。项目开始拥有一个判断顺序：先确认读者问题，再决定章节位置；先确认事实边界，再决定叙事力度；先确认作品要怎样被使用，再决定工具要做什么。
+Một khi tiêu chuẩn hoàn thành trở nên cụ thể, nhiều công việc tưởng như quan trọng sẽ mất đi tính ưu tiên. Không phải mọi bài viết cũ đều phải được đưa vào mạch chính, không phải tài nguyên nào cũng đáng tiếp tục giới thiệu, cũng không phải tính năng công nghệ nào cũng khiến cuốn sách tốt hơn. Dự án bắt đầu có một thứ tự phán đoán: trước hết xác nhận vấn đề của độc giả, rồi mới quyết định vị trí chương; trước hết xác nhận ranh giới sự thật, rồi mới quyết định mức độ mạnh của tự sự; trước hết xác nhận tác phẩm sẽ được sử dụng như thế nào, rồi mới quyết định công cụ cần làm gì.
 
-## 2. 先保存基线，不用重写遮住问题
+## 2. Trước hết lưu lại đường cơ sở, đừng dùng việc viết lại để che khuất vấn đề
 
-项目重构前，最容易做的事是立即重写首页。新标题会带来短暂兴奋，也会让旧问题看起来已经消失。
+Trước khi tái cấu trúc dự án, việc dễ làm nhất là lập tức viết lại trang chủ. Tiêu đề mới sẽ đem lại sự phấn khích ngắn ngủi, đồng thời khiến các vấn đề cũ trông như đã biến mất.
 
-更有用的做法，是先保存当时的基线：
+Cách hữu ích hơn là trước hết lưu lại đường cơ sở tại thời điểm đó:
 
-- 项目拥有多年积累的英语学习内容、技术词表、个人文章和资源推荐；
-- 单篇内容中存在真诚经验和可用建议，但章节之间的角色并不总是清楚；
-- 英语学习既像主题，又像整本书的旧边界，无法容纳后来出现的 AI、创业、关系、恢复与长期行动；
-- 一些历史链接和产品描述会随时间失效，个人记忆也可能把后来知道的结果带回过去；
-- 网站可以展示内容，却不等于已经拥有完整书稿、双语交接和离线出版物。
+- Dự án có nhiều năm tích lũy về nội dung học tiếng Anh, bảng thuật ngữ công nghệ, bài viết cá nhân và đề xuất tài nguyên;
+- Trong từng nội dung riêng lẻ có trải nghiệm chân thành và đề xuất hữu ích, nhưng vai trò giữa các chương không phải lúc nào cũng rõ ràng;
+- Học tiếng Anh vừa giống một chủ đề, vừa giống ranh giới cũ của toàn bộ cuốn sách, không thể chứa đựng AI, khởi nghiệp, các mối quan hệ, sự hồi phục và hành động dài hạn xuất hiện về sau;
+- Một số liên kết lịch sử và mô tả sản phẩm sẽ mất hiệu lực theo thời gian; ký ức cá nhân cũng có thể đưa những kết quả biết được về sau trở ngược vào quá khứ;
+- Website có thể hiển thị nội dung, nhưng điều đó không có nghĩa là đã có một bản thảo sách hoàn chỉnh, khả năng bàn giao song ngữ và các ấn phẩm ngoại tuyến.
 
-这份基线没有把过去判成失败。过去完成了它当时能够完成的任务：帮助读者学习英语，也保存一个年轻作者如何理解学习和生活的痕迹。真正变化的是项目现在需要承担的责任。
+Đường cơ sở này không phán quá khứ là thất bại. Quá khứ đã hoàn thành nhiệm vụ mà nó có thể hoàn thành vào thời điểm đó: giúp độc giả học tiếng Anh, đồng thời lưu lại dấu vết về cách một tác giả trẻ nhìn nhận việc học và cuộc sống. Điều thực sự thay đổi là trách nhiệm mà dự án hiện nay cần gánh vác.
 
-重构不是证明过去很差，而是承认旧结构已经装不下新的问题。
+Tái cấu trúc không phải là chứng minh quá khứ rất tệ, mà là thừa nhận cấu trúc cũ đã không còn chứa nổi những vấn đề mới.
 
-## 3. 架构不是目录，而是一条因果链
+## 3. Kiến trúc không phải là mục lục, mà là một chuỗi nhân quả
 
-有了基线之后，项目没有先问“还缺哪些热门章节”，而是问：一个读者要从眼前问题走到长期改变，中间必须经过哪些不可省略的变化？
+Sau khi có đường cơ sở, dự án không hỏi trước rằng “còn thiếu những chương thịnh hành nào”, mà hỏi: để một độc giả đi từ vấn đề trước mắt đến thay đổi dài hạn, giữa hai điểm đó nhất thiết phải trải qua những thay đổi nào không thể lược bỏ?
 
-全书的六部由此成为一条因果链：
+Sáu phần của toàn bộ cuốn sách vì thế trở thành một chuỗi nhân quả:
 
-| 部分 | 发生的变化 | 如果缺失会怎样 |
+| Phần | Thay đổi diễn ra | Nếu thiếu thì sao |
 | --- | --- | --- |
-| 打开输入 | 从模糊自我评价走向可观察的英语能力与世界输入 | 读者拥有态度，却没有进入知识和协作的通道 |
-| 把自己放回生活 | 从技能问题回到身体、关系、失败、选择与责任 | 能力被写成脱离代价的成功故事 |
-| 借工具放大能力 | 从获得答案走向注意力、作品、证据和真实交付 | AI 只放大速度，也放大未经检查的判断 |
-| 实践与恢复 | 从计划进入一天、一周、容量变化和中断 | 方法只在理想日程中成立 |
-| 行动与长期改变 | 从一次完成走向阶段门槛、交接、迁移与停止 | 短期热情被误认成长期能力 |
-| 与自己做终身朋友 | 从追赶理想自我走向诚实、照料、提升与长期自我关系 | 进阶再次变成对自己的驱逐 |
+| Mở rộng đầu vào | Từ đánh giá bản thân mơ hồ đến năng lực tiếng Anh có thể quan sát và đầu vào từ thế giới | Độc giả có thái độ nhưng không có lối vào tri thức và hợp tác |
+| Đưa bản thân trở lại cuộc sống | Từ vấn đề kỹ năng quay về cơ thể, các mối quan hệ, thất bại, lựa chọn và trách nhiệm | Năng lực bị viết thành một câu chuyện thành công tách rời khỏi cái giá phải trả |
+| Khuếch đại năng lực nhờ công cụ | Từ tiếp nhận câu trả lời đến chú ý, tác phẩm, bằng chứng và bàn giao có thật | AI chỉ khuếch đại tốc độ, đồng thời cũng khuếch đại những phán đoán chưa được kiểm tra |
+| Thực hành và hồi phục | Từ kế hoạch bước vào ngày, tuần, sự thay đổi về sức chứa và gián đoạn | Phương pháp chỉ có hiệu lực trong lịch trình lý tưởng |
+| Hành động và thay đổi dài hạn | Từ một lần hoàn thành đến ngưỡng từng giai đoạn, bàn giao, chuyển giao và dừng lại | Nhiệt huyết ngắn hạn bị nhầm với năng lực dài hạn |
+| Làm bạn trọn đời với chính mình | Từ chạy theo cái tôi lý tưởng đến sự chân thật, chăm sóc, nâng cao và mối quan hệ lâu dài với bản thân | Việc tiến bộ lại biến thành sự xua đuổi chính mình |
 
-目录因此不再只是分类。前一部为后一部提供条件，后一部也反过来检验前一部是否真实。英语训练必须进入表达和项目，项目必须接受证据，证据必须进入日常节律，节律最终要在长期行动与停止条件里接受时间。
+Vì vậy, mục lục không còn chỉ là phân loại. Phần trước cung cấp điều kiện cho phần sau, phần sau cũng quay lại kiểm nghiệm xem phần trước có thật hay không. Việc rèn luyện tiếng Anh phải đi vào biểu đạt và dự án, dự án phải tiếp nhận bằng chứng, bằng chứng phải đi vào nhịp sống hằng ngày, và nhịp sống cuối cùng phải chấp nhận sự kiểm nghiệm của thời gian trong hành động dài hạn và điều kiện dừng.
 
-当一章无法说明自己在这条因果链中的位置，它就应该被移动、压缩、放进工具箱或留在归档，而不是仅仅因为作者舍不得就占据主线。
+Khi một chương không thể giải thích vị trí của mình trong chuỗi nhân quả này, nó nên được di chuyển, rút gọn, đưa vào hộp công cụ hoặc giữ lại trong kho lưu trữ, thay vì chỉ chiếm chỗ trong mạch chính vì tác giả không nỡ bỏ.
 
-## 4. 把个人故事从“证明题”里救出来
+## 4. Giải cứu câu chuyện cá nhân khỏi “bài toán chứng minh”
 
-这本书有一个特殊风险：作者的经历很容易成为所有方法的快捷证据。
+Cuốn sách này có một rủi ro đặc biệt: trải nghiệm của tác giả rất dễ trở thành bằng chứng tắt cho mọi phương pháp.
 
-创业失败之后重新开始，可以被写成“低谷终会带来成长”；重新学习和开发项目，可以被写成“只要坚持就能逆转”；关系变化和身体失序，也可以被叙事加工成一条最终通向今天的必然道路。这样的故事更顺，却不一定更真。
+Bắt đầu lại sau thất bại khởi nghiệp có thể được viết thành “suy sụp rồi sẽ mang lại trưởng thành”; học lại và phát triển dự án có thể được viết thành “chỉ cần kiên trì là có thể đảo ngược tình thế”; những thay đổi trong quan hệ và sự rối loạn của cơ thể cũng có thể được gia công thành một con đường tất yếu cuối cùng dẫn đến ngày hôm nay. Những câu chuyện như vậy trôi chảy hơn, nhưng chưa chắc chân thật hơn.
 
-重写个人章节时，我必须反复分开三层：
+Khi viết lại các chương cá nhân, tôi phải liên tục tách ba lớp:
 
-1. **能够确认的事实**：当时发生了什么，我做了什么，作品、时间和后果留下了什么记录；
-2. **今天的解释**：我现在如何理解那段经历，哪些判断可能受到回望位置影响；
-3. **仍然未知的部分**：他人的内心、未保存的数据、无法复原的因果，以及一条经历能否迁移到别人身上。
+1. **Những sự thật có thể xác nhận**: Khi đó đã xảy ra chuyện gì, tôi đã làm gì, tác phẩm, thời gian và hậu quả để lại những ghi chép nào;
+2. **Cách lý giải hôm nay**: Hiện giờ tôi hiểu trải nghiệm ấy như thế nào, những phán đoán nào có thể chịu ảnh hưởng của vị trí nhìn lại;
+3. **Những phần vẫn chưa biết**: Nội tâm của người khác, dữ liệu chưa được lưu, quan hệ nhân quả không thể khôi phục, và liệu một trải nghiệm có thể chuyển giao cho người khác hay không.
 
-这让文字失去了一部分传奇感，却获得了更长久的可信度。个人故事不再负责证明“方法一定有效”，它只负责展示一个人怎样犯错、解释、承担、修复，并把下一次行动交给现实检验。
+Điều này khiến văn bản mất đi một phần cảm giác huyền thoại, nhưng có được độ đáng tin lâu dài hơn. Câu chuyện cá nhân không còn chịu trách nhiệm chứng minh rằng “phương pháp chắc chắn hiệu quả”; nó chỉ chịu trách nhiệm cho thấy một người đã phạm sai lầm, lý giải, gánh chịu, sửa chữa như thế nào, rồi giao hành động tiếp theo cho hiện thực kiểm nghiệm.
 
-文学不是把因果写得更漂亮。文学首先要让一个人的复杂性不被结论提前关闭。
+Văn chương không phải là viết quan hệ nhân quả đẹp hơn. Trước hết, văn chương phải để sự phức tạp của một con người không bị kết luận đóng lại quá sớm.
 
-## 5. AI 进入了哪里，又必须在哪里退出
+## 5. AI đã tham gia ở đâu, và nhất thiết phải rút lui ở đâu
 
-这轮编辑和出版大量使用了 AI。回避这一点，会让书对自己的生产方式失去诚实；夸大 AI 的作用，又会抹去事实所有权和作者责任。
+Vòng biên tập và xuất bản này sử dụng AI với quy mô lớn. Né tránh điều đó sẽ khiến cuốn sách mất đi sự thành thật về cách nó được tạo ra; phóng đại vai trò của AI lại xóa nhòa quyền sở hữu sự thật và trách nhiệm của tác giả.
 
-更准确的分工如下：
+Sự phân công chính xác hơn như sau:
 
-| AI 可以参与 | AI 不能替代 |
+| AI có thể tham gia | AI không thể thay thế |
 | --- | --- |
-| 比较中英文结构，发现遗漏、重复和不一致 | 决定个人经历中什么事实可以公开 |
-| 检查链接、导航、元数据、标题层级与构建结果 | 替第三方表达同意，或推测他人的动机 |
-| 提供改写方案，指出抽象、空泛和节奏重复的位置 | 决定一句话是否符合作者真实经验与价值判断 |
-| 协助生成 EPUB、PDF、测试和发布脚本 | 为产品能力、商业结果、健康建议或来源准确性背书 |
-| 在不同版本之间追踪改动和待验证问题 | 承担最终署名、隐私、版权、事实与社会影响 |
+| So sánh cấu trúc tiếng Trung và tiếng Anh, phát hiện thiếu sót, lặp lại và bất nhất | Quyết định sự thật nào trong trải nghiệm cá nhân có thể công khai |
+| Kiểm tra liên kết, điều hướng, siêu dữ liệu, cấp độ tiêu đề và kết quả xây dựng | Thay bên thứ ba bày tỏ sự đồng ý hoặc suy đoán động cơ của người khác |
+| Đề xuất phương án viết lại, chỉ ra những chỗ trừu tượng, sáo rỗng và lặp nhịp điệu | Quyết định một câu có phù hợp với trải nghiệm và phán đoán giá trị chân thật của tác giả hay không |
+| Hỗ trợ tạo EPUB, PDF, tập lệnh kiểm thử và phát hành | Bảo chứng cho năng lực sản phẩm, kết quả kinh doanh, lời khuyên sức khỏe hoặc độ chính xác của nguồn |
+| Theo dõi thay đổi và vấn đề cần xác minh giữa các phiên bản khác nhau | Gánh vác chữ ký cuối cùng, quyền riêng tư, bản quyền, sự thật và ảnh hưởng xã hội |
 
-一个重要的工作原则是：AI 生成的顺畅句子不能直接获得进入书稿的权利。它必须经过事实核对、语气判断、结构位置和读者用途四个问题。若一句话无法回答“依据是什么、谁承担、放在这里帮助谁、关闭工具后我是否仍认同”，它就还没有成为作者的文字。
+Một nguyên tắc làm việc quan trọng là: những câu trôi chảy do AI tạo ra không thể trực tiếp có được quyền bước vào bản thảo. Chúng phải trải qua bốn câu hỏi về kiểm tra sự thật, phán đoán giọng điệu, vị trí cấu trúc và công dụng với độc giả. Nếu một câu không thể trả lời “căn cứ là gì, ai chịu trách nhiệm, đặt ở đây giúp ai, sau khi tắt công cụ tôi còn đồng tình với nó không”, thì nó vẫn chưa trở thành lời của tác giả.
 
-工具可以扩展编辑能力，但署名意味着最后的判断不能外包。
+Công cụ có thể mở rộng năng lực biên tập, nhưng việc đứng tên đồng nghĩa với việc phán đoán cuối cùng không thể thuê ngoài.
 
-## 6. 让一段文字经过完整作品链
+## 6. Để một đoạn văn đi qua chuỗi tác phẩm hoàn chỉnh
 
-这本书的源头仍然是 Markdown 文件，但一段文字真正到达读者，要经过一条更长的作品链：
+Nguồn gốc của cuốn sách này vẫn là các tệp Markdown, nhưng để một đoạn văn thực sự đến được với độc giả, nó phải đi qua một chuỗi tác phẩm dài hơn:
 
 `书稿源文件 → 双语导航 → 内容与隐私检查 → 阅读网站 → EPUB → PDF → 浏览器回归 → 持续集成 → 公开发布`
 
-链条中的每一层回答不同问题：
+Mỗi tầng trong chuỗi trả lời một câu hỏi khác nhau:
 
-| 层 | 它负责证明什么 |
+| Tầng | Nó chịu trách nhiệm chứng minh điều gì |
 | --- | --- |
-| 书稿 | 句子、结构、事实边界和前后文是否成立 |
-| 双语导航 | 两种语言是否拥有对应入口，章节是否处在正确阅读位置 |
-| 内容检查 | 本地链接、元数据、图片、隐私规则和双语结构是否破裂 |
-| EPUB | 没有浏览器时，目录、内链、图片和离线阅读是否仍然成立 |
-| PDF | 页面、字体、书签、链接、图片和印刷尺度是否完整 |
-| 浏览器回归 | 桌面与移动端能否进入、阅读、下载，并看见正确版本 |
-| 持续集成 | 改动能否在独立环境里重建，而不只在作者电脑上成功 |
-| 公开发布 | 线上页面和下载文件是否真的是刚刚通过验证的版本 |
+| Bản thảo | Câu chữ, cấu trúc, ranh giới sự thật và ngữ cảnh trước sau có đứng vững hay không |
+| Điều hướng song ngữ | Hai ngôn ngữ có lối vào tương ứng hay không, chương có nằm ở đúng vị trí đọc hay không |
+| Kiểm tra nội dung | Liên kết cục bộ, siêu dữ liệu, hình ảnh, quy tắc quyền riêng tư và cấu trúc song ngữ có bị phá vỡ hay không |
+| EPUB | Khi không có trình duyệt, mục lục, liên kết nội bộ, hình ảnh và việc đọc ngoại tuyến có còn hoạt động hay không |
+| PDF | Trang, phông chữ, dấu trang, liên kết, hình ảnh và tỷ lệ in có đầy đủ hay không |
+| Kiểm thử hồi quy trên trình duyệt | Máy tính và thiết bị di động có thể truy cập, đọc, tải xuống và nhìn thấy đúng phiên bản hay không |
+| Tích hợp liên tục | Thay đổi có thể được xây dựng lại trong môi trường độc lập hay không, thay vì chỉ thành công trên máy tính của tác giả |
+| Phát hành công khai | Trang trực tuyến và tệp tải xuống có thực sự là phiên bản vừa vượt qua kiểm tra hay không |
 
-这条链让“我已经写完”变成“读者能够得到一个经过交付的版本”。它也让维护变得可交接：后来的人不必猜哪些文件需要同步，测试会指出哪一层合同被打破。
+Chuỗi này biến “tôi đã viết xong” thành “độc giả có thể nhận được một phiên bản đã được bàn giao”. Nó cũng khiến việc bảo trì có thể bàn giao: người đến sau không cần đoán tệp nào phải đồng bộ, các bài kiểm thử sẽ chỉ ra hợp đồng ở tầng nào đã bị phá vỡ.
 
-## 7. 三次失败比一次全绿更有价值
+## 7. Ba lần thất bại có giá trị hơn một lần toàn bộ đều xanh
 
-出版系统真正成形，不是在第一次成功构建时，而是在失败留下了可以复用的判断之后。
+Hệ thống xuất bản thực sự thành hình không phải ở lần xây dựng thành công đầu tiên, mà ở chỗ những thất bại để lại các phán đoán có thể tái sử dụng.
 
-第一次，双语 PDF 在本机能够逐字节重建，到了 Linux 构建环境却出现差异。正文和分页没有变化，底层图像编码产生的字节却不同。若只放宽检查，问题会被藏起来；若坚持所有平台必须得到完全相同的压缩字节，又会把无关差异误认成内容错误。最后，发布文件继续用精确 SHA-256 锁定，同时增加跨平台语义指纹，检查逐页文本、页面尺寸、书签、链接、图片和字体嵌入。**完整性与可复现性被分成了两个清楚的合同。**
+Lần đầu, PDF song ngữ có thể được xây dựng lại chính xác đến từng byte trên máy cục bộ, nhưng khi đến môi trường xây dựng Linux thì xuất hiện khác biệt. Nội dung chính và phân trang không thay đổi, chỉ có byte ở tầng mã hóa hình ảnh là khác. Nếu chỉ nới lỏng kiểm tra, vấn đề sẽ bị che giấu; nếu khăng khăng mọi nền tảng phải cho ra byte nén hoàn toàn giống nhau, những khác biệt không liên quan sẽ bị nhầm thành lỗi nội dung. Cuối cùng, tệp phát hành tiếp tục được khóa bằng SHA-256 chính xác, đồng thời bổ sung dấu vân tay ngữ nghĩa đa nền tảng để kiểm tra văn bản từng trang, kích thước trang, dấu trang, liên kết, hình ảnh và việc nhúng phông chữ. **Tính toàn vẹn và khả năng tái lập được chia thành hai hợp đồng rõ ràng.**
 
-第二次，清单已经升级，浏览器测试仍然期待旧版本。构建器正确，测试失败。它提醒项目：测试不是旁观者，它也是公开合同的一部分。数据结构改变时，消费者必须一起迁移。
+Lần thứ hai, danh sách kiểm tra đã được nâng cấp nhưng bài kiểm thử trên trình duyệt vẫn chờ phiên bản cũ. Bộ xây dựng đúng, bài kiểm thử thất bại. Nó nhắc dự án rằng: kiểm thử không phải người đứng ngoài quan sát, mà cũng là một phần của hợp đồng công khai. Khi cấu trúc dữ liệu thay đổi, bên sử dụng nó cũng phải được di chuyển cùng lúc.
 
-第三次，线上 EPUB 返回正确的 MIME，发布脚本却因为把 `+` 当成正则符号而判断失败。修复不只是换一种字符串匹配，还增加了文件签名检查：EPUB 必须以 ZIP 头开始，PDF 必须以 `%PDF-` 开始。**一个失败断言不一定说明产品坏了，也可能说明测量工具没有准确表达它想保护的事实。**
+Lần thứ ba, EPUB trực tuyến trả về đúng MIME, nhưng tập lệnh phát hành lại phán đoán thất bại vì coi `+` là ký hiệu biểu thức chính quy. Việc sửa chữa không chỉ là đổi sang một kiểu so khớp chuỗi khác, mà còn bổ sung kiểm tra chữ ký tệp: EPUB phải bắt đầu bằng phần đầu ZIP, PDF phải bắt đầu bằng `%PDF-`. **Một khẳng định thất bại không nhất thiết cho thấy sản phẩm hỏng; cũng có thể công cụ đo lường chưa diễn đạt chính xác sự thật mà nó muốn bảo vệ.**
 
-这三次失败共同改变了项目：检查不再追求“看起来严格”，而是明确每个门槛究竟在保护什么。
+Ba lần thất bại này cùng thay đổi dự án: việc kiểm tra không còn theo đuổi vẻ “nghiêm ngặt”, mà làm rõ mỗi ngưỡng thực sự đang bảo vệ điều gì.
 
-## 8. 用发布门槛代替“我觉得已经很好”
+## 8. Dùng ngưỡng phát hành thay cho “tôi thấy đã đủ tốt”
 
-作者对作品太熟悉，主观满意不能成为唯一标准。本书为每次发布设置了几类门槛：
+Tác giả quá quen thuộc với tác phẩm, nên sự hài lòng chủ quan không thể trở thành tiêu chuẩn duy nhất. Cuốn sách này đặt ra một số loại ngưỡng cho mỗi lần phát hành:
 
-| 门槛 | 核心问题 | 失败后的动作 |
+| Ngưỡng | Câu hỏi cốt lõi | Hành động sau khi thất bại |
 | --- | --- | --- |
-| 结构门槛 | 章节是否有入口、前后文、双语对应与清楚角色 | 移动章节或修复阅读路径，不用首页文案掩盖 |
-| 事实门槛 | 研究、产品、个人经历和推断是否被正确区分 | 补来源、缩小结论、标记未知或删除 |
-| 隐私门槛 | 是否暴露了不必要的身份、关系、健康或会话信息 | 停止发布，删除或最小化材料 |
-| 作品门槛 | 读者能否得到网页、EPUB、PDF 和可使用的工具 | 重建产物并验证目录、链接、字体、图片与下载 |
-| 迁移门槛 | 方法是否在至少一个真实案例中走过完整链条 | 补案例、反馈和延迟复查，不只增加解释 |
-| 发布门槛 | 独立环境、浏览器和线上地址是否指向同一版本 | 不宣布完成，继续修复到远端证据成立 |
+| Ngưỡng cấu trúc | Chương có lối vào, ngữ cảnh trước sau, sự tương ứng song ngữ và vai trò rõ ràng hay không | Di chuyển chương hoặc sửa đường đọc, không dùng lời giới thiệu trang chủ để che đậy |
+| Ngưỡng sự thật | Nghiên cứu, sản phẩm, trải nghiệm cá nhân và suy luận có được phân biệt chính xác hay không | Bổ sung nguồn, thu hẹp kết luận, đánh dấu điều chưa biết hoặc xóa bỏ |
+| Ngưỡng quyền riêng tư | Có để lộ danh tính, quan hệ, sức khỏe hoặc thông tin hội thoại không cần thiết hay không | Dừng phát hành, xóa hoặc tối giản tài liệu |
+| Ngưỡng tác phẩm | Độc giả có thể nhận được website, EPUB, PDF và công cụ có thể sử dụng hay không | Xây dựng lại sản phẩm và xác minh mục lục, liên kết, phông chữ, hình ảnh và tải xuống |
+| Ngưỡng chuyển giao | Phương pháp đã đi qua toàn bộ chuỗi trong ít nhất một trường hợp có thật hay chưa | Bổ sung trường hợp, phản hồi và kiểm tra lại có trì hoãn, không chỉ tăng thêm phần giải thích |
+| Ngưỡng phát hành | Môi trường độc lập, trình duyệt và địa chỉ trực tuyến có trỏ đến cùng một phiên bản hay không | Không tuyên bố hoàn thành, tiếp tục sửa chữa đến khi bằng chứng từ xa được xác lập |
 
-门槛不会自动把书变成好书。它只负责阻止一部分可以预见的自欺。真正的阅读体验仍然需要人来判断，但至少作者不能再用“我本地看过了”代替交付。
+Các ngưỡng không tự động biến cuốn sách thành một cuốn sách hay. Chúng chỉ có nhiệm vụ ngăn chặn một phần sự tự dối mình có thể dự đoán trước. Trải nghiệm đọc thực sự vẫn cần con người phán đoán, nhưng ít nhất tác giả không thể dùng “tôi đã xem trên máy cục bộ rồi” để thay cho việc bàn giao.
 
-## 9. 读者不是流量，而是方法的下一层证据
+## 9. Độc giả không phải là lưu lượng, mà là tầng bằng chứng tiếp theo của phương pháp
 
-网站访问量可以说明页面被打开，却不能说明一章被理解、一个工作表被使用，或某项方法在七天后仍然留下作用。本书当前也没有足够证据证明陌生读者会读完主线、完成工具，或把方法迁移到自己的生活。
+Lượt truy cập website có thể cho biết trang đã được mở, nhưng không thể cho biết một chương đã được hiểu, một phiếu làm việc đã được sử dụng, hay một phương pháp có còn để lại tác dụng sau bảy ngày hay không. Hiện tại, cuốn sách này cũng chưa có đủ bằng chứng để chứng minh rằng độc giả xa lạ sẽ đọc hết mạch chính, hoàn thành công cụ hoặc chuyển phương pháp vào cuộc sống của họ.
 
-因此，下一阶段最重要的不是再增加一个漂亮数字，而是收集更有解释力的读者回执：
+Vì vậy, việc quan trọng nhất trong giai đoạn tiếp theo không phải là thêm một con số đẹp, mà là thu thập những phản hồi của độc giả có sức giải thích tốt hơn:
 
-- 你从哪一个真实问题进入？
-- 哪一段让问题变得更清楚，哪一段仍然抽象？
-- 你实际完成了什么，而不是只同意了什么？
-- 七天后，什么仍然留下，什么已经消失？
-- 哪个边界、例子或工具需要被补充、删减或重写？
+- Bạn bước vào từ vấn đề có thật nào?
+- Đoạn nào khiến vấn đề trở nên rõ ràng hơn, đoạn nào vẫn còn trừu tượng?
+- Bạn thực sự đã hoàn thành điều gì, chứ không chỉ đồng ý với điều gì?
+- Sau bảy ngày, điều gì vẫn còn lại, điều gì đã biến mất?
+- Ranh giới, ví dụ hoặc công cụ nào cần được bổ sung, cắt giảm hoặc viết lại?
 
-读者可以先把[读者实践回执](../../templates/reader-field-note.md)复制到私有笔记，在阅读后和三到七天后各填写一次。完成隐私检查并愿意公开时，再选择提交[公开回执](https://github.com/byoungd/up/issues/new?template=reader-field-note.yml)。它不是五星评分，也不要求赞美。一次具体的困惑、一次没有成功的尝试，往往比一句“写得很好”更能帮助下一版书稿。
+Độc giả có thể trước tiên sao chép [phản hồi thực hành của độc giả](../../templates/reader-field-note.md) vào ghi chú riêng tư, rồi điền một lần sau khi đọc và một lần nữa sau ba đến bảy ngày. Sau khi hoàn tất kiểm tra quyền riêng tư và sẵn sàng công khai, họ có thể chọn gửi [phản hồi công khai](https://github.com/byoungd/up/issues/new?template=reader-field-note.yml). Đây không phải là đánh giá năm sao và cũng không yêu cầu lời khen. Một nỗi bối rối cụ thể hay một lần thử không thành công thường có thể giúp ích cho phiên bản bản thảo tiếp theo nhiều hơn một câu “viết rất hay”.
 
-如果将来这本书拥有大量读者，最值得保护的也不是流量本身，而是读者仍然可以告诉作者：这里没有说清，这个方法没有迁移，这段叙事越过了证据。
+Nếu sau này cuốn sách có đông độc giả, điều đáng bảo vệ nhất cũng không phải bản thân lưu lượng, mà là việc độc giả vẫn có thể nói với tác giả: chỗ này chưa được giải thích rõ, phương pháp này không thể chuyển giao, đoạn tự sự này đã vượt quá bằng chứng.
 
-## 10. 到目前为止，什么仍未被证明
+## 10. Cho đến hiện tại, điều gì vẫn chưa được chứng minh
 
-这轮优化已经证明了一些事情：书稿能够形成连续主线，中英文可以共同维护，网页与离线出版物可以自动生成，关键结构和发布结果可以被检查。
+Vòng tối ưu hóa này đã chứng minh một số điều: bản thảo có thể hình thành mạch chính liên tục, tiếng Trung và tiếng Anh có thể được duy trì cùng nhau, website và ấn phẩm ngoại tuyến có thể được tạo tự động, cấu trúc then chốt và kết quả phát hành có thể được kiểm tra.
 
-它仍然没有证明：
+Nó vẫn chưa chứng minh được:
 
-- 大多数读者会从头读到尾；
-- 读者会在关闭书页之后持续使用这些方法；
-- 一套在英语、AI 和作者项目中有效的流程，会在不同职业、年龄和生活条件中同样有效；
-- 英文版在母语读者眼中已经拥有自然、稳定而有文学感的声音；
-- 作品已经具备商业意义上的畅销结果。
+- Phần lớn độc giả sẽ đọc từ đầu đến cuối;
+- Độc giả sẽ tiếp tục sử dụng những phương pháp này sau khi đóng trang sách;
+- Một quy trình có hiệu quả trong tiếng Anh, AI và các dự án của tác giả sẽ có hiệu quả tương tự trong những nghề nghiệp, độ tuổi và điều kiện sống khác nhau;
+- Phiên bản tiếng Anh đã có giọng điệu tự nhiên, ổn định và giàu tính văn chương trong mắt độc giả bản ngữ;
+- Tác phẩm đã đạt được kết quả bán chạy theo ý nghĩa thương mại.
 
-这些不是谦虚用语，而是下一轮必须保留的未知。真正的读者反馈、延迟回访、使用样本、编辑审读、渠道数据和时间，才有资格逐步回答它们。
+Đây không phải những lời khiêm tốn, mà là những điều chưa biết cần được giữ lại cho vòng tiếp theo. Chỉ có phản hồi thật của độc giả, những lần theo dõi sau một khoảng trì hoãn, mẫu sử dụng, biên tập thẩm đọc, dữ liệu kênh phân phối và thời gian mới đủ tư cách từng bước trả lời chúng.
 
-一本书如果不能写出自己尚未证明什么，就很难教读者诚实地面对自己的证据。
+Một cuốn sách nếu không thể viết ra những điều chính nó chưa chứng minh được thì rất khó dạy độc giả thành thật đối diện với bằng chứng của mình.
 
-## 11. 把这次案例迁移到你的项目
+## 11. Chuyển giao trường hợp này vào dự án của bạn
 
-你不需要写一本书，也能使用同样的路径。选择一个正在推进的项目，完成下面七步：
+Bạn không cần viết một cuốn sách mà vẫn có thể sử dụng cùng một lộ trình. Hãy chọn một dự án đang được thúc đẩy và hoàn thành bảy bước sau:
 
-1. **保存基线**：保留当前版本，不让重写抹掉起点；
-2. **写项目简报**：说明真实问题、读者或用户、约束、作品和停止条件；
-3. **建立因果结构**：每个模块必须说明它为下一步提供什么条件；
-4. **分配判断权**：写清 AI、工具、合作者和你各自能够决定什么；
-5. **建立作品链**：让源文件、交付物、反馈、测试和公开版本能够互相追溯；
-6. **记录失败合同**：每次失败后，不只修症状，还写清以后要保护的事实；
-7. **完成读者交接**：告诉别人怎样使用、质疑、反馈、继续或停止。
+1. **Lưu lại đường cơ sở**: Giữ nguyên phiên bản hiện tại, không để việc viết lại xóa mất điểm xuất phát;
+2. **Viết bản tóm lược dự án**: Nêu rõ vấn đề có thật, độc giả hoặc người dùng, các ràng buộc, tác phẩm và điều kiện dừng;
+3. **Thiết lập cấu trúc nhân quả**: Mỗi mô-đun phải giải thích nó cung cấp điều kiện gì cho bước tiếp theo;
+4. **Phân bổ quyền phán đoán**: Viết rõ AI, công cụ, cộng tác viên và bạn có thể quyết định điều gì;
+5. **Thiết lập chuỗi tác phẩm**: Để tệp nguồn, sản phẩm bàn giao, phản hồi, kiểm thử và phiên bản công khai có thể truy nguyên lẫn nhau;
+6. **Ghi lại các hợp đồng thất bại**: Sau mỗi lần thất bại, không chỉ sửa triệu chứng, mà còn viết rõ sự thật nào cần được bảo vệ về sau;
+7. **Hoàn thành việc bàn giao cho độc giả**: Nói cho người khác biết cách sử dụng, chất vấn, phản hồi, tiếp tục hoặc dừng lại.
 
-然后安排一次延迟复查。七天或三十天后，不看项目宣言，只看三个问题：真实的人使用了什么，哪一部分在新条件下仍然成立，什么代价已经不能继续。
+Sau đó, hãy sắp xếp một lần kiểm tra lại có trì hoãn. Sau bảy hoặc ba mươi ngày, đừng nhìn vào tuyên ngôn dự án, chỉ nhìn vào ba câu hỏi: người thật đã sử dụng điều gì, phần nào vẫn đứng vững trong điều kiện mới, cái giá nào đã không thể tiếp tục.
 
-迁移不是复制这本书的工具。迁移是让你的项目也能离开热情，进入证据和交接。
+Chuyển giao không phải là sao chép công cụ của cuốn sách này. Chuyển giao là để dự án của bạn cũng có thể rời khỏi nhiệt huyết và bước vào bằng chứng cùng việc bàn giao.
 
-## 12. 为这本书写一份当前交接说明
+## 12. Viết một bản hướng dẫn bàn giao hiện tại cho cuốn sách này
 
-如果今天由另一个编辑接手，他应该能够从下面这份说明开始，而不是先猜作者在想什么：
+Nếu hôm nay một biên tập viên khác tiếp nhận, họ phải có thể bắt đầu từ bản hướng dẫn dưới đây, thay vì trước hết đoán xem tác giả đang nghĩ gì:
 
-| 交接项 | 当前状态 |
+| Hạng mục bàn giao | Trạng thái hiện tại |
 | --- | --- |
-| 主线 | 从阅读契约、英语输入、人生复盘、AI 与作品、实践节律走到长期交接 |
-| 核心产物 | 中英文网站、EPUB、PDF、工具箱、来源与素材记录 |
-| 已有证据 | 双语结构检查、内容与隐私检查、出版物清单、浏览器回归、独立环境构建、线上版本核验 |
-| 最大未知 | 真实读者的完成率、延迟使用、跨场景迁移与英文母语审读 |
-| 下一变量 | 收集具体读者回执，观察哪一章真正促成行动，哪一章只制造认同感 |
-| 不可突破边界 | 不虚构、不泄露隐私、不用商业关联替代证据、不用健康或关系代价维持发布节奏 |
-| 回归入口 | 从失败的读者任务、未通过的发布门槛或新出现的事实重新进入，而不是从扩大篇幅开始 |
+| Mạch chính | Từ khế ước đọc, đầu vào tiếng Anh, nhìn lại cuộc đời, AI và tác phẩm, nhịp thực hành đến việc bàn giao dài hạn |
+| Sản phẩm cốt lõi | Website tiếng Trung và tiếng Anh, EPUB, PDF, hộp công cụ, hồ sơ nguồn và tư liệu |
+| Bằng chứng hiện có | Kiểm tra cấu trúc song ngữ, kiểm tra nội dung và quyền riêng tư, danh sách ấn phẩm, kiểm thử hồi quy trên trình duyệt, xây dựng trong môi trường độc lập, xác minh phiên bản trực tuyến |
+| Điều chưa biết lớn nhất | Tỷ lệ hoàn thành của độc giả thật, việc sử dụng sau một khoảng trì hoãn, khả năng chuyển giao giữa các bối cảnh và thẩm đọc bởi người bản ngữ tiếng Anh |
+| Biến số tiếp theo | Thu thập phản hồi cụ thể của độc giả, quan sát chương nào thực sự thúc đẩy hành động, chương nào chỉ tạo cảm giác đồng thuận |
+| Ranh giới không thể vượt qua | Không bịa đặt, không tiết lộ quyền riêng tư, không dùng liên hệ thương mại thay cho bằng chứng, không dùng cái giá về sức khỏe hoặc quan hệ để duy trì nhịp phát hành |
+| Điểm vào hồi quy | Bắt đầu lại từ nhiệm vụ của độc giả đã thất bại, ngưỡng phát hành chưa đạt hoặc sự thật mới xuất hiện, thay vì bắt đầu bằng việc mở rộng số trang |
 
-交接说明意味着，这本书不再只能依靠作者当下的记忆继续。它可以被检查、被质疑、被维护，也可以在证据不支持某个方向时删去自己的一部分。
+Bản hướng dẫn bàn giao có nghĩa là cuốn sách này không còn chỉ có thể tiếp tục dựa vào ký ức hiện tại của tác giả. Nó có thể được kiểm tra, bị chất vấn, được bảo trì, và cũng có thể tự cắt bỏ một phần của mình khi bằng chứng không ủng hộ một hướng đi nào đó.
 
-## 结语：作品也要接受自己的审判
+## Lời kết: Tác phẩm cũng phải chấp nhận sự phán xét của chính mình
 
-我曾经以为，写作最难的是把心里的话写出来。后来才知道，更难的是让这些话离开我之后，仍然能够被理解、被使用、被反驳，也能够在错误出现时找到回来的路。
+Tôi từng nghĩ điều khó nhất của việc viết là viết ra những lời trong lòng. Sau này tôi mới biết, khó hơn là để những lời ấy sau khi rời khỏi tôi vẫn có thể được hiểu, được sử dụng, bị phản bác, và cũng có thể tìm được đường quay lại khi sai lầm xuất hiện.
 
-一本书不是因为作者倾注了很多时间，就天然值得读者交出时间。它必须在每一章里回答：我帮助你看清了什么，完成了什么，保护了什么，又有哪些结论仍然没有资格说出口。
+Một cuốn sách không tự nhiên đáng để độc giả trao cho nó thời gian chỉ vì tác giả đã dồn vào đó rất nhiều thời gian. Nó phải trả lời trong từng chương: tôi đã giúp bạn nhìn rõ điều gì, hoàn thành điều gì, bảo vệ điều gì, và những kết luận nào vẫn chưa đủ tư cách được nói ra.
 
-《人生进阶指南》还没有完成对自己的证明。它只是终于愿意站到自己设置的门槛前，不再要求读者先相信作者，再等待未来补上证据。
+《Cẩm nang nâng cấp cuộc đời》 vẫn chưa hoàn thành việc chứng minh chính mình. Nó chỉ cuối cùng cũng sẵn lòng đứng trước những ngưỡng do chính nó đặt ra, không còn yêu cầu độc giả phải tin tác giả trước rồi chờ tương lai bổ sung bằng chứng.
 
-愿一件作品最深的自信，不是宣称自己已经抵达，而是允许现实一遍遍进入，改变它的句子、结构和方向。愿我们做出的东西，都不只替我们发声，也能替后来的人留下一个诚实的入口。
+Mong rằng sự tự tin sâu sắc nhất của một tác phẩm không nằm ở việc tuyên bố mình đã đến đích, mà ở việc cho phép hiện thực hết lần này đến lần khác bước vào, thay đổi câu chữ, cấu trúc và phương hướng của nó. Mong rằng những gì chúng ta tạo ra không chỉ lên tiếng thay cho chúng ta, mà còn để lại cho những người đến sau một lối vào chân thật.

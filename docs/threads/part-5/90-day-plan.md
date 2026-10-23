@@ -1,168 +1,168 @@
 ---
-title: 行动篇：九十天，把生活交还给自己
-description: 用目标、基线、输出、反馈、作品和身体边界，建立一套可复测、可恢复的九十天行动系统。
+title: "Phần hành động: Chín mươi ngày, trao trả cuộc sống cho chính mình"
+description: Dùng mục tiêu, đường cơ sở, đầu ra, phản hồi, tác phẩm và ranh giới thể chất để xây dựng một hệ thống hành động chín mươi ngày có thể kiểm tra lại và phục hồi.
 updated: 2026-09-02
 prev:
-  text: "第五部：行动与长期改变"
+  text: "Phần năm: Hành động và thay đổi dài hạn"
   link: /threads/part-5/long-term-action
 next:
-  text: "案例篇：让这本书证明它的方法"
+  text: "Phần案例: Hãy để cuốn sách này chứng minh cho phương pháp của nó"
   link: /threads/part-5/book-as-proof
 ---
 
-# 行动篇：九十天，把生活交还给自己
+# Phần hành động: Chín mươi ngày, trao trả cuộc sống cho chính mình
 
-很多人读完一篇方法论，会立刻收藏下一篇方法论。收藏的瞬间很像开始，实际上只是把开始推迟到了一个更舒服的地方。
+Nhiều người sau khi đọc xong một bài viết về phương pháp luận sẽ lập tức lưu lại bài viết phương pháp luận tiếp theo. Khoảnh khắc bấm lưu rất giống với lúc bắt đầu, nhưng thực ra chỉ là dời việc bắt đầu đến một nơi dễ chịu hơn.
 
-真正的进阶不靠一阵兴奋，而靠一段可以被检验的时间。这里给出一个九十天计划：不要求你脱胎换骨，只要求你在三个月后拿出一组证据，证明自己比今天更能理解、更能表达，也更能把事情做完。如果你还没有找到适合自己的日常节奏，可以先读[节律篇：让小事穿过时间](../part-4/rhythm-and-compounding.md)，再把一个能在中断后回来的动作交给这九十天。
+Sự tiến bộ thật sự không dựa vào một cơn hưng phấn, mà dựa vào một khoảng thời gian có thể được kiểm chứng. Ở đây tôi đưa ra một kế hoạch chín mươi ngày: không yêu cầu bạn lột xác hoàn toàn, chỉ yêu cầu sau ba tháng bạn đưa ra được một nhóm bằng chứng chứng minh rằng mình hiểu rõ hơn, diễn đạt tốt hơn và cũng hoàn thành công việc tốt hơn hôm nay. Nếu bạn vẫn chưa tìm được nhịp điệu hằng ngày phù hợp với mình, trước tiên có thể đọc [Phần nhịp điệu: Để những việc nhỏ đi xuyên qua thời gian](../part-4/rhythm-and-compounding.md), rồi giao cho chín mươi ngày này một hành động có thể quay lại sau khi bị gián đoạn.
 
-## 0. 先定义“变好”
+## 0. Trước hết, hãy định nghĩa thế nào là “tốt lên”
 
-不要写“我要提升英语”“我要学会 AI”“我要变自律”。这些愿望没有错，但无法指导今天的选择。
+Đừng viết “Tôi muốn nâng cao tiếng Anh”, “Tôi muốn học AI”, “Tôi muốn trở nên kỷ luật”. Những mong muốn này không sai, nhưng không thể định hướng cho lựa chọn của hôm nay.
 
-请把目标改写成下面的句式：
+Hãy viết lại mục tiêu theo mẫu sau:
 
-> 在九十天内，我要在 **某个真实场景** 中完成 **一个可交付成果**，并用 **三项证据** 判断是否达成。
+> Trong vòng chín mươi ngày, tôi sẽ hoàn thành **một sản phẩm có thể bàn giao** trong **một bối cảnh thực tế nào đó**, và dùng **ba loại bằng chứng** để đánh giá liệu mình đã đạt được hay chưa.
 
-例如：
+Ví dụ:
 
-- 在九十天内，我要用英语完成一次 10 分钟的产品演示；证据是录音、逐字稿和一位听众的反馈。
-- 在九十天内，我要做出一个自动整理表格的小工具；证据是可运行代码、使用说明和一次真实使用记录。
-- 在九十天内，我要写完 12 篇关于行业观察的短文；证据是发布链接、读者反馈和一份自我复盘。
+- Trong vòng chín mươi ngày, tôi sẽ thực hiện một buổi giới thiệu sản phẩm bằng tiếng Anh kéo dài 10 phút; bằng chứng là bản ghi âm, bản chép lời và phản hồi của một người nghe.
+- Trong vòng chín mươi ngày, tôi sẽ tạo ra một công cụ tự động sắp xếp bảng biểu; bằng chứng là mã nguồn có thể chạy, hướng dẫn sử dụng và một lần sử dụng thực tế.
+- Trong vòng chín mươi ngày, tôi sẽ viết xong 12 bài ngắn về quan sát trong ngành; bằng chứng là các đường dẫn đã đăng, phản hồi của độc giả và một bản tự đánh giá.
 
-目标越接近真实生活，越不容易被“准备得还不够”绑架。
+Mục tiêu càng gần với đời sống thực, bạn càng ít bị trói buộc bởi suy nghĩ “mình vẫn chưa chuẩn bị đủ”.
 
-可以先复制[九十日行动总表](../../templates/90-day-cycle.md)，再把下面的阶段和每周问题填进去。总表不是新的打卡系统，而是把已有证据放在同一条时间线上；用[证据链模板](../../templates/evidence-chain.md)解释四个时间点，用[节律账本](../../templates/rhythm-ledger.md)维护每周的可回归节奏。
+Bạn có thể sao chép trước [Bảng tổng hợp hành động chín mươi ngày](../../templates/90-day-cycle.md), rồi điền các giai đoạn và câu hỏi hằng tuần bên dưới vào đó. Bảng tổng hợp không phải là một hệ thống điểm danh mới, mà là đặt những bằng chứng đã có lên cùng một dòng thời gian; dùng [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) để giải thích bốn mốc thời gian, dùng [sổ cái nhịp điệu](../../templates/rhythm-ledger.md) để duy trì nhịp độ có thể quay lại mỗi tuần.
 
-## 1. 用一页纸盘点起点
+## 1. Kiểm kê điểm xuất phát trên một trang giấy
 
-在第一天，花 30 分钟写下四栏内容：
+Trong ngày đầu tiên, hãy dành 30 phút để viết ra bốn mục sau:
 
-| 栏目 | 要回答的问题 |
+| Mục | Câu hỏi cần trả lời |
 | --- | --- |
-| 现状 | 我现在能独立完成什么？卡在哪里？ |
-| 场景 | 三个月后我要在哪个场合使用这项能力？ |
-| 资源 | 每周稳定可用的时间、材料、工具和同伴是什么？ |
-| 代价 | 哪些事情必须少做，才能给目标让出位置？ |
+| Hiện trạng | Hiện giờ tôi có thể tự mình hoàn thành việc gì? Tôi đang mắc kẹt ở đâu? |
+| Bối cảnh | Ba tháng sau tôi sẽ sử dụng năng lực này trong hoàn cảnh nào? |
+| Nguồn lực | Thời gian, tài liệu, công cụ và người đồng hành nào có thể sử dụng ổn định mỗi tuần? |
+| Cái giá | Tôi phải làm ít đi những việc nào để nhường chỗ cho mục tiêu? |
 
-最后一栏最重要。没有代价的计划，只是一张愿望清单。你不可能同时把所有兴趣都推进到前台；选择一个主线，并不等于背叛其他可能，而是暂时给其中一件事足够的光。
+Mục cuối cùng là quan trọng nhất. Một kế hoạch không có cái giá phải trả chỉ là một danh sách ước vọng. Bạn không thể đồng thời đưa mọi mối quan tâm lên vị trí ưu tiên; chọn một tuyến chính không có nghĩa là phản bội những khả năng khác, mà là tạm thời dành đủ ánh sáng cho một việc trong số đó.
 
-## 四项能力如何合流
+## Bốn năng lực hội tụ như thế nào
 
-不必每周平均练习听、读、说、写。选择一项最接近真实目标的主能力，再用另一项能力提供输入或反馈：
+Không cần mỗi tuần chia đều thời gian cho nghe, đọc, nói và viết. Hãy chọn một năng lực chính gần nhất với mục tiêu thực tế, rồi dùng một năng lực khác để cung cấp đầu vào hoặc phản hồi:
 
-| 环节 | 作用 | 可留下的证据 |
+| Khâu | Vai trò | Bằng chứng có thể lưu lại |
 | --- | --- | --- |
-| 听力/阅读 | 获取材料、理解问题和证据 | [听力证据卡](../../templates/listening-audit.md)或[阅读证据卡](../../templates/reading-evidence.md) |
-| 口语/写作 | 把理解变成说明、决定或作品 | [口语证据卡](../../templates/speaking-evidence.md)或[写作证据卡](../../templates/writing-evidence.md) |
-| 反馈/复盘 | 找出最大障碍并决定下一变量 | [每周复盘](../../templates/weekly-review.md)与[学习状态](../../templates/learning-state.md) |
-| 交付/迁移 | 在新听众、主题或真实场景中检验 | 作品链接、用户反馈或平行任务 |
+| Nghe/Đọc | Tiếp nhận tài liệu, hiểu vấn đề và bằng chứng | [Thẻ bằng chứng nghe](../../templates/listening-audit.md) hoặc [Thẻ bằng chứng đọc](../../templates/reading-evidence.md) |
+| Nói/Viết | Biến sự hiểu biết thành lời giải thích, quyết định hoặc tác phẩm | [Thẻ bằng chứng nói](../../templates/speaking-evidence.md) hoặc [Thẻ bằng chứng viết](../../templates/writing-evidence.md) |
+| Phản hồi/Rút kinh nghiệm | Tìm ra trở ngại lớn nhất và quyết định biến số tiếp theo | [Rút kinh nghiệm hằng tuần](../../templates/weekly-review.md) và [Trạng thái học tập](../../templates/learning-state.md) |
+| Bàn giao/Chuyển giao | Kiểm chứng trong một người nghe, chủ đề hoặc bối cảnh thực tế mới | Đường dẫn tác phẩm, phản hồi của người dùng hoặc nhiệm vụ tương tự |
 
-如果四项活动都没有指向同一个任务，它们很容易重新变成互不相干的打卡。每周至少保留一项输入、一项输出和一次迁移，其余时间服务于主线。
+Nếu bốn hoạt động đều không hướng đến cùng một nhiệm vụ, chúng rất dễ lại trở thành những lần điểm danh rời rạc. Mỗi tuần ít nhất hãy giữ lại một hoạt động đầu vào, một hoạt động đầu ra và một lần chuyển giao; thời gian còn lại phục vụ cho tuyến chính.
 
-## 2. 九十天分成三个阶段
+## 2. Chia chín mươi ngày thành ba giai đoạn
 
-### 第一阶段：校准（第 1—14 天）
+### Giai đoạn một: Hiệu chỉnh (ngày 1—14)
 
-这一阶段不追求速度，只追求看清。
+Giai đoạn này không theo đuổi tốc độ, chỉ theo đuổi sự nhìn nhận rõ ràng.
 
-- 做一次基线测试：录一段英语自我介绍，或完成一个与你目标相关的最小任务；
-- 找出最常出现的三个错误，不要一次修理三十个；
-- 建立固定时段，哪怕每天只有 25 分钟；
-- 清理材料，只保留一个主教材、一个练习场景和一个记录地方。
+- Làm một bài kiểm tra đường cơ sở: ghi âm một đoạn tự giới thiệu bằng tiếng Anh, hoặc hoàn thành một nhiệm vụ tối thiểu liên quan đến mục tiêu của bạn;
+- Tìm ra ba lỗi xuất hiện thường xuyên nhất, đừng sửa ba mươi lỗi cùng một lúc;
+- Thiết lập khung giờ cố định, dù mỗi ngày chỉ có 25 phút;
+- Dọn dẹp tài liệu, chỉ giữ lại một giáo trình chính, một bối cảnh luyện tập và một nơi ghi chép.
 
-两周后，你应该能回答：“我究竟在练什么？我的问题是什么？我下一次要重复哪一个动作？”如果还回答不了，先不要加码。
+Sau hai tuần, bạn cần có thể trả lời: “Rốt cuộc tôi đang luyện gì? Vấn đề của tôi là gì? Lần tới tôi cần lặp lại hành động nào?” Nếu vẫn chưa trả lời được, trước hết đừng tăng cường độ.
 
-### 第二阶段：堆叠（第 15—56 天）
+### Giai đoạn hai: Tích lũy (ngày 15—56)
 
-把同一个动作重复到足够熟，再逐步增加难度。推荐每周保持四类活动：
+Lặp lại cùng một hành động cho đến khi đủ thuần thục, sau đó từng bước tăng độ khó. Khuyến nghị mỗi tuần duy trì bốn loại hoạt động:
 
-1. **输入**：两到三次精听、精读或示范拆解；
-2. **输出**：两次口头复述、写作、编码或公开表达；
-3. **反馈**：一次针对作品的具体修改；
-4. **复盘**：一次 20 分钟的周记录，决定下周删掉什么、保留什么。
+1. **Đầu vào**: hai đến ba lần nghe kỹ, đọc kỹ hoặc phân tích mẫu;
+2. **Đầu ra**: hai lần thuật lại bằng lời, viết, lập trình hoặc trình bày công khai;
+3. **Phản hồi**: một lần chỉnh sửa cụ thể cho tác phẩm;
+4. **Rút kinh nghiệm**: một lần ghi chép 20 phút vào cuối tuần để quyết định tuần sau sẽ bỏ gì và giữ gì.
 
-AI 可以在这里做教练、陪练、审稿人和测试员，但不要让它替你完成全部输出。先交出自己的粗糙版本，再让工具指出最值得修的地方；你亲手修改的那一遍，才是能力真正发生的地方。
+AI có thể làm huấn luyện viên, bạn luyện tập, người biên tập và người kiểm tra ở giai đoạn này, nhưng đừng để nó hoàn thành toàn bộ phần đầu ra thay bạn. Trước tiên hãy đưa ra phiên bản thô của chính mình, rồi để công cụ chỉ ra những chỗ đáng sửa nhất; lần tự tay chỉnh sửa đó mới là nơi năng lực thực sự hình thành.
 
-### 第三阶段：交付（第 57—90 天）
+### Giai đoạn ba: Bàn giao (ngày 57—90)
 
-从第八周起，停止无限扩展课程。把已经学过的内容集中到一个作品中：一场演讲、一篇长文、一个工具、一份报告、一次面试模拟，或者一场真实的沟通。
+Từ tuần thứ tám, hãy ngừng mở rộng khóa học vô hạn. Tập trung những gì đã học vào một tác phẩm: một bài thuyết trình, một bài viết dài, một công cụ, một bản báo cáo, một buổi mô phỏng phỏng vấn hoặc một cuộc giao tiếp thực tế.
 
-交付前至少做三轮：
+Trước khi bàn giao, ít nhất hãy thực hiện ba vòng:
 
-- **独立版**：不看答案，按真实条件完成；
-- **修订版**：根据反馈，只改最影响理解和结果的问题；
-- **公开版**：交给真实的人使用、阅读或评价。
+- **Bản độc lập**: không xem đáp án, hoàn thành trong điều kiện thực tế;
+- **Bản chỉnh sửa**: dựa trên phản hồi, chỉ sửa những vấn đề ảnh hưởng nhiều nhất đến sự hiểu và kết quả;
+- **Bản công khai**: giao cho người thật sử dụng, đọc hoặc đánh giá.
 
-作品不需要漂亮到可以获奖，但要足够真实，能让你知道下一阶段该往哪里走。
+Tác phẩm không cần đẹp đến mức có thể đoạt giải, nhưng phải đủ chân thực để giúp bạn biết giai đoạn tiếp theo nên đi về đâu.
 
-## 3. 一周只保留一个主问题
+## 3. Mỗi tuần chỉ giữ lại một câu hỏi chính
 
-每周开始时写一句问题，而不是列十项任务：
+Khi bắt đầu tuần, hãy viết một câu hỏi thay vì liệt kê mười nhiệm vụ:
 
-> 本周我要弄明白：我能否在不查稿的情况下，用英语解释我的工作？
+> Tuần này tôi muốn làm rõ: liệu tôi có thể giải thích công việc của mình bằng tiếng Anh mà không cần nhìn bản thảo hay không?
 
-围绕这个问题安排练习：
+Hãy sắp xếp việc luyện tập xoay quanh câu hỏi này:
 
-- 周一：收集三个自然表达，听懂它们在真实语境里的用法；
-- 周二：自己写一版 90 秒回答；
-- 周三：录音并标出卡顿、重复和听不清的地方；
-- 周四：请 AI 或同伴只指出三个高价值问题；
-- 周五：重录第二版，加入一个追问；
-- 周末：把录音、修改点和下一周问题放进同一个文件。
+- Thứ Hai: thu thập ba cách diễn đạt tự nhiên, nghe hiểu cách chúng được dùng trong ngữ cảnh thực tế;
+- Thứ Ba: tự viết một phiên bản trả lời dài 90 giây;
+- Thứ Tư: ghi âm và đánh dấu những chỗ ngập ngừng, lặp lại và không nghe rõ;
+- Thứ Năm: nhờ AI hoặc bạn đồng hành chỉ ra ba vấn đề có giá trị cao;
+- Thứ Sáu: ghi âm lại phiên bản thứ hai, thêm một câu hỏi phụ;
+- Cuối tuần: đặt bản ghi âm, các điểm đã chỉnh sửa và câu hỏi của tuần sau vào cùng một tệp.
 
-这样做的好处，是你能在周末看到一条完整的证据链，而不是一堆互不相干的打卡截图。把首版、即时表现、延迟保持和迁移放进[证据链模板](../../templates/evidence-chain.md)，再把决定写回周期表。
+Lợi ích của cách làm này là đến cuối tuần, bạn có thể nhìn thấy một chuỗi bằng chứng hoàn chỉnh thay vì một đống ảnh chụp điểm danh không liên quan đến nhau. Đặt bản đầu tiên, biểu hiện tức thời, khả năng duy trì sau một khoảng trì hoãn và việc chuyển giao vào [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), rồi ghi quyết định trở lại bảng chu kỳ.
 
-## 4. 每天的最小闭环
+## 4. Vòng khép kín tối thiểu mỗi ngày
 
-当生活混乱、时间被切碎时，使用 45 分钟版本：
+Khi cuộc sống hỗn loạn và thời gian bị chia vụn, hãy dùng phiên bản 45 phút:
 
-1. **5 分钟回忆**：不看资料，写下昨天记得的三点；
-2. **15 分钟输入**：只处理一小段材料，标出真正影响理解的难点；
-3. **15 分钟输出**：说、写、做或演示一个可见结果；
-4. **5 分钟反馈**：记录一个错误和一个可以复用的表达；
-5. **5 分钟安排**：写下明天打开文件后要做的第一步。
+1. **5 phút hồi tưởng**: không xem tài liệu, viết ra ba điểm bạn còn nhớ từ hôm qua;
+2. **15 phút đầu vào**: chỉ xử lý một đoạn tài liệu nhỏ, đánh dấu những điểm khó thực sự ảnh hưởng đến việc hiểu;
+3. **15 phút đầu ra**: nói, viết, làm hoặc trình diễn một kết quả có thể nhìn thấy;
+4. **5 phút phản hồi**: ghi lại một lỗi và một cách diễn đạt có thể tái sử dụng;
+5. **5 phút sắp xếp**: viết ra bước đầu tiên cần làm sau khi mở tệp vào ngày mai.
 
-如果只有 10 分钟，就保留“回忆—输出—记录”三步。节奏可以缩短，闭环不要消失。
+Nếu chỉ có 10 phút, hãy giữ lại ba bước “hồi tưởng—đầu ra—ghi chép”. Có thể rút ngắn nhịp độ, nhưng đừng để vòng khép kín biến mất.
 
-## 5. 失败时不要重启人生，只重启下一步
+## 5. Khi thất bại, đừng khởi động lại cuộc đời, chỉ khởi động lại bước tiếp theo
 
-计划一定会中断。生病、加班、争吵、失眠、突发的账单，都会把理想日程打碎。中断本身不是失败，把一次中断解释成“我果然不行”，才会让它扩大。
+Kế hoạch nhất định sẽ bị gián đoạn. Bệnh tật, làm thêm giờ, cãi vã, mất ngủ, những hóa đơn phát sinh đều có thể đập tan lịch trình lý tưởng. Bản thân sự gián đoạn không phải là thất bại; chính việc diễn giải một lần gián đoạn thành “quả nhiên mình không làm được” mới khiến nó lan rộng.
 
-请使用这个恢复协议：
+Hãy sử dụng quy trình phục hồi này:
 
-1. 写下事实：我连续几天没有练习，除此之外不做人格判断；
-2. 找出阻力：时间不够、任务太难、情绪低落，还是环境不支持；
-3. 把任务缩小到原来的三分之一；
-4. 在 24 小时内完成一次极小的输出；
-5. 不补作业，不熬夜还债，直接回到今天。
+1. Ghi lại sự thật: tôi đã không luyện tập trong nhiều ngày liên tiếp; ngoài điều đó ra, không phán xét nhân cách;
+2. Tìm ra lực cản: không đủ thời gian, nhiệm vụ quá khó, tâm trạng sa sút hay môi trường không hỗ trợ;
+3. Thu nhỏ nhiệm vụ xuống còn một phần ba so với ban đầu;
+4. Hoàn thành một đầu ra cực nhỏ trong vòng 24 giờ;
+5. Không làm bù, không thức đêm để trả nợ, trực tiếp quay lại hôm nay.
 
-长期主义不是永远不掉队，而是掉队之后不再用羞耻惩罚自己。
+Chủ nghĩa dài hạn không phải là không bao giờ tụt lại, mà là sau khi tụt lại, không dùng sự xấu hổ để trừng phạt bản thân nữa.
 
-## 6. 给自己一张诚实的记分卡
+## 6. Cho mình một bảng điểm trung thực
 
-每周日只记录以下五项，采用“完成 / 未完成”，不要用模糊的“感觉还行”：
+Mỗi Chủ nhật chỉ ghi lại năm mục sau, dùng “Hoàn thành / Chưa hoàn thành”, đừng dùng “cảm thấy cũng ổn” mơ hồ:
 
-- 我是否完成了至少两次主动输出？
-- 我是否得到过一次来自他人或 AI 的具体反馈？
-- 我是否把一个错误改成了下一次的练习？
-- 我是否留下了一个可以展示或复用的成果？
-- 我是否为睡眠、运动和关系保留了基本空间？
+- Tôi có hoàn thành ít nhất hai lần chủ động tạo đầu ra không?
+- Tôi có nhận được một lần phản hồi cụ thể từ người khác hoặc AI không?
+- Tôi có biến một lỗi thành nội dung luyện tập cho lần sau không?
+- Tôi có lưu lại một thành quả có thể trình bày hoặc tái sử dụng không?
+- Tôi có dành không gian cơ bản cho giấc ngủ, vận động và các mối quan hệ không?
 
-最后一项不是额外奖励，而是基础设施。身体不是承载目标的容器，身体本身就是人生的一部分。任何必须靠长期透支才能维持的计划，都应该被重新设计。
+Mục cuối cùng không phải là phần thưởng thêm, mà là cơ sở hạ tầng. Cơ thể không phải là vật chứa để mang mục tiêu; chính cơ thể cũng là một phần của cuộc đời. Bất kỳ kế hoạch nào chỉ có thể duy trì bằng cách bòn rút bản thân trong thời gian dài đều cần được thiết kế lại.
 
-## 7. 九十天之后，留下三样东西
+## 7. Sau chín mươi ngày, hãy giữ lại ba thứ
 
-计划结束时，不要只问“我坚持了多少天”。请留下：
+Khi kế hoạch kết thúc, đừng chỉ hỏi “Tôi đã kiên trì được bao nhiêu ngày”. Hãy giữ lại:
 
-1. **一个作品**：证明你做过，而不是只学过；
-2. **一份错误地图**：列出仍然反复出现的问题，以及下一阶段的优先级；
-3. **一条可持续节奏**：即使忙碌，也能保留的最小训练单元。
+1. **Một tác phẩm**: chứng minh rằng bạn đã làm, chứ không chỉ học;
+2. **Một bản đồ lỗi**: liệt kê những vấn đề vẫn lặp đi lặp lại và thứ tự ưu tiên của giai đoạn tiếp theo;
+3. **Một nhịp độ bền vững**: đơn vị luyện tập tối thiểu mà ngay cả khi bận rộn bạn vẫn có thể duy trì.
 
-如果这三样都在，九十天就没有白过。你得到的不是一套漂亮的自律人设，而是一种更可靠的自我信任：我知道自己怎样开始，怎样修正，怎样把事情做完。
+Nếu cả ba thứ này đều còn đó, chín mươi ngày đã không trôi qua vô ích. Điều bạn có được không phải là một hình tượng người kỷ luật đẹp đẽ, mà là một dạng tự tin đáng tin cậy hơn: tôi biết mình bắt đầu như thế nào, điều chỉnh ra sao và hoàn thành công việc thế nào.
 
-## 结语：把进阶还给日子
+## Lời kết: Trao sự tiến bộ lại cho những ngày tháng
 
-我越来越不相信“彻底改变”这句话。它听起来有力，却常常把人带到更大的失望里。真正可贵的变化，通常没有戏剧性的配乐：一个人按时起床，打开昨天留下的文件；在会议里说出准备过的第一句英语；把一篇文章改到自己愿意署名；在很想逃走的时候，先把事实看清楚。
+Tôi ngày càng không tin vào cụm từ “thay đổi hoàn toàn”. Nghe thì mạnh mẽ, nhưng thường đưa con người vào một nỗi thất vọng lớn hơn. Những thay đổi thực sự đáng quý thường không có nhạc nền kịch tính: một người thức dậy đúng giờ, mở tệp đã để lại từ hôm qua; nói ra câu tiếng Anh đầu tiên đã chuẩn bị trong cuộc họp; sửa một bài viết đến mức bản thân sẵn lòng ký tên; vào lúc rất muốn bỏ chạy, trước hết nhìn rõ sự thật.
 
-愿你用九十天换来的，不只是某项技能，而是对生活重新拥有一点触感。愿你知道自己在往哪里走，也允许道路暂时没有掌声。
+Mong rằng điều chín mươi ngày mang lại cho bạn không chỉ là một kỹ năng nào đó, mà còn là chút cảm nhận về cuộc sống đã được tìm lại. Mong rằng bạn biết mình đang đi về đâu, đồng thời cho phép con đường tạm thời không có tiếng vỗ tay.

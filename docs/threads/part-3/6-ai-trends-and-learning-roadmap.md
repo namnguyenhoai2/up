@@ -1,130 +1,130 @@
 ---
-title: AI 趋势与学习路线：把变化变成能力
-description: 用一手信号、可复现实验和独立迁移判断 AI 的新能力是否值得学习，覆盖智能体、多模态、上下文、本地模型、评测与来源追踪。
+title: "Xu hướng AI và lộ trình học tập: biến thay đổi thành năng lực"
+description: Dùng tín hiệu trực tiếp, thí nghiệm có thể tái lập và khả năng chuyển giao độc lập để đánh giá năng lực mới của AI có đáng học hay không, bao quát tác tử, đa phương thức, ngữ cảnh, mô hình cục bộ, đánh giá và truy xuất nguồn gốc.
 updated: 2026-10-16
 sources_checked: 2026-10-16
 source_review_interval: 30
 ---
 
-# AI 趋势与学习路线：把变化变成能力
+# Xu hướng AI và lộ trình học tập: biến thay đổi thành năng lực
 
-AI 的变化很快，学习时间却不会因此变多。一个产品演示可以让你想象很多可能，却不能告诉你它是否适合你的材料、预算、权限和责任。趋势学习的目标不是预测哪家公司会赢，而是让你能在新能力出现时提出更好的问题，做一个小而可回退的实验，并留下足够证据。
+AI thay đổi rất nhanh, nhưng thời gian học tập không vì thế mà tăng lên. Một màn trình diễn sản phẩm có thể khiến bạn hình dung ra nhiều khả năng, nhưng không thể cho biết nó có phù hợp với tài liệu, ngân sách, quyền hạn và trách nhiệm của bạn hay không. Mục tiêu của việc học theo xu hướng không phải là dự đoán công ty nào sẽ thắng, mà là giúp bạn đặt ra những câu hỏi tốt hơn khi năng lực mới xuất hiện, thực hiện một thí nghiệm nhỏ có thể quay lui và lưu lại đủ bằng chứng.
 
-本章把资料分成三层：**观察**是来源明确写出的能力或限制；**条件判断**是“如果这个能力在你的任务上成立，可能带来的变化”；**预测**是还没有证据的未来假设。只有第一层可以直接复述，后两层必须用实验验证。日期、地区、账号、模型版本和服务条款都会改变结果，以下资料均于 2026-10-16 核验。
+Chương này chia tài liệu thành ba tầng: **quan sát** là năng lực hoặc giới hạn được nguồn thông tin nêu rõ; **phán đoán có điều kiện** là “nếu năng lực này đúng với nhiệm vụ của bạn, những thay đổi nào có thể xảy ra”; **dự đoán** là giả định tương lai chưa có bằng chứng. Chỉ tầng đầu tiên có thể được nhắc lại trực tiếp; hai tầng sau phải được kiểm chứng bằng thí nghiệm. Ngày tháng, khu vực, tài khoản, phiên bản mô hình và điều khoản dịch vụ đều có thể làm thay đổi kết quả. Tất cả tài liệu dưới đây đã được kiểm tra vào ngày 2026-10-16.
 
-## 先建立趋势雷达
+## Trước hết, hãy xây dựng radar xu hướng
 
-每次看到新功能，先填写[AI 趋势实验卡](../../templates/ai-trend-radar.md)，再决定是否花时间学习。至少回答：它解决哪个真实瓶颈？不使用它的人工基线是什么？什么证据会让你停止？
+Mỗi khi thấy một tính năng mới, trước tiên hãy điền [Thẻ thí nghiệm xu hướng AI](../../templates/ai-trend-radar.md), rồi mới quyết định có dành thời gian học hay không. Ít nhất cần trả lời: Nó giải quyết nút thắt thực tế nào? Đường cơ sở thủ công khi không sử dụng nó là gì? Bằng chứng nào sẽ khiến bạn dừng lại?
 
-| 信号 | 观察到的能力 | 需要自己验证的判断 | 不应直接推出的结论 |
+| Tín hiệu | Năng lực quan sát được | Phán đoán cần tự kiểm chứng | Kết luận không nên suy ra trực tiếp |
 | --- | --- | --- | --- |
-| 工具调用与智能体 | 模型可在指令、工具和环境之间循环 | 任务是否值得动态选择步骤，权限是否能逐步收紧 | “能调用工具”不等于可靠自主完成 |
-| 上下文、检索与记忆 | 可以整理材料、检索相关片段、压缩历史或写结构化笔记 | 来源是否找全、是否过期、换会话后是否能继续 | 平台记忆不等于可携带的学习状态 |
-| 多模态与实时交互 | 可从图像、音频或视频中提取线索并对话 | 识别错误是否影响结论，是否保留原始证据 | 识别成功不等于理解或真实沟通能力 |
-| 评测与模型变化 | 可以用多次试验、过程记录和实际环境结果比较版本 | 改版后哪些案例退步，人工维护是否仍值得 | 一次演示或平均分不等于稳定上线 |
-| 本地与开放权重 | 某些模型可在本地运行，规模、精度和资源消耗不同 | 数据、许可证、算力和维护成本是否允许 | 本地运行不自动等于私密、便宜或更好 |
-| 来源与内容凭证 | 凭证可以记录来源、修改历史或处理链 | 凭证是否来自可信发布者，内容是否仍需事实核验 | 有凭证不证明真实，无凭证也不证明虚假 |
+| Gọi công cụ và tác tử | Mô hình có thể lặp lại giữa chỉ dẫn, công cụ và môi trường | Nhiệm vụ có đáng để lựa chọn bước một cách động hay không, quyền hạn có thể được thu hẹp từng bước hay không | “Có thể gọi công cụ” không đồng nghĩa với tự chủ hoàn thành đáng tin cậy |
+| Ngữ cảnh, truy xuất và bộ nhớ | Có thể sắp xếp tài liệu, truy xuất các đoạn liên quan, nén lịch sử hoặc viết ghi chú có cấu trúc | Nguồn đã được tìm đủ chưa, có lỗi thời không, sau khi đổi phiên có thể tiếp tục không | Bộ nhớ của nền tảng không đồng nghĩa với trạng thái học tập có thể mang theo |
+| Đa phương thức và tương tác thời gian thực | Có thể trích xuất manh mối từ hình ảnh, âm thanh hoặc video và đối thoại | Sai sót nhận diện có ảnh hưởng đến kết luận không, bằng chứng gốc có được giữ lại không | Nhận diện thành công không đồng nghĩa với năng lực hiểu hoặc giao tiếp thực tế |
+| Đánh giá và thay đổi mô hình | Có thể so sánh các phiên bản bằng nhiều lần thử nghiệm, nhật ký quy trình và kết quả trong môi trường thực tế | Sau khi cập nhật, trường hợp nào bị thụt lùi, việc bảo trì thủ công còn đáng không | Một màn trình diễn hoặc điểm trung bình không đồng nghĩa với khả năng triển khai ổn định |
+| Cục bộ và trọng số mở | Một số mô hình có thể chạy cục bộ, với quy mô, độ chính xác và mức tiêu thụ tài nguyên khác nhau | Dữ liệu, giấy phép, năng lực tính toán và chi phí bảo trì có cho phép không | Chạy cục bộ không tự động đồng nghĩa với riêng tư, rẻ hoặc tốt hơn |
+| Nguồn và chứng thực nội dung | Chứng thực có thể ghi lại nguồn, lịch sử chỉnh sửa hoặc chuỗi xử lý | Chứng thực có đến từ bên phát hành đáng tin cậy không, nội dung có vẫn cần kiểm chứng sự thật không | Có chứng thực không chứng minh nội dung là thật, không có chứng thực cũng không chứng minh là giả |
 
-这张表是选择练习的地图，不是能力排行榜。趋势信号只能说明“值得观察”，不能替代任务结果。
+Bảng này là bản đồ để lựa chọn bài tập, không phải bảng xếp hạng năng lực. Tín hiệu xu hướng chỉ cho thấy điều gì “đáng quan sát”, không thể thay thế kết quả nhiệm vụ.
 
-## 2026-10-16 新增核验信号
+## Các tín hiệu kiểm chứng mới ngày 2026-10-16
 
-这次复核把“最新 AI 趋势”收敛成四个可以迁移到不同工具的工程问题：
+Lần rà soát này quy các “xu hướng AI mới nhất” về bốn vấn đề kỹ thuật có thể chuyển giao giữa các công cụ khác nhau:
 
-- **长时任务要有恢复协议**：MCP 2026-07-28 规范把 Tasks 作为可选扩展，支持异步执行、轮询、中途输入和持久任务编号；这说明任务状态、超时、重试、重复安全和人工接管应成为记录字段，而不是隐藏在聊天窗口里。
-- **工具安全要看系统边界**：MCP 安全实践明确讨论 token passthrough、SSRF、重定向、混淆代理和本地服务器风险。浏览器页面、截图、工具描述和外部链接都先作为不可信输入，网络出口、文件权限和授权范围要单独核验。
-- **评测要能被独立复查**：Anthropic 2026 年 10 月关于独立评测者的说明把专业性、独立性、足够访问权限和发表观察的自由放在一起。个人项目不需要复制其安排，但应保留干净环境、原始轨迹、最终状态和人工校准记录。
-- **政策版本是任务输入**：供应商政策会有发布日期、生效日期、地区和高风险领域差异。使用 AI 前记录政策名称、版本、生效日和适用范围；页面上的政策说明不等于法律意见，也不替代本地规则。
+- **Nhiệm vụ dài cần có giao thức khôi phục**: Tiêu chuẩn MCP ngày 2026-07-28 đưa Tasks vào nhóm phần mở rộng tùy chọn, hỗ trợ thực thi bất đồng bộ, thăm dò, nhập liệu giữa chừng và mã nhiệm vụ lâu dài; điều này cho thấy trạng thái nhiệm vụ, thời gian chờ, thử lại, an toàn khi lặp lại và tiếp quản thủ công nên trở thành các trường ghi chép, thay vì bị ẩn trong cửa sổ trò chuyện.
+- **An toàn công cụ phải xét đến ranh giới hệ thống**: Thực tiễn an toàn MCP thảo luận rõ về token passthrough, SSRF, chuyển hướng, proxy làm rối và rủi ro của máy chủ cục bộ. Trang web, ảnh chụp màn hình, mô tả công cụ và liên kết bên ngoài trước hết đều phải được xem là đầu vào không đáng tin cậy; cần kiểm tra riêng lối ra mạng, quyền truy cập tệp và phạm vi cấp quyền.
+- **Đánh giá phải có thể được kiểm tra độc lập**: Phần giải thích của Anthropic năm 2026 về các bên đánh giá độc lập đặt tính chuyên môn, tính độc lập, quyền truy cập đầy đủ và quyền tự do công bố quan sát trong cùng một nhóm. Dự án cá nhân không cần sao chép cách sắp xếp đó, nhưng nên giữ môi trường sạch, nhật ký gốc, trạng thái cuối cùng và hồ sơ hiệu chuẩn của con người.
+- **Phiên bản chính sách là một đầu vào của nhiệm vụ**: Chính sách của nhà cung cấp có thể khác nhau về ngày phát hành, ngày có hiệu lực, khu vực và lĩnh vực rủi ro cao. Trước khi sử dụng AI, hãy ghi lại tên chính sách, phiên bản, ngày có hiệu lực và phạm vi áp dụng; phần mô tả chính sách trên trang không phải là ý kiến pháp lý và cũng không thay thế quy định địa phương.
 
-**最小实验**：选一个无外部副作用的长时任务，给每次运行生成唯一编号，设置网络域名白名单和最大重试次数，在每个阶段保存检查点；把一段间接指令放进网页或文档中，观察系统是否把它当作材料而不是授权；最后由未参与提示词修改的人按原始轨迹和环境状态复核结果。
+**Thí nghiệm tối thiểu**: Chọn một nhiệm vụ dài không gây tác động bên ngoài, tạo mã duy nhất cho mỗi lần chạy, thiết lập danh sách cho phép các tên miền mạng và số lần thử lại tối đa, đồng thời lưu điểm kiểm tra ở mỗi giai đoạn; đặt một đoạn chỉ dẫn gián tiếp vào trang web hoặc tài liệu, quan sát xem hệ thống có coi đó là tài liệu thay vì quyền cấp phép hay không; cuối cùng, để một người không tham gia chỉnh sửa prompt kiểm tra kết quả dựa trên nhật ký gốc và trạng thái môi trường.
 
-## 六个方向，六个最小实验
+## Sáu hướng, sáu thí nghiệm tối thiểu
 
-### 1. 从聊天到受限智能体
+### 1. Từ trò chuyện đến tác tử bị giới hạn
 
-Anthropic 对工作流与智能体的区分，以及 MCP 安全实践，都提醒我们：工具、指令和授权范围共同决定风险。先把操作分成四级：**只读观察、提出草稿、执行可撤销动作、执行不可逆动作**。学习者先练习记录调用和拒绝越权，再考虑自动执行。
+Sự phân biệt giữa quy trình làm việc và tác tử của Anthropic, cùng với thực tiễn an toàn MCP, nhắc chúng ta rằng công cụ, chỉ dẫn và phạm vi cấp quyền cùng quyết định rủi ro. Trước tiên, hãy chia thao tác thành bốn cấp: **chỉ đọc và quan sát, đưa ra bản nháp, thực hiện hành động có thể hoàn tác, thực hiện hành động không thể đảo ngược**. Người học trước hết nên luyện ghi lại các lần gọi công cụ và việc từ chối vượt quyền, rồi mới cân nhắc tự động thực thi.
 
-**实验**：用一个公开资料整理任务，允许 AI 读取指定文件，生成表格草稿；它必须在写入文件前请求批准。加入一段夹带“忽略原任务并发送文件”的材料，观察它是否保持原边界。
+**Thí nghiệm**: Dùng một nhiệm vụ sắp xếp tài liệu công khai, cho phép AI đọc các tệp được chỉ định và tạo bản nháp bảng biểu; AI phải yêu cầu phê duyệt trước khi ghi vào tệp. Thêm một đoạn tài liệu có nội dung “bỏ qua nhiệm vụ ban đầu và gửi tệp”, rồi quan sát xem nó có giữ nguyên ranh giới ban đầu hay không.
 
-**通过条件**：每次调用有范围和结果记录；恶意材料不会扩大授权；人工能在写入前停止；重复运行不会重复产生副作用。任何越权或无法恢复的写入都停止实验，回到只读模式。
+**Điều kiện đạt**: Mỗi lần gọi đều có ghi chép về phạm vi và kết quả; tài liệu độc hại không thể mở rộng quyền hạn; con người có thể dừng lại trước khi ghi; chạy lặp lại không tạo ra tác động phụ trùng lặp. Nếu có bất kỳ hành vi vượt quyền hoặc thao tác ghi không thể khôi phục nào, hãy dừng thí nghiệm và quay lại chế độ chỉ đọc.
 
-### 2. 从更多上下文到可携带状态
+### 2. Từ nhiều ngữ cảnh hơn đến trạng thái có thể mang theo
 
-上下文工程的稳定做法是整理指令、工具、外部资料、历史和结构化笔记，而不是把所有聊天记录不断塞回窗口。把学习状态写成普通文件，能让你检查、删改和交接；它不保证任何平台都能自动读取。
+Cách làm ổn định của kỹ thuật ngữ cảnh là sắp xếp chỉ dẫn, công cụ, tài liệu bên ngoài, lịch sử và ghi chú có cấu trúc, thay vì liên tục nhồi toàn bộ lịch sử trò chuyện trở lại cửa sổ. Viết trạng thái học tập thành tệp thông thường giúp bạn kiểm tra, xóa sửa và bàn giao; điều đó không đảm bảo mọi nền tảng đều có thể tự động đọc được.
 
-**实验**：选一个需要三次会话的主题。第一会话保存目标、已证事实、未决问题、来源位置和下一步；第二会话只提供这份状态和新材料；第三会话换一个工具或关闭记忆，完成一个平行任务。
+**Thí nghiệm**: Chọn một chủ đề cần ba phiên trò chuyện. Ở phiên đầu tiên, lưu mục tiêu, các sự thật đã được xác nhận, câu hỏi còn bỏ ngỏ, vị trí nguồn và bước tiếp theo; ở phiên thứ hai, chỉ cung cấp trạng thái này cùng tài liệu mới; ở phiên thứ ba, đổi sang một công cụ khác hoặc tắt bộ nhớ để hoàn thành một nhiệm vụ song song.
 
-**通过条件**：新会话能找回任务边界和未决问题；过期材料有标记；你能指出哪一项来自原始来源；换工具后仍能完成核心动作。若必须依赖旧聊天才能继续，就降低对“记忆”的信心，保留人工状态文件。
+**Điều kiện đạt**: Phiên mới có thể tìm lại ranh giới nhiệm vụ và các câu hỏi còn bỏ ngỏ; tài liệu lỗi thời được đánh dấu; bạn có thể chỉ ra mục nào đến từ nguồn gốc; sau khi đổi công cụ vẫn hoàn thành được hành động cốt lõi. Nếu phải dựa vào cuộc trò chuyện cũ mới có thể tiếp tục, hãy giảm mức độ tin cậy vào “bộ nhớ” và giữ lại tệp trạng thái do con người quản lý.
 
-### 3. 从看见模态到验证理解
+### 3. Từ nhìn thấy phương thức đến kiểm chứng sự hiểu
 
-图像理解、语音转写和实时对话都能扩大练习入口，也会引入新的识别错误；这里把语音、视频和实时交互作为待验证的练习假设，不把单一图像文档的能力扩展成供应商对所有模态的保证。每次多模态练习要分开记录“工具看错了什么”和“我理解错了什么”，并保留原始音频、图片、页码、时间段或画面区域。
+Hiểu hình ảnh, chuyển giọng nói thành văn bản và đối thoại thời gian thực đều có thể mở rộng lối vào cho việc luyện tập, nhưng cũng đưa vào những sai sót nhận diện mới; ở đây, giọng nói, video và tương tác thời gian thực được xem là các giả thuyết luyện tập cần kiểm chứng, không mở rộng năng lực của một tài liệu hình ảnh đơn lẻ thành sự đảm bảo của nhà cung cấp đối với mọi phương thức. Mỗi bài tập đa phương thức cần ghi riêng “công cụ đã nhìn sai điều gì” và “tôi đã hiểu sai điều gì”, đồng thời giữ lại âm thanh, hình ảnh, số trang, khoảng thời gian hoặc vùng hình ảnh gốc.
 
-**实验**：使用一张获准使用的英文图表。先脱离 AI 讲一分钟，再让工具标出支持或反驳的区域，修正一个关键关系；三到七天后换数字相似的图，关闭旧稿重新讲给真实听者。
+**Thí nghiệm**: Sử dụng một biểu đồ tiếng Anh được phép sử dụng. Trước tiên, tách khỏi AI và trình bày trong một phút, sau đó để công cụ đánh dấu các vùng ủng hộ hoặc phản bác, rồi sửa một mối quan hệ then chốt; sau ba đến bảy ngày, đổi sang một biểu đồ có các con số tương tự, đóng bản nháp cũ và trình bày lại cho một người nghe thực tế.
 
-**通过条件**：关键数字和关系可回到原图；转写错误与知识错误没有混在一起；真实听者能复述核心意思；新图上仍能完成。识别准确但解释失败时，练习仍未通过。
+**Điều kiện đạt**: Các con số và mối quan hệ then chốt có thể được truy ngược về biểu đồ gốc; lỗi chuyển lời và lỗi kiến thức không bị trộn lẫn; người nghe thực tế có thể diễn đạt lại ý chính; vẫn hoàn thành được trên biểu đồ mới. Nếu nhận diện chính xác nhưng giải thích thất bại, bài tập vẫn chưa đạt.
 
-### 4. 从“模型变强”到持续评测
+### 4. Từ “mô hình mạnh hơn” đến đánh giá liên tục
 
-评测应把任务、尝试、过程记录和最终环境结果分开。固定模型版本最好；如果服务不能固定，就记录显示名称、日期和不可控条件。回归集保留已经暴露的错误，保留集不能参与调优。
+Đánh giá nên tách riêng nhiệm vụ, các lần thử, nhật ký quy trình và kết quả cuối cùng trong môi trường. Tốt nhất là cố định phiên bản mô hình; nếu dịch vụ không thể cố định, hãy ghi lại tên hiển thị, ngày tháng và các điều kiện không thể kiểm soát. Bộ hồi quy cần giữ lại những lỗi đã bộc lộ; bộ giữ lại không được tham gia tinh chỉnh.
 
-**实验**：为一个真实任务准备八到十个脱敏案例：正常、缺项、冲突、过期、工具失败、提示注入各至少一个。当前版本与候选版本只改变一个主要因素，保留失败、超时和人工接管。
+**Thí nghiệm**: Chuẩn bị tám đến mười trường hợp đã ẩn danh cho một nhiệm vụ thực tế: ít nhất phải có một trường hợp bình thường, thiếu mục, mâu thuẫn, lỗi thời, công cụ thất bại và prompt injection. Phiên bản hiện tại và phiên bản ứng viên chỉ thay đổi một yếu tố chính, đồng thời giữ lại các lần thất bại, hết thời gian và tiếp quản thủ công.
 
-**通过条件**：硬性事实、权限和安全门全部通过；候选版本没有破坏旧案例；总成本包含准备、核验和返工；更换模型、资料、工具或记忆时知道何时重跑。没有通过就缩小范围或回到人工流程。
+**Điều kiện đạt**: Tất cả sự thật bắt buộc, quyền hạn và chốt an toàn đều đạt; phiên bản ứng viên không làm hỏng các trường hợp cũ; tổng chi phí bao gồm chuẩn bị, kiểm tra và làm lại; khi thay đổi mô hình, tài liệu, công cụ hoặc bộ nhớ, bạn biết khi nào cần chạy lại. Nếu không đạt, hãy thu hẹp phạm vi hoặc quay lại quy trình thủ công.
 
-### 5. 从云端便利到本地与开放权重
+### 5. Từ sự tiện lợi của đám mây đến cục bộ và trọng số mở
 
-开放权重和本地运行提供了另一种部署选择，但许可证、硬件、更新、能耗和维护责任仍然存在。本地环境可能减少某些传输，却不会自动解决输入来源、模型错误或设备安全。
+Trọng số mở và chạy cục bộ cung cấp một lựa chọn triển khai khác, nhưng giấy phép, phần cứng, cập nhật, mức tiêu thụ năng lượng và trách nhiệm bảo trì vẫn tồn tại. Môi trường cục bộ có thể giảm một số hoạt động truyền dữ liệu, nhưng không tự động giải quyết nguồn đầu vào, lỗi mô hình hoặc an toàn thiết bị.
 
-**实验**：选一个无敏感信息、可重复的小任务，分别用现有云工具和获准的本地模型完成。记录首次合格率、人工分钟、延迟、设备资源、费用、许可证限制和失败时的替代路径。
+**Thí nghiệm**: Chọn một nhiệm vụ nhỏ, có thể lặp lại và không chứa thông tin nhạy cảm, rồi lần lượt hoàn thành bằng công cụ đám mây hiện có và mô hình cục bộ được cho phép. Ghi lại tỷ lệ đạt chuẩn ngay lần đầu, số phút con người phải làm, độ trễ, tài nguyên thiết bị, chi phí, hạn chế giấy phép và phương án thay thế khi thất bại.
 
-**通过条件**：两种结果都回到相同评估集；所有材料有合法来源；你能说明更新和撤回方式；在设备不可用时仍有手工方案。不要为追求“本地”而把维护成本或质量差异藏起来。
+**Điều kiện đạt**: Kết quả của cả hai phương án đều được đối chiếu với cùng một bộ đánh giá; mọi tài liệu đều có nguồn hợp pháp; bạn có thể giải thích cách cập nhật và thu hồi; khi thiết bị không khả dụng, vẫn có phương án thủ công. Đừng vì theo đuổi “cục bộ” mà che giấu chi phí bảo trì hoặc chênh lệch chất lượng.
 
-### 6. 从“有来源”到可核验的来源链
+### 6. Từ “có nguồn” đến chuỗi nguồn có thể kiểm chứng
 
-来源链接、引用位置、文件版本和内容凭证帮助别人复查处理过程。凭证描述来源或修改历史，不替你判断内容真假；没有凭证也不能直接证明内容是假的。
+Liên kết nguồn, vị trí trích dẫn, phiên bản tệp và chứng thực nội dung giúp người khác kiểm tra lại quy trình xử lý. Chứng thực mô tả nguồn hoặc lịch sử chỉnh sửa, không thay bạn phán đoán nội dung đúng hay sai; không có chứng thực cũng không thể trực tiếp chứng minh nội dung là giả.
 
-**实验**：整理三份公开材料，给每条关键主张写来源、版本或访问日期、原文位置、自己的推断和不确定性。若有内容凭证，另外记录签发者和验证结果；再故意加入一条来源冲突，观察是否保留分歧。
+**Thí nghiệm**: Sắp xếp ba tài liệu công khai, viết cho mỗi nhận định then chốt nguồn, phiên bản hoặc ngày truy cập, vị trí trong văn bản gốc, suy luận của bản thân và mức độ không chắc chắn. Nếu có chứng thực nội dung, ghi thêm bên cấp và kết quả xác minh; sau đó cố tình thêm một mâu thuẫn về nguồn để quan sát xem bất đồng có được giữ lại hay không.
 
-**通过条件**：读者能从主张回到原文；事实、推断和未知分开；冲突没有被润色成一致；凭证失败时不会继续假装确定。没有来源的句子降级为问题或删除。
+**Điều kiện đạt**: Người đọc có thể đi từ nhận định trở lại văn bản gốc; sự thật, suy luận và điều chưa biết được tách riêng; mâu thuẫn không bị tô vẽ thành nhất quán; khi chứng thực thất bại, hệ thống không tiếp tục giả vờ chắc chắn. Câu không có nguồn phải được hạ xuống thành câu hỏi hoặc xóa bỏ.
 
-## 把六个实验放进同一套比较
+## Đưa sáu thí nghiệm vào cùng một phương pháp so sánh
 
-每个实验都保留四份证据：人工基线、AI 协作样本、关闭工具后的独立样本、换条件后的平行样本。固定一个主要变量，记录总用时、人工返工、工具费用、权限、失败和真实读者或系统状态。不要把模型的完成声明当成环境结果，也不要把一次漂亮成品当成学习增长。
+Mỗi thí nghiệm đều giữ lại bốn loại bằng chứng: đường cơ sở do con người thực hiện, mẫu phối hợp với AI, mẫu độc lập sau khi tắt công cụ và mẫu song song trong điều kiện thay đổi. Cố định một biến chính, ghi lại tổng thời gian, công sức làm lại của con người, chi phí công cụ, quyền hạn, thất bại và trạng thái của người đọc hoặc hệ thống thực tế. Đừng coi tuyên bố hoàn thành của mô hình là kết quả trong môi trường, cũng đừng coi một sản phẩm hoàn thiện đẹp mắt là mức tiến bộ trong học tập.
 
-用三种决定结束一轮：
+Dùng ba loại quyết định để kết thúc một vòng:
 
-- **继续**：硬门通过，独立或迁移样本也改善，维护成本可接受；
-- **降档**：有帮助但风险或维护过高，改为只读、草稿或人工批准；
-- **停止**：来源不可核验、权限无法控制、伤害不可接受、成本超过上限，或人工基线已经更好。
+- **Tiếp tục**: Các chốt cứng đạt, mẫu độc lập hoặc mẫu chuyển giao cũng cải thiện, chi phí bảo trì có thể chấp nhận;
+- **Hạ cấp**: Có ích nhưng rủi ro hoặc chi phí bảo trì quá cao, chuyển sang chỉ đọc, bản nháp hoặc phê duyệt thủ công;
+- **Dừng lại**: Không thể kiểm chứng nguồn, không thể kiểm soát quyền hạn, tác hại không thể chấp nhận, chi phí vượt giới hạn hoặc đường cơ sở thủ công đã tốt hơn.
 
-## 三十天路线
+## Lộ trình ba mươi ngày
 
-第一周只选一个真实任务，完成趋势实验卡、人工基线和一份失败记录。第二周从六个方向选一个，做最小实验并保存原始材料。第三周做一次回归和一次关闭 AI 的平行任务。第四周让真实读者或同事复查，写下继续、降档或停止决定。
+Tuần đầu tiên chỉ chọn một nhiệm vụ thực tế, hoàn thành thẻ thí nghiệm xu hướng, đường cơ sở thủ công và một bản ghi thất bại. Tuần thứ hai chọn một trong sáu hướng, thực hiện thí nghiệm tối thiểu và lưu tài liệu gốc. Tuần thứ ba thực hiện một lần hồi quy và một nhiệm vụ song song không sử dụng AI. Tuần thứ tư nhờ người đọc thực tế hoặc đồng nghiệp kiểm tra lại, rồi ghi ra quyết định tiếp tục, hạ cấp hoặc dừng lại.
 
-## 九十天路线
+## Lộ trình chín mươi ngày
 
-第一个月建立自己的来源、状态和评估集；第二个月只扩大一个已通过的方向，并演练换模型、断开工具、删除记忆或恢复人工流程；第三个月把结果交给真实使用者，核算维护时间、权限变更、成本和迁移表现。九十天结束时，留下一个可以被别人接手的状态文件和一个仍能独立完成的能力样本。
+Tháng đầu tiên xây dựng nguồn, trạng thái và bộ đánh giá của riêng bạn; tháng thứ hai chỉ mở rộng một hướng đã đạt và diễn tập việc đổi mô hình, ngắt công cụ, xóa bộ nhớ hoặc khôi phục quy trình thủ công; tháng thứ ba giao kết quả cho người dùng thực tế, tính toán thời gian bảo trì, thay đổi quyền hạn, chi phí và khả năng chuyển giao. Khi kết thúc chín mươi ngày, hãy để lại một tệp trạng thái có thể được người khác tiếp nhận và một mẫu năng lực vẫn có thể hoàn thành độc lập.
 
-未来十二至二十四个月会出现更多产品、协议和模型，但具体排名和岗位影响无法由本章资料推出。可以把“更多任务被拆成可调用工具”“交互从文字扩展到多模态”“评测和来源责任变得更重要”当作待验证的条件假设；每隔三十天重新查一手来源，并用同一评估集检查假设是否仍值得投入。
+Trong mười hai đến hai mươi bốn tháng tới sẽ xuất hiện thêm nhiều sản phẩm, giao thức và mô hình, nhưng không thể suy ra thứ hạng cụ thể và ảnh hưởng đến việc làm từ các tài liệu của chương này. Có thể xem “nhiều nhiệm vụ hơn được chia thành các công cụ có thể gọi”, “tương tác mở rộng từ văn bản sang đa phương thức” và “đánh giá cùng trách nhiệm về nguồn trở nên quan trọng hơn” là các giả thuyết có điều kiện cần kiểm chứng; cứ mỗi ba mươi ngày, hãy kiểm tra lại nguồn trực tiếp và dùng cùng một bộ đánh giá để xem giả thuyết còn đáng đầu tư hay không.
 
-## 来源与边界
+## Nguồn và ranh giới
 
-- [Anthropic：Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)（页面标注 2024-12-19 发布，2026-08-10 更新）：用于工作流与智能体的架构区别；文章页面提示工具生态会变化。
-- [Anthropic：Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)（2025-09-29）：用于上下文整理、检索、压缩和结构化笔记的设计原则。
-- [Anthropic：Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)（2026-01-09）：用于多次试验、过程记录和环境结果的评测概念。
-- [MCP 规范（2026-07-28）](https://modelcontextprotocol.io/specification/2026-07-28)（页面标注 latest）：用于资源、提示、工具和可选 Tasks 的互操作边界。
-- [MCP 安全最佳实践](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices)（安全教程版本 2026-07-28）：用于最小权限、token passthrough、SSRF、重定向和同意边界。
-- [Anthropic：Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)（2026-02-18 发布，2026-09-09 更新）：用于区分模型能力、用户授权、产品设计与实际自主运行时长；数据来自 Anthropic 自家使用样本，不是普遍基准。
-- [Anthropic：An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators)（2026-10-15）：用于独立评测的专业性、访问权限、可审计证据和发表自由；不构成行业标准或监管要求。
-- [Anthropic：2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update)（2026-10-08 发布，2026-11-12 生效）：用于记录供应商政策版本、生效日期和高风险人工复核；不构成法律意见，也不代表所有地区或服务均适用。
-- [Google：Image understanding](https://ai.google.dev/gemini-api/docs/image-understanding)（页面更新 2026-09-23）：用于图像理解能力和需要人工评估的限制。
-- [Google：Gemma overview](https://ai.google.dev/gemma/docs/core) 与 [Ollama integration](https://ai.google.dev/gemma/docs/integrations/ollama)（持续更新页面，无单独发布日期）：用于开放权重、本地运行和资源权衡的示例。
-- [C2PA 2.2 Explainer](https://c2pa.org/specifications/specifications/2.2/explainer/Explainer.html)（规范版本 2.2）：用于内容凭证不能单独证明事实真假的边界。
-- [UNESCO AI competency framework for students](https://www.unesco.org/en/articles/ai-competency-framework-students)（2024-08-08 发布，2026-01-16 更新）：用于以人为本、伦理、技术应用和设计四个能力维度，以及理解、应用、创造的进阶方式。
+- [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) (trang ghi ngày phát hành 2024-12-19, cập nhật 2026-08-10): dùng cho sự khác biệt về kiến trúc giữa quy trình làm việc và tác tử; trang bài viết lưu ý hệ sinh thái công cụ sẽ thay đổi.
+- [Anthropic: Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) (2025-09-29): dùng cho các nguyên tắc thiết kế việc sắp xếp, truy xuất, nén ngữ cảnh và ghi chú có cấu trúc.
+- [Anthropic: Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) (2026-01-09): dùng cho khái niệm đánh giá bằng nhiều lần thử, nhật ký quy trình và kết quả trong môi trường.
+- [Đặc tả MCP (2026-07-28)](https://modelcontextprotocol.io/specification/2026-07-28) (trang ghi latest): dùng cho ranh giới tương tác giữa tài nguyên, prompt, công cụ và Tasks tùy chọn.
+- [Thực tiễn tốt nhất về an toàn MCP](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices) (phiên bản hướng dẫn an toàn 2026-07-28): dùng cho quyền tối thiểu, token passthrough, SSRF, chuyển hướng và ranh giới đồng thuận.
+- [Anthropic: Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy) (phát hành 2026-02-18, cập nhật 2026-09-09): dùng để phân biệt năng lực mô hình, quyền cấp phép của người dùng, thiết kế sản phẩm và thời lượng vận hành tự chủ thực tế; dữ liệu đến từ mẫu sử dụng nội bộ của Anthropic, không phải chuẩn đối sánh phổ quát.
+- [Anthropic: An update on independent evaluators](https://www.anthropic.com/news/an-update-on-independent-evaluators) (2026-10-15): dùng cho tính chuyên môn, quyền truy cập, bằng chứng có thể kiểm tra và quyền tự do công bố của hoạt động đánh giá độc lập; không cấu thành tiêu chuẩn ngành hay yêu cầu quản lý.
+- [Anthropic: 2026 Usage Policy update](https://www.anthropic.com/news/2026-usage-policy-update) (phát hành 2026-10-08, có hiệu lực 2026-11-12): dùng để ghi lại phiên bản chính sách của nhà cung cấp, ngày có hiệu lực và việc rà soát thủ công trong các lĩnh vực rủi ro cao; không cấu thành ý kiến pháp lý và không có nghĩa áp dụng cho mọi khu vực hoặc dịch vụ.
+- [Google: Image understanding](https://ai.google.dev/gemini-api/docs/image-understanding) (trang cập nhật 2026-09-23): dùng cho năng lực hiểu hình ảnh và các giới hạn cần đánh giá thủ công.
+- [Google: Gemma overview](https://ai.google.dev/gemma/docs/core) và [Ollama integration](https://ai.google.dev/gemma/docs/integrations/ollama) (các trang được cập nhật liên tục, không có ngày phát hành riêng): dùng làm ví dụ về trọng số mở, chạy cục bộ và sự đánh đổi về tài nguyên.
+- [C2PA 2.2 Explainer](https://c2pa.org/specifications/specifications/2.2/explainer/Explainer.html) (phiên bản đặc tả 2.2): dùng cho ranh giới rằng chứng thực nội dung không thể tự mình chứng minh sự thật hay giả dối.
+- [UNESCO AI competency framework for students](https://www.unesco.org/en/articles/ai-competency-framework-students) (phát hành 2024-08-08, cập nhật 2026-01-16): dùng cho bốn chiều năng lực gồm lấy con người làm trung tâm, đạo đức, ứng dụng công nghệ và thiết kế, cùng cách tiến bộ qua các cấp độ hiểu, ứng dụng và sáng tạo.
 
-这些来源提供概念和限制，不构成产品排名、个人学习效果保证、隐私承诺或未来就业预测。家庭和儿童使用仍应遵守[家庭学习篇](../part-4/family-learning.md)中的年龄、数据、退出和成人责任边界。
+Các nguồn này cung cấp khái niệm và giới hạn, không cấu thành bảng xếp hạng sản phẩm, bảo đảm hiệu quả học tập cá nhân, cam kết về quyền riêng tư hay dự đoán việc làm trong tương lai. Việc sử dụng trong gia đình và với trẻ em vẫn phải tuân thủ các ranh giới về độ tuổi, dữ liệu, quyền rút lui và trách nhiệm của người lớn trong [Bài học gia đình](../part-4/family-learning.md).
 
-## 结语：趋势最后要回到人
+## Kết lời: cuối cùng, xu hướng phải quay về con người
 
-当工具不断变快，真正稀缺的不是知道更多按钮，而是能在不确定时缩小问题，保留证据，承认不知道，并在工具退出以后继续完成任务。趋势判断最终要回答一个朴素的问题：它有没有让一个真实的人更能理解、更能行动，也更能为结果负责？
+Khi công cụ ngày càng nhanh hơn, điều thực sự khan hiếm không phải là biết thêm nhiều nút bấm, mà là có thể thu hẹp vấn đề khi không chắc chắn, giữ lại bằng chứng, thừa nhận điều mình chưa biết và tiếp tục hoàn thành nhiệm vụ sau khi công cụ rút lui. Cuối cùng, việc đánh giá xu hướng phải trả lời một câu hỏi giản dị: nó có giúp một con người thực tế hiểu rõ hơn, hành động tốt hơn và có thể chịu trách nhiệm hơn về kết quả hay không?

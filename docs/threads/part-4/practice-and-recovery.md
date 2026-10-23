@@ -1,54 +1,54 @@
 ---
-title: 第四部：实践与恢复
-description: 让学习和改变进入真实日程，通过第一周实践、容量设计与可回归节律，使行动能够承受忙碌、中断和低谷。
+title: "Phần 4: Thực hành và hồi phục"
+description: Đưa việc học và thay đổi vào lịch trình thực tế, để hành động có thể chịu được sự bận rộn, gián đoạn và những lúc sa sút thông qua thực hành trong tuần đầu tiên, thiết kế theo năng lực và nhịp điệu có thể quay lại.
 updated: 2026-09-02
 ---
 
-# 第四部：实践与恢复
+# Phần 4: Thực hành và hồi phục
 
-计划写在纸上时，几乎总是比生活整齐。
+Khi được viết trên giấy, kế hoạch hầu như luôn ngăn nắp hơn cuộc sống.
 
-纸上没有临时电话，没有睡不好的夜晚，没有需要照顾的人，也没有某个下午突然消失的力气。它只知道目标、日期和一条看起来会一直向前的线。可真正的改变，必须进入这些不整齐的日子，才知道自己是否站得住。
+Trên giấy không có những cuộc điện thoại đột xuất, những đêm mất ngủ, những người cần được chăm sóc, cũng không có sức lực đột nhiên biến mất vào một buổi chiều nào đó. Nó chỉ biết mục tiêu, ngày tháng và một đường thẳng trông như sẽ luôn tiến về phía trước. Nhưng thay đổi thực sự phải bước vào những ngày tháng không ngăn nắp ấy thì mới biết mình có đứng vững được hay không.
 
-这一部不再增加新的宏大目标。它把前面学到的能力、故事、工具和证据放进一周、一日和一次中断里。我们会观察：什么条件让行动容易开始，什么代价正在被隐藏，容量下降时怎样减轻重量，停下来之后怎样知道从哪里回来。
+Phần này sẽ không bổ sung thêm những mục tiêu vĩ đại mới. Nó đưa những năng lực, câu chuyện, công cụ và bằng chứng đã học ở phần trước vào một tuần, một ngày và một lần gián đoạn. Chúng ta sẽ quan sát: điều kiện nào khiến việc hành động dễ bắt đầu, cái giá nào đang bị che giấu, làm thế nào để giảm trọng lượng khi năng lực suy giảm, và sau khi dừng lại thì làm thế nào biết mình nên quay lại từ đâu.
 
-可靠的系统不是永远不断。它是在断裂发生之后，不需要先羞辱自己，就仍然留着一条回来的路。
+Một hệ thống đáng tin cậy không phải là hệ thống không bao giờ gián đoạn. Đó là hệ thống mà sau khi đổ vỡ xảy ra, bạn vẫn còn một con đường để quay lại mà không cần trước hết phải tự làm nhục bản thân.
 
-## 本部要回答的问题
+## Những câu hỏi phần này cần giải đáp
 
-- 第一周怎样留下基线、反馈、延迟复测和一次迁移，而不是只留下连续打卡？
-- 怎样为完整日、压缩日和恢复日准备不同重量的动作？
-- 时间、精力、关系和身体如何一起进入预算？
-- 哪些事情会真正复利，哪些重复只是在积累疲惫？
-- 中断之后，怎样用一个足够小的动作恢复节律，而不是补偿性透支？
-- 当学习者尚未成年，孩子、家长、教师与 AI 怎样分工，既提供保护又不夺走主体性？
+- Làm thế nào để tuần đầu tiên để lại đường cơ sở, phản hồi, một lần kiểm tra lại sau trì hoãn và một lần chuyển giao, thay vì chỉ để lại chuỗi ngày điểm danh liên tục?
+- Làm thế nào để chuẩn bị những hành động có trọng lượng khác nhau cho ngày đầy đủ, ngày rút gọn và ngày hồi phục?
+- Thời gian, năng lượng, các mối quan hệ và cơ thể cùng được đưa vào ngân sách như thế nào?
+- Những việc nào thực sự tạo hiệu ứng tích lũy, và những lần lặp lại nào chỉ đang tích tụ mệt mỏi?
+- Sau khi bị gián đoạn, làm thế nào dùng một hành động đủ nhỏ để khôi phục nhịp điệu, thay vì quá sức để bù đắp?
+- Khi người học chưa thành niên, trẻ em, cha mẹ, giáo viên và AI nên phân công như thế nào để vừa cung cấp sự bảo vệ vừa không tước đi quyền chủ động?
 
-这里的“恢复”不是要求你尽快恢复生产力。安全、饮食、睡眠、求助和基本照料本身就可以是当天最重要的工作。
+“Phục hồi” ở đây không có nghĩa là yêu cầu bạn nhanh chóng lấy lại năng suất. An toàn, ăn uống, giấc ngủ, tìm kiếm sự giúp đỡ và chăm sóc cơ bản tự thân đã có thể là công việc quan trọng nhất trong ngày.
 
-## 阅读路径
+## Lộ trình đọc
 
-| 路径 | 章节 | 要留下的东西 |
+| Lộ trình | Chương | Điều cần để lại |
 | --- | --- | --- |
-| 先过一周 | [实践篇：先把第一周过完](week-1.md) | 起点、七天证据链和周末决定 |
-| 家庭共同学习（按需） | [家庭学习篇：把成长还给孩子](family-learning.md) | 一项由孩子参与定义的任务、角色边界与十四天共同协议 |
-| 安放一天 | [生活系统篇](daily-system.md) | 三个容量版本、环境入口和关系边界 |
-| 交给时间 | [节律篇](rhythm-and-compounding.md) | 可重复动作、回归协议和复查日期 |
+| Trải qua một tuần trước | [Phần thực hành: Trước hết hãy hoàn thành tuần đầu tiên](week-1.md) | Điểm xuất phát, chuỗi bằng chứng bảy ngày và quyết định cuối tuần |
+| Cùng học trong gia đình (khi cần) | [Phần học tập gia đình: Trả sự trưởng thành lại cho trẻ](family-learning.md) | Một nhiệm vụ do trẻ tham gia định nghĩa, ranh giới vai trò và thỏa thuận chung trong mười bốn ngày |
+| Sắp xếp một ngày | [Phần hệ thống đời sống](daily-system.md) | Ba phiên bản năng lực, lối vào từ môi trường và ranh giới trong các mối quan hệ |
+| Giao cho thời gian | [Phần nhịp điệu](rhythm-and-compounding.md) | Hành động có thể lặp lại, thỏa thuận quay lại và ngày kiểm tra lại |
 
-不要在第一周同时重建睡眠、学习、运动、工作和所有关系。只选择一个主问题。一个系统如果必须由五场同时进行的改革才能成立，就还没有准备好进入真实生活。
+Đừng đồng thời xây dựng lại giấc ngủ, việc học, vận động, công việc và mọi mối quan hệ ngay trong tuần đầu tiên. Chỉ chọn một vấn đề chính. Nếu một hệ thống phải được tạo dựng bằng năm cuộc cải tổ diễn ra đồng thời thì mới có thể vận hành, hệ thống đó vẫn chưa sẵn sàng bước vào đời sống thực.
 
-## 读完留下什么
+## Điều cần để lại sau khi đọc xong
 
-这一部结束时，请留下：
+Khi kết thúc phần này, hãy để lại:
 
-1. 一页[节律账本](../../templates/rhythm-ledger.md)，记录容量、最小动作和阻力；若正在支持未成年学习者，再留一份[家庭学习共同协议](../../templates/family-learning-agreement.md)；
-2. 一次真实中断后的回归记录；
-3. 一个决定继续的设计，以及一个明确删除的要求；
-4. 一段可以保护的时间、一项可以说出口的边界和一个需要时能够联系的人。
+1. Một trang [sổ cái nhịp điệu](../../templates/rhythm-ledger.md), ghi lại năng lực, hành động tối thiểu và lực cản; nếu đang hỗ trợ một người học chưa thành niên, hãy để lại thêm một [thỏa thuận chung về việc học trong gia đình](../../templates/family-learning-agreement.md);
+2. Một bản ghi về lần quay lại sau một lần gián đoạn thực tế;
+3. Một thiết kế quyết định tiếp tục, cùng một yêu cầu được chủ động loại bỏ;
+4. Một khoảng thời gian có thể bảo vệ, một ranh giới có thể nói ra và một người có thể liên hệ khi cần.
 
-数字上升不是唯一结果。如果你更早看见疲惫，更少用熬夜偿还中断，更愿意求助，也更知道什么不值得继续，这些同样是系统变得可靠的证据。
+Kết quả duy nhất không phải là những con số tăng lên. Nếu bạn nhận ra sự mệt mỏi sớm hơn, ít dùng những đêm thức khuya để trả giá cho sự gián đoạn hơn, sẵn lòng tìm kiếm sự giúp đỡ hơn, và hiểu rõ hơn điều gì không đáng để tiếp tục, thì tất cả những điều đó cũng là bằng chứng cho thấy hệ thống đã trở nên đáng tin cậy hơn.
 
-## 进入正文
+## Bước vào nội dung chính
 
-先不要设计理想的一年。把未来缩小到七天，让一个问题经过真实日程、不同容量和一次周末复查。
+Trước hết, đừng thiết kế một năm lý tưởng. Hãy thu nhỏ tương lai lại còn bảy ngày, để một vấn đề đi qua lịch trình thực tế, những mức năng lực khác nhau và một lần kiểm tra lại vào cuối tuần.
 
-一周并不足以定义你，却足以告诉你下一周应该轻一点，还是清楚一点。
+Một tuần không đủ để định nghĩa bạn, nhưng đủ để cho bạn biết tuần tới nên nhẹ nhàng hơn hay rõ ràng hơn.

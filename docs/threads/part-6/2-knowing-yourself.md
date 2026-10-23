@@ -1,64 +1,64 @@
 ---
-title: 认识自己：从角色与评价中收回定义权
-description: 从别人眼里的自己、借来的欲望和不敢说出的边界里退一步，辨认真正重要的价值，并把它们放进行动和选择。
+title: "Hiểu rõ bản thân: Giành lại quyền định nghĩa mình từ vai trò và đánh giá"
+description: Lùi lại một bước khỏi hình ảnh của mình trong mắt người khác, những ham muốn vay mượn và những ranh giới không dám nói ra; nhận diện những giá trị thực sự quan trọng, rồi đưa chúng vào hành động và lựa chọn.
 updated: 2026-10-02
 ---
 
-# 认识自己：从角色与评价中收回定义权
+# Hiểu rõ bản thân: Giành lại quyền định nghĩa mình từ vai trò và đánh giá
 
-了解自己，是看见自己如何运作；认识自己，则要继续追问：这些运作最终在为谁服务？
+Hiểu bản thân là nhìn thấy cách mình vận hành; còn nhận thức về bản thân thì cần tiếp tục hỏi: rốt cuộc những cách vận hành ấy đang phục vụ ai?
 
-我们很容易把角色误认成自己。学生要成绩，员工要表现，父母要负责，创业者要有野心，学习者要持续进步。角色本身没有错，它们让共同生活能够运转。问题在于，当一个角色占据全部解释权，你会开始用“我应该完成什么”代替“我愿意过怎样的生活”。
+Chúng ta rất dễ nhầm vai trò với chính mình. Học sinh cần thành tích, nhân viên cần thể hiện tốt, cha mẹ cần có trách nhiệm, doanh nhân cần tham vọng, người học cần không ngừng tiến bộ. Bản thân các vai trò không có gì sai; chúng giúp đời sống chung vận hành. Vấn đề là khi một vai trò chiếm toàn bộ quyền giải thích, bạn sẽ bắt đầu dùng “mình phải hoàn thành điều gì” để thay thế cho “mình muốn sống một cuộc đời như thế nào”.
 
-别人对你的评价也类似。它可以提供一条信息，却不应该成为你的户口本。有人说你不够稳，有人说你太慢，有人说你很有潜力；这些话可能各自有依据，也可能只反映了对方当时的需要。认识自己，不是拒绝一切反馈，而是把反馈放回证据和边界里，决定哪些值得保留。
+Đánh giá của người khác về bạn cũng tương tự. Nó có thể cung cấp một thông tin, nhưng không nên trở thành hồ sơ định danh của bạn. Có người nói bạn chưa đủ vững vàng, có người nói bạn quá chậm, có người nói bạn rất có tiềm năng; mỗi lời trong số đó có thể đều có căn cứ, cũng có thể chỉ phản ánh nhu cầu của đối phương vào thời điểm ấy. Nhận thức về bản thân không phải là từ chối mọi phản hồi, mà là đặt phản hồi trở lại trong bối cảnh bằng chứng và ranh giới, rồi quyết định điều gì đáng được giữ lại.
 
-## 本章速览
+## Tóm lược chương
 
-- 区分角色、他人评价和自己的选择；
-- 从实际付出的成本中辨认价值，而不是从口号中挑价值；
-- 识别“借来的欲望”，减少为了证明而追逐的目标；
-- 在英语学习中建立不依赖口音和速度的语言身份；
-- 用边界与决策卡把“我是谁”落实为今天如何行动。
+- Phân biệt vai trò, đánh giá của người khác và lựa chọn của chính mình;
+- Nhận diện giá trị từ những chi phí thực tế đã bỏ ra, thay vì chọn giá trị từ những khẩu hiệu;
+- Nhận ra “ham muốn vay mượn”, giảm theo đuổi những mục tiêu chỉ để chứng minh;
+- Xây dựng bản sắc ngôn ngữ không phụ thuộc vào giọng và tốc độ trong việc học tiếng Anh;
+- Dùng ranh giới và thẻ quyết định để biến câu hỏi “mình là ai” thành cách hành động hôm nay.
 
-## 1. 角色是我承担的部分，不是我的全部
+## 1. Vai trò là phần tôi đảm nhận, không phải toàn bộ con người tôi
 
-请列出你现在扮演的角色，并给每个角色补上三个句子：
+Hãy liệt kê những vai trò bạn đang đảm nhận, rồi bổ sung ba câu cho mỗi vai trò:
 
-| 角色 | 我承担的责任 | 我不负责的部分 | 这个角色的到期/复盘时间 |
+| Vai trò | Trách nhiệm tôi đảm nhận | Phần tôi không chịu trách nhiệm | Thời điểm vai trò kết thúc/đánh giá lại |
 | --- | --- | --- | --- |
-| 学习者 | 每周完成一项可验证输出 | 让所有人认可我的进步 | 本周日复盘 |
-| 家庭成员 | 及时沟通共同责任 | 替别人做所有决定 | 每月一次家庭回看 |
-| 工作负责人 | 说清结果、风险和交接 | 控制所有人的反应 | 项目节点 |
+| Người học | Mỗi tuần hoàn thành một sản phẩm đầu ra có thể kiểm chứng | Khiến tất cả mọi người công nhận sự tiến bộ của tôi | Đánh giá lại vào Chủ nhật tuần này |
+| Thành viên gia đình | Kịp thời trao đổi về trách nhiệm chung | Làm thay mọi quyết định của người khác | Mỗi tháng cùng gia đình nhìn lại một lần |
+| Người phụ trách công việc | Nói rõ kết quả, rủi ro và việc bàn giao | Kiểm soát phản ứng của tất cả mọi người | Theo các mốc của dự án |
 
-“我是一名学习者”可以帮助你安排练习；“我必须永远是进步最快的人”则把学习变成身份防卫。前一句允许调整方法，后一句会让每次落后都像人格受损。
+“Tôi là một người học” có thể giúp bạn sắp xếp việc luyện tập; còn “tôi phải luôn là người tiến bộ nhanh nhất” sẽ biến việc học thành sự phòng vệ bản sắc. Câu trước cho phép điều chỉnh phương pháp, câu sau khiến mỗi lần tụt lại đều giống như nhân cách bị tổn hại.
 
-问自己：如果某个角色明天消失，我还保留什么？答案可能是对清晰的偏好、对家人的关心、愿意把事情做完的责任感，或者对新问题的好奇。它们比职位、成绩和头衔更接近稳定的自我。
+Hãy tự hỏi: nếu một vai trò nào đó biến mất vào ngày mai, tôi còn giữ lại được gì? Câu trả lời có thể là sự ưa thích sự rõ ràng, sự quan tâm đến gia đình, tinh thần trách nhiệm muốn hoàn thành công việc, hoặc sự tò mò trước những vấn đề mới. Những điều đó gần với cái tôi ổn định hơn chức vụ, thành tích và danh xưng.
 
-## 2. 价值不是墙上的词，而是愿意承担的代价
+## 2. Giá trị không phải là những từ ngữ trên tường, mà là cái giá bạn sẵn lòng trả
 
-“我重视自由、健康、家庭和成长”很容易说。真正能辨认价值的，是你在资源不足时愿意保护什么，以及你愿意为它支付怎样的合理代价。
+“ Tôi coi trọng tự do, sức khỏe, gia đình và sự trưởng thành” là điều rất dễ nói. Điều thực sự giúp nhận diện giá trị là khi nguồn lực không đủ, bạn sẵn lòng bảo vệ điều gì, và sẵn lòng trả cái giá hợp lý nào cho điều đó.
 
-回看过去三个月，完成这张表：
+Hãy nhìn lại ba tháng qua và hoàn thành bảng này:
 
-| 选择 | 我实际保护了什么 | 为此付出的代价 | 代价是否仍然可承担 |
+| Lựa chọn | Thực tế tôi đã bảo vệ điều gì | Cái giá phải trả | Cái giá đó còn có thể gánh được không |
 | --- | --- | --- | --- |
-| 拒绝一个额外项目 | 保护睡眠和交付质量 | 少了一笔短期收入 | 暂时可承担 |
-| 每周与孩子共读 | 保护共同时间 | 少刷一部分资讯 | 可持续 |
-| 做一场英文演示 | 保护工作机会和表达权 | 准备时放弃部分舒适 | 可承担，但需分段准备 |
+| Từ chối một dự án bổ sung | Bảo vệ giấc ngủ và chất lượng bàn giao | Mất một khoản thu nhập ngắn hạn | Tạm thời có thể gánh được |
+| Đọc sách cùng con mỗi tuần | Bảo vệ thời gian bên nhau | Bớt lướt một phần tin tức | Có thể duy trì |
+| Thuyết trình bằng tiếng Anh | Bảo vệ cơ hội công việc và quyền được bày tỏ | Từ bỏ một phần sự thoải mái trong lúc chuẩn bị | Có thể gánh được, nhưng cần chuẩn bị theo từng phần |
 
-价值不是越多越好。一个人同时把收入、自由、速度、稳定、陪伴和探索都排在第一位，最后往往只能用愧疚管理冲突。请只选三项作为本阶段的保护对象，并写下当它们发生冲突时的排序。
+Giá trị không phải càng nhiều càng tốt. Một người đồng thời đặt thu nhập, tự do, tốc độ, sự ổn định, thời gian đồng hành và khám phá lên hàng đầu thì cuối cùng thường chỉ có thể dùng cảm giác tội lỗi để quản lý xung đột. Hãy chỉ chọn ba điều làm đối tượng cần bảo vệ trong giai đoạn này, và viết ra thứ tự ưu tiên khi chúng xung đột.
 
-排序不是永久宣判。它只是让当前选择有可解释的依据，也让未来的你能够知道：当时为什么这样做。
+Thứ tự này không phải là phán quyết vĩnh viễn. Nó chỉ giúp những lựa chọn hiện tại có cơ sở có thể giải thích, đồng thời giúp bạn trong tương lai biết được: tại sao khi ấy mình lại làm như vậy.
 
-## 3. 辨认借来的欲望
+## 3. Nhận diện những ham muốn vay mượn
 
-有些目标看起来像梦想，动力却来自比较、羞耻或想让某个人后悔。它们通常有三个信号：
+Một số mục tiêu trông giống như ước mơ, nhưng động lực lại đến từ sự so sánh, xấu hổ hoặc mong muốn khiến ai đó phải hối hận. Chúng thường có ba dấu hiệu:
 
-- 目标描述别人会如何看你，而不是你将解决什么真实问题；
-- 计划里有大量展示、排名和证明，缺少使用者、场景和完成标准；
-- 想象成功时最强的感觉是终于可以不被轻视，而不是生活获得了什么改善。
+- Mục tiêu mô tả người khác sẽ nhìn nhận bạn thế nào, thay vì bạn sẽ giải quyết vấn đề thực tế nào;
+- Trong kế hoạch có rất nhiều phần thể hiện, xếp hạng và chứng minh, nhưng thiếu người sử dụng, bối cảnh và tiêu chuẩn hoàn thành;
+- Khi tưởng tượng về thành công, cảm giác mạnh nhất là cuối cùng cũng không còn bị coi thường, thay vì cuộc sống đã được cải thiện điều gì.
 
-把一个目标放进“借来/属于我”两栏：
+Hãy đặt một mục tiêu vào hai cột “vay mượn/thuộc về tôi”:
 
 ```markdown
 我现在追逐的目标：
@@ -68,44 +68,44 @@ updated: 2026-10-02
 如果只保留其中一半，我会留下什么？
 ```
 
-如果答案发现它主要用于证明自己，也不用立刻放弃。先把目标改写成真实场景：我要把英语提高到什么程度，是为了在何种会议、邮件或关系中更有选择；我要做一个产品，是为了帮助谁减少哪一种具体困难。目的越具体，借来的欲望越难继续伪装成使命。
+Nếu câu trả lời cho thấy mục tiêu đó chủ yếu được dùng để chứng minh bản thân, bạn cũng không cần lập tức từ bỏ. Trước hết, hãy viết lại mục tiêu trong một bối cảnh thực tế: tôi muốn nâng trình độ tiếng Anh đến mức nào, để có thêm lựa chọn trong cuộc họp, email hoặc mối quan hệ nào; tôi muốn làm một sản phẩm để giúp ai giảm bớt khó khăn cụ thể nào. Mục đích càng cụ thể, ham muốn vay mượn càng khó tiếp tục giả dạng thành sứ mệnh.
 
-## 4. 语言身份不等于口音和速度
+## 4. Bản sắc ngôn ngữ không đồng nghĩa với giọng và tốc độ
 
-学习英语时，许多人暗中追逐的不是交流能力，而是“听起来像一个不会被看低的人”。于是口音、词数和流利速度承载了过多的自我评价。一句说错，便觉得自己的教育、出身和未来都被暴露。
+Khi học tiếng Anh, điều nhiều người âm thầm theo đuổi không phải là năng lực giao tiếp, mà là “nghe như một người sẽ không bị coi thường”. Vì thế, giọng nói, số lượng từ và tốc độ lưu loát phải gánh quá nhiều đánh giá về bản thân. Chỉ cần nói sai một câu, họ liền cảm thấy nền giáo dục, xuất thân và tương lai của mình đều bị phơi bày.
 
-把语言身份分成三层：
+Hãy chia bản sắc ngôn ngữ thành ba tầng:
 
-| 层 | 要回答的问题 | 更可靠的指标 |
+| Tầng | Câu hỏi cần trả lời | Chỉ số đáng tin cậy hơn |
 | --- | --- | --- |
-| 工具 | 我能完成什么沟通任务？ | 能否准确说明、追问、确认和交接 |
-| 声音 | 我希望保留哪些表达习惯？ | 对方能否理解，我能否修正误解 |
-| 归属 | 我允许自己以什么方式使用语言？ | 能否在不完美时继续参与对话 |
+| Công cụ | Tôi có thể hoàn thành nhiệm vụ giao tiếp nào? | Có thể trình bày chính xác, hỏi thêm, xác nhận và bàn giao hay không |
+| Giọng nói | Tôi muốn giữ lại những thói quen biểu đạt nào? | Đối phương có hiểu không, tôi có thể sửa chữa hiểu lầm không |
+| Sự thuộc về | Tôi cho phép mình sử dụng ngôn ngữ theo cách nào? | Có thể tiếp tục tham gia đối thoại ngay cả khi chưa hoàn hảo hay không |
 
-你可以追求发音清晰，也可以保留自己的口音；可以模仿表达，也可以拒绝把自己演成另一个人。真正的进步，不是消灭母语痕迹，而是在不同语境里拥有更多选择。一次需要澄清的对话，不比一段背得很熟的独白低级；它更接近真实能力。
+Bạn có thể hướng tới phát âm rõ ràng, cũng có thể giữ giọng riêng; có thể bắt chước cách diễn đạt, cũng có thể từ chối biến mình thành một người khác. Tiến bộ thực sự không phải là xóa sạch dấu vết tiếng mẹ đẻ, mà là có thêm nhiều lựa chọn trong những bối cảnh khác nhau. Một cuộc đối thoại cần làm rõ không hề thấp kém hơn một đoạn độc thoại đã học thuộc rất kỹ; nó gần với năng lực thực tế hơn.
 
-每周保留一个“沟通证据”：一次成功确认需求的对话、一封把风险写清楚的邮件、一段在追问下没有退出的说明。它们会帮助你把“我像不像某种英语使用者”换成“我能否让事情继续发生”。
+Mỗi tuần hãy giữ lại một “bằng chứng giao tiếp”: một cuộc trò chuyện xác nhận thành công nhu cầu, một email viết rõ rủi ro, hoặc một lời giải thích không bỏ cuộc khi bị hỏi thêm. Chúng sẽ giúp bạn thay câu hỏi “mình có giống một kiểu người sử dụng tiếng Anh nào đó không” bằng “mình có thể khiến công việc tiếp tục diễn ra không”.
 
-## 5. 边界是认识自己的动词
+## 5. Ranh giới là động từ của việc nhận thức về bản thân
 
-你可以列出一套价值观，却仍然在关键时刻答应不愿承担的事情。边界让价值进入句子，也让别人知道如何与你共同生活。
+Bạn có thể liệt kê một hệ giá trị, nhưng vẫn đồng ý với những việc mình không muốn gánh vác vào thời điểm then chốt. Ranh giới đưa giá trị vào câu chữ, đồng thời cho người khác biết cách chung sống với bạn.
 
-一个可执行的边界包含四项：
+Một ranh giới có thể thực hiện được bao gồm bốn phần:
 
-1. 事实：什么行为正在发生；
-2. 影响：它如何影响我或共同责任；
-3. 请求：我希望接下来怎样做；
-4. 后果：如果继续发生，我会采取什么可执行行动。
+1. Sự việc: hành vi nào đang xảy ra;
+2. Tác động: nó ảnh hưởng đến tôi hoặc trách nhiệm chung như thế nào;
+3. Yêu cầu: tôi mong muốn từ nay sẽ làm như thế nào;
+4. Hệ quả: nếu tiếp tục xảy ra, tôi sẽ thực hiện hành động cụ thể nào.
 
-例如：
+Ví dụ:
 
-> 最近三次会议都在最后一小时临时增加需求，导致我无法按原质量交付。以后新增内容请在前一天确认；如果仍在当天增加，我会把它移到下一版并在记录中标明风险。
+> Ba cuộc họp gần đây đều phát sinh yêu cầu vào giờ cuối, khiến tôi không thể bàn giao đúng chất lượng ban đầu. Từ nay, vui lòng xác nhận nội dung bổ sung trước một ngày; nếu vẫn phát sinh trong ngày, tôi sẽ chuyển nội dung đó sang phiên bản tiếp theo và ghi rõ rủi ro trong biên bản.
 
-边界不是要求别人同意你的感受，也不是用沉默惩罚对方。它是你决定自己接下来做什么，并把决定说清楚。无法执行的威胁会削弱边界；小而稳定的行动更有力量。
+Ranh giới không phải là yêu cầu người khác đồng ý với cảm xúc của bạn, cũng không phải dùng im lặng để trừng phạt đối phương. Đó là việc bạn quyết định mình sẽ làm gì tiếp theo và nói rõ quyết định ấy. Những lời đe dọa không thể thực hiện sẽ làm suy yếu ranh giới; những hành động nhỏ nhưng ổn định mới có sức mạnh hơn.
 
-## 6. 用决策卡把自我认识带进选择
+## 6. Dùng thẻ quyết định để đưa nhận thức về bản thân vào lựa chọn
 
-遇到工作、学习或关系选择时，先不问“哪个选项更体面”，填写以下五项：
+Khi đứng trước một lựa chọn về công việc, học tập hoặc mối quan hệ, trước tiên đừng hỏi “lựa chọn nào trông thể diện hơn”, mà hãy điền vào năm mục sau:
 
 ```markdown
 我真正要解决的问题：
@@ -115,24 +115,24 @@ updated: 2026-10-02
 如果证据不支持，我准备如何调整或退出：
 ```
 
-例如，决定报名一门高级英语课程前，先确认它是否解决你当前的口语任务，是否与可用时间匹配，课程失败时如何退出，而不是被“高阶”“名师”这些词带走。一个没有退出条件的决定，容易成为下一段自我证明。
+Ví dụ, trước khi quyết định đăng ký một khóa tiếng Anh nâng cao, hãy xác nhận xem khóa học đó có giải quyết nhiệm vụ nói hiện tại của bạn không, có phù hợp với quỹ thời gian sẵn có không, và nếu khóa học không hiệu quả thì sẽ rút lui thế nào, thay vì bị cuốn theo những từ như “cao cấp”, “giảng viên nổi tiếng”. Một quyết định không có điều kiện rút lui rất dễ trở thành chặng đường chứng minh bản thân tiếp theo.
 
-## 7. 七天“收回定义权”练习
+## 7. Bài tập bảy ngày “giành lại quyền định nghĩa mình”
 
-- **第 1 天**：列出五个角色，写清每个角色的责任与非责任；
-- **第 2 天**：从过去三个月挑出三个真实选择，找出其中保护的价值；
-- **第 3 天**：选一个目标，测试它在无人知晓时是否仍然有意义；
-- **第 4 天**：记录一次英语沟通证据，描述任务结果，不评价口音；
-- **第 5 天**：为一个反复消耗你的场景写四句边界；
-- **第 6 天**：用决策卡重写一个近期决定；
-- **第 7 天**：从所有价值中留下三项，写下它们冲突时的当前排序。
+- **Ngày 1**: Liệt kê năm vai trò, ghi rõ trách nhiệm và phần không thuộc trách nhiệm của từng vai trò;
+- **Ngày 2**: Chọn ra ba lựa chọn thực tế từ ba tháng qua, tìm xem trong đó bạn đã bảo vệ giá trị nào;
+- **Ngày 3**: Chọn một mục tiêu, kiểm tra xem nó còn ý nghĩa nếu không ai biết đến hay không;
+- **Ngày 4**: Ghi lại một bằng chứng giao tiếp bằng tiếng Anh, mô tả kết quả nhiệm vụ, không đánh giá giọng nói;
+- **Ngày 5**: Viết bốn câu ranh giới cho một hoàn cảnh liên tục khiến bạn kiệt sức;
+- **Ngày 6**: Dùng thẻ quyết định để viết lại một quyết định gần đây;
+- **Ngày 7**: Giữ lại ba giá trị trong tất cả các giá trị, viết ra thứ tự hiện tại khi chúng xung đột.
 
-练习完成后，问自己一句：我希望别人认识的“我”，是否已经在我愿意承担的行动里出现？如果没有，不要增加一个新标签，先把其中一个行动做得更清楚。
+Sau khi hoàn thành bài tập, hãy tự hỏi một câu: “Cái tôi mà tôi muốn người khác nhận biết có đang xuất hiện trong những hành động tôi sẵn lòng gánh vác hay chưa?” Nếu chưa, đừng thêm một nhãn mới; trước hết hãy làm một trong những hành động đó rõ ràng hơn.
 
-## 结语：把名字还给自己
+## Lời kết: Trao lại cái tên cho chính mình
 
-别人可以告诉你看见了什么，角色可以提醒你承担什么，工具可以帮助你走得更远，但没有哪个职位、成绩或评价能够独占“我是谁”的解释权。
+Người khác có thể cho bạn biết họ nhìn thấy điều gì, vai trò có thể nhắc bạn cần đảm nhận điều gì, công cụ có thể giúp bạn đi xa hơn, nhưng không một chức vụ, thành tích hay đánh giá nào có thể độc chiếm quyền giải thích “tôi là ai”.
 
-认识自己不是找到一个永远不变的性格核心，而是逐渐知道：哪些价值值得保护，哪些目标只是借来的掌声，哪些边界不能再用沉默换取，哪些语言和生活方式可以由你自己命名。
+Nhận thức về bản thân không phải là tìm ra một cốt lõi tính cách bất biến mãi mãi, mà là dần biết được: giá trị nào đáng được bảo vệ, mục tiêu nào chỉ là những tràng vỗ tay vay mượn, ranh giới nào không thể tiếp tục đổi lấy bằng im lặng, và ngôn ngữ cùng lối sống nào có thể được chính bạn đặt tên.
 
-当你能够为自己的选择说出清楚的理由，也能够在新证据出现时修改理由，你就不再只是被生活定义的人。你开始参与自己的定义。
+Khi bạn có thể nói rõ lý do cho lựa chọn của mình, đồng thời cũng có thể điều chỉnh lý do đó khi xuất hiện bằng chứng mới, bạn không còn chỉ là người bị cuộc sống định nghĩa. Bạn bắt đầu tham gia vào việc định nghĩa chính mình.

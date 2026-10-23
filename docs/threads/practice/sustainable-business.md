@@ -1,86 +1,86 @@
 ---
-title: 可持续的小生意：把范围、价格、交付、回款与容量放进同一张账本
-description: 用明确范围的服务和假设数字练习定价、全流程工时、单次交付余量、回款与容量管理，检查生意能否在可承担的投入内持续运转。
+title: "Bền vững với một doanh nghiệp nhỏ: đưa phạm vi, giá cả, giao hàng, thu hồi công nợ và năng lực vào cùng một sổ theo dõi"
+description: Luyện tập định giá, tính tổng số giờ cho toàn bộ quy trình, phần còn lại sau mỗi lần giao hàng, quản lý thu hồi công nợ và năng lực bằng các dịch vụ có phạm vi rõ ràng cùng những con số giả định, qua đó kiểm tra xem doanh nghiệp có thể vận hành bền vững trong mức đầu tư có thể đảm đương hay không.
 updated: 2026-09-19
 ---
 
-# 可持续的小生意
+# Doanh nghiệp nhỏ bền vững
 
-[找到首批用户](customer-discovery.md) 回答“是否有人需要并愿意试一次”；可持续经营还要回答“能否按承诺交付，收到款项，并有余力服务下一位用户”。订单、收入、到账和可用时间是不同的记录，不能拿其中一个代替其他三个。
+[Tìm những người dùng đầu tiên](customer-discovery.md) trả lời câu hỏi “có ai cần và sẵn sàng dùng thử một lần hay không”; nhưng để vận hành bền vững, còn phải trả lời “có thể giao đúng cam kết, nhận được tiền và vẫn còn đủ sức phục vụ người dùng tiếp theo hay không”. Đơn hàng, doanh thu, tiền đã nhận và thời gian có thể sử dụng là những bản ghi khác nhau, không thể lấy một bản ghi thay thế cho ba bản ghi còn lại.
 
-本页是 [创业篇](../part-2/entrepreneurship.md) 与 [AI 学习、项目开发与资源层创业](../part-3/2-ai-development-and-resource-layer.md) 的实操补充，把其中的交付和经营问题拆为可记录的工作。它是一套经营观察练习，数字均为假设，框架属于本指南建议。示例不包含完整税务、会计或合同处理，不能用于推算实际净利润或替代专业意见。
+Trang này là phần bổ sung thực hành cho [khởi nghiệp](../part-2/entrepreneurship.md) và [khởi nghiệp về học tập AI, phát triển dự án và tầng tài nguyên](../part-3/2-ai-development-and-resource-layer.md), tách các vấn đề về giao hàng và vận hành trong đó thành những công việc có thể ghi chép. Đây là một bài tập quan sát hoạt động kinh doanh; mọi con số đều là giả định, còn khung nội dung là đề xuất của hướng dẫn này. Ví dụ không bao gồm đầy đủ việc xử lý thuế, kế toán hoặc hợp đồng, không thể dùng để suy tính lợi nhuận ròng thực tế hay thay thế ý kiến chuyên môn.
 
-## 1. 先给服务划出边界
+## 1. Trước hết, xác định ranh giới cho dịch vụ
 
-把“帮你用好 AI”改写成可以验收的服务：为一份已获授权、结构符合要求的资料制作一个内部检索原型，交付演示、测试记录和操作说明。正式上线、持续维护、追加数据和额外培训需要另行确认。边界越含糊，双方越容易对“已经完成”产生不同理解。
+Hãy chuyển “giúp bạn sử dụng AI hiệu quả” thành một dịch vụ có thể nghiệm thu: xây dựng một nguyên mẫu tìm kiếm nội bộ cho một tài liệu đã được cấp quyền sử dụng và đáp ứng yêu cầu về cấu trúc, bàn giao bản trình diễn, hồ sơ kiểm thử và hướng dẫn thao tác. Việc đưa vào vận hành chính thức, bảo trì liên tục, bổ sung dữ liệu và đào tạo thêm cần được xác nhận riêng. Ranh giới càng mơ hồ, hai bên càng dễ có cách hiểu khác nhau về việc “đã hoàn thành”.
 
-一张服务说明至少应包含：适合谁、解决哪项任务、客户提供什么、交付物、验收条件、数量与期限、包含的修改，以及超出范围后的处理。对不适合的客户也写清原因，例如无法提供必要材料，或需要你尚不能保证的响应时间。
+Một bản mô tả dịch vụ tối thiểu phải bao gồm: phù hợp với ai, giải quyết nhiệm vụ nào, khách hàng cần cung cấp gì, sản phẩm bàn giao, tiêu chí nghiệm thu, số lượng và thời hạn, các lần chỉnh sửa được bao gồm, cũng như cách xử lý phần vượt phạm vi. Cũng cần nêu rõ lý do những khách hàng không phù hợp, chẳng hạn không thể cung cấp tài liệu cần thiết hoặc yêu cầu thời gian phản hồi mà bạn hiện chưa thể đảm bảo.
 
-客户提出新需求时，先区分三件事：原交付未达约定、原范围内的修改、真正新增的工作。不能把修复自己的遗漏都算作加价，也不能让一个有限服务悄悄变成无限承诺。将影响和新安排确认后，再开始新增部分。
+Khi khách hàng đưa ra yêu cầu mới, trước tiên hãy phân biệt ba việc: sản phẩm bàn giao ban đầu chưa đạt thỏa thuận, chỉnh sửa trong phạm vi ban đầu và công việc thực sự phát sinh thêm. Không thể tính việc khắc phục thiếu sót của chính mình thành khoản tăng giá, cũng không thể để một dịch vụ có giới hạn âm thầm biến thành cam kết vô hạn. Sau khi xác nhận tác động và phương án mới, hãy bắt đầu phần phát sinh.
 
-## 2. 定价也是一项实验
+## 2. Định giá cũng là một thử nghiệm
 
-价格假设可以写成：“对这个范围，目标客户是否接受这个价格，且实际交付投入是否在上限内？”展示清楚的价格和范围，记录接触人数、正式报价人数、接受人数、拒绝原因和已到账金额。
+Có thể viết giả thuyết về giá như sau: “Với phạm vi này, khách hàng mục tiêu có chấp nhận mức giá này không, và nguồn lực thực tế cho việc giao hàng có nằm trong giới hạn hay không?” Công khai rõ giá và phạm vi, đồng thời ghi lại số người đã tiếp cận, số người nhận báo giá chính thức, số người chấp nhận, lý do từ chối và số tiền đã nhận.
 
-一轮先保持服务范围相近。如果同时换了人群、渠道、价格和交付内容，就很难解释转化变化。小样本无法给出精确的需求曲线；一次没成交，也可能是时间、信任或内部审批不匹配。不要把所有拒绝都理解为“太贵”。
+Trong một vòng thử nghiệm, trước hết hãy giữ phạm vi dịch vụ tương đối giống nhau. Nếu đồng thời thay đổi đối tượng, kênh, giá và nội dung giao hàng, sẽ rất khó giải thích sự thay đổi về tỷ lệ chuyển đổi. Mẫu nhỏ không thể đưa ra đường cầu chính xác; một lần không chốt được đơn cũng có thể là do thời điểm, mức độ tin tưởng hoặc quy trình phê duyệt nội bộ không phù hợp. Đừng hiểu mọi lời từ chối là “quá đắt”.
 
-折扣必须有清楚的范围和期限，不制造不存在的原价或稀缺名额。试点价得到接受后，还需要检验常规定价。不同报价带来的比较也应记录客户条件差异，不能把两位不同客户当成严格对照实验。
+Khuyến mãi phải có phạm vi và thời hạn rõ ràng, không bịa ra giá gốc hoặc số lượng chỗ có hạn không tồn tại. Sau khi mức giá thử nghiệm được chấp nhận, vẫn cần kiểm tra mức giá thông thường. Khi so sánh các báo giá khác nhau, cũng phải ghi lại sự khác biệt về điều kiện của khách hàng; không thể xem hai khách hàng khác nhau là một thí nghiệm đối chứng nghiêm ngặt.
 
-## 3. 把自己的时间写进示例
+## 3. Đưa thời gian của chính mình vào ví dụ
 
-假设一次资料整理服务，价格为 1,200 元，已全额到账。先记录可以归属到这一单的支出和工时：
+Giả sử một dịch vụ sắp xếp tài liệu có giá 1.200 nhân dân tệ và đã nhận đủ tiền. Trước hết, hãy ghi lại các khoản chi và số giờ có thể quy cho đơn hàng này:
 
-| 项目 | 假设金额或时间 |
+| Hạng mục | Số tiền hoặc thời gian giả định |
 | --- | --- |
-| 工具与外部处理支出 | 120 元 |
-| 外部协助支出 | 80 元 |
-| 分摊到本单的获客现金支出 | 150 元 |
-| 沟通与报价 | 1 小时 |
-| 材料准备 | 1 小时 |
-| 制作 | 3 小时 |
-| 修改 | 1 小时 |
-| 交接与后续支持 | 1 小时 |
+| Chi phí công cụ và xử lý bên ngoài | 120 nhân dân tệ |
+| Chi phí hỗ trợ bên ngoài | 80 nhân dân tệ |
+| Chi phí tiền mặt thu hút khách hàng phân bổ cho đơn này | 150 nhân dân tệ |
+| Trao đổi và báo giá | 1 giờ |
+| Chuẩn bị tài liệu | 1 giờ |
+| Thực hiện | 3 giờ |
+| Chỉnh sửa | 1 giờ |
+| Bàn giao và hỗ trợ sau đó | 1 giờ |
 
-直接现金支出为 `120 + 80 + 150 = 350 元`，扣除这些支出后剩 `1,200 - 350 = 850 元`。全流程共 `7 小时`，不是只计算制作的 `3 小时`。
+Tổng chi tiền mặt trực tiếp là `120 + 80 + 150 = 350 元`, sau khi trừ các khoản chi này còn `1,200 - 350 = 850 元`. Toàn bộ quy trình mất `7 小时`, không chỉ tính `3 小时` dành cho việc thực hiện.
 
-为了观察时间代价，假设内部按每小时 80 元为自己的工时计入一个比较值，则本单工时比较值为 `7 × 80 = 560 元`，再扣除它还剩 `850 - 560 = 290 元`。这里的每小时 80 元只是演示假设，不能当作工资建议；自己的时间没有实际付现，也不等于没有代价。
+Để quan sát cái giá về thời gian, giả sử nội bộ tính 80 nhân dân tệ mỗi giờ cho thời gian của mình như một giá trị tham chiếu, thì giá trị tham chiếu cho thời gian của đơn này là `7 × 80 = 560 元`; sau khi trừ khoản đó còn `850 - 560 = 290 元`. Mức 80 nhân dân tệ mỗi giờ ở đây chỉ là giả định minh họa, không phải khuyến nghị về tiền lương; thời gian của chính mình không được chi trả bằng tiền mặt trên thực tế nhưng không có nghĩa là không phải trả giá.
 
-这 290 元还没有扣除公共固定支出、未分摊的试错、税费和其他遗漏成本，所以不是净利润。如果返工增加 4 小时，按同一比较值又增加 320 元，本单余量变为 `-30 元`。这个例子说明需要记录返工，不能推出整个业务必然亏损。
+Khoản 290 nhân dân tệ này chưa trừ chi phí cố định chung, phần thử-sai chưa được phân bổ, thuế và các chi phí bỏ sót khác, nên không phải là lợi nhuận ròng. Nếu việc làm lại tăng thêm 4 giờ, theo cùng giá trị tham chiếu sẽ phát sinh thêm 320 nhân dân tệ, phần còn lại của đơn này sẽ thành `-30 元`. Ví dụ này cho thấy cần ghi lại việc làm lại, chứ không thể suy ra rằng toàn bộ doanh nghiệp chắc chắn thua lỗ.
 
-获客支出也不能只分给成交者而忽略未成交活动。本例的 150 元已假设包含这一周期失败尝试的分摊；现实中应留下分摊方法，避免看起来每单赚钱，整体现金却减少。
+Chi phí thu hút khách hàng cũng không thể chỉ phân bổ cho những người đã mua mà bỏ qua các hoạt động không thành công. Trong ví dụ này, 150 nhân dân tệ được giả định đã bao gồm phần phân bổ cho những lần thử không thành công trong chu kỳ; trên thực tế cần lưu lại phương pháp phân bổ để tránh tình trạng nhìn bề ngoài mỗi đơn đều có lãi nhưng tổng tiền mặt lại giảm.
 
-## 4. 同时看到账和承诺
+## 4. Đồng thời theo dõi tiền đã nhận và các cam kết
 
-在经营记录里分别列出：已报价、已接受、已交付、已验收、应收、到账和退款。做了工作尚未到账，与款已到账但尚未履约，都需要单独看。客户预付款会增加当前余额，同时也带来未完成的交付义务，不能全部当成可以自由使用的余量。
+Trong hồ sơ vận hành, hãy tách riêng các mục: đã báo giá, đã chấp nhận, đã giao, đã nghiệm thu, phải thu, đã nhận tiền và hoàn tiền. Công việc đã thực hiện nhưng chưa nhận được tiền, cũng như tiền đã nhận nhưng chưa hoàn thành nghĩa vụ, đều cần được xem xét riêng. Khoản khách hàng trả trước làm tăng số dư hiện tại, đồng thời cũng tạo ra nghĩa vụ giao hàng chưa hoàn thành, nên không thể xem toàn bộ khoản đó là phần dư có thể tự do sử dụng.
 
-可以维护一个简单的未来四周视图：期初可用现金、已确定的支出、预计到账日期、未完成承诺。预计到账标注依据和不确定性，口头意向不要写成确定回款。若一笔款延迟，重新检查哪些已承诺工作仍能完成，及时与相关方确认安排，而不是用更多未验证订单掩盖缺口。
+Có thể duy trì một góc nhìn đơn giản cho bốn tuần tới: tiền mặt có thể sử dụng đầu kỳ, các khoản chi đã xác định, ngày dự kiến nhận tiền và các cam kết chưa hoàn thành. Với các khoản dự kiến nhận, hãy ghi rõ căn cứ và mức độ bất định; không được ghi một ý định bằng lời thành khoản thu chắc chắn. Nếu một khoản tiền bị chậm, hãy kiểm tra lại những công việc đã cam kết nào vẫn có thể hoàn thành, kịp thời xác nhận phương án với các bên liên quan thay vì dùng thêm những đơn hàng chưa được kiểm chứng để che lấp thiếu hụt.
 
-具体付款、退款和合同安排应按真实业务另行确认。本页关心的是记录是否能反映现实，不提供通用的预收比例或借款建议。
+Các phương án thanh toán, hoàn tiền và hợp đồng cụ thể cần được xác nhận riêng theo hoạt động kinh doanh thực tế. Trang này quan tâm đến việc hồ sơ có phản ánh đúng thực tế hay không, không đưa ra tỷ lệ thu trước hoặc khuyến nghị vay tiền mang tính chung chung.
 
-## 5. 容量由整条流程决定
+## 5. Năng lực do toàn bộ quy trình quyết định
 
-假设每周可以为生意安排 20 小时，预留 6 小时处理公共管理、学习和意外，只剩 14 小时可用于包含获客在内的订单流程。按每单 7 小时计算，账面容量是 2 单；这不是每周必须接满的指标。
+Giả sử mỗi tuần có thể dành 20 giờ cho việc kinh doanh, trong đó giữ lại 6 giờ để xử lý công việc quản lý chung, học tập và sự cố phát sinh, thì chỉ còn 14 giờ cho toàn bộ quy trình đơn hàng, bao gồm cả thu hút khách hàng. Tính theo 7 giờ mỗi đơn, năng lực trên sổ sách là 2 đơn; đây không phải chỉ tiêu bắt buộc phải lấp đầy mỗi tuần.
 
-若同周有一单多出 4 小时返工，就不能仍假装 14 小时内能完成全部工作。交付还可能被客户反馈等待、第三方排期或批量任务限制，因此把“可工作时数”和“承诺完成日期”分开。新增订单前，查看已承诺的工作，而不是只看日历上有没有空白。
+Nếu trong cùng tuần có một đơn phải làm lại thêm 4 giờ, thì không thể tiếp tục giả vờ rằng mọi công việc có thể hoàn thành trong 14 giờ. Việc giao hàng còn có thể bị giới hạn bởi thời gian chờ phản hồi của khách hàng, lịch của bên thứ ba hoặc các nhiệm vụ theo lô; vì vậy cần tách “số giờ có thể làm việc” khỏi “ngày cam kết hoàn thành”. Trước khi nhận đơn mới, hãy xem những công việc đã cam kết thay vì chỉ nhìn xem lịch còn khoảng trống hay không.
 
-连续超时需要回到范围、输入质量、修改次数和价格逐项检查。先移除没有价值的步骤，保留必要核对；不能为了让账本好看而取消关键验收。AI 辅助节约的时间，也要扣除提示、审核、纠错和维护后再记录。
+Việc liên tục làm quá giờ cần được kiểm tra lần lượt từ phạm vi, chất lượng đầu vào, số lần chỉnh sửa đến giá cả. Trước hết hãy loại bỏ những bước không tạo ra giá trị, nhưng giữ lại các bước kiểm tra cần thiết; không được hủy nghiệm thu quan trọng chỉ để sổ sách trông đẹp hơn. Thời gian tiết kiệm được nhờ AI cũng cần trừ thời gian viết prompt, kiểm tra, sửa lỗi và bảo trì trước khi ghi nhận.
 
-## 6. 交付之后再观察复购
+## 6. Theo dõi việc mua lại sau khi giao hàng
 
-验收要能执行。例如约定字段完整、样本核对通过、操作说明可由客户照着完成；“满意为止”既不能帮助交付，也无法解释成本。交接时记录版本、已知限制、确认人、尚未解决的问题和后续支持边界。
+Việc nghiệm thu phải có thể thực hiện được. Chẳng hạn, thỏa thuận rằng các trường dữ liệu phải đầy đủ, việc đối chiếu mẫu phải đạt yêu cầu và khách hàng có thể làm theo hướng dẫn thao tác; “cho đến khi hài lòng” vừa không giúp ích cho việc giao hàng, vừa không thể giải thích chi phí. Khi bàn giao, hãy ghi lại phiên bản, các giới hạn đã biết, người xác nhận, vấn đề chưa giải quyết và ranh giới hỗ trợ sau đó.
 
-复购意味着对方再次购买某种结果，但要记录原因：任务按周发生、第一次未完成被迫补做、促销带来购买，含义不同。客户不再购买也未必是交付失败，一次性任务完成本来就可能没有第二单。
+Mua lại có nghĩa là bên kia tiếp tục mua một kết quả nào đó, nhưng cần ghi lại lý do: nhiệm vụ phát sinh hằng tuần, lần đầu chưa hoàn thành nên buộc phải làm bổ sung, hay chương trình khuyến mãi thúc đẩy việc mua; mỗi trường hợp mang một ý nghĩa khác nhau. Việc khách hàng không mua lại cũng chưa chắc là do giao hàng thất bại; một nhiệm vụ chỉ thực hiện một lần vốn có thể không phát sinh đơn thứ hai.
 
-每周抽出一个固定时段，核对本周订单的真实工时、到账、返工、未履约工作和用户反馈。决定下一周只改善一个主要问题，例如材料不完整，就先改善输入清单；交付质量不稳，就先缩小服务范围。
+Mỗi tuần dành một khoảng thời gian cố định để đối chiếu số giờ thực tế, tiền đã nhận, việc làm lại, công việc chưa hoàn thành và phản hồi của người dùng đối với các đơn trong tuần. Quyết định tuần sau chỉ cải thiện một vấn đề chính, chẳng hạn nếu tài liệu không đầy đủ thì trước tiên cải thiện danh sách đầu vào; nếu chất lượng giao hàng không ổn định thì trước tiên thu hẹp phạm vi dịch vụ.
 
-## 7. 给继续经营设置条件
+## 7. Đặt điều kiện để tiếp tục kinh doanh
 
-在 [创业实验卡](../../templates/startup-experiment.md) 中提前写下本轮可投入的时间和现金上限，以及会触发暂停接单的情况：已有承诺无法兑现、关键资料无权使用、返工持续超出可承担范围。停止新增承诺不等于放弃已承担的责任，仍需完成交接和解释。
+Trong [thẻ thử nghiệm khởi nghiệp](../../templates/startup-experiment.md), hãy ghi trước giới hạn về thời gian và tiền mặt có thể投入 trong vòng này, cũng như những tình huống sẽ kích hoạt việc tạm dừng nhận đơn: không thể thực hiện cam kết hiện có, không có quyền sử dụng tài liệu quan trọng hoặc việc làm lại liên tục vượt quá mức có thể đảm đương. Dừng đưa ra cam kết mới không có nghĩa là từ bỏ trách nhiệm đã nhận; vẫn cần hoàn tất việc bàn giao và giải thích.
 
-可以继续的证据包括：相近范围下能反复交付、全部工时逐渐可预测、回款按约发生，且有空间承担支持和例外。这样的记录比“这个月特别忙”更能解释下一步。更多 AI 服务场景见 [项目开发与资源层创业](../part-3/2-ai-development-and-resource-layer.md)，个人经历见 [创业篇](../part-2/entrepreneurship.md)。
+Bằng chứng cho thấy có thể tiếp tục gồm: có thể giao hàng lặp lại trong phạm vi tương tự, tổng số giờ dần trở nên có thể dự đoán, tiền được thanh toán đúng thỏa thuận và vẫn còn dư địa để xử lý hỗ trợ cũng như ngoại lệ. Những hồ sơ như vậy có khả năng giải thích bước tiếp theo tốt hơn câu “tháng này đặc biệt bận”. Xem thêm các tình huống dịch vụ AI tại [phát triển dự án và khởi nghiệp về tầng tài nguyên](../part-3/2-ai-development-and-resource-layer.md), và trải nghiệm cá nhân tại [khởi nghiệp](../part-2/entrepreneurship.md).
 
-## 用英语解释一单生意
+## Giải thích một giao dịch kinh doanh bằng tiếng Anh
 
 > The service brought in 1,200 yuan and required seven hours of work. After the listed cash costs and an assumed value for our time, 290 yuan remained before shared overhead and other uncounted costs. That is not net profit. We need to reduce unplanned revisions before increasing capacity.
 
-关键词：**scope of work**（工作范围）、**acceptance criteria**（验收标准）、**rework**（返工）、**payment received**（已到账款项）、**delivery capacity**（交付容量）。
+Từ khóa: **scope of work**（phạm vi công việc）、**acceptance criteria**（tiêu chí nghiệm thu）、**rework**（làm lại）、**payment received**（khoản thanh toán đã nhận）、**delivery capacity**（năng lực giao hàng）。

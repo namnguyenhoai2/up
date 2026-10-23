@@ -92,4 +92,4 @@ type hint
 
 virtualenv
 
-本页是查阅清单，不是学习数量目标。请结合 [词汇篇](../part-1/2-vocabulary.md) 从真实任务中选择词条，并练习发音、释义、搭配、主动回忆和语境使用。
+Trang này là danh sách để tra cứu, không phải mục tiêu về số lượng từ cần học. Hãy kết hợp với [Phần từ vựng](../part-1/2-vocabulary.md), chọn các từ dựa trên nhiệm vụ thực tế và luyện tập phát âm, nghĩa, cách kết hợp từ, chủ động nhớ lại và sử dụng trong ngữ cảnh.

@@ -1,56 +1,56 @@
 ---
-title: 实践篇：先把第一周过完
-description: 在宏大计划之前，用一个真实问题、一份起点样本、七天最小行动和一次周末复测，让生活而不是热情决定下一步。
+title: "Phần thực hành: Hãy hoàn thành tuần đầu tiên trước"
+description: Trước những kế hoạch lớn lao, hãy dùng một vấn đề thực tế, một mẫu ban đầu, bảy ngày hành động tối thiểu và một lần kiểm tra lại vào cuối tuần để để cuộc sống, thay vì nhiệt huyết, quyết định bước tiếp theo.
 updated: 2026-09-01
 ---
 
-# 实践篇：先把第一周过完
+# Phần thực hành: Hãy hoàn thành tuần đầu tiên trước
 
-人在重新开始时，很容易对第一天寄予过高的期望。
+Khi bắt đầu lại, con người rất dễ đặt kỳ vọng quá cao vào ngày đầu tiên.
 
-我们打开一本新书，建好文件夹，买来设备，排出未来三个月的日程，仿佛只要开头足够郑重，后面的自己就会自动出现。可真正让计划失去重量的，往往不是第一天没有热情，而是第三天临时加班，第五天没睡好，第六天有人需要照顾，第七天已经不愿再看那张写得太满的表。
+Chúng ta mở một cuốn sách mới, tạo xong thư mục, mua thiết bị, sắp lịch cho ba tháng tới, như thể chỉ cần phần mở đầu đủ trang trọng thì phiên bản tương lai của mình sẽ tự động xuất hiện. Nhưng điều thực sự khiến kế hoạch mất đi sức nặng thường không phải là ngày đầu tiên thiếu nhiệt huyết, mà là ngày thứ ba đột nhiên phải làm thêm giờ, ngày thứ năm ngủ không ngon, ngày thứ sáu có người cần được chăm sóc, và đến ngày thứ bảy thì đã không muốn nhìn lại bảng kế hoạch kín đặc ấy nữa.
 
-所以，第一周不负责证明你已经改变。它只负责回答一个更诚实的问题：**这件事放进我的真实生活之后，还能不能继续？**
+Vì vậy, tuần đầu tiên không có nhiệm vụ chứng minh rằng bạn đã thay đổi. Nó chỉ có nhiệm vụ trả lời một câu hỏi chân thật hơn: **Sau khi đưa việc này vào cuộc sống thực của mình, liệu tôi có thể tiếp tục không?**
 
-这一周，你不需要表演自律，也不需要把低谷写成逆袭。你只需要留下一个未经修饰的起点，完成几次足够小的动作，再看见什么条件帮助了你，什么条件让你失去能力。生活给出的答案，通常比第一天的决心更有用。
+Trong tuần này, bạn không cần diễn vai người kỷ luật, cũng không cần biến giai đoạn sa sút thành câu chuyện lội ngược dòng. Bạn chỉ cần giữ lại một điểm xuất phát chưa qua trau chuốt, hoàn thành vài hành động đủ nhỏ, rồi nhìn xem điều kiện nào đã giúp bạn, điều kiện nào khiến bạn mất khả năng hành động. Câu trả lời mà cuộc sống đưa ra thường hữu ích hơn quyết tâm trong ngày đầu tiên.
 
-## 本章速览
+## Tóm tắt chương
 
-- 只带一个真实问题进入第一周，不同时改造整个人生；
-- 在使用 AI、课程或模板之前，保存一份未经辅助的起点样本；
-- 用七天完成输入、输出、反馈、延迟复测和一次迁移；
-- 为完整日、压缩日和恢复日准备不同重量的动作；
-- 周末只保留一个有效条件、删除一个无效要求，并决定是否进入下一周。
+- Chỉ mang theo một vấn đề thực tế bước vào tuần đầu tiên, không đồng thời cải tạo cả cuộc đời;
+- Trước khi sử dụng AI, khóa học hoặc mẫu có sẵn, hãy lưu lại một mẫu ban đầu chưa có hỗ trợ;
+- Dùng bảy ngày để hoàn thành chuỗi đầu vào, đầu ra, phản hồi, kiểm tra lại sau một khoảng trì hoãn và một lần chuyển giao;
+- Chuẩn bị những hành động có trọng lượng khác nhau cho ngày đầy đủ, ngày rút gọn và ngày phục hồi;
+- Cuối tuần chỉ giữ lại một điều kiện hữu hiệu, xóa bỏ một yêu cầu không hiệu quả và quyết định có bước sang tuần tiếp theo hay không.
 
-## 1. 第一周不是缩小版的九十天
+## 1. Tuần đầu tiên không phải là phiên bản thu nhỏ của chín mươi ngày
 
-很多七天计划，只是把九十天的野心压缩进更小的格子：每天学习、每天运动、每天阅读、每天早起，还要记录情绪和反思。看起来完整，实际把“观察生活”变成了“同时参加五场考试”。
+Nhiều kế hoạch bảy ngày chỉ là tham vọng chín mươi ngày bị nén vào những ô nhỏ hơn: học mỗi ngày, tập thể dục mỗi ngày, đọc mỗi ngày, dậy sớm mỗi ngày, lại còn phải ghi chép cảm xúc và suy ngẫm. Trông có vẻ đầy đủ, nhưng trên thực tế, nó biến việc “quan sát cuộc sống” thành “đồng thời tham gia năm kỳ thi”.
 
-第一周真正需要留下的只有三样东西：
+Tuần đầu tiên thực sự chỉ cần để lại ba thứ:
 
-1. **一份起点样本**：现在独立完成时，结果是什么样；
-2. **几次真实尝试**：在不同容量和环境里，能否再次开始；
-3. **一次周末决定**：下一周保留什么、停止什么、改变什么。
+1. **Một mẫu ban đầu**: khi tự mình hoàn thành ở thời điểm hiện tại, kết quả trông như thế nào;
+2. **Vài lần thử nghiệm thực tế**: trong những mức năng lượng và môi trường khác nhau, bạn có thể bắt đầu lại hay không;
+3. **Một quyết định vào cuối tuần**: tuần sau sẽ giữ lại điều gì, dừng điều gì và thay đổi điều gì.
 
-这一周不是用来估计你有多大潜力，而是用来发现系统条件。你可能发现早晨并不适合深度学习，通勤时却愿意听材料；也可能发现自己不是缺时间，而是每次打开任务都不知道第一步；还可能发现疲惫已经持续影响生活，需要先处理健康和责任，而不是继续增加训练。
+Tuần này không nhằm ước tính bạn có bao nhiêu tiềm năng, mà nhằm phát hiện các điều kiện của hệ thống. Bạn có thể phát hiện buổi sáng không phù hợp với việc học chuyên sâu, nhưng lại sẵn lòng nghe tài liệu khi đi lại; cũng có thể nhận ra mình không thiếu thời gian, mà mỗi lần mở nhiệm vụ ra đều không biết bước đầu tiên là gì; hoặc bạn sẽ thấy sự mệt mỏi đã liên tục ảnh hưởng đến cuộc sống, và cần xử lý sức khỏe cùng trách nhiệm trước, thay vì tiếp tục tăng cường luyện tập.
 
-能更早看见这些事实，不是失败。它避免你用更长的计划掩盖一个本来可以更早调整的问题。
+Nhìn thấy những sự thật này sớm hơn không phải là thất bại. Điều đó giúp bạn tránh dùng một kế hoạch dài hơn để che giấu một vấn đề vốn có thể được điều chỉnh sớm hơn.
 
-## 2. 只带一个问题进入这一周
+## 2. Chỉ mang theo một vấn đề bước vào tuần này
 
-一个好问题必须同时满足三项条件：与真实生活有关，七天内可以观察，而且答案可能改变下一步。
+Một câu hỏi hay phải đồng thời đáp ứng ba điều kiện: liên quan đến cuộc sống thực, có thể quan sát trong vòng bảy ngày, và câu trả lời có khả năng làm thay đổi bước tiếp theo.
 
-| 场景 | 过于宽泛的目标 | 第一周可以回答的问题 |
+| Bối cảnh | Mục tiêu quá rộng | Câu hỏi có thể trả lời trong tuần đầu tiên |
 | --- | --- | --- |
-| 英语 | 提高口语 | 我能否用英语说明一次真实困难，并回应一个追问？ |
-| 工作 | 提高编程能力 | 我能否独立修复一个真实问题，写出测试和变更说明？ |
-| 写作 | 开始持续输出 | 我能否完成一篇让陌生读者复述主旨的短文？ |
-| 生活 | 变得自律 | 我能否在三种容量下，都给明天留下一个明确入口？ |
-| 关系 | 学会沟通 | 我能否说明一个边界，同时说清楚何时回来回应？ |
+| Tiếng Anh | Cải thiện khả năng nói | Tôi có thể dùng tiếng Anh để giải thích một khó khăn thực tế và trả lời một câu hỏi tiếp theo không? |
+| Công việc | Nâng cao năng lực lập trình | Tôi có thể tự mình sửa một vấn đề thực tế, viết bài kiểm thử và mô tả thay đổi không? |
+| Viết lách | Bắt đầu xuất bản đều đặn | Tôi có thể hoàn thành một bài viết ngắn để độc giả xa lạ diễn đạt lại được ý chính không? |
+| Cuộc sống | Trở nên kỷ luật | Trong cả ba mức năng lượng, tôi có thể để lại cho ngày mai một điểm bắt đầu rõ ràng không? |
+| Mối quan hệ | Học cách giao tiếp | Tôi có thể nêu rõ một ranh giới, đồng thời nói rõ khi nào tôi sẽ quay lại phản hồi không? |
 
-不要选择一个答案必定是“继续努力”的问题。真正的问题应当允许三种结果：继续、缩小，或停止。
+Đừng chọn một câu hỏi mà câu trả lời chắc chắn sẽ là “tiếp tục cố gắng”. Một câu hỏi thực sự nên cho phép có ba kết quả: tiếp tục, thu nhỏ hoặc dừng lại.
 
-可以先写下：
+Bạn có thể viết trước:
 
 ```markdown
 这一周只回答的问题：
@@ -59,15 +59,15 @@ updated: 2026-09-01
 什么结果会让我缩小或停止：
 ```
 
-如果问题涉及持续失眠、疼痛、低落、失控或危险念头，第一周的目标应先改成记录事实、保证安全和寻求当地合格专业支持。本章不能替代医疗或心理照护。
+Nếu vấn đề liên quan đến mất ngủ kéo dài, đau đớn, tâm trạng sa sút, mất kiểm soát hoặc những ý nghĩ nguy hiểm, mục tiêu của tuần đầu tiên trước hết nên chuyển thành ghi lại sự thật, đảm bảo an toàn và tìm kiếm sự hỗ trợ chuyên môn đủ tiêu chuẩn tại địa phương. Chương này không thể thay thế việc chăm sóc y tế hoặc tâm lý.
 
-## 3. 第一天，保存未经修饰的起点
+## 3. Ngày đầu tiên, lưu lại điểm xuất phát chưa qua chỉnh sửa
 
-在请 AI 改写、观看教程或套用模板之前，先独立完成一次。时间控制在 10–25 分钟，不查找完美答案，也不为了好看反复重录。
+Trước khi nhờ AI viết lại, xem hướng dẫn hoặc áp dụng mẫu có sẵn, hãy tự mình hoàn thành một lần. Giới hạn thời gian trong 10–25 phút, không tìm kiếm câu trả lời hoàn hảo và cũng không thu âm lại nhiều lần chỉ để trông đẹp hơn.
 
-起点可以是一段 90 秒录音、一页短文、一次代码修改、一封真实邮件、一段阅读重构，或一次边界沟通的草稿。它不需要公开，但必须能够在第六天或第七天再次比较。
+Mẫu ban đầu có thể là một đoạn ghi âm 90 giây, một trang viết ngắn, một lần chỉnh sửa mã, một email thực tế, một đoạn tái cấu trúc nội dung đã đọc hoặc bản nháp của một cuộc trao đổi về ranh giới. Nó không cần được công khai, nhưng phải có khả năng được so sánh lại vào ngày thứ sáu hoặc thứ bảy.
 
-为样本附上五行说明：
+Đính kèm năm dòng mô tả cho mẫu:
 
 ```markdown
 日期与场景：
@@ -77,102 +77,102 @@ updated: 2026-09-01
 一周后使用什么新条件复测：
 ```
 
-起点难看是正常的。它的任务不是维护自尊，而是防止未来的你只凭感觉回忆“以前好像更差”。没有起点，进步容易被兴奋夸大，退步也容易被当天的情绪夸大。
+Mẫu ban đầu trông chưa đẹp là điều bình thường. Nhiệm vụ của nó không phải là bảo vệ lòng tự trọng, mà là ngăn phiên bản tương lai của bạn chỉ dựa vào cảm giác để nhớ rằng “hình như trước đây mình tệ hơn”. Không có điểm xuất phát, tiến bộ rất dễ bị sự phấn khích phóng đại, còn sa sút cũng dễ bị cảm xúc trong ngày phóng đại.
 
-保存之后，再决定是否使用 AI、同伴或课程。工具可以帮助你分析错误、生成平行任务和提供反馈，但不能替你补写这份基线。
+Sau khi lưu lại, hãy quyết định có sử dụng AI, bạn đồng hành hay khóa học hay không. Công cụ có thể giúp bạn phân tích lỗi, tạo nhiệm vụ tương tự và cung cấp phản hồi, nhưng không thể thay bạn viết bổ sung mẫu cơ sở này.
 
-## 4. 七天不求满格，只求能够回来
+## 4. Bảy ngày không cần đạt mức tối đa, chỉ cần có thể quay lại
 
-下面不是必须逐项打卡的课程表，而是一条最小证据链。某一天被打断，可以合并动作；如果容量下降，缩小输出，不熬夜补偿。
+Dưới đây không phải thời khóa biểu bắt buộc phải đánh dấu từng mục, mà là một chuỗi bằng chứng tối thiểu. Nếu một ngày bị gián đoạn, bạn có thể gộp các hành động; nếu năng lượng giảm, hãy thu nhỏ phần đầu ra, không thức khuya để bù.
 
-| 天数 | 只做一件事 | 留下的证据 |
+| Ngày | Chỉ làm một việc | Bằng chứng để lại |
 | --- | --- | --- |
-| 第 1 天 | 完成未经辅助的起点样本 | 首版和三个困难 |
-| 第 2 天 | 找一份高质量输入，只处理一个困难 | 来源、主旨和一个可复用结构 |
-| 第 3 天 | 在关闭材料后完成第二版 | 输出和与首版的差异 |
-| 第 4 天 | 获得一次具体反馈 | 原话、可验证问题和不采纳的建议 |
-| 第 5 天 | 只改一个变量，完成第三版 | 修改前后版本 |
-| 第 6 天 | 不看笔记，做一次延迟复测 | 保留与遗忘的部分 |
-| 第 7 天 | 更换主题、听众或限制，测试迁移 | 新条件下的结果和下一周决定 |
+| Ngày 1 | Hoàn thành mẫu ban đầu không có hỗ trợ | Bản đầu tiên và ba khó khăn |
+| Ngày 2 | Tìm một đầu vào chất lượng cao, chỉ xử lý một khó khăn | Nguồn, ý chính và một cấu trúc có thể tái sử dụng |
+| Ngày 3 | Hoàn thành bản thứ hai sau khi đóng tài liệu | Đầu ra và điểm khác biệt so với bản đầu tiên |
+| Ngày 4 | Nhận một lần phản hồi cụ thể | Nguyên văn, vấn đề có thể kiểm chứng và đề xuất không tiếp nhận |
+| Ngày 5 | Chỉ thay đổi một biến số, hoàn thành bản thứ ba | Phiên bản trước và sau khi chỉnh sửa |
+| Ngày 6 | Không xem ghi chú, thực hiện một lần kiểm tra lại sau trì hoãn | Phần còn giữ được và phần đã quên |
+| Ngày 7 | Thay đổi chủ đề, người nghe hoặc giới hạn để kiểm tra khả năng chuyển giao | Kết quả trong điều kiện mới và quyết định cho tuần sau |
 
-如果七天里只完成四天，不要伪造连续性。把缺席写成事实：发生了什么，改变了哪个条件，回来的成本有多大。比“连续七天”更重要的证据，是中断之后你是否仍然知道从哪里继续。
+Nếu trong bảy ngày bạn chỉ hoàn thành bốn ngày, đừng giả tạo tính liên tục. Hãy viết sự vắng mặt như một sự thật: đã xảy ra chuyện gì, điều kiện nào đã thay đổi, chi phí quay lại là bao nhiêu. Bằng chứng quan trọng hơn việc “liên tục bảy ngày” là sau khi bị gián đoạn, bạn có còn biết nên tiếp tục từ đâu hay không.
 
-## 5. 一个真实例子：用英语谈疲惫
+## 5. Một ví dụ thực tế: nói về sự mệt mỏi bằng tiếng Anh
 
-假设这一周的问题是：**我能否不用逐句翻译，用英语说明自己为什么疲惫、需要什么支持，并回应一个追问？**
+Giả sử câu hỏi của tuần này là: **Tôi có thể không dịch từng câu mà dùng tiếng Anh để giải thích vì sao mình mệt mỏi, mình cần sự hỗ trợ nào và trả lời một câu hỏi tiếp theo không?**
 
-疲惫可能来自睡眠、疾病、压力、照护责任、工作安排或许多其他原因。这里练习的是表达，不是诊断。持续影响生活的睡眠或身体问题，应交给合格专业人士评估。
+Mệt mỏi có thể bắt nguồn từ giấc ngủ, bệnh tật, áp lực, trách nhiệm chăm sóc, lịch làm việc hoặc nhiều nguyên nhân khác. Bài tập ở đây là luyện cách diễn đạt, không phải chẩn đoán. Những vấn đề về giấc ngủ hoặc thể chất ảnh hưởng dai dẳng đến cuộc sống nên được đánh giá bởi người có chuyên môn phù hợp.
 
-先保留五个可以迁移到日常沟通的结构：
+Trước tiên, hãy giữ lại năm cấu trúc có thể chuyển vào giao tiếp hằng ngày:
 
-| 英文结构 | 它承担的作用 | 你的句子 |
+| Cấu trúc tiếng Anh | Vai trò của nó | Câu của bạn |
 | --- | --- | --- |
-| `I have been feeling ...` | 描述近期状态，不把感受写成永久身份 | |
-| `What makes it harder is ...` | 指出一个可观察条件 | |
-| `I am not sure whether ...` | 保留不确定性，不假装诊断 | |
-| `What I need this week is ...` | 提出具体、有限的支持 | |
-| `If this continues, I will ...` | 说明下一项求助或检查动作 | |
+| `I have been feeling ...` | Mô tả trạng thái gần đây, không biến cảm nhận thành một danh tính vĩnh viễn | |
+| `What makes it harder is ...` | Chỉ ra một điều kiện có thể quan sát | |
+| `I am not sure whether ...` | Giữ lại sự không chắc chắn, không giả vờ chẩn đoán | |
+| `What I need this week is ...` | Đưa ra sự hỗ trợ cụ thể và có giới hạn | |
+| `If this continues, I will ...` | Nêu hành động tìm kiếm hỗ trợ hoặc kiểm tra tiếp theo | |
 
-第一天录一段 90 秒音频。第三天，在看过一份可靠材料或获得语言反馈后重录；第六天不看稿再说一次；第七天把听众从“朋友”换成“同事”或“专业人士”，观察用词和边界是否改变。
+Ngày đầu tiên, hãy ghi âm một đoạn 90 giây. Ngày thứ ba, sau khi xem một tài liệu đáng tin cậy hoặc nhận phản hồi về ngôn ngữ, hãy ghi âm lại; ngày thứ sáu, nói lại một lần mà không xem bản thảo; ngày thứ bảy, đổi người nghe từ “bạn bè” sang “đồng nghiệp” hoặc “chuyên gia”, quan sát xem cách dùng từ và ranh giới có thay đổi hay không.
 
-评分时不要只数语法错误。检查对方能否回答三件事：发生了什么，你不能确认什么，你希望下一步怎样做。能让真实沟通继续，比模仿某一种口音更接近可用的流利。
+Khi chấm điểm, đừng chỉ đếm lỗi ngữ pháp. Hãy kiểm tra xem đối phương có thể trả lời được ba điều không: đã xảy ra chuyện gì, bạn không thể xác nhận điều gì, và bạn mong muốn bước tiếp theo diễn ra thế nào. Giúp cuộc giao tiếp thực tế tiếp tục được quan trọng hơn việc bắt chước một giọng nào đó, và gần với sự lưu loát có thể sử dụng hơn.
 
-## 6. 低谷里的作品，不负责拯救人生
+## 6. Tác phẩm trong giai đoạn sa sút không có nhiệm vụ cứu rỗi cuộc đời
 
-在我生活失序的一段时间里，编程给过我一个很小的行动入口。以前公司的产品需要一款高性能富文本编辑器，我没有找到满足需求的开源项目，于是开始做 Editable，并把它发布到 GitHub。
+Trong một khoảng thời gian cuộc sống của tôi mất trật tự, lập trình đã cho tôi một điểm bắt đầu hành động rất nhỏ. Sản phẩm của công ty trước đây cần một trình soạn thảo văn bản phong phú hiệu năng cao, nhưng tôi không tìm được dự án mã nguồn mở nào đáp ứng nhu cầu, nên bắt đầu xây dựng Editable và phát hành nó trên GitHub.
 
-这个项目包含编辑器内核、插件系统、复杂表格数据结构和渲染引擎等问题。我花了很长时间逐步完成，也向 Slate.js 提交过相关工作。你可以查看 [Editable 项目](https://github.com/editablejs/editable)。
+Dự án này bao gồm các vấn đề như lõi trình soạn thảo, hệ thống plugin, cấu trúc dữ liệu bảng phức tạp và công cụ kết xuất. Tôi đã dành rất nhiều thời gian để từng bước hoàn thành nó, đồng thời cũng từng gửi các phần công việc liên quan đến Slate.js. Bạn có thể xem [dự án Editable](https://github.com/editablejs/editable).
 
-我不愿再把这段经历写成“编程治好了我”或“只要找到热爱就能走出低谷”。项目没有解决所有问题，也不能替代照护。它当时真正提供的，是一个边界清楚的小时：问题可以被拆分，代码可以被测试，今天完成的一小段不会因为情绪改变而消失。
+Tôi không muốn viết lại trải nghiệm này thành “lập trình đã chữa khỏi tôi” hay “chỉ cần tìm thấy đam mê là có thể thoát khỏi giai đoạn sa sút”. Dự án không giải quyết được mọi vấn đề, cũng không thể thay thế sự chăm sóc. Điều nó thực sự mang lại lúc đó là một khoảng thời gian có ranh giới rõ ràng: vấn đề có thể được chia nhỏ, mã có thể được kiểm thử, và một phần nhỏ hoàn thành hôm nay sẽ không biến mất chỉ vì cảm xúc thay đổi.
 
-第一周选择作品时，也不必寻找能证明人生价值的大项目。选择一个七天内可以关门的东西：
+Khi chọn một tác phẩm cho tuần đầu tiên, bạn cũng không cần tìm một dự án đủ lớn để chứng minh giá trị của cuộc đời. Hãy chọn một thứ có thể khép lại trong vòng bảy ngày:
 
-- 修复一个能够复现的问题，并补上测试；
-- 写完一页有明确读者的说明；
-- 录制一段可以获得追问的表达；
-- 改善一个真实使用者每天都会经过的步骤；
-- 提交一个范围清楚、可以被拒绝的贡献。
+- Sửa một vấn đề có thể tái hiện và bổ sung bài kiểm thử;
+- Viết xong một trang hướng dẫn có độc giả rõ ràng;
+- Ghi âm một đoạn diễn đạt có thể nhận được câu hỏi tiếp theo;
+- Cải thiện một bước mà người dùng thực tế phải thực hiện mỗi ngày;
+- Gửi một đóng góp có phạm vi rõ ràng và có thể bị từ chối.
 
-作品的作用不是拯救你，而是让判断进入现实。它会告诉你：问题是否真实，能力缺口在哪里，别人是否能使用，以及下一次是否值得继续。
+Tác dụng của tác phẩm không phải là cứu bạn, mà là đưa phán đoán vào thực tế. Nó sẽ cho bạn biết: vấn đề có thực hay không, khoảng thiếu hụt năng lực nằm ở đâu, người khác có thể sử dụng hay không, và lần sau có đáng để tiếp tục hay không.
 
-## 7. 给容量准备三个档位
+## 7. Chuẩn bị ba mức cho từng năng lượng
 
-第一周最容易失败，不是因为动作太少，而是计划只承认一种理想状态。提前写好三个档位：
+Tuần đầu tiên dễ thất bại nhất không phải vì hành động quá ít, mà vì kế hoạch chỉ thừa nhận một trạng thái lý tưởng. Hãy viết sẵn ba mức:
 
-| 档位 | 可用容量 | 当天动作 |
+| Mức | Năng lượng có thể sử dụng | Hành động trong ngày |
 | --- | --- | --- |
-| 完整日 | 30–45 分钟完整注意力 | 输入、输出和一句记录 |
-| 压缩日 | 10–20 分钟或被多次打断 | 只完成最小输出，标记下一个错误 |
-| 恢复日 | 生病、失眠、悲伤或责任激增 | 保护安全和基本照料，只准备下次入口 |
+| Ngày đầy đủ | 30–45 phút tập trung trọn vẹn | Đầu vào, đầu ra và một câu ghi chép |
+| Ngày rút gọn | 10–20 phút hoặc bị gián đoạn nhiều lần | Chỉ hoàn thành đầu ra tối thiểu, đánh dấu lỗi tiếp theo |
+| Ngày phục hồi | Bị bệnh, mất ngủ, đau buồn hoặc trách nhiệm tăng đột biến | Bảo đảm an toàn và chăm sóc cơ bản, chỉ chuẩn bị điểm bắt đầu cho lần sau |
 
-恢复日不要求生成作品。把材料放到桌面、写下明天第一步、向相关的人说明延迟，都可以是回归动作。如果连续几天只能运行恢复档，先回到[恢复篇：先把自己接住](../part-2/recovery.md)，检查身体、安全和支持网络。
+Ngày phục hồi không yêu cầu tạo ra tác phẩm. Đặt tài liệu lên bàn, viết bước đầu tiên của ngày mai, hoặc báo cho người liên quan biết về sự trì hoãn đều có thể là hành động quay lại. Nếu liên tục vài ngày bạn chỉ có thể vận hành ở mức phục hồi, trước tiên hãy quay lại [Phần phục hồi: Trước hết hãy đỡ lấy chính mình](../part-2/recovery.md), kiểm tra cơ thể, sự an toàn và mạng lưới hỗ trợ.
 
-如果正在支持未成年学习者，下一章先进入[家庭学习篇](family-learning.md)，把孩子、家长、学校与 AI 的角色边界说清楚；其他读者可以继续到[生活系统篇](daily-system.md)，处理精力预算、环境设计、关系边界和中断回归。第一周只需要证明一件事：你愿意根据容量改变任务，而不是根据任务惩罚自己。
+Nếu đang hỗ trợ người học chưa thành niên, hãy chuyển trước sang [Phần học tập gia đình](family-learning.md) ở chương tiếp theo để làm rõ ranh giới vai trò của trẻ, cha mẹ, nhà trường và AI; những độc giả khác có thể tiếp tục đến [Phần hệ thống cuộc sống](daily-system.md) để xử lý ngân sách năng lượng, thiết kế môi trường, ranh giới trong các mối quan hệ và việc quay lại sau gián đoạn. Tuần đầu tiên chỉ cần chứng minh một điều: bạn sẵn lòng thay đổi nhiệm vụ theo năng lượng của mình, thay vì trừng phạt bản thân theo nhiệm vụ.
 
-## 8. 周末只回答四个问题
+## 8. Cuối tuần chỉ trả lời bốn câu hỏi
 
-第七天不要先问“我是否足够努力”。把首版、反馈、延迟复测和迁移结果并排放进[证据链模板](../../templates/evidence-chain.md)，再回答四个问题：
+Vào ngày thứ bảy, đừng hỏi trước rằng “Mình đã đủ cố gắng chưa”. Hãy đặt bản đầu tiên, phản hồi, lần kiểm tra lại sau trì hoãn và kết quả chuyển giao cạnh nhau trong [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), rồi trả lời bốn câu hỏi:
 
-1. **完成**：我是否在真实限制下完成了目标动作？
-2. **质量**：输出在哪个可观察维度发生了变化？
-3. **保持**：离开材料之后，还剩下什么？
-4. **迁移**：更换主题、听众或环境后，能力是否仍然可用？
+1. **Hoàn thành**: Trong những giới hạn thực tế, tôi có hoàn thành hành động mục tiêu không?
+2. **Chất lượng**: Đầu ra đã thay đổi ở phương diện có thể quan sát nào?
+3. **Duy trì**: Sau khi rời khỏi tài liệu, còn lại điều gì?
+4. **Chuyển giao**: Sau khi thay đổi chủ đề, người nghe hoặc môi trường, năng lực này còn sử dụng được không?
 
-然后写两句决定：
+Sau đó viết hai câu quyết định:
 
 ```markdown
 下一周保留的一个条件：
 下一周删除或降低的一个要求：
 ```
 
-不要因为一周顺利，就立刻把任务翻倍；也不要因为一周混乱，就宣布自己不适合。使用[每周复盘模板](../../templates/weekly-review.md)把事实、解释和下一次实验分开。第一周样本太少，足以调整方向，不足以定义一个人。
+Đừng vì một tuần diễn ra suôn sẻ mà lập tức tăng gấp đôi nhiệm vụ; cũng đừng vì một tuần hỗn loạn mà tuyên bố mình không phù hợp. Hãy sử dụng [mẫu đánh giá hằng tuần](../../templates/weekly-review.md) để tách biệt sự việc, cách diễn giải và thí nghiệm tiếp theo. Mẫu của tuần đầu tiên quá ít để định nghĩa một con người, nhưng đủ để điều chỉnh hướng đi.
 
-## 结语：第一周不证明你是谁
+## Lời kết: Tuần đầu tiên không chứng minh bạn là ai
 
-第一周结束时，你可能只有三段不流利的录音、一个仍未完全修好的问题、一页被改得很乱的文字，或几天断断续续的记录。它们看起来不像改变人生，却比一份从未进入生活的宏大计划更接近未来。
+Khi tuần đầu tiên kết thúc, có thể bạn chỉ có ba đoạn ghi âm chưa trôi chảy, một vấn đề vẫn chưa được sửa hoàn toàn, một trang viết bị chỉnh sửa đến mức lộn xộn, hoặc vài ngày ghi chép ngắt quãng. Chúng trông không giống như đang thay đổi cuộc đời, nhưng lại gần với tương lai hơn một kế hoạch lớn lao chưa từng bước vào cuộc sống.
 
-真正的开始，不是第一天有多激动，而是生活打断之后，你仍能找到文件、看见下一步、承认今天的容量，然后完成一个不需要表演的动作。
+Khởi đầu thực sự không nằm ở việc ngày đầu tiên phấn khích đến đâu, mà ở chỗ sau khi bị cuộc sống làm gián đoạn, bạn vẫn có thể tìm thấy tệp, nhìn thấy bước tiếp theo, thừa nhận năng lượng hôm nay của mình, rồi hoàn thành một hành động không cần diễn.
 
-先把第一周过完。让事实替热情筛选方向，让作品替愿望留下痕迹，让一次周末决定为下一周减轻重量。
+Hãy hoàn thành tuần đầu tiên trước. Để sự thật thay cho nhiệt huyết sàng lọc hướng đi, để tác phẩm thay cho mong muốn lưu lại dấu vết, và để một quyết định cuối tuần làm nhẹ bớt gánh nặng cho tuần tiếp theo.
 
-你不需要在七天里证明自己是谁。你只需要为第八天，留下一条愿意再次走进去的路。
+Bạn không cần chứng minh mình là ai trong bảy ngày. Bạn chỉ cần để lại cho ngày thứ tám một con đường mà bạn sẵn lòng bước vào lần nữa.

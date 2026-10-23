@@ -1,87 +1,87 @@
 ---
-title: 从真实问题到首批用户：用访谈、人工试点与付费证据检验创业想法
-description: 从最近一次真实任务出发，记录替代方案、反证和购买阻力，用有限的人工试点与两周实验判断创业想法该继续、调整还是停止。
+title: "Từ vấn đề thực tế đến những người dùng đầu tiên: kiểm chứng ý tưởng khởi nghiệp bằng phỏng vấn, thử nghiệm thủ công và bằng chứng trả phí"
+description: Bắt đầu từ một nhiệm vụ thực tế gần đây nhất, ghi lại các phương án thay thế, bằng chứng phản bác và trở ngại khi mua, rồi dùng các thử nghiệm thủ công có giới hạn và thí nghiệm kéo dài hai tuần để quyết định ý tưởng khởi nghiệp nên tiếp tục, điều chỉnh hay dừng lại.
 updated: 2026-09-19
 ---
 
-# 从真实问题到首批用户
+# Từ vấn đề thực tế đến những người dùng đầu tiên
 
-一个创业想法可以先写成一句可被推翻的话：**哪一类人，在什么情境下，反复遇到什么问题，正在付出什么代价，愿意为怎样的结果改变做法？** 如果这句话还写不清，先做调查比先做完整产品更容易找到下一步。
+Một ý tưởng khởi nghiệp trước hết có thể được viết thành một mệnh đề có thể bị bác bỏ: **nhóm người nào, trong hoàn cảnh nào, liên tục gặp vấn đề gì, đang phải trả giá ra sao và sẵn sàng thay đổi cách làm để đạt kết quả như thế nào?** Nếu chưa thể viết rõ câu này, tiến hành khảo sát trước sẽ dễ tìm ra bước tiếp theo hơn là làm ngay một sản phẩm hoàn chỉnh.
 
-[创业篇](../part-2/entrepreneurship.md) 记录了作者的经历，[AI 学习、项目开发与资源层创业](../part-3/2-ai-development-and-resource-layer.md) 讨论技术与交付边界。本页为它们补充用户验证的实操流程，[可持续的小生意](sustainable-business.md) 接着检查交付与经营，供读者按自己的情境调整。下面的步骤、数量和门槛是本指南的建议，案例均为假设，不是研究结论，也不能由几个访谈推断整个市场。
+[Phần khởi nghiệp](../part-2/entrepreneurship.md) ghi lại trải nghiệm của tác giả, [việc học AI, phát triển dự án và khởi nghiệp ở tầng tài nguyên](../part-3/2-ai-development-and-resource-layer.md) thảo luận về ranh giới giữa công nghệ và việc cung cấp dịch vụ. Trang này bổ sung quy trình thực hành kiểm chứng người dùng cho các nội dung đó, [một công việc kinh doanh nhỏ bền vững](sustainable-business.md) tiếp tục kiểm tra việc cung cấp dịch vụ và vận hành, để độc giả điều chỉnh theo hoàn cảnh của mình. Các bước, số lượng và ngưỡng dưới đây là đề xuất của hướng dẫn này; các ví dụ đều là giả định, không phải kết luận nghiên cứu, và cũng không thể suy ra toàn bộ thị trường chỉ từ vài cuộc phỏng vấn.
 
-## 1. 缩小到一次任务
+## 1. Thu hẹp vào một nhiệm vụ
 
-“帮助小企业使用 AI”还不足以指导行动。可以缩小为：“每周更新商品介绍的小店经营者，需要把自己已确认的信息整理为发布草稿，目前逐项复制，经常漏掉规格。”这里有一个人、一项任务、一种既有做法和一个可以观察的问题。
+“Giúp doanh nghiệp nhỏ sử dụng AI” vẫn chưa đủ cụ thể để định hướng hành động. Có thể thu hẹp thành: “Chủ cửa hàng nhỏ cần cập nhật mô tả sản phẩm hằng tuần phải sắp xếp những thông tin mình đã xác nhận thành bản nháp để đăng, hiện đang sao chép từng mục và thường bỏ sót thông số.” Ở đây có một người, một nhiệm vụ, một cách làm hiện tại và một vấn đề có thể quan sát được.
 
-开始时分开记录三个角色：使用者、决定是否采用的人、付款的人。个体经营者可能兼任三者；在团队里，使用者觉得方便，并不表示负责人同意付费。再写出最可能让计划失败的一条假设，例如“整理工作足够频繁，值得单独购买服务”。
+Khi bắt đầu, hãy tách riêng ba vai trò: người sử dụng, người quyết định có áp dụng hay không và người trả tiền. Một cá nhân kinh doanh có thể kiêm cả ba; trong một nhóm, người sử dụng thấy tiện không có nghĩa là người phụ trách đồng ý trả phí. Sau đó, hãy viết ra một giả định có khả năng khiến kế hoạch thất bại nhất, chẳng hạn như “Công việc sắp xếp diễn ra đủ thường xuyên để đáng mua một dịch vụ riêng.”
 
-先寻找做过这项任务的人，包括继续手工做、使用现成工具和已经放弃尝试的人。熟人容易接触，但应标明关系；只采访热心朋友，不能解释陌生用户是否需要。记录邀请人数、回应人数和拒绝原因，不把没有回应的人算成认可。
+Trước tiên, hãy tìm những người đã từng thực hiện nhiệm vụ này, bao gồm người vẫn làm thủ công, người dùng công cụ có sẵn và người đã từ bỏ việc thử. Người quen dễ tiếp cận, nhưng cần ghi rõ mối quan hệ; chỉ phỏng vấn những người bạn nhiệt tình không thể cho biết liệu người dùng xa lạ có nhu cầu hay không. Ghi lại số người được mời, số người phản hồi và lý do từ chối; không xem những người không phản hồi là người công nhận nhu cầu.
 
-## 2. 询问过去的行为
+## 2. Hỏi về hành vi trong quá khứ
 
-访谈的目标是重建一次真实过程，不是说服对方称赞创意。可从这些问题开始：
+Mục tiêu của phỏng vấn là tái hiện một quy trình thực tế, không phải thuyết phục đối phương khen ngợi ý tưởng. Có thể bắt đầu bằng những câu hỏi sau:
 
-1. 最近一次做这件事是什么时候，是什么触发了它？
-2. 能按顺序讲讲从接到任务到完成都做了什么吗？
-3. 哪一步需要等待、返工或找别人帮助？能提供一个不含私人信息的例子吗？
-4. 目前用什么办法，为什么仍在使用？试过哪些办法又放弃了？
-5. 谁认定任务完成，谁决定是否花钱，下一次何时还会发生？
+1. Lần gần đây nhất bạn làm việc này là khi nào, điều gì đã kích hoạt nó?
+2. Bạn có thể kể theo trình tự từ lúc nhận nhiệm vụ đến khi hoàn thành đã làm những gì không?
+3. Bước nào cần chờ đợi, làm lại hoặc nhờ người khác giúp? Bạn có thể đưa ra một ví dụ không chứa thông tin riêng tư không?
+4. Hiện bạn đang dùng cách nào, tại sao vẫn tiếp tục dùng? Bạn đã thử những cách nào rồi từ bỏ?
+5. Ai xác định nhiệm vụ đã hoàn thành, ai quyết định có chi tiền hay không, và lần tiếp theo việc này sẽ xảy ra khi nào?
 
-先取得记录同意，不需要的信息不收集；不同意录音就记摘要。未经许可，不上传聊天记录或客户材料给 AI。把笔记分为“对方原话”“观察到的行为”“自己的解释”，不要把自己的解释放进引号里。
+Trước tiên, hãy xin phép ghi chép; không thu thập những thông tin không cần thiết. Nếu đối phương không đồng ý ghi âm thì hãy ghi lại phần tóm tắt. Nếu chưa được cho phép, không tải nội dung trò chuyện hoặc tài liệu khách hàng lên AI. Chia ghi chú thành “lời nói nguyên văn của đối phương”, “hành vi quan sát được” và “diễn giải của bản thân”; không đặt phần diễn giải của mình trong dấu ngoặc kép.
 
-“这个功能你会买吗”得到的是一种预测；“上次为解决它做了什么”更接近已经发生的行为。对方说“很麻烦”，还需要追问频率和后果。也主动问：什么时候这件事根本不值得解决？什么情况下现有办法已经足够？
+“Bạn có mua tính năng này không?” chỉ cho biết một dự đoán; “Lần trước bạn đã làm gì để giải quyết việc đó?” gần với hành vi đã thực sự xảy ra hơn. Khi đối phương nói “rất phiền”, vẫn cần hỏi thêm về tần suất và hậu quả. Đồng thời, hãy chủ động hỏi: Khi nào việc này hoàn toàn không đáng để giải quyết? Trong trường hợp nào cách hiện tại đã đủ tốt?
 
-## 3. 和现有办法比较
+## 3. So sánh với cách làm hiện tại
 
-替代方案不只包括同类产品，也包括手工、外包、少做一次、推迟和不做。给每种办法写下完成结果、全部耗时、直接支出、出错后的处理，以及换用新办法需要谁配合。
+Phương án thay thế không chỉ bao gồm các sản phẩm cùng loại, mà còn gồm làm thủ công, thuê ngoài, làm ít đi một lần, trì hoãn và không làm. Với mỗi phương án, hãy ghi lại kết quả đạt được, tổng thời gian bỏ ra, chi phí trực tiếp, cách xử lý khi xảy ra lỗi, cũng như cần ai phối hợp để chuyển sang cách làm mới.
 
-| 观察 | 可以支持的判断 | 暂时不能支持的判断 |
+| Quan sát | Phán đoán có thể được hỗ trợ | Phán đoán tạm thời chưa thể được hỗ trợ |
 | --- | --- | --- |
-| 说“听起来不错” | 愿意继续交流 | 愿意使用或付款 |
-| 展示最近的工作样例 | 任务发生过 | 任务足够频繁 |
-| 安排下一次试做并提供可用材料 | 愿意投入时间测试 | 新流程胜过原流程 |
-| 按明确范围付款并完成验收 | 这一次交换得到接受 | 稳定需求或可盈利 |
-| 在类似条件下再次购买 | 出现了重复需求的信号 | 更大人群都愿意购买 |
+| Nói “nghe hay đấy” | Sẵn sàng tiếp tục trao đổi | Sẵn sàng sử dụng hoặc trả tiền |
+| Cho xem mẫu công việc gần đây | Nhiệm vụ đã từng xảy ra | Nhiệm vụ xảy ra đủ thường xuyên |
+| Sắp xếp lần thử tiếp theo và cung cấp tài liệu có thể sử dụng | Sẵn sàng bỏ thời gian để thử nghiệm | Quy trình mới tốt hơn quy trình cũ |
+| Thanh toán trong phạm vi rõ ràng và hoàn tất nghiệm thu | Lần trao đổi này được chấp nhận | Nhu cầu ổn định hoặc có khả năng sinh lời |
+| Mua lại trong điều kiện tương tự | Xuất hiện tín hiệu về nhu cầu lặp lại | Nhóm người lớn hơn cũng sẵn sàng mua |
 
-这是整理证据的工作表，不是通用评分模型。记录反例同样重要：有人只在旺季需要，有人更信任熟悉的模板，有人切换流程比继续手工还麻烦。不要把这些人自动归类为“不懂产品”。
+Đây là bảng công tác để sắp xếp bằng chứng, không phải mô hình chấm điểm áp dụng chung. Việc ghi lại các trường hợp phản bác cũng quan trọng không kém: có người chỉ cần vào mùa cao điểm, có người tin tưởng hơn vào mẫu quen thuộc, có người thấy chuyển sang quy trình mới còn phiền hơn tiếp tục làm thủ công. Đừng tự động xếp những người này vào nhóm “không hiểu sản phẩm”.
 
-## 4. 用人工试点检验结果
+## 4. Dùng thử nghiệm thủ công để kiểm tra kết quả
 
-在自动化之前，可以先用人工完成一个很窄的服务。明确告诉参与者哪些由人完成、哪些由工具辅助，不把人工操作展示为已有的自动化能力。
+Trước khi tự động hóa, có thể dùng nhân lực để cung cấp một dịch vụ rất hẹp. Hãy nói rõ với người tham gia phần nào do con người thực hiện, phần nào được công cụ hỗ trợ; không trình bày thao tác thủ công như năng lực tự động hóa đã có sẵn.
 
-例如，只整理一批由经营者确认的商品资料，交付草稿和待确认问题，不代替对方发布。约定输入要求、数量、完成日期、包含几轮修改、验收方式及撤回办法。无法取得必要授权或无法避免敏感材料时，换成公开样例，或停止这一试点。
+Ví dụ, chỉ sắp xếp một lô thông tin sản phẩm đã được người kinh doanh xác nhận, bàn giao bản nháp và các vấn đề cần xác nhận, không thay đối phương đăng bài. Hãy thống nhất yêu cầu đầu vào, số lượng, ngày hoàn thành, số vòng chỉnh sửa bao gồm trong dịch vụ, phương thức nghiệm thu và cách rút lui. Khi không thể có được quyền cần thiết hoặc không thể tránh việc sử dụng tài liệu nhạy cảm, hãy đổi sang mẫu công khai hoặc dừng thử nghiệm này.
 
-保存原流程的基线，再记录新流程里双方的全部工作：准备材料、沟通、制作、核对、修改和等待。服务方省下的时间，如果变成用户额外核对的时间，就不能直接宣称节省。AI 项目还可结合 [开发与资源层创业](../part-3/2-ai-development-and-resource-layer.md) 检查数据、能力和交付边界。
+Lưu lại đường cơ sở của quy trình cũ, sau đó ghi nhận toàn bộ công việc của hai bên trong quy trình mới: chuẩn bị tài liệu, trao đổi, thực hiện, kiểm tra, chỉnh sửa và chờ đợi. Nếu thời gian bên cung cấp dịch vụ tiết kiệm được lại biến thành thời gian người dùng phải kiểm tra thêm, thì không thể trực tiếp tuyên bố là đã tiết kiệm thời gian. Các dự án AI cũng có thể kết hợp với [khởi nghiệp ở tầng phát triển và tài nguyên](../part-3/2-ai-development-and-resource-layer.md) để kiểm tra dữ liệu, năng lực và ranh giới cung cấp dịch vụ.
 
-付费试点应提前讲清价格、交付和退出安排，不能用隐藏收费或夸大效果制造“付款证据”。免费试用适合观察流程是否可用；它没有检验那个价格是否被接受。折扣、熟人关系和额外陪伴也要记录，因为下一次交易可能不再有这些条件。
+Với thử nghiệm có trả phí, cần nói rõ từ trước về giá, nội dung bàn giao và phương án rút lui; không được dùng phí ẩn hoặc phóng đại hiệu quả để tạo ra “bằng chứng thanh toán”. Dùng thử miễn phí phù hợp để quan sát xem quy trình có khả thi hay không; nó chưa kiểm tra liệu mức giá đó có được chấp nhận hay không. Cũng cần ghi lại mức giảm giá, mối quan hệ quen biết và sự hỗ trợ thêm, vì giao dịch lần sau có thể không còn những điều kiện này.
 
-## 5. 把两周安排成一个问题
+## 5. Biến hai tuần thành một câu hỏi
 
-两周只是便于设限的工作周期，招募或采购流程更长时，应另定合理期限。以下是一轮示例：
+Hai tuần chỉ là một chu kỳ làm việc thuận tiện để giới hạn phạm vi; khi quy trình tuyển người hoặc mua sắm kéo dài hơn, cần quy định một thời hạn hợp lý khác. Dưới đây là một vòng thử nghiệm mẫu:
 
-- **第 1–2 天**：写一个主要假设、可接受投入上限、目标人群和预先约定的判定条件。
-- **第 3–5 天**：访谈并还原最近任务，寻找不需要此服务的反例，整理现有办法。
-- **第 6–7 天**：向符合条件的人提出同一范围的试点，记录价格、拒绝原因和下一步安排。
-- **第 8–11 天**：交付少量试点，记录质量、双方时间、支出和返工。
-- **第 12–14 天**：按事先写下的条件判读，留下仍未知的问题和下一轮唯一改动。
+- **Ngày 1–2**: Viết một giả định chính, mức đầu tư tối đa có thể chấp nhận, nhóm người mục tiêu và điều kiện đánh giá đã thống nhất trước.
+- **Ngày 3–5**: Phỏng vấn và tái hiện nhiệm vụ gần đây, tìm những trường hợp phản bác không cần dịch vụ này, sắp xếp các cách làm hiện tại.
+- **Ngày 6–7**: Đề xuất thử nghiệm với cùng một phạm vi cho những người đủ điều kiện, ghi lại mức giá, lý do từ chối và kế hoạch bước tiếp theo.
+- **Ngày 8–11**: Cung cấp một số lượng nhỏ dịch vụ thử nghiệm, ghi lại chất lượng, thời gian của hai bên, chi phí và công việc làm lại.
+- **Ngày 12–14**: Đánh giá theo các điều kiện đã viết trước, giữ lại những câu hỏi vẫn chưa có lời giải và một thay đổi duy nhất cho vòng tiếp theo.
 
-假设本轮计划访谈 6 位经营者，最多投入 12 小时，只判断“是否值得再做一轮付费验证”。事先约定：至少 3 人能展示近期重复任务，至少 2 人接受明确价格的试点，并在约定范围内完成验收。这个门槛是团队的工作选择，不是市场验证标准；即使达到，也只支持再投入一小步。
+Giả sử vòng này dự định phỏng vấn 6 người kinh doanh, đầu tư tối đa 12 giờ và chỉ quyết định “có đáng thực hiện thêm một vòng kiểm chứng trả phí hay không”. Hãy thống nhất trước rằng: ít nhất 3 người có thể đưa ra nhiệm vụ lặp lại gần đây, ít nhất 2 người chấp nhận thử nghiệm ở mức giá rõ ràng và hoàn tất nghiệm thu trong phạm vi đã thống nhất. Ngưỡng này là lựa chọn làm việc của đội ngũ, không phải tiêu chuẩn kiểm chứng thị trường; ngay cả khi đạt được, nó cũng chỉ ủng hộ việc đầu tư thêm một bước nhỏ.
 
-## 6. 允许结论是调整或停止
+## 6. Cho phép kết luận là điều chỉnh hoặc dừng lại
 
-如果 6 人中 4 人有近期任务，2 人付款，但其中 1 单严重超出交付工时，可以得出“存在初步付费信号，交付成本尚未成立”。不能写成“产品已验证”。下一轮可以缩小输入范围并测量返工，不必立刻招人或增加功能。
+Nếu trong 6 người có 4 người có nhiệm vụ gần đây, 2 người thanh toán, nhưng 1 đơn trong số đó vượt xa số giờ cung cấp dịch vụ, có thể kết luận rằng “đã xuất hiện tín hiệu trả phí ban đầu, nhưng chi phí cung cấp dịch vụ chưa được xác lập”. Không thể viết thành “sản phẩm đã được kiểm chứng”. Vòng tiếp theo có thể thu hẹp phạm vi đầu vào và đo lường thời gian làm lại, không cần lập tức tuyển người hoặc bổ sung tính năng.
 
-- **继续**：事先条件满足，投入未超限；保留有效范围，只扩大一点样本或观察重复购买。
-- **调整**：有需要但流程、范围或价格假设不成立；下一轮只改一个主要变量，说明为什么。
-- **停止或暂缓**：核心条件未满足、无法触达目标人群，或投入已到上限；结清承诺，记录重启需要的新证据。
+- **Tiếp tục**: Điều kiện đặt ra từ trước được đáp ứng, mức đầu tư không vượt giới hạn; giữ lại phạm vi có hiệu quả, chỉ mở rộng thêm một chút quy mô mẫu hoặc quan sát việc mua lại.
+- **Điều chỉnh**: Có nhu cầu nhưng giả định về quy trình, phạm vi hoặc giá không đúng; vòng tiếp theo chỉ thay đổi một biến số chính và nêu rõ lý do.
+- **Dừng hoặc tạm hoãn**: Điều kiện cốt lõi không được đáp ứng, không thể tiếp cận nhóm người mục tiêu hoặc mức đầu tư đã chạm giới hạn; hoàn tất các cam kết, ghi lại bằng chứng mới cần có để khởi động lại.
 
-样本不足时，结论是“证据不足”，不是成功，也不必包装成失败。无论哪种结论，都写下“什么新事实会让我改变判断”。把决定落在 [创业实验卡](../../templates/startup-experiment.md) 上，再用 [可持续的小生意](sustainable-business.md) 检查交付与成本。
+Khi mẫu quá ít, kết luận là “chưa đủ bằng chứng”, không phải thành công, cũng không cần tô vẽ thành thất bại. Dù kết luận là gì, hãy viết xuống “Sự thật mới nào sẽ khiến tôi thay đổi nhận định?” Ghi quyết định vào [thẻ thí nghiệm khởi nghiệp](../../templates/startup-experiment.md) rồi dùng [một công việc kinh doanh nhỏ bền vững](sustainable-business.md) để kiểm tra việc cung cấp dịch vụ và chi phí.
 
-## 用英语说清这次实验
+## Diễn đạt rõ thí nghiệm này bằng tiếng Anh
 
-尝试用四句话向同伴汇报，保留数字和不确定性，不把“有人感兴趣”翻译成 “validated demand”：
+Hãy thử báo cáo với đồng nghiệp bằng bốn câu, giữ nguyên các con số và sự không chắc chắn, không dịch “có người quan tâm” thành “validated demand”:
 
 > We tested whether shop owners would pay for a narrowly scoped service. Two people paid for a pilot, but one delivery exceeded our time limit. This suggests some willingness to pay; it does not establish a sustainable business. Next, we will test a smaller scope and track revision time.
 
-关键词：**customer discovery**（了解用户问题）、**current workaround**（现有应对办法）、**willingness to pay**（付费意愿）、**disconfirming evidence**（不支持假设的证据）。
+Từ khóa: **customer discovery** (tìm hiểu vấn đề của người dùng), **current workaround** (cách ứng phó hiện tại), **willingness to pay** (mức độ sẵn sàng trả phí), **disconfirming evidence** (bằng chứng không ủng hộ giả định).

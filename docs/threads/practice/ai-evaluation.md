@@ -1,120 +1,120 @@
 ---
-title: AI 评测与可靠性：知道什么时候可以交付
-description: 用真实任务、小型测试集、失败分类和完整成本比较 AI 工作流，识别一次成功与稳定可用之间的差别。
+title: "Đánh giá và độ tin cậy của AI: Biết khi nào có thể đưa vào sử dụng"
+description: So sánh quy trình AI bằng các nhiệm vụ thực tế, tập kiểm thử nhỏ, phân loại lỗi và tổng chi phí để nhận ra sự khác biệt giữa một lần thành công và khả năng sử dụng ổn định.
 updated: 2026-10-16
 sources_checked: 2026-10-16
 source_review_interval: 60
 ---
 
-# AI 评测与可靠性：知道什么时候可以交付
+# Đánh giá và độ tin cậy của AI: Biết khi nào có thể đưa vào sử dụng
 
-演示里的一次成功，很难回答“下一位用户还能不能顺利完成”。评测的作用，是在交付之前暴露失败，并帮助你判断一次修改究竟改善了什么。
+Một lần thành công trong bản trình diễn khó trả lời câu hỏi “người dùng tiếp theo có thể hoàn thành suôn sẻ hay không”. Đánh giá có tác dụng làm lộ ra thất bại trước khi đưa vào sử dụng, đồng thời giúp bạn xác định một thay đổi cụ thể thực sự đã cải thiện điều gì.
 
-本章承接 [AI 工作流](ai-workflows.md)，聚焦一个具体问题：同样的任务，人工、当前流程和候选流程，谁能以可接受的成本交付合格结果？这里的小样本和阈值是教学设计，不是上线认证，也不能代表所有用户。
+Chương này tiếp nối [quy trình AI](ai-workflows.md), tập trung vào một câu hỏi cụ thể: với cùng một nhiệm vụ, con người, quy trình hiện tại và quy trình ứng viên, bên nào có thể cung cấp kết quả đạt yêu cầu với chi phí chấp nhận được? Các mẫu nhỏ và ngưỡng trong phần này được thiết kế cho mục đích giảng dạy, không phải chứng nhận để đưa vào vận hành, cũng không đại diện cho tất cả người dùng.
 
-## 从任务开始定义合格
+## Bắt đầu từ nhiệm vụ để định nghĩa thế nào là đạt yêu cầu
 
-不要只问“回答好不好”。写出使用者接下来要完成的动作，以及不能接受的失败。例如，整理公开活动资料时，合格结果必须能让人找到原文，区分已知与未知，不把过期时间写成当前安排。
+Đừng chỉ hỏi “câu trả lời có tốt không”. Hãy viết ra hành động mà người sử dụng cần thực hiện tiếp theo, cũng như những thất bại không thể chấp nhận. Ví dụ, khi tổng hợp tài liệu về một sự kiện công khai, kết quả đạt yêu cầu phải giúp người đọc tìm được văn bản gốc, phân biệt điều đã biết với điều chưa biết, và không biến thời gian đã hết hạn thành lịch trình hiện tại.
 
-把检查分为两层：
+Chia việc kiểm tra thành hai tầng:
 
-- **必须全部通过的条件**：来源真实、关键数字正确、不泄露受限资料、不执行未授权操作。不能靠文风得分抵消失败。
-- **可以比较的质量**：组织是否清楚、是否易读、修改次数和总耗时。满足前一层后再比较这些差异。
+- **Các điều kiện bắt buộc phải đạt toàn bộ**: nguồn phải có thật, các con số quan trọng phải chính xác, không làm lộ tài liệu bị hạn chế, không thực hiện thao tác chưa được cấp phép. Không thể dùng điểm văn phong để bù cho thất bại.
+- **Chất lượng có thể so sánh**: bố cục có rõ ràng không, có dễ đọc không, số lần chỉnh sửa và tổng thời gian mất bao lâu. Chỉ so sánh các khác biệt này sau khi đã đáp ứng tầng đầu tiên.
 
-标准应先于测试结果写好。看到候选版本失败后临时放宽标准，只会让评测替方案辩护。
+Phải viết sẵn tiêu chuẩn trước khi có kết quả kiểm thử. Việc tạm thời nới lỏng tiêu chuẩn sau khi thấy phiên bản ứng viên thất bại chỉ khiến cuộc đánh giá trở thành cách biện hộ cho phương án thay thế.
 
-## 建立一个小而有差异的测试集
+## Xây dựng một tập kiểm thử nhỏ nhưng đa dạng
 
-从你准备服务的真实任务取样，获得材料使用许可并移除不必要的信息。第一次可以选十个案例：四个常见输入、两个缺项、两个冲突或过期输入、一个工具失败、一个材料中夹带操作指令的案例。这只是便于开始的配比，重要的是覆盖后果不同的失败。
+Lấy mẫu từ các nhiệm vụ thực tế mà bạn chuẩn bị phục vụ, xin phép sử dụng tài liệu và loại bỏ những thông tin không cần thiết. Lần đầu có thể chọn mười trường hợp: bốn đầu vào phổ biến, hai trường hợp thiếu mục, hai đầu vào xung đột hoặc đã hết hạn, một trường hợp công cụ thất bại và một trường hợp tài liệu có kèm chỉ dẫn thao tác. Đây chỉ là tỷ lệ thuận tiện để bắt đầu; điều quan trọng là bao phủ các lỗi có hậu quả khác nhau.
 
-| 案例类型 | 想观察什么 | 合格行为示例 |
+| Loại trường hợp | Muốn quan sát điều gì | Ví dụ về hành vi đạt yêu cầu |
 | --- | --- | --- |
-| 常见任务 | 基本能力是否够用 | 结果满足格式和事实要求 |
-| 缺失信息 | 会不会补造事实 | 标出缺项，说明还需要什么 |
-| 来源冲突 | 会不会擅自选择 | 保留冲突，指出日期和口径 |
-| 工具超时或空结果 | 会不会谎称完成 | 报告失败状态并保存可恢复进度 |
-| 材料中的恶意指令 | 会不会越过权限 | 将指令作为材料，维持原任务边界 |
-| 重复提交 | 会不会重复产生副作用 | 检查现有状态后再决定是否写入 |
+| Nhiệm vụ phổ biến | Năng lực cơ bản có đủ không | Kết quả đáp ứng yêu cầu về định dạng và sự thật |
+| Thiếu thông tin | Có tự bịa ra sự thật không | Đánh dấu phần còn thiếu, nêu rõ cần thêm gì |
+| Nguồn xung đột | Có tự ý lựa chọn không | Giữ nguyên xung đột, chỉ ra ngày tháng và cách diễn giải |
+| Công cụ hết thời gian hoặc trả về kết quả rỗng | Có giả vờ đã hoàn thành không | Báo cáo trạng thái thất bại và lưu tiến độ có thể khôi phục |
+| Chỉ dẫn độc hại trong tài liệu | Có vượt quá quyền hạn không | Xem chỉ dẫn như một phần tài liệu, duy trì ranh giới của nhiệm vụ ban đầu |
+| Gửi trùng | Có lặp lại tác động phụ không | Kiểm tra trạng thái hiện có rồi mới quyết định có ghi dữ liệu hay không |
 
-给每个案例保存输入、预期行为和判定依据。不要把所有案例的答案都写进提示后，再把成绩当成泛化能力。留一组没有参与修改的案例，在决定采用版本时才使用；若参考它继续调提示，它就不再是保留集，需要补充新案例。
+Lưu đầu vào, hành vi kỳ vọng và căn cứ phán định cho từng trường hợp. Đừng viết sẵn đáp án của tất cả trường hợp vào prompt rồi coi điểm số là năng lực khái quát hóa. Giữ lại một nhóm trường hợp không tham gia vào quá trình chỉnh sửa và chỉ sử dụng nhóm đó khi quyết định chọn phiên bản; nếu tiếp tục xem nhóm này để điều chỉnh prompt thì nó không còn là tập bảo lưu nữa và cần bổ sung trường hợp mới.
 
-## 比较时只改变一个主要因素
+## Khi so sánh, chỉ thay đổi một yếu tố chính
 
-给当前版本和候选版本固定相同输入、资料、工具权限与预算，记录模型标识、提示版本、资料版本和运行时间。若同时更换模型、提示和知识库，就难以知道改善来自哪里。
+Cố định cùng đầu vào, tài liệu, quyền công cụ và ngân sách cho phiên bản hiện tại và phiên bản ứng viên; ghi lại mã định danh mô hình, phiên bản prompt, phiên bản tài liệu và thời gian chạy. Nếu đồng thời thay đổi mô hình, prompt và cơ sở tri thức, sẽ khó biết cải thiện đến từ đâu.
 
-同一案例可以重复运行几次，观察波动，尤其关注会产生外部操作的任务。重复结果不能当成更多独立用户，也不能把一次最好结果代表整个版本。保留失败、超时与人工接管记录，不从分母里删除。
+Có thể chạy lặp lại cùng một trường hợp vài lần để quan sát độ dao động, đặc biệt với các nhiệm vụ tạo ra thao tác bên ngoài. Kết quả lặp lại không được coi là nhiều người dùng độc lập hơn, cũng không thể lấy kết quả tốt nhất của một lần chạy để đại diện cho toàn bộ phiên bản. Hãy lưu lại các trường hợp thất bại, hết thời gian và phải con người tiếp quản; không xóa chúng khỏi mẫu số.
 
-Anthropic 2026 年 1 月的评测文章把一次评测拆成几个不能混用的对象：**任务**是固定输入与成功条件，**尝试**是该任务的一次运行，**过程记录**包含工具调用和中间交互，**结果**是环境最后的实际状态，**评测或智能体 harness**负责把运行、记录和评分串起来。多轮系统应分别保存这些对象；“模型说已完成”不能替代数据库、文件或用户可见结果的检查。这里引用评测概念；以下示例、规则与工作纸是本指南自己的练习设计。参见 [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)。
+Bài viết đánh giá của Anthropic vào tháng 1 năm 2026 chia một lần đánh giá thành một số đối tượng không được trộn lẫn: **nhiệm vụ** là đầu vào cố định và điều kiện thành công, **lần thử** là một lần chạy của nhiệm vụ đó, **bản ghi quá trình** bao gồm các lần gọi công cụ và tương tác trung gian, **kết quả** là trạng thái thực tế cuối cùng của môi trường, còn **harness đánh giá hoặc tác nhân** chịu trách nhiệm kết nối việc chạy, ghi nhận và chấm điểm. Với hệ thống nhiều lượt, cần lưu riêng các đối tượng này; “mô hình nói đã hoàn thành” không thể thay thế việc kiểm tra kết quả trong cơ sở dữ liệu, tệp tin hoặc giao diện người dùng. Ở đây chỉ trích dẫn khái niệm đánh giá; các ví dụ, quy tắc và phiếu thực hành dưới đây là thiết kế bài tập riêng của hướng dẫn này. Xem [Giải ngộ về đánh giá dành cho tác nhân AI](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)。
 
-## 长时任务与隔离环境要单独评测
+## Đánh giá riêng các nhiệm vụ dài hạn và môi trường cô lập
 
-如果任务可以异步运行、等待工具返回或在中途接收输入，就把“是否完成”拆成四个问题：状态能否恢复，重试是否重复安全，网络和写入范围是否仍在授权内，人能否在不可逆动作前接管。MCP 2026-07-28 规范把 Tasks 作为可选的长时任务扩展；它提供互操作语义，不替你决定超时、权限或安全边界。
+Nếu nhiệm vụ có thể chạy bất đồng bộ, chờ công cụ trả về hoặc nhận đầu vào giữa chừng, hãy tách câu hỏi “đã hoàn thành hay chưa” thành bốn vấn đề: trạng thái có thể khôi phục không, việc thử lại có an toàn và không lặp tác động phụ không, phạm vi mạng và ghi dữ liệu có còn nằm trong quyền được cấp không, và con người có thể tiếp quản trước thao tác không thể đảo ngược hay không. Đặc tả MCP 2026-07-28 coi Tasks là một phần mở rộng tùy chọn cho các nhiệm vụ dài hạn; đặc tả này cung cấp ngữ nghĩa tương tác, nhưng không quyết định thay bạn về thời gian chờ, quyền hạn hay ranh giới an toàn.
 
-为每次运行保存唯一编号、检查点、墙钟时长、工具调用次数、网络域名、授权记录和最终环境状态。用干净环境开始每次试验，避免上一次运行留下的文件、令牌或缓存让结果看起来更好。若使用浏览器或电脑操作，将页面文字、截图和链接视为不可信材料；不要因为页面要求就扩大网络出口或上传范围。
+Lưu cho mỗi lần chạy một mã duy nhất, các điểm kiểm tra, thời lượng theo đồng hồ thực, số lần gọi công cụ, tên miền mạng, bản ghi cấp quyền và trạng thái cuối cùng của môi trường. Bắt đầu mỗi thử nghiệm trong một môi trường sạch để tránh tệp, token hoặc bộ nhớ đệm còn sót lại từ lần chạy trước khiến kết quả trông tốt hơn. Nếu sử dụng trình duyệt hoặc thao tác trên máy tính, hãy coi văn bản trang, ảnh chụp màn hình và liên kết là tài liệu không đáng tin cậy; đừng mở rộng mạng bên ngoài hoặc phạm vi tải lên chỉ vì trang yêu cầu như vậy.
 
-再加入一个“评测环境故障”案例：网络本应关闭却意外开放、测试机器触达真实系统，或者重试重复写入。Anthropic 对网络安全评测事故的复盘说明，环境配置和范围说明本身就可能成为失败原因；因此通过条件应包含网络出口验证、凭证隔离、实时日志和可恢复的人工退路。参见 [Investigating three incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) 与 [MCP Security Best Practices](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices)。
+Ngoài ra, hãy thêm một trường hợp “môi trường đánh giá gặp sự cố”: mạng lẽ ra phải bị tắt nhưng bất ngờ được mở, máy kiểm thử tiếp cận hệ thống thật, hoặc việc thử lại ghi trùng. Báo cáo điều tra sự cố đánh giá an ninh mạng của Anthropic cho thấy cấu hình môi trường và mô tả phạm vi bản thân chúng cũng có thể trở thành nguyên nhân thất bại; vì vậy điều kiện đạt yêu cầu phải bao gồm xác minh kết nối mạng ra ngoài, cô lập thông tin xác thực, nhật ký thời gian thực và phương án con người có thể tiếp quản để khôi phục. Xem [Điều tra ba sự cố trong các cuộc đánh giá an ninh mạng của chúng tôi](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) và [Các thực hành tốt nhất về bảo mật MCP](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices)。
 
-### 长时任务的最小案例
+### Trường hợp tối thiểu cho nhiệm vụ dài hạn
 
-| 案例 | 额外记录 | 硬门 |
+| Trường hợp | Thông tin bổ sung cần ghi lại | Cửa ải cứng |
 | --- | --- | --- |
-| 中途暂停后恢复 | 检查点、恢复编号、已完成写入 | 不重复产生副作用，最终状态可核对 |
-| 工具超时后重试 | 超时原因、重试次数、重复安全标识 | 超过上限停止并交回人工 |
-| 页面夹带操作指令 | 页面 URL、截图/原文位置、授权范围 | 指令不改变任务边界或网络出口 |
-| 受限网络环境 | 域名白名单、凭证范围、出口日志 | 不能触达未授权系统，凭证不跨环境复用 |
+| Khôi phục sau khi tạm dừng giữa chừng | Điểm kiểm tra, mã khôi phục, các lần ghi đã hoàn tất | Không tạo tác động phụ trùng lặp, trạng thái cuối cùng có thể đối chiếu |
+| Thử lại sau khi công cụ hết thời gian | Nguyên nhân hết thời gian, số lần thử lại, mã nhận diện an toàn khi lặp | Dừng và chuyển lại cho con người khi vượt quá giới hạn |
+| Trang có kèm chỉ dẫn thao tác | URL trang, vị trí ảnh chụp màn hình/văn bản gốc, phạm vi cấp quyền | Chỉ dẫn không làm thay đổi ranh giới nhiệm vụ hoặc kết nối mạng ra ngoài |
+| Môi trường mạng bị hạn chế | Danh sách trắng tên miền, phạm vi thông tin xác thực, nhật ký kết nối ra ngoài | Không thể tiếp cận hệ thống chưa được cấp phép, thông tin xác thực không được dùng lại giữa các môi trường |
 
-这些记录用来判断工作流是否可照看，不是用来证明某个模型“已经安全”。
+Các bản ghi này dùng để phán đoán liệu quy trình có thể được giám sát hay không, chứ không dùng để chứng minh một mô hình nào đó “đã an toàn”.
 
-## 完整示例：一个更快但暂不能采用的版本
+## Ví dụ đầy đủ: một phiên bản nhanh hơn nhưng chưa thể áp dụng
 
-假设一个团队用十条公开资料测试比较表工作流，每条只运行一次，得到下面的**虚构结果**：
+Giả sử một nhóm dùng mười tài liệu công khai để kiểm thử quy trình lập bảng so sánh, mỗi tài liệu chỉ chạy một lần, và thu được **kết quả hư cấu** dưới đây:
 
-| 指标 | 当前版本 A | 候选版本 B |
+| Chỉ số | Phiên bản hiện tại A | Phiên bản ứng viên B |
 | --- | --- | --- |
-| 首次交付合格 | 8/10 | 9/10 |
-| 关键事实错误 | 0 | 1：把未给出的价格写成免费 |
-| 人工修改后合格 | 10/10 | 10/10 |
-| 准备、运行、核验与返工 | 120 分钟 | 100 分钟 |
-| 工具费用 | 6 元 | 8 元 |
+| Đạt yêu cầu ngay lần giao đầu tiên | 8/10 | 9/10 |
+| Lỗi sự thật quan trọng | 0 | 1: viết giá không được cung cấp thành miễn phí |
+| Đạt yêu cầu sau khi con người chỉnh sửa | 10/10 | 10/10 |
+| Chuẩn bị, chạy, xác minh và làm lại | 120 phút | 100 phút |
+| Chi phí công cụ | 6 nhân dân tệ | 8 nhân dân tệ |
 
-若示例内部把工时按每小时 60 元估算，A 的这批任务总成本为 `120 ÷ 60 × 60 + 6 = 126 元`，B 为 `100 ÷ 60 × 60 + 8 = 108 元`。这只是过程成本示例，不含获客、税费等经营项目；计入返工后的每份合格结果成本分别为 12.6 元和 10.8 元。
+Nếu trong ví dụ này, thời gian công được ước tính theo mức 60 nhân dân tệ mỗi giờ, tổng chi phí cho nhóm nhiệm vụ này của A là `120 ÷ 60 × 60 + 6 = 126 元`, còn của B là `100 ÷ 60 × 60 + 8 = 108 元`. Đây chỉ là ví dụ về chi phí quy trình, không bao gồm các khoản kinh doanh như chi phí thu hút khách hàng và thuế; tính cả việc làm lại, chi phí cho mỗi kết quả đạt yêu cầu lần lượt là 12,6 nhân dân tệ và 10,8 nhân dân tệ.
 
-B 更快、首次合格数量更多，但违反“关键事实不能编造”的条件，因此本轮决定是**不扩大使用，先修复并复测**。这不意味着 A 已被证明可靠；十条输入、各一次运行仍然证据有限。
+B nhanh hơn và có nhiều kết quả đạt yêu cầu ngay lần đầu hơn, nhưng vi phạm điều kiện “không được bịa ra sự thật quan trọng”, vì vậy quyết định trong vòng này là **không mở rộng sử dụng, trước tiên khắc phục rồi kiểm thử lại**. Điều này không có nghĩa A đã được chứng minh là đáng tin cậy; mười đầu vào, mỗi đầu vào chạy một lần, vẫn là bằng chứng hạn chế.
 
-这里“首次合格”和“人工修改后合格”必须分列。如果把人修好的结果全部算成模型的正确回答，会同时夸大质量和低估维护成本。
+“Đạt yêu cầu ngay lần đầu” và “đạt yêu cầu sau khi con người chỉnh sửa” phải được liệt kê riêng. Nếu tính tất cả kết quả đã được con người sửa là câu trả lời đúng của mô hình, sẽ đồng thời phóng đại chất lượng và đánh giá thấp chi phí bảo trì.
 
-## 谁来评分，以及怎样处理分歧
+## Ai chấm điểm và xử lý bất đồng như thế nào
 
-字段、算式、文件状态等尽量用明确规则判断。语义、用途和表达由了解任务的人核对。若用模型辅助评分，先拿一批人工标注的案例对照，检查它是否偏爱更长、更自信的回答。
+Với các trường như dữ liệu, công thức và trạng thái tệp, hãy cố gắng dùng quy tắc rõ ràng để phán định. Ngữ nghĩa, mục đích sử dụng và cách diễn đạt cần được người hiểu nhiệm vụ kiểm tra. Nếu dùng mô hình để hỗ trợ chấm điểm, trước tiên hãy đối chiếu với một nhóm trường hợp đã được con người gắn nhãn, kiểm tra xem mô hình có thiên vị câu trả lời dài hơn hoặc tự tin hơn không.
 
-对高影响错误逐条看原始材料，不只看平均分。两位审阅者不一致时，记录争议点，补充评分说明，再复评；不要仅靠投票掩盖标准含糊。允许答案有不同表述，也允许“材料不足，不能判断”是正确结果。
+Hãy xem xét từng lỗi có ảnh hưởng lớn dựa trên tài liệu gốc, không chỉ nhìn vào điểm trung bình. Khi hai người đánh giá không đồng nhất, hãy ghi lại điểm tranh luận, bổ sung hướng dẫn chấm điểm rồi đánh giá lại; đừng chỉ dựa vào biểu quyết để che giấu tiêu chuẩn mơ hồ. Cho phép câu trả lời có cách diễn đạt khác nhau, đồng thời chấp nhận “tài liệu không đủ, không thể phán đoán” là một kết quả đúng.
 
-## 把失败转成下一次回归检查
+## Chuyển thất bại thành kiểm tra hồi quy cho lần tiếp theo
 
-| 失败 | 先排查 | 下一步验证 |
+| Thất bại | Kiểm tra trước tiên | Xác minh bước tiếp theo |
 | --- | --- | --- |
-| 来源不支持结论 | 材料版本、提取、引用位置 | 换一份有相似表述但不同结论的资料 |
-| 没找到信息 | 检索范围、过滤条件、工具返回 | 加一个确实不存在信息的案例 |
-| 输出格式漂移 | 字段约定、结构校验 | 缺字段和额外字段都能被发现 |
-| 重复或越权操作 | 权限、状态检查、重试逻辑 | 用无副作用的测试环境演练中断重试 |
-| 核验时间过长 | 任务范围、来源粒度、验收方式 | 比较总工时是否真的下降 |
+| Nguồn không hỗ trợ kết luận | Phiên bản tài liệu, việc trích xuất, vị trí trích dẫn | Đổi sang tài liệu có cách diễn đạt tương tự nhưng kết luận khác |
+| Không tìm thấy thông tin | Phạm vi truy xuất, điều kiện lọc, kết quả công cụ trả về | Thêm một trường hợp mà thông tin thực sự không tồn tại |
+| Định dạng đầu ra bị lệch | Quy ước trường, kiểm tra cấu trúc | Có thể phát hiện cả trường bị thiếu và trường thừa |
+| Thao tác trùng lặp hoặc vượt quyền | Quyền hạn, kiểm tra trạng thái, logic thử lại | Diễn tập việc gián đoạn và thử lại trong môi trường kiểm thử không có tác động phụ |
+| Thời gian xác minh quá lâu | Phạm vi nhiệm vụ, mức độ chi tiết của nguồn, phương thức nghiệm thu | So sánh tổng thời gian công xem có thực sự giảm không |
 
-修复后既跑触发问题的案例，也跑之前合格的案例，避免解决一处、破坏另一处。若结果依赖外部服务，保留资料与环境版本，说明哪些条件无法完整复现。
+Sau khi khắc phục, hãy chạy cả trường hợp đã gây ra vấn đề lẫn những trường hợp trước đó đạt yêu cầu, để tránh sửa được một chỗ nhưng làm hỏng chỗ khác. Nếu kết quả phụ thuộc vào dịch vụ bên ngoài, hãy lưu phiên bản tài liệu và môi trường, đồng thời nêu rõ những điều kiện nào không thể tái hiện đầy đủ.
 
-## 从评测走向小范围使用
+## Từ đánh giá đến sử dụng trong phạm vi nhỏ
 
-### 模型变化以后，旧成绩不能自动沿用
+### Sau khi mô hình thay đổi, không thể tự động dùng lại điểm số cũ
 
-一次通过说明的是某套输入、模型、材料、记忆设置和工具权限下的表现。本指南建议把这些条件一起记录；如果服务不提供固定版本，也如实记下显示的模型名称、运行日期与无法控制的部分，不伪装成完全可复现。
+Một lần vượt qua chỉ phản ánh biểu hiện dưới một bộ điều kiện gồm đầu vào, mô hình, tài liệu, thiết lập bộ nhớ và quyền công cụ cụ thể. Hướng dẫn này đề xuất ghi lại toàn bộ các điều kiện đó; nếu dịch vụ không cung cấp phiên bản cố định, hãy trung thực ghi lại tên mô hình hiển thị, ngày chạy và những phần không thể kiểm soát, không giả vờ rằng mọi thứ hoàn toàn có thể tái hiện.
 
-建立两组用途不同的样本：回归集包含已经暴露的错误，用来防止重犯；保留集用来检查未参与调优的情况。反复看着保留集修改流程以后，就应把它转入开发或回归集，再补新案例。
+Thiết lập hai nhóm mẫu với mục đích khác nhau: tập hồi quy bao gồm các lỗi đã bộc lộ, dùng để ngăn lỗi tái diễn; tập bảo lưu dùng để kiểm tra những tình huống không tham gia tối ưu hóa. Sau khi liên tục xem tập bảo lưu để chỉnh sửa quy trình, cần chuyển nó vào tập phát triển hoặc hồi quy, rồi bổ sung trường hợp mới.
 
-更换模型或工具、更新知识库、开启记忆或发现异常时，先在测试环境跑相关案例，并检查最终文件或系统状态。对检索任务分别检查“有没有找到应有材料”和“结论是否被材料支持”；对多模态任务分别检查“识别是否正确”和“解释是否成立”。这样才能知道该修哪一层。
+Khi thay mô hình hoặc công cụ, cập nhật cơ sở tri thức, bật bộ nhớ hoặc phát hiện bất thường, trước tiên hãy chạy các trường hợp liên quan trong môi trường kiểm thử, đồng thời kiểm tra tệp cuối cùng hoặc trạng thái hệ thống. Với nhiệm vụ truy xuất, hãy kiểm tra riêng “có tìm được tài liệu cần có hay không” và “kết luận có được tài liệu hỗ trợ hay không”; với nhiệm vụ đa phương thức, hãy kiểm tra riêng “nhận diện có chính xác không” và “giải thích có hợp lý không”. Chỉ như vậy mới biết cần sửa ở tầng nào.
 
-记录采用日期、负责人和上次合格版本。出现硬性条件失败，就缩回已验证的范围；旧版本若无法恢复，保留人工流程作为退路。维护工作也计入成本，一次发布不能替代后续照看。
+Ghi lại ngày áp dụng, người phụ trách và phiên bản đạt yêu cầu gần nhất. Khi điều kiện bắt buộc thất bại, hãy thu hẹp lại phạm vi đã được xác minh; nếu không thể khôi phục phiên bản cũ, giữ quy trình con người làm phương án dự phòng. Công việc bảo trì cũng được tính vào chi phí; một lần phát hành không thể thay thế việc giám sát về sau.
 
-### 让每次采用都有退出办法
+### Để mỗi lần áp dụng đều có phương án rút lui
 
-采用版本前，写清允许处理的任务、不支持的输入、人工接管条件、费用上限和撤回办法。小范围使用期间继续收集真实失败，定期更新样本；更换模型、提示、检索或工具后重跑相关测试。
+Trước khi áp dụng một phiên bản, hãy ghi rõ các nhiệm vụ được phép xử lý, những đầu vào không được hỗ trợ, điều kiện con người tiếp quản, giới hạn chi phí và cách thu hồi. Trong thời gian sử dụng ở phạm vi nhỏ, tiếp tục thu thập các thất bại thực tế và thường xuyên cập nhật mẫu; sau khi thay mô hình, prompt, truy xuất hoặc công cụ, hãy chạy lại các kiểm thử liên quan.
 
-把一次完整对比记录在 [AI 评测记录模板](../../templates/ai-evaluation.md)。如果你还没有真实任务，先回到 [客户验证](customer-discovery.md)：再精细的评测，也不能证明一个无人需要的结果值得生产。
+Ghi lại một lần so sánh đầy đủ trong [Mẫu hồ sơ đánh giá AI](../../templates/ai-evaluation.md). Nếu bạn vẫn chưa có nhiệm vụ thực tế, hãy quay lại [Xác thực khách hàng](customer-discovery.md): một kết quả dù được đánh giá tinh vi đến đâu cũng không thể chứng minh rằng nó đáng đưa vào vận hành nếu không ai cần đến nó.

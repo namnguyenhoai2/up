@@ -1,61 +1,61 @@
 ---
-title: 自律与坚持实操：排查卡点、重启与退出
-description: 用卡点排查表和两个完整行动案例，把反复规划与中断困境转成可验收的一周实验，并写清调整和停止条件。
+title: "Thực hành tính tự giác và kiên trì: rà soát điểm nghẽn, khởi động lại và dừng lại"
+description: Dùng bảng rà soát điểm nghẽn và hai ví dụ hành động hoàn chỉnh để biến tình trạng lập kế hoạch lặp đi lặp lại và bế tắc do gián đoạn thành một thử nghiệm kéo dài một tuần có thể nghiệm thu, đồng thời viết rõ điều kiện điều chỉnh và dừng lại.
 updated: 2026-09-19
 ---
 
-# 自律与坚持实操：排查卡点、重启与退出
+# Thực hành tính tự giác và kiên trì: rà soát điểm nghẽn, khởi động lại và dừng lại
 
-已经读过方法，却仍然开始不了，或者停了两周不知道怎样接上，可以从这里选一个具体问题处理。本文是可调整的实践手册，不是经过验证的行为干预方案，也不承诺固定天数养成习惯。
+Đã đọc phương pháp nhưng vẫn không thể bắt đầu, hoặc đã dừng hai tuần mà không biết làm thế nào để tiếp tục, bạn có thể chọn một vấn đề cụ thể từ đây để xử lý. Bài viết này là sổ tay thực hành có thể điều chỉnh, không phải một phương án can thiệp hành vi đã được kiểm chứng, cũng không cam kết hình thành thói quen trong một số ngày cố định.
 
-关于容量、环境和边界，先查 [生活系统篇](../part-4/daily-system.md)；关于重复、反馈和中断，查 [节律篇](../part-4/rhythm-and-compounding.md)；关于跨周期的继续与停止，查 [行动与长期改变](../part-5/long-term-action.md)。这里不另设一套日常制度，只把这些方法变成一次有结束日期的行动实验。
+Về năng lực, môi trường và ranh giới, trước tiên hãy xem [phần hệ thống đời sống](../part-4/daily-system.md); về sự lặp lại, phản hồi và gián đoạn, hãy xem [phần nhịp điệu](../part-4/rhythm-and-compounding.md); về việc tiếp tục và dừng lại qua các chu kỳ, hãy xem [hành động và thay đổi dài hạn](../part-5/long-term-action.md). Ở đây không thiết lập thêm một chế độ sinh hoạt hằng ngày nào, mà chỉ biến những phương pháp này thành một thử nghiệm hành động có ngày kết thúc.
 
-## 先排查卡在哪里
+## Trước tiên hãy rà soát xem điểm nghẽn nằm ở đâu
 
-打开最近一次真实记录，找出从计划到产物之间断掉的一步。不要只写“拖延”，也不必一次解决整张表。
+Mở bản ghi thực tế gần đây nhất và tìm ra bước bị đứt giữa kế hoạch và sản phẩm. Đừng chỉ viết “trì hoãn”, cũng không cần giải quyết cả bảng trong một lần.
 
-| 看得见的情况 | 先核对的事实 | 本轮只试一个改动 | 检查什么 |
+| Tình huống có thể quan sát | Trước tiên cần đối chiếu sự thật nào | Vòng này chỉ thử một thay đổi | Cần kiểm tra điều gì |
 | --- | --- | --- | --- |
-| 日程反复被挤掉 | 所谓空闲是否属于自己 | 换一个确实可用的窗口，或缩量 | 窗口是否真实出现 |
-| 打开电脑却不知做什么 | 下一个文件和动作是否明确 | 提前写好文件位置与第一步 | 能否直接开始任务 |
-| 做很久仍无法结束 | 完成标准是否过大或含糊 | 缩成一段录音、一个测试或一个问题 | 是否能在预算内收尾 |
-| 计划越来越多，作品没有增加 | 本周保存的是安排还是产物 | 暂停新增计划，只做一个已有任务 | 是否留下可检查的首版 |
-| 已经做了很多，效果看不清 | 是否保留基线与一致的标准 | 给旧作品补一次同标准检查 | 哪个具体错误发生变化 |
-| 一中断就想补完全部欠账 | 原日程是否仍成立 | 清掉过期安排，重新排本周优先级 | 是否避免挤占已有责任 |
-| 总靠加班或失约维持 | 投入是否已越过预算 | 缩范围、协商截止日期或暂停 | 代价是否回到可承担范围 |
+| Lịch trình liên tục bị lấn át | Khoảng thời gian gọi là rảnh có thực sự thuộc về mình không | Đổi sang một khung giờ thực sự dùng được hoặc giảm khối lượng | Khung giờ đó có thực sự xuất hiện không |
+| Mở máy tính nhưng không biết làm gì | Tệp tiếp theo và hành động tiếp theo đã rõ chưa | Viết sẵn vị trí tệp và bước đầu tiên | Có thể bắt đầu nhiệm vụ ngay không |
+| Làm rất lâu nhưng vẫn không thể kết thúc | Tiêu chuẩn hoàn thành có quá lớn hoặc mơ hồ không | Thu nhỏ thành một đoạn ghi âm, một bài kiểm thử hoặc một câu hỏi | Có thể hoàn tất trong ngân sách thời gian không |
+| Kế hoạch ngày càng nhiều nhưng tác phẩm không tăng | Thứ được lưu lại trong tuần này là lịch sắp xếp hay sản phẩm | Tạm dừng thêm kế hoạch mới, chỉ làm một nhiệm vụ đã có | Có để lại bản đầu tiên có thể kiểm tra không |
+| Đã làm rất nhiều nhưng không nhìn rõ hiệu quả | Có giữ đường cơ sở và tiêu chuẩn nhất quán không | Kiểm tra lại tác phẩm cũ một lần theo cùng tiêu chuẩn | Lỗi cụ thể nào đã thay đổi |
+| Vừa gián đoạn đã muốn bù hết mọi khoản nợ | Lịch trình ban đầu còn phù hợp không | Xóa các sắp xếp đã quá hạn, sắp xếp lại ưu tiên trong tuần này | Có tránh lấn át những trách nhiệm hiện có không |
+| Luôn phải dựa vào làm thêm giờ hoặc thất hứa để duy trì | Mức đầu tư đã vượt quá ngân sách chưa | Thu hẹp phạm vi, thương lượng thời hạn hoặc tạm dừng | Chi phí đã trở về mức có thể gánh chịu chưa |
 
-这张表给出待验证的可能原因，不是对人的诊断。时间不可控时，换软件未必有效；目标已经失去用途时，也没有必要继续优化执行。
+Bảng này đưa ra những nguyên nhân có thể kiểm chứng, không phải chẩn đoán về một con người. Khi thời gian không thể kiểm soát, đổi phần mềm chưa chắc có tác dụng; khi mục tiêu đã mất đi công dụng, cũng không cần tiếp tục tối ưu hóa việc thực hiện.
 
-## 案例一：计划很多，却一直起不来
+## Ví dụ một: Kế hoạch rất nhiều nhưng mãi không thể bắt đầu
 
-**以下为虚构案例，日期、时长与结果用于演示，不是效果承诺。** 一名上班族希望在团队交流中用英语说明一个 AI 工具，同时收藏了英语课程、提示词教程和开发路线。
+**Ví dụ dưới đây là hư cấu; ngày tháng, thời lượng và kết quả chỉ dùng để minh họa, không phải cam kết về hiệu quả.** Một nhân viên văn phòng muốn dùng tiếng Anh để giới thiệu một công cụ AI trong giao tiếp với nhóm, đồng thời đã lưu các khóa học tiếng Anh, hướng dẫn về prompt và lộ trình phát triển.
 
-**原计划。** 每晚学英语一小时、学 AI 一小时，周末把笔记整理成完整知识库。“学完”没有明确标准，也没有为家庭事务留下位置。
+**Kế hoạch ban đầu.** Mỗi tối học tiếng Anh một giờ, học AI một giờ, cuối tuần sắp xếp ghi chú thành một cơ sở tri thức hoàn chỉnh. “Học xong” không có tiêu chuẩn rõ ràng, cũng không chừa chỗ cho việc gia đình.
 
-**失效证据。** 一周保存了五版日程，打开了十几个课程页面，没有录音或可运行示例。回看日程发现，晚上并不稳定，真正可安排的只有两次 20 分钟午休和周日 15 分钟。这里首先需要改变的是任务范围与入口，不能从这些记录推断学习能力差。
+**Bằng chứng thất bại.** Trong một tuần, người này lưu năm phiên bản lịch trình, mở hơn mười trang khóa học nhưng không có bản ghi âm hay ví dụ có thể chạy. Xem lại lịch trình cho thấy buổi tối không ổn định; thời gian thực sự có thể sắp xếp chỉ là hai lần nghỉ trưa 20 phút và 15 phút vào Chủ nhật. Điều cần thay đổi trước tiên ở đây là phạm vi nhiệm vụ và điểm bắt đầu, không thể suy ra từ những ghi chép này rằng năng lực học tập kém.
 
-**最小改动。** 本周只解释这个工具的用途和一个局限，材料固定为已有的一页提纲。第一次午休写三个要点；第二次在可出声的地点录一段 60 秒介绍并回听；周日修改一处，再录一次。总预算 55 分钟，准备和反馈都包含其中，不新增课程。每次结束只留下文件位置和下一步。
+**Thay đổi tối thiểu.** Tuần này chỉ giải thích công dụng của công cụ và một hạn chế của nó, với tài liệu cố định là bản đề cương một trang đã có. Trong giờ nghỉ trưa đầu tiên, viết ba ý chính; trong giờ nghỉ trưa thứ hai, tại nơi có thể nói thành tiếng, ghi một đoạn giới thiệu dài 60 giây rồi nghe lại; Chủ nhật sửa một chỗ và ghi lại một lần nữa. Tổng ngân sách là 55 phút, đã bao gồm thời gian chuẩn bị và phản hồi, không thêm khóa học mới. Sau mỗi lần chỉ để lại vị trí tệp và bước tiếp theo.
 
-**一周验收与停止。** 比较两段录音，看用途和局限是否表达清楚；若有愿意反馈的同事，请对方复述听到的意思。没有听众就标明外部反馈缺失，不能由 AI 的表扬代填。如果窗口再次消失，缩成一个要点或暂停；如果团队已不需要这项介绍，重新确认用途后再决定是否继续。
+**Nghiệm thu và dừng lại sau một tuần.** So sánh hai đoạn ghi âm để xem công dụng và hạn chế đã được diễn đạt rõ chưa; nếu có đồng nghiệp sẵn lòng phản hồi, hãy nhờ họ nhắc lại ý nghĩa họ nghe được. Nếu không có người nghe, hãy ghi rõ là thiếu phản hồi bên ngoài, không thể dùng lời khen của AI để thay thế. Nếu khung giờ lại biến mất, thu nhỏ còn một ý chính hoặc tạm dừng; nếu nhóm không còn cần phần giới thiệu này, hãy xác nhận lại công dụng rồi mới quyết định có tiếp tục hay không.
 
-示例的第一周结果可能是：两段录音都完成了，第二段补出了局限，但听众仍误解适用用户。于是下周只改“给谁使用”这一句。若仍只有新计划而没有首版，就继续检查第一个动作是否太大，不再加一份计划。小样本只说明这次任务的情况，不能证明整体英语能力已经提高。
+Kết quả tuần đầu của ví dụ này có thể là: cả hai đoạn ghi âm đều hoàn thành, đoạn thứ hai đã bổ sung hạn chế, nhưng người nghe vẫn hiểu sai đối tượng sử dụng. Vì vậy tuần sau chỉ sửa câu “dành cho ai sử dụng”. Nếu vẫn chỉ có kế hoạch mới mà không có bản đầu tiên, tiếp tục kiểm tra xem hành động đầu tiên có quá lớn không, không lập thêm một kế hoạch nữa. Mẫu nhỏ chỉ cho biết tình hình của nhiệm vụ lần này, không thể chứng minh năng lực tiếng Anh nói chung đã tiến bộ.
 
-## 案例二：中断两周，本周怎样恢复
+## Ví dụ hai: Gián đoạn hai tuần, tuần này khôi phục thế nào
 
-**以下同样为虚构案例。** 一名学习者搬家后想重启 AI 文档检索原型，旧待办仍列着六项新功能。
+**Ví dụ dưới đây cũng là hư cấu.** Một người học muốn khởi động lại nguyên mẫu truy xuất tài liệu bằng AI sau khi chuyển nhà; danh sách việc cũ vẫn còn sáu tính năng mới.
 
-**原计划。** 本周日以前补完搬家期间所有任务，再继续原来的开发节奏。旧记录没有写清运行入口，也没有保存检索正确性的基线。
+**Kế hoạch ban đầu.** Hoàn thành tất cả nhiệm vụ bị bỏ lại trong thời gian chuyển nhà trước Chủ nhật tuần này, sau đó tiếp tục nhịp độ phát triển như trước. Bản ghi cũ không viết rõ điểm bắt đầu để chạy, cũng không lưu đường cơ sở về độ chính xác truy xuất.
 
-**失效证据。** 项目两周没有运行，环境发生变化；“上次看起来能用”只有聊天描述，没有对应测试。现在只有两个 30 分钟窗口和一次 20 分钟复查，共 80 分钟。此时无法确认原型状态，更无法合理承诺六项功能。
+**Bằng chứng thất bại.** Dự án đã không chạy trong hai tuần, môi trường đã thay đổi; “lần trước có vẻ dùng được” chỉ là mô tả trong cuộc trò chuyện, không có bài kiểm thử tương ứng. Hiện chỉ có hai khung giờ 30 phút và một lần kiểm tra lại 20 phút, tổng cộng 80 phút. Lúc này không thể xác nhận trạng thái của nguyên mẫu, càng không thể hứa hẹn hợp lý về sáu tính năng.
 
-**最小改动。** 第一个窗口只恢复已有运行入口，记录命令、当前版本和实际错误；第二个窗口用自己有权使用的文档准备最多五个小样本，逐条保存问题、出处、人工核对的预期和实际结果；最后 20 分钟复查，决定先修哪个错误。暂时冻结新功能，不把未完成样本写成已验证。
+**Thay đổi tối thiểu.** Trong khung giờ đầu tiên, chỉ khôi phục điểm bắt đầu chạy hiện có, ghi lại câu lệnh, phiên bản hiện tại và lỗi thực tế; trong khung giờ thứ hai, dùng các tài liệu mình có quyền sử dụng để chuẩn bị tối đa năm mẫu nhỏ, lần lượt lưu câu hỏi, nguồn trích dẫn, kết quả dự kiến được kiểm tra thủ công và kết quả thực tế; 20 phút cuối dùng để rà soát và quyết định trước tiên sửa lỗi nào. Tạm thời đóng băng các tính năng mới, không ghi những mẫu chưa hoàn thành thành đã được kiểm chứng.
 
-**一周验收与停止。** 本轮交付是可重现的状态记录，以及实际完成的样本对照，不要求正确率上升。五个样本也不足以证明系统普遍可靠。若环境修复超时，保存阻塞和需要的帮助后结束，不挤占剩余生活时间；若必要数据或使用授权缺失，暂停相关任务，等待条件明确。
+**Nghiệm thu và dừng lại sau một tuần.** Sản phẩm bàn giao của vòng này là bản ghi trạng thái có thể tái hiện và đối chiếu các mẫu đã thực sự hoàn thành, không yêu cầu độ chính xác tăng lên. Năm mẫu cũng chưa đủ để chứng minh hệ thống đáng tin cậy nói chung. Nếu việc khôi phục môi trường vượt quá thời hạn, hãy lưu lại trở ngại và sự hỗ trợ cần thiết rồi kết thúc, không lấn chiếm thời gian sinh hoạt còn lại; nếu thiếu dữ liệu cần thiết hoặc quyền sử dụng, hãy tạm dừng nhiệm vụ liên quan và chờ điều kiện rõ ràng.
 
-假设本周只恢复了运行，并核对了三个样本，其中一个失败，记录就写“三个已核对，一个失败”，保留另外两个为待办。下周先查失败原因，再判断是否扩大样本。如果原来的使用需求已经消失，就保存运行说明和成果，结束本轮项目；过去投入的时间不单独构成继续理由。
+Giả sử tuần này chỉ khôi phục được việc chạy và đối chiếu ba mẫu, trong đó một mẫu thất bại, bản ghi sẽ viết “đã đối chiếu ba mẫu, một mẫu thất bại”, giữ hai mẫu còn lại ở trạng thái việc cần làm. Tuần sau trước tiên kiểm tra nguyên nhân thất bại, rồi mới quyết định có mở rộng mẫu hay không. Nếu nhu cầu sử dụng ban đầu đã biến mất, hãy lưu hướng dẫn chạy và thành quả rồi kết thúc dự án của vòng này; thời gian đã đầu tư trong quá khứ không tự nó tạo thành lý do để tiếp tục.
 
-## 把下一次行动写成一张小实验卡
+## Viết hành động tiếp theo thành một thẻ thử nghiệm nhỏ
 
-从上面的排查表中选一行，在 [持续行动计划](../../templates/consistency-plan.md) 写下：现状证据、只改什么、投入上限、留下什么、一周后依据什么决定。模板是 [节律账本](../../templates/rhythm-ledger.md) 的单次行动实验补充；已有账本不需要全部重抄，只引用相关记录。
+Chọn một dòng trong bảng rà soát ở trên, rồi ghi vào [kế hoạch hành động liên tục](../../templates/consistency-plan.md): bằng chứng về hiện trạng, chỉ thay đổi điều gì, giới hạn đầu tư, thứ sẽ để lại và căn cứ để quyết định sau một tuần. Mẫu này là phần bổ sung cho thử nghiệm hành động đơn lẻ trong [sổ cái nhịp điệu](../../templates/rhythm-ledger.md); không cần chép lại toàn bộ sổ cái hiện có, chỉ cần dẫn lại những ghi chép liên quan.
 
-停止时留好文件入口、未解决问题和复查条件。复查时把结论记回账本或 [每周复盘](../../templates/weekly-review.md)，只保留真正有用的改动。需要降低容量时可以立即调整，无需凑满某个失败次数；需要恢复时先检查当前事实，也无需补偿过去所有空白。
+Khi dừng lại, hãy lưu lại điểm truy cập tệp, vấn đề chưa giải quyết và điều kiện kiểm tra lại. Khi kiểm tra lại, ghi kết luận vào sổ cái hoặc [tổng kết hằng tuần](../../templates/weekly-review.md), chỉ giữ lại những thay đổi thực sự hữu ích. Khi cần giảm năng lực đầu tư, có thể điều chỉnh ngay, không cần chờ đủ một số lần thất bại nào đó; khi cần khôi phục, trước tiên hãy kiểm tra sự thật hiện tại, cũng không cần bù đắp tất cả khoảng trống trong quá khứ.

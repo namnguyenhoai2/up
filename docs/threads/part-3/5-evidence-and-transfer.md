@@ -1,83 +1,83 @@
 ---
-title: 证据篇：变化要如何被看见
-description: 建立从基线、即时表现、延迟保持到真实迁移的证据链，判断学习、AI 协作和人生行动是否真的改变。
+title: "Phần bằng chứng: Làm thế nào để nhìn thấy sự thay đổi"
+description: Xây dựng chuỗi bằng chứng từ đường cơ sở, biểu hiện tức thời, khả năng duy trì sau trì hoãn đến chuyển giao vào thực tế, để đánh giá liệu việc học, cộng tác với AI và hành động trong cuộc sống có thực sự tạo ra thay đổi hay không.
 updated: 2026-09-01
 ---
 
-# 证据篇：变化要如何被看见
+# Phần bằng chứng: Làm thế nào để nhìn thấy sự thay đổi
 
-人很容易把熟悉感当成能力，把完成打卡当成进步，把一段顺利的对话当成已经学会。真正困难的不是收集更多数字，而是知道哪些痕迹足以回答眼前的问题。需要把一次任务完整记录下来时，可以直接使用[证据链模板](../../templates/evidence-chain.md)。
+Con người rất dễ nhầm cảm giác quen thuộc với năng lực, nhầm việc hoàn thành các mốc đánh dấu với tiến bộ, và nhầm một cuộc trò chuyện diễn ra suôn sẻ với việc mình đã thực sự học được. Điều thực sự khó không phải là thu thập thêm nhiều con số, mà là biết dấu vết nào đủ để trả lời câu hỏi trước mắt. Khi cần ghi chép đầy đủ một nhiệm vụ, bạn có thể trực tiếp sử dụng[mẫu chuỗi bằng chứng](../../templates/evidence-chain.md)。
 
-我写“证据”，不是想把生活改造成一张冷冰冰的仪表盘。相反，证据让我们少一点自我欺骗，也少一点无根据的自责：它告诉我们哪里确实变好了，哪里只是暂时顺手，哪里需要换一种方法，哪里应该停止继续投入。
+Khi viết về “bằng chứng”, tôi không muốn biến cuộc sống thành một bảng điều khiển lạnh lẽo. Ngược lại, bằng chứng giúp chúng ta bớt tự lừa dối và bớt tự trách mình vô căn cứ: nó cho biết điều gì thực sự đã tốt lên, điều gì chỉ tạm thời thuận lợi, điều gì cần một phương pháp khác, và điều gì nên ngừng tiếp tục đầu tư.
 
-## 本章速览
+## Tóm lược chương
 
-- 证据必须回到具体任务、条件和时间，而不是脱离场景的分数；
-- 用基线、即时表现、延迟保持和迁移样本组成一条证据链；
-- 把 AI 辅助下的表现与独立表现分开，记录交接时谁承担判断；
-- 失败、返工和不适用的条件同样是证据；
-- 生活中的变化不能都量化，但可以用更诚实的观察和边界来记录；
-- 每七天只复查一个主问题，避免用更多记录代替真正的行动。
+- Bằng chứng phải quay về nhiệm vụ, điều kiện và thời điểm cụ thể, thay vì một điểm số tách rời khỏi bối cảnh;
+- Dùng đường cơ sở, biểu hiện tức thời, khả năng duy trì sau trì hoãn và mẫu chuyển giao để tạo thành một chuỗi bằng chứng;
+- Tách biệt biểu hiện có AI hỗ trợ với biểu hiện độc lập, ghi lại khi bàn giao thì ai chịu trách nhiệm phán đoán;
+- Thất bại, làm lại và các điều kiện không phù hợp cũng là bằng chứng;
+- Không phải mọi thay đổi trong cuộc sống đều có thể định lượng, nhưng có thể ghi lại bằng những quan sát và ranh giới trung thực hơn;
+- Cứ mỗi bảy ngày chỉ xem xét lại một câu hỏi chính, tránh dùng thêm ghi chép để thay thế cho hành động thực sự.
 
-## 1. 证据不是成绩单
+## 1. Bằng chứng không phải là bảng điểm
 
-成绩单回答的是“在某一套规则下得了多少分”。证据回答的是“在什么条件下，我完成了什么，别人能否复查，下一次能否重做”。两者有时重叠，但从来不是一回事。
+Bảng điểm trả lời câu hỏi “theo một bộ quy tắc nào đó thì đạt bao nhiêu điểm”. Bằng chứng trả lời câu hỏi “trong điều kiện nào, tôi đã hoàn thành điều gì, người khác có thể kiểm tra lại không, và lần sau có thể làm lại không”. Đôi khi hai thứ trùng nhau, nhưng chưa bao giờ là một.
 
-收藏了十篇文章，不能证明你能解释其中一个概念；和 AI 共同写出一段代码，不能证明你能在没有聊天记录时维护它；连续早起七天，也不能自动证明你的生活更有秩序。它们最多是线索，必须被放回任务中检查。
+Sưu tầm mười bài viết không thể chứng minh bạn có thể giải thích một khái niệm trong đó; cùng AI viết ra một đoạn mã không thể chứng minh bạn có thể bảo trì nó khi không còn lịch sử trò chuyện; liên tục dậy sớm bảy ngày cũng không tự động chứng minh cuộc sống của bạn trở nên có trật tự hơn. Những điều đó nhiều nhất chỉ là manh mối, cần được đặt trở lại trong nhiệm vụ để kiểm tra.
 
-一个有用的证据至少要能回答四个问题：
+Một bằng chứng hữu ích ít nhất phải trả lời được bốn câu hỏi:
 
-| 问题 | 需要写清什么 | 缺少时会发生什么 |
+| Câu hỏi | Cần ghi rõ điều gì | Điều gì xảy ra khi thiếu |
 | --- | --- | --- |
-| 能追溯吗？ | 样本、来源、版本和日期在哪里 | 结果只能靠记忆复述 |
-| 有条件吗？ | 主题、听众、时间、工具和限制是什么 | 不同条件被误当成同一水平 |
-| 能比较吗？ | 前后两次是否保留了相近任务 | 变化无法归因或复核 |
-| 能迁移吗？ | 换主题、对象或场景后还能完成吗 | 熟练只停留在练习原题 |
+| Có thể truy nguyên không? | Mẫu, nguồn, phiên bản và ngày tháng ở đâu | Kết quả chỉ có thể kể lại dựa vào trí nhớ |
+| Có điều kiện không? | Chủ đề, người nghe, thời gian, công cụ và giới hạn là gì | Các điều kiện khác nhau bị nhầm là cùng một trình độ |
+| Có thể so sánh không? | Hai lần trước và sau có giữ lại nhiệm vụ tương đương không | Không thể quy kết hoặc kiểm chứng sự thay đổi |
+| Có thể chuyển giao không? | Sau khi thay đổi chủ đề, đối tượng hoặc bối cảnh, còn hoàn thành được không | Sự thành thạo chỉ dừng ở bài tập ban đầu |
 
-证据不是为了把人排队，而是为了让下一次选择少一点盲目。
+Bằng chứng không nhằm xếp hạng con người, mà nhằm giúp lựa chọn lần sau bớt mù quáng hơn.
 
-## 2. 保存四个时间点
+## 2. Lưu lại bốn thời điểm
 
-同一个任务，最好保存四种状态。它们不要求每次都很长，却要明确区分“谁在什么时候提供了什么帮助”。
+Với cùng một nhiệm vụ, tốt nhất nên lưu lại bốn trạng thái. Không phải lần nào chúng cũng cần dài, nhưng phải phân biệt rõ “ai đã cung cấp sự hỗ trợ gì vào thời điểm nào”.
 
-| 时间点 | 目的 | 示例 |
+| Thời điểm | Mục đích | Ví dụ |
 | --- | --- | --- |
-| **基线** | 在集中训练或工具介入前，知道自己真正能做什么 | 不查稿解释一个熟悉工作流程 |
-| **即时表现** | 在练习或反馈刚结束后，观察当前能否完成 | 看过示范并修订后重新录音 |
-| **延迟保持** | 隔一段时间、没有刚刚的提示时再做一次 | 七天后换一段材料重做同类任务 |
-| **迁移样本** | 改变主题、听众、媒介或约束，检查能力是否离开原题 | 把内部说明改成给客户的简短说明 |
+| **Đường cơ sở** | Trước khi tập trung đào tạo hoặc đưa công cụ vào, biết mình thực sự có thể làm gì | Không xem tài liệu, giải thích một quy trình làm việc quen thuộc |
+| **Biểu hiện tức thời** | Sau khi vừa kết thúc luyện tập hoặc nhận phản hồi, quan sát xem hiện tại có thể hoàn thành hay không | Xem phần minh họa, chỉnh sửa rồi ghi âm lại |
+| **Khả năng duy trì sau trì hoãn** | Sau một khoảng thời gian, khi không còn gợi ý vừa nhận, làm lại một lần nữa | Bảy ngày sau, đổi sang một tài liệu khác và làm lại nhiệm vụ cùng loại |
+| **Mẫu chuyển giao** | Thay đổi chủ đề, người nghe, phương tiện hoặc ràng buộc để kiểm tra năng lực có thoát khỏi bài ban đầu hay không | Chuyển phần giải thích nội bộ thành một lời giải thích ngắn gọn dành cho khách hàng |
 
-如果只保存即时表现，最容易高估自己；如果只保存最终成品，又会忘记自己如何从不会走到会。四个时间点放在一起，才更接近一条可解释的变化轨迹。
+Nếu chỉ lưu biểu hiện tức thời, bạn rất dễ đánh giá quá cao bản thân; nếu chỉ lưu sản phẩm cuối cùng, bạn sẽ quên mình đã đi từ không biết đến biết như thế nào. Đặt bốn thời điểm cạnh nhau mới gần với một quỹ đạo thay đổi có thể giải thích được hơn.
 
-## 3. 三种结果不要混为一谈
+## 3. Đừng gộp lẫn ba loại kết quả
 
-学习中常见三类结果：**做得出来**、**过几天还记得**、**换个地方仍然能用**。它们彼此相关，却需要不同的检查。
+Trong học tập thường có ba loại kết quả: **làm được**, **vài ngày sau vẫn nhớ**, **đổi sang nơi khác vẫn sử dụng được**. Chúng có liên quan với nhau, nhưng cần những cách kiểm tra khác nhau.
 
-- **表现**：今天能否完成任务？看清楚错误、时间和外部帮助；
-- **保持**：一段时间后还能否完成？去掉刚刚的提示，保留相近难度；
-- **迁移**：任务换了外壳还能否完成？改变主题、对象、顺序或压力条件。
+- **Biểu hiện**: Hôm nay có thể hoàn thành nhiệm vụ không? Hãy nhìn rõ lỗi, thời gian và sự hỗ trợ bên ngoài;
+- **Duy trì**: Sau một khoảng thời gian vẫn có thể hoàn thành không? Loại bỏ gợi ý vừa nhận, giữ độ khó tương đương;
+- **Chuyển giao**: Khi nhiệm vụ thay đổi hình thức bên ngoài, vẫn có thể hoàn thành không? Thay đổi chủ đề, đối tượng, trình tự hoặc điều kiện áp lực.
 
-例如，你在 AI 帮助下写出一封英文邮件，说明即时表现可能不错；隔天不看原稿独立写一封相近邮件，才能观察保持；真正面对一位语气不同的客户仍能澄清问题，才开始接近迁移。不要用第一种结果替第二种和第三种盖章。
+Ví dụ, bạn viết được một email tiếng Anh với sự hỗ trợ của AI, điều đó cho thấy biểu hiện tức thời có thể khá tốt; ngày hôm sau, không xem bản gốc mà tự viết một email tương tự, bạn mới có thể quan sát khả năng duy trì; khi thực sự đối diện với một khách hàng có giọng điệu khác mà vẫn làm rõ được vấn đề, bạn mới bắt đầu tiến gần đến khả năng chuyển giao. Đừng dùng kết quả đầu tiên để đóng dấu thay cho kết quả thứ hai và thứ ba.
 
-## 4. AI 介入时，记录人工门
+## 4. Khi AI can thiệp, hãy ghi lại cổng kiểm soát của con người
 
-AI 会改变速度，也会改变任务的性质。使用工具时，不要只记录“用了什么模型”，还要记录哪些判断仍由人完成：
+AI sẽ thay đổi tốc độ, đồng thời cũng thay đổi bản chất của nhiệm vụ. Khi sử dụng công cụ, đừng chỉ ghi lại “đã dùng mô hình nào”, mà còn phải ghi lại những phán đoán nào vẫn do con người thực hiện:
 
-| 条件 | 人需要完成什么 | 证据重点 |
+| Điều kiện | Con người cần hoàn thành điều gì | Trọng tâm bằng chứng |
 | --- | --- | --- |
-| **独立版** | 不看 AI，先完成自己的第一版 | 基线、错误和卡住的位置 |
-| **辅助版** | 允许 AI 提问、解释、比较或反馈 | 提示、来源、修改理由和返工 |
-| **交接版** | 关闭聊天后向别人解释、维护或继续完成 | 关键决定、权限、测试和责任人 |
+| **Bản độc lập** | Không xem AI, trước tiên tự hoàn thành bản đầu tiên | Đường cơ sở, lỗi và những chỗ bị mắc |
+| **Bản có hỗ trợ** | Cho phép AI đặt câu hỏi, giải thích, so sánh hoặc phản hồi | Gợi ý, nguồn, lý do chỉnh sửa và việc làm lại |
+| **Bản bàn giao** | Sau khi đóng cuộc trò chuyện, giải thích, bảo trì hoặc tiếp tục hoàn thành cho người khác | Quyết định then chốt, quyền hạn, kiểm thử và người chịu trách nhiệm |
 
-如果 AI 直接产出最终答案，你应该额外做一次“撤掉工具后的复测”。不会解释的正确答案，不能算作已经拥有的能力；不能交接的自动化，也不能算作可以放心运行的系统。
+Nếu AI trực tiếp tạo ra câu trả lời cuối cùng, bạn nên thực hiện thêm một lần “kiểm tra lại sau khi rút công cụ”. Một câu trả lời đúng nhưng không thể giải thích không thể được xem là năng lực mình đã sở hữu; một hệ thống tự động hóa không thể bàn giao cũng không thể được xem là hệ thống có thể yên tâm vận hành.
 
-这也是为什么本书反复要求保存[AI 任务简报](../../templates/ai-task-brief.md)、[作品简报与交付卡](../../templates/artifact-brief.md)和[学习状态](../../templates/learning-state.md)：它们不是文书工作，而是把人工门和责任边界留在记录里。
+Đó cũng là lý do cuốn sách này liên tục yêu cầu lưu lại[bản tóm tắt nhiệm vụ AI](../../templates/ai-task-brief.md)、[bản tóm tắt sản phẩm và thẻ bàn giao](../../templates/artifact-brief.md)và[trạng thái học tập](../../templates/learning-state.md): đó không phải là công việc giấy tờ, mà là cách giữ lại cổng kiểm soát của con người và ranh giới trách nhiệm trong hồ sơ.
 
-## 5. 把失败和返工写进证据
+## 5. Ghi cả thất bại và việc làm lại vào bằng chứng
 
-只展示顺利的版本，会让方法看起来比现实简单。失败至少提供三种信息：哪个条件没有成立，哪个假设被推翻，下一次应该减少哪一种风险。
+Chỉ trưng ra những phiên bản suôn sẻ sẽ khiến phương pháp trông đơn giản hơn thực tế. Thất bại ít nhất cung cấp ba loại thông tin: điều kiện nào chưa được đáp ứng, giả định nào đã bị bác bỏ, và lần sau nên giảm loại rủi ro nào.
 
-记录失败时，不要只写“没做好”。可以写成：
+Khi ghi lại thất bại, đừng chỉ viết “làm chưa tốt”. Có thể viết thành:
 
 ```markdown
 任务与条件：
@@ -89,39 +89,39 @@ AI 会改变速度，也会改变任务的性质。使用工具时，不要只�
 什么结果会让我停止继续投入：
 ```
 
-返工次数本身不是能力指标。一次及时的返工可能保护了用户和关系；反复修理一个不值得做的任务，则可能是在逃避更重要的决定。证据的价值不在于让记录看起来漂亮，而在于让代价能够参与下一次选择。
+Số lần làm lại tự nó không phải là chỉ số năng lực. Một lần làm lại kịp thời có thể bảo vệ người dùng và mối quan hệ; lặp đi lặp lại việc sửa chữa một nhiệm vụ không đáng làm có thể là đang né tránh một quyết định quan trọng hơn. Giá trị của bằng chứng không nằm ở việc khiến hồ sơ trông đẹp đẽ, mà ở việc để cái giá phải trả tham gia vào lựa chọn lần sau.
 
-## 6. 不把生活做成仪表盘
+## 6. Đừng biến cuộc sống thành bảng điều khiển
 
-有些变化适合计数：完成了几次交付、延迟复测的正确率、一个测试是否通过。有些变化不适合被压成单一分数：是否更敢求助、是否减少了对别人的伤害、是否终于能在疲惫时停下来。
+Một số thay đổi phù hợp để đếm: đã hoàn thành bao nhiêu lần bàn giao, tỷ lệ đúng trong lần kiểm tra lại sau trì hoãn, một bài kiểm tra có đạt hay không. Một số thay đổi không phù hợp để nén thành một điểm số duy nhất: có dám nhờ giúp đỡ hơn không, có giảm tổn thương gây ra cho người khác không, có cuối cùng cũng có thể dừng lại khi mệt mỏi không.
 
-对后者，可以记录更接近事实的观察：
+Với những điều sau, có thể ghi lại những quan sát gần với sự thật hơn:
 
-- 我在什么场景下比以前更早发现自己已经超载？
-- 我是否向受影响的人说明了边界，而不是突然消失？
-- 一次冲突之后，我做了什么修复，结果如何？
-- 我是否因为保留休息而减少了一次高风险决定？
-- 哪些变化只有自己知道，哪些变化已经被别人观察到？
+- Trong hoàn cảnh nào tôi phát hiện mình đã quá tải sớm hơn trước?
+- Tôi có giải thích ranh giới của mình với những người bị ảnh hưởng, thay vì đột ngột biến mất không?
+- Sau một cuộc xung đột, tôi đã làm gì để hàn gắn, và kết quả ra sao?
+- Việc giữ lại thời gian nghỉ ngơi có giúp tôi tránh được một quyết định rủi ro cao không?
+- Những thay đổi nào chỉ mình tôi biết, và những thay đổi nào đã được người khác quan sát thấy?
 
-这些问题没有统一答案，也不要求把关系和身体变成 KPI。它们只是帮助我们把“我好像变了”拆成可以尊重隐私、承认不确定性的叙述。
+Những câu hỏi này không có câu trả lời thống nhất, cũng không yêu cầu biến các mối quan hệ và cơ thể thành KPI. Chúng chỉ giúp chúng ta phân tách câu “hình như tôi đã thay đổi” thành một cách diễn đạt có thể tôn trọng quyền riêng tư và thừa nhận sự không chắc chắn.
 
-## 7. 用证据决定下一步，而不是决定自己的价值
+## 7. Dùng bằng chứng để quyết định bước tiếp theo, không phải để quyết định giá trị của bản thân
 
-证据可以说明一项方法在某个条件下是否有效，不能说明一个人值不值得被爱、是否有资格重新开始。一次失败的录音、一项没有通过的测试或一周没有完成计划，都不能成为人格判决。
+Bằng chứng có thể cho biết một phương pháp có hiệu quả trong một điều kiện nào đó hay không, nhưng không thể cho biết một người có đáng được yêu thương hay không, có đủ tư cách để bắt đầu lại hay không. Một bản ghi âm thất bại, một bài kiểm tra không đạt hoặc một tuần không hoàn thành kế hoạch đều không thể trở thành phán quyết về nhân cách.
 
-每周复查时，按这个顺序问：
+Khi xem xét lại hằng tuần, hãy hỏi theo thứ tự này:
 
-1. 事实是什么？只写看得见、听得见、能回到文件或来源的部分；
-2. 哪个解释最有用？同时保留至少一个可能的反例；
-3. 下一次要改变哪一个变量？不要同时更换材料、工具、时间和目标；
-4. 需要什么支持或边界？包括同伴、专业人士、授权和暂停条件；
-5. 什么时候复测？让日期、场景和完成标准先于情绪决定。
+1. Sự thật là gì? Chỉ viết những phần có thể nhìn thấy, nghe thấy, hoặc quay lại được với tệp hay nguồn;
+2. Cách diễn giải nào hữu ích nhất? Đồng thời giữ lại ít nhất một phản ví dụ có thể xảy ra;
+3. Lần sau cần thay đổi biến số nào? Đừng đồng thời thay đổi tài liệu, công cụ, thời gian và mục tiêu;
+4. Cần sự hỗ trợ hoặc ranh giới nào? Bao gồm bạn đồng hành, chuyên gia, quyền hạn và điều kiện tạm dừng;
+5. Khi nào kiểm tra lại? Để ngày tháng, bối cảnh và tiêu chuẩn hoàn thành đi trước quyết định theo cảm xúc.
 
-如果证据不够，不要急着给自己打分。缩小问题、保存更好的基线，往往比制造一个精确但虚假的结论更诚实。
+Nếu bằng chứng chưa đủ, đừng vội chấm điểm cho bản thân. Thu hẹp câu hỏi và lưu một đường cơ sở tốt hơn thường trung thực hơn việc tạo ra một kết luận chính xác nhưng giả tạo.
 
-## 8. 一页证据链
+## 8. Chuỗi bằng chứng trên một trang
 
-可以把一次学习或生活行动压缩成下面这一页：
+Có thể cô đọng một hành động học tập hoặc hành động trong cuộc sống thành một trang như dưới đây:
 
 ```markdown
 # Evidence Chain — YYYY-MM-DD
@@ -143,28 +143,28 @@ AI 会改变速度，也会改变任务的性质。使用工具时，不要只�
 复测日期与停止条件：
 ```
 
-这一页可以链接到[每周复盘模板](../../templates/weekly-review.md)和[九十日行动总表](../../templates/90-day-cycle.md)。当周期结束时，把它与最初的样本并排放置；不要只保留总结句，也保留曾经做错的版本。
+Trang này có thể liên kết đến[mẫu xem xét hằng tuần](../../templates/weekly-review.md)và[bảng tổng hợp hành động chín mươi ngày](../../templates/90-day-cycle.md). Khi chu kỳ kết thúc, hãy đặt nó cạnh mẫu ban đầu; đừng chỉ giữ lại những câu tổng kết, mà cũng giữ lại các phiên bản từng làm sai.
 
-## 9. 七天证据审计
+## 9. Kiểm toán bằng chứng trong bảy ngày
 
-接下来七天，每天只检查一件事：
+Trong bảy ngày tới, mỗi ngày chỉ kiểm tra một việc:
 
-1. **第 1 天**：保存一个未经 AI 帮助的基线；
-2. **第 2 天**：写清任务条件和完成标准；
-3. **第 3 天**：完成一次辅助练习，记录 AI 的具体作用；
-4. **第 4 天**：关闭工具，独立重做同一任务的一小部分；
-5. **第 5 天**：找一个真实的人、测试或来源提出反例；
-6. **第 6 天**：换一个主题或听众，做一次迁移尝试；
-7. **第 7 天**：比较四个时间点，只决定下一周期改变的一个变量。
+1. **Ngày 1**: Lưu một đường cơ sở chưa có sự hỗ trợ của AI;
+2. **Ngày 2**: Ghi rõ điều kiện của nhiệm vụ và tiêu chuẩn hoàn thành;
+3. **Ngày 3**: Hoàn thành một lần luyện tập có hỗ trợ, ghi lại tác dụng cụ thể của AI;
+4. **Ngày 4**: Tắt công cụ, tự làm lại một phần nhỏ của cùng nhiệm vụ;
+5. **Ngày 5**: Nhờ một người thật, một bài kiểm tra hoặc một nguồn đưa ra phản ví dụ;
+6. **Ngày 6**: Đổi sang một chủ đề hoặc người nghe khác, thử thực hiện một lần chuyển giao;
+7. **Ngày 7**: So sánh bốn thời điểm, chỉ quyết định một biến số sẽ thay đổi trong chu kỳ tiếp theo.
 
-七天之后，你可能发现自己没有“进步很多”，但会更清楚进步发生在哪里、还没有发生在哪里。这种清楚本身就是一种能力，因为它让下一步不必依赖兴奋或羞耻。
+Sau bảy ngày, bạn có thể nhận ra mình không “tiến bộ quá nhiều”, nhưng sẽ rõ hơn tiến bộ đã xảy ra ở đâu và chưa xảy ra ở đâu. Sự rõ ràng này tự nó đã là một năng lực, vì nó giúp bước tiếp theo không phải phụ thuộc vào sự phấn khích hay xấu hổ.
 
-证据不是终点，而是下一项责任的入口。准备把方法带进技术与企业交付时，进入[AI 开发与资源层创业](2-ai-development-and-resource-layer.md)，让结果接受用户、成本、故障和交接检验；准备把一项能力交给完整周期时，进入[行动篇：九十天，把生活交还给自己](../part-5/90-day-plan.md)；如果某个概念仍然含混，先回到[术语与方法索引](../../reference/glossary.md)，不要带着不清楚的定义继续加码。
+Bằng chứng không phải là điểm kết thúc, mà là lối vào của trách nhiệm tiếp theo. Khi sẵn sàng đưa phương pháp vào việc triển khai kỹ thuật và doanh nghiệp, hãy đi đến[khởi nghiệp trong lĩnh vực phát triển AI và tầng tài nguyên](2-ai-development-and-resource-layer.md), để kết quả chịu sự kiểm nghiệm của người dùng, chi phí, sự cố và việc bàn giao; khi sẵn sàng giao một năng lực cho một chu kỳ hoàn chỉnh, hãy đi đến[Phần hành động: Chín mươi ngày, trao trả cuộc sống cho chính mình](../part-5/90-day-plan.md); nếu một khái niệm nào đó vẫn còn mơ hồ, trước tiên hãy quay lại[mục lục thuật ngữ và phương pháp](../../reference/glossary.md), đừng tiếp tục tăng mức đầu tư khi vẫn mang theo những định nghĩa chưa rõ ràng.
 
-## 结语：让变化能够被诚实地看见
+## Lời kết: Để sự thay đổi được nhìn thấy một cách trung thực
 
-人生里有许多重要的变化没有掌声：一次没有发出的伤人消息，一次及时的求助，一段终于完成的道歉，一份在疲惫中仍然保留了边界的交付。它们未必适合做成图表，却值得被记住。
+Trong đời có rất nhiều thay đổi quan trọng không nhận được tiếng vỗ tay: một tin nhắn gây tổn thương nhưng đã không được gửi đi, một lần kịp thời nhờ giúp đỡ, một lời xin lỗi cuối cùng cũng được nói ra, một lần bàn giao vẫn giữ được ranh giới dù đang mệt mỏi. Chúng có thể không thích hợp để biến thành biểu đồ, nhưng xứng đáng được ghi nhớ.
 
-我希望证据最终带来的，不是对自己的监控，而是一种温和的可信度：我知道自己曾经在哪里，我知道今天做到了什么，也知道哪些结论还不能急着写下。拥有这份可信度之后，我们既不需要把偶然的顺利夸大成天赋，也不必把一次失败扩大成命运。
+Tôi hy vọng điều bằng chứng cuối cùng mang lại không phải là sự giám sát bản thân, mà là một dạng đáng tin cậy nhẹ nhàng: tôi biết mình từng ở đâu, tôi biết hôm nay mình đã làm được gì, và tôi cũng biết kết luận nào chưa thể vội vàng viết xuống. Khi có được sự đáng tin cậy này, chúng ta không cần phóng đại một thuận lợi tình cờ thành năng khiếu, cũng không cần biến một thất bại thành số phận.
 
-变化不是因为被记录才发生。记录只是让我们在变化发生之后，有机会认出它，并把它带到下一段生活里。
+Sự thay đổi không xảy ra vì được ghi lại. Việc ghi chép chỉ giúp chúng ta, sau khi sự thay đổi xảy ra, có cơ hội nhận ra nó và mang nó vào chặng đời tiếp theo.

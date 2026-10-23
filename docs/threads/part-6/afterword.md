@@ -1,105 +1,105 @@
 ---
-title: 后记：人生最大的进阶，是找到真正的自己
-description: 从最初的英语问题回到失败、身体、关系、AI 与日常行动，回答人生最大的进阶为何是找到真正的自己。
+title: "Lời bạt: Bước tiến lớn nhất của đời người là tìm thấy con người thật của mình"
+description: Từ câu hỏi ban đầu về tiếng Anh trở về với thất bại, cơ thể, các mối quan hệ, AI và hành động thường nhật, giải đáp vì sao bước tiến lớn nhất của đời người là tìm thấy con người thật của mình.
 updated: 2026-09-01
 prev:
-  text: "与自己做终身朋友：在变化中持续相处"
+  text: "Làm bạn suốt đời với chính mình: tiếp tục đồng hành giữa những đổi thay"
   link: /threads/part-6/5-being-your-own-lifelong-friend
 next:
-  text: "返回首页"
+  text: "Về trang chủ"
   link: /
 ---
 
-# 后记：人生最大的进阶，是找到真正的自己
+# Lời bạt: Bước tiến lớn nhất của đời người là tìm thấy con người thật của mình
 
-> 人生最大的进阶，不是终于成为别人眼里那个“足够好”的人，而是在一次次行动、失去、承担与重新开始之后，认出什么是自己真正看重的，什么是自己愿意负责的。
+> Bước tiến lớn nhất của đời người không phải là cuối cùng trở thành một người “đủ tốt” trong mắt người khác, mà là sau hết lần hành động, mất mát, gánh vác và bắt đầu lại này đến lần khác, nhận ra điều gì thực sự quan trọng với mình và điều gì mình sẵn lòng chịu trách nhiệm.
 
-写到这里，我又回到了 2017 年 7 月的那个下午。
+Viết đến đây, tôi lại trở về buổi chiều tháng 7 năm 2017 ấy.
 
-朋友 `W.` 正在准备托福，问我：“怎样才能高效地学好英语？”
+Người bạn `W.` đang chuẩn bị thi TOEFL và hỏi tôi: “Làm thế nào để học tiếng Anh thật hiệu quả?”
 
-那时我以为，答案应该藏在一本词汇书、一套语法规则或一个更聪明的学习软件里。我把自己知道的东西一件件摆出来，像是在桌面上铺一张地图，却没有先问她要去哪里，也没有问她每天真正能拿出多少时间。
+Khi đó, tôi nghĩ câu trả lời hẳn phải nằm trong một cuốn sách từ vựng, một bộ quy tắc ngữ pháp hoặc một phần mềm học tập thông minh hơn. Tôi lần lượt bày ra những gì mình biết, như thể đang trải một tấm bản đồ trên mặt bàn, nhưng lại chưa hỏi cô ấy muốn đi đâu, cũng chưa hỏi mỗi ngày cô ấy thực sự có thể dành ra bao nhiêu thời gian.
 
-多年以后，我才敢承认：她问的也许不只是英语。她在问，一个普通人怎样在时间有限、信心反复、生活并不配合的时候，仍然能够把自己往前带一点。
+Nhiều năm sau, tôi mới dám thừa nhận: có lẽ điều cô ấy hỏi không chỉ là tiếng Anh. Cô ấy đang hỏi làm thế nào một người bình thường, khi thời gian có hạn, niềm tin vào bản thân lúc lên lúc xuống và cuộc sống không hề phối hợp, vẫn có thể đưa mình tiến lên một chút.
 
-后来我也逐渐明白，人并不是先找到自己，再开始生活。真正的自己，往往是在做过选择、付过代价、听见身体和关系的回声之后，才一点点显现出来。它不是一个等着被发现的固定答案，而是一种被行动、边界与责任反复确认的方向。
+Về sau, tôi cũng dần hiểu rằng con người không phải tìm thấy chính mình trước rồi mới bắt đầu sống. Con người thật của mình thường chỉ dần hiện rõ sau khi ta đã đưa ra lựa chọn, trả giá, lắng nghe tiếng vọng từ cơ thể và các mối quan hệ. Đó không phải là một đáp án cố định đang chờ được phát hiện, mà là một phương hướng liên tục được hành động, ranh giới và trách nhiệm xác nhận.
 
-这本书后来写下的所有章节，几乎都是这个问题的不同回声。英语是一扇具体的门，AI 是越来越强的工具，作品是可以交付的回答，证据是防止自我欺骗的方式，节律则是让一件小事穿过时间的安排。门、工具、作品、证据和节律，最后都要回到同一个人身上。
+Tất cả các chương được viết trong cuốn sách này về sau gần như đều là những tiếng vọng khác nhau của cùng một câu hỏi. Tiếng Anh là một cánh cửa cụ thể, AI là công cụ ngày càng mạnh, tác phẩm là câu trả lời có thể bàn giao, bằng chứng là cách ngăn mình tự lừa dối, còn nhịp điệu là sự sắp xếp giúp một việc nhỏ đi xuyên qua thời gian. Cánh cửa, công cụ, tác phẩm, bằng chứng và nhịp điệu, sau cùng đều phải trở về với cùng một con người.
 
-## 回到最初的问题
+## Trở về câu hỏi ban đầu
 
-如果今天有人再问我怎样高效地学好英语，我不会先给出一份更长的资源清单。我会先问：
+Nếu hôm nay có người lại hỏi tôi làm thế nào để học tiếng Anh thật hiệu quả, tôi sẽ không đưa ra ngay một danh sách tài nguyên dài hơn. Tôi sẽ hỏi trước:
 
-- 你准备在哪个真实场景使用它？
-- 你现在能独立完成什么，在哪一步会停住？
-- 每周有多少时间不会靠透支睡眠、关系和健康来支付？
-- 计划被打断之后，你准备怎样回来？
+- Bạn chuẩn bị sử dụng nó trong bối cảnh thực tế nào?
+- Hiện giờ bạn có thể tự mình hoàn thành việc gì, và sẽ dừng lại ở bước nào?
+- Mỗi tuần có bao nhiêu thời gian mà bạn không phải đánh đổi bằng cách bòn rút giấc ngủ, các mối quan hệ và sức khỏe?
+- Sau khi kế hoạch bị gián đoạn, bạn định quay lại như thế nào?
 
-效率如果不能让人更接近真实目的，只是更快地完成了与目的无关的事情。记住更多单词当然有用，听懂更多声音也当然有用，可它们真正开始属于你，是在你合上材料之后仍能解释，在陌生听众面前仍能完成，在犯错时仍愿意修改。
+Nếu hiệu quả không giúp con người đến gần hơn với mục tiêu thực sự, thì đó chỉ là hoàn thành nhanh hơn những việc không liên quan đến mục tiêu. Nhớ thêm nhiều từ vựng hơn đương nhiên hữu ích, nghe hiểu nhiều âm thanh hơn cũng đương nhiên hữu ích, nhưng chúng thực sự bắt đầu thuộc về bạn khi sau khi gấp tài liệu lại, bạn vẫn có thể giải thích; trước những người nghe xa lạ, bạn vẫn có thể hoàn thành; khi mắc lỗi, bạn vẫn sẵn lòng chỉnh sửa.
 
-所以我越来越不相信“最好的方法”这种说法。方法只能在条件里成立：适合什么人，服务什么任务，需要什么资源，付出什么代价，什么时候应该停止。一个只在理想日有效的方法，不能算完整的方法；一个让人不敢承认疲惫的方法，最后会把疲惫写成道德失败。
+Vì vậy, tôi ngày càng không tin vào cách nói “phương pháp tốt nhất”. Phương pháp chỉ có thể phát huy trong những điều kiện cụ thể: phù hợp với ai, phục vụ nhiệm vụ gì, cần nguồn lực nào, phải trả giá ra sao, khi nào nên dừng lại. Một phương pháp chỉ hiệu quả trong những ngày lý tưởng thì chưa thể xem là một phương pháp hoàn chỉnh; một phương pháp khiến người ta không dám thừa nhận mình mệt mỏi, cuối cùng sẽ biến sự mệt mỏi thành thất bại về mặt đạo đức.
 
-## 失败没有替我写结论
+## Thất bại không viết kết luận thay tôi
 
-我曾经把人生想象成一条可以不断升级的路线：完成一个目标，就得到下一件装备；赚到足够的钱，就能保护所有重要的人；做出一个产品，就可以证明过去的坚持没有错。
+Từng có lúc tôi hình dung cuộc đời như một con đường có thể không ngừng nâng cấp: hoàn thành một mục tiêu thì nhận được trang bị tiếp theo; kiếm đủ tiền thì có thể bảo vệ tất cả những người quan trọng; tạo ra một sản phẩm thì có thể chứng minh sự kiên trì trong quá khứ là không sai.
 
-后来公司失败，身体失去控制，家人和关系一起承受了我选择的重量。我一度想把这一切称作“人生的小插曲”，因为这样说比较容易站起来。但那不是完整的事实。失败确实没有结束我的人生，可它也确实留下了亏损、愧疚、失眠、争吵、离开和很长一段不知道如何继续的日子。
+Sau đó công ty thất bại, cơ thể mất kiểm soát, gia đình và các mối quan hệ cùng phải gánh chịu sức nặng từ những lựa chọn của tôi. Có một thời gian, tôi muốn gọi tất cả những điều này là “một khúc quanh nhỏ của cuộc đời”, vì nói như vậy sẽ dễ đứng dậy hơn. Nhưng đó không phải toàn bộ sự thật. Thất bại quả thực không kết thúc cuộc đời tôi, nhưng nó cũng thực sự để lại những khoản thua lỗ, cảm giác tội lỗi, mất ngủ, cãi vã, chia xa và một quãng thời gian dài không biết phải tiếp tục thế nào.
 
-承认代价，不是为了让故事更悲壮，也不是为了把责任推给某一个人。它只是让复盘有一个真实的起点：哪些是我当时知道的，哪些是我后来才知道的，哪些影响由我造成，哪些动机我没有资格替别人解释，哪些结论即使写得漂亮也仍然只是猜测。
+Thừa nhận cái giá phải trả không phải để câu chuyện trở nên bi tráng hơn, cũng không phải để đổ trách nhiệm cho một người nào đó. Nó chỉ giúp việc nhìn lại có một điểm khởi đầu chân thực: khi đó tôi biết những gì, về sau mới biết những gì, những ảnh hưởng nào do tôi gây ra, những động cơ nào tôi không có tư cách giải thích thay người khác, và những kết luận nào dù viết có đẹp đến đâu vẫn chỉ là phỏng đoán.
 
-我现在愿意把失败留下来，不是因为失败天然高贵，也不是因为每次失败都必然教会人什么。只有当失败被拆成事实、成本、责任和下一次的门槛，它才可能提供一点信息。否则它只是一个被反复播放的伤口，或者一段被包装成勇气的广告。
+Bây giờ tôi sẵn lòng giữ lại những gì thất bại để lại, không phải vì thất bại vốn dĩ cao quý, cũng không phải vì mỗi lần thất bại đều nhất định dạy cho con người điều gì. Chỉ khi thất bại được tháo tách thành sự thật, chi phí, trách nhiệm và ngưỡng cửa của lần tiếp theo, nó mới có thể cung cấp một chút thông tin. Nếu không, nó chỉ là một vết thương liên tục được phát lại, hoặc một mẩu quảng cáo được ngụy trang thành lòng can đảm.
 
-2026 年，我重新进入 AI 与实体产业的实践，也继续把每个方向看作正在接受检验的工作。我的身份、公司的关联和计划会写在明处；客户、成本、交付质量、持续使用和风险结果，则只能由真实项目和时间回答。我不愿意用新的名词替旧的幻觉，也不愿意用一次参访或一篇报道替代长期证据。
+Năm 2026, tôi lại bước vào thực tiễn về AI và các ngành công nghiệp hiện hữu, đồng thời tiếp tục xem mỗi hướng đi là một công việc đang được kiểm nghiệm. Danh tính của tôi, mối liên hệ với công ty và các kế hoạch sẽ được ghi rõ; còn khách hàng, chi phí, chất lượng bàn giao, việc sử dụng liên tục và kết quả rủi ro chỉ có thể được trả lời bởi những dự án thực tế và thời gian. Tôi không muốn dùng những thuật ngữ mới để thay thế cho những ảo tưởng cũ, cũng không muốn dùng một chuyến tham quan hay một bài báo để thay thế cho bằng chứng dài hạn.
 
-## 找到真正的自己
+## Tìm thấy con người thật của mình
 
-如果“进阶”意味着彻底成为另一个人，那么它很容易变成新的逃跑。我们会不断嫌弃现在的自己，幻想有一天终于足够聪明、足够有钱、足够健康、足够稳定，才允许自己开始生活。
+Nếu “tiến bộ” có nghĩa là hoàn toàn trở thành một con người khác, nó rất dễ biến thành một cuộc chạy trốn mới. Ta sẽ không ngừng chê trách bản thân hiện tại, tưởng tượng rằng một ngày nào đó, khi cuối cùng đã đủ thông minh, đủ giàu, đủ khỏe mạnh, đủ ổn định, ta mới cho phép mình bắt đầu sống.
 
-真正的自己，不是一个等着被发现的固定答案，而是经由行动、关系、边界和责任，一次次被确认的生活方向。
+Con người thật của mình không phải là một đáp án cố định đang chờ được phát hiện, mà là một phương hướng sống được xác nhận hết lần này đến lần khác thông qua hành động, các mối quan hệ, ranh giới và trách nhiệm.
 
-我更愿意把进阶理解成四种逐渐可靠的能力：
+Tôi muốn hiểu “tiến bộ” hơn như bốn năng lực dần trở nên đáng tin cậy:
 
-| 能力 | 它在生活里的样子 |
+| Năng lực | Biểu hiện của nó trong cuộc sống |
 | --- | --- |
-| 诚实 | 能区分事实、解释和愿望，承认不知道的部分 |
-| 责任 | 看见自己的选择如何影响他人，并为可承担的部分补救 |
-| 判断 | 让来源、反馈和结果改变观点，而不是只保护原来的结论 |
-| 回归 | 在中断、失败或容量下降之后，仍知道下一步可以多小 |
+| Trung thực | Có thể phân biệt sự thật, cách diễn giải và mong muốn; thừa nhận phần mình chưa biết |
+| Trách nhiệm | Nhìn thấy lựa chọn của mình ảnh hưởng đến người khác như thế nào và khắc phục phần mình có thể gánh vác |
+| Phán đoán | Để nguồn thông tin, phản hồi và kết quả làm thay đổi quan điểm, thay vì chỉ bảo vệ kết luận ban đầu |
+| Trở về | Sau khi bị gián đoạn, thất bại hoặc suy giảm năng lực, vẫn biết bước tiếp theo có thể nhỏ đến mức nào |
 
-学英语让我学会听见别人的声音，也听见自己的局限；使用 AI 让我更清楚，越强的工具越需要人的判断；做项目让我知道作品必须接受用户、成本和故障的检验；经历身体和关系的低谷，则让我明白，没有照料的目标并不值得被称作成功。
+Học tiếng Anh dạy tôi lắng nghe tiếng nói của người khác, đồng thời lắng nghe những giới hạn của chính mình; sử dụng AI khiến tôi hiểu rõ hơn rằng công cụ càng mạnh thì càng cần đến phán đoán của con người; làm dự án giúp tôi biết tác phẩm phải chấp nhận sự kiểm nghiệm của người dùng, chi phí và sự cố; còn trải qua những giai đoạn sa sút của cơ thể và các mối quan hệ khiến tôi hiểu rằng một mục tiêu không được chăm sóc thì không đáng được gọi là thành công.
 
-这些认识都不是一次顿悟。它们通常发生在很普通的地方：一封没有及时回复的邮件、一段重新录制的说明、一个被删掉的功能、一次终于说出口的求助，或某个晚上决定不再用熬夜偿还白天的中断。
+Những nhận thức này không đến từ một lần giác ngộ. Chúng thường xuất hiện ở những nơi hết sức bình thường: một email chưa kịp trả lời, một phần hướng dẫn được thu âm lại, một tính năng bị xóa, một lần cuối cùng cũng nói ra lời cầu cứu, hoặc một buổi tối quyết định không dùng việc thức khuya để trả giá cho những gián đoạn ban ngày nữa.
 
-小事之所以重要，不是因为它们足以制造传奇，而是因为它们可以被重复、被修正、被带到新的场景。所谓成长的证据，常常不是“我已经变得很好”，而是“我比以前更早发现哪里不对，也更有能力在不对时停下来”。
+Những việc nhỏ quan trọng không phải vì chúng đủ sức tạo nên truyền kỳ, mà vì chúng có thể được lặp lại, sửa đổi và mang đến những bối cảnh mới. Bằng chứng của sự trưởng thành thường không phải là “tôi đã trở nên rất tốt”, mà là “tôi phát hiện điều gì không ổn sớm hơn trước, đồng thời có nhiều khả năng hơn để dừng lại khi nhận ra điều đó”.
 
-## 从后记回到明天
+## Từ lời bạt trở về ngày mai
 
-你不需要先把全书重新读一遍。请从眼前的状态选择一个入口：
+Bạn không cần đọc lại toàn bộ cuốn sách trước. Hãy chọn một điểm bắt đầu từ tình trạng hiện tại:
 
-- 不知道该从哪里开始，打开[工具箱总览](../../templates/toolkit.md)，按问题选择一张工作纸；
-- 已经有样本却不知道是否改变，使用[证据链模板](../../templates/evidence-chain.md)，把基线、即时表现、延迟保持和迁移放在一起；
-- 想保护一周的节奏，复制[节律账本](../../templates/rhythm-ledger.md)，给完整日、压缩日和恢复日各写一个版本；
-- 准备把一件事交给九十天，使用[九十日行动总表](../../templates/90-day-cycle.md)，先写清场景、完成标准和代价；
-- 计划已经被打断，先回到[恢复篇](../part-2/recovery.md)和[生活系统篇](../part-4/daily-system.md)，不要在最疲惫的时候审判自己。
+- Không biết nên bắt đầu từ đâu, hãy mở[tổng quan hộp công cụ](../../templates/toolkit.md), rồi chọn một phiếu công việc theo vấn đề;
+- Đã có mẫu nhưng không biết liệu nó có thay đổi hay chưa, hãy sử dụng[mẫu chuỗi bằng chứng](../../templates/evidence-chain.md), đặt đường cơ sở, biểu hiện tức thời, khả năng duy trì sau một khoảng trễ và khả năng chuyển giao cạnh nhau;
+- Muốn bảo vệ nhịp điệu của một tuần, hãy sao chép[sổ cái nhịp điệu](../../templates/rhythm-ledger.md), viết một phiên bản cho ngày đầy đủ, ngày rút gọn và ngày hồi phục;
+- Chuẩn bị giao phó một việc trong chín mươi ngày, hãy sử dụng[bảng tổng hợp hành động chín mươi ngày](../../templates/90-day-cycle.md), trước hết viết rõ bối cảnh, tiêu chuẩn hoàn thành và cái giá phải trả;
+- Kế hoạch đã bị gián đoạn, trước tiên hãy trở về[phần hồi phục](../part-2/recovery.md)và[phần hệ thống đời sống](../part-4/daily-system.md), đừng phán xét bản thân vào lúc mệt mỏi nhất.
 
-第一周只追踪一个主问题，第二周只改变一个条件。三个月后，把最初的样本、修订记录、真实反馈和仍然存在的错误并排放在一起。你不必向任何人宣布自己“已经改变”；如果变化存在，它会在条件、行动和结果的比较里显现。
+Tuần đầu tiên chỉ theo dõi một vấn đề chính, tuần thứ hai chỉ thay đổi một điều kiện. Ba tháng sau, hãy đặt mẫu ban đầu, nhật ký chỉnh sửa, phản hồi thực tế và những lỗi vẫn còn tồn tại cạnh nhau. Bạn không cần tuyên bố với bất kỳ ai rằng mình “đã thay đổi”; nếu sự thay đổi tồn tại, nó sẽ hiện rõ trong sự so sánh giữa các điều kiện, hành động và kết quả.
 
-如果证据没有支持继续，就降档、改题或停止。停止一项不值得的投入，不是背叛过去的自己；它可能是你第一次把判断力放回自己手里。
+Nếu bằng chứng không ủng hộ việc tiếp tục, hãy hạ cấp, đổi đề tài hoặc dừng lại. Dừng một khoản đầu tư không đáng giá không phải là phản bội con người mình trong quá khứ; đó có thể là lần đầu tiên bạn đưa năng lực phán đoán trở lại tay mình.
 
-## 给未来的读者
+## Gửi độc giả tương lai
 
-我不知道这本书以后会被谁打开。也许是一个正在准备考试的人，一个刚刚失业的人，一个想做产品却找不到用户的人，一个在关系里反复受伤的人，或一个只是今天有五分钟、想让生活不要继续失控的人。
+Tôi không biết sau này ai sẽ mở cuốn sách này. Có thể là một người đang chuẩn bị thi, một người vừa mất việc, một người muốn làm sản phẩm nhưng không tìm được người dùng, một người liên tục tổn thương trong một mối quan hệ, hoặc một người chỉ có năm phút trong ngày hôm nay và muốn cuộc sống đừng tiếp tục mất kiểm soát.
 
-我不能替你保证明天会变好，也不能替你决定哪条路值得走。我能留下的只有一些不那么响亮的愿望：
+Tôi không thể thay bạn đảm bảo rằng ngày mai sẽ tốt đẹp hơn, cũng không thể thay bạn quyết định con đường nào đáng đi. Những gì tôi có thể để lại chỉ là một vài mong ước không quá vang dội:
 
-- 愿你学会一门语言之后，不是更急着证明自己，而是更能听见另一个人的沉默；
-- 愿你做出更多工具之后，不是离真实生活更远，而是更愿意面对具体的人、具体的土地和具体的责任；
-- 愿你在失败之后保留复盘的能力，也保留不把自己缩减成失败的能力；
-- 愿你在需要帮助时尽早开口，在需要停止时允许自己停止，在重新开始时不必先获得完美的许可。
+- Mong bạn sau khi học được một ngôn ngữ không vội vàng chứng minh bản thân hơn, mà có thể nghe thấy rõ hơn sự im lặng của một người khác;
+- Mong bạn sau khi tạo ra nhiều công cụ hơn không cách xa đời sống thực hơn, mà sẵn lòng đối diện hơn với những con người cụ thể, mảnh đất cụ thể và trách nhiệm cụ thể;
+- Mong bạn sau thất bại vẫn giữ được năng lực nhìn lại, đồng thời vẫn giữ được khả năng không thu nhỏ bản thân thành một thất bại;
+- Mong bạn lên tiếng sớm hơn khi cần giúp đỡ, cho phép mình dừng lại khi cần dừng, và khi bắt đầu lại không cần phải có được sự cho phép hoàn hảo trước.
 
 <div class="afterword-closing">
-  <p class="afterword-closing-window">所谓进阶，也许不是从低处搬到高处，而是在同一间房子里重新安装一扇窗。你仍然带着过去的伤痕、习惯、亏欠和笨拙，只是终于能够看见更多天气，也知道哪一盏灯应该在夜里亮着。</p>
-  <p class="afterword-closing-theme">人生最大的进阶，或许不是把自己修炼成一个无懈可击的人，而是在喧闹和期待退去之后，仍能认出自己的声音；知道什么值得坚持，什么需要放下，什么责任必须承担，什么生活值得慢慢过。所谓真正的自己，不是一个永远不变的答案，而是你在行动、关系和时间里愿意反复守住的方向。</p>
-  <p class="afterword-closing-note">愿你读完这本书，带走的不是一套“成为别人”的方法，而是一点更准确的自我辨认：我是谁，我在乎什么，我愿意为谁和什么负责，以及明天准备从哪里开始。</p>
-  <p class="afterword-closing-signoff">谢谢你读到这里。<br />——韩先凯</p>
+  <p class="afterword-closing-window">Cái gọi là tiến bộ có lẽ không phải là chuyển từ nơi thấp lên nơi cao, mà là lắp lại một ô cửa trong chính căn nhà ấy. Bạn vẫn mang theo những vết sẹo, thói quen, món nợ và sự vụng về của quá khứ, chỉ là cuối cùng đã có thể nhìn thấy nhiều kiểu thời tiết hơn, đồng thời biết ngọn đèn nào nên được thắp sáng trong đêm.</p>
+  <p class="afterword-closing-theme">Bước tiến lớn nhất của đời người có lẽ không phải là rèn luyện bản thân thành một người không có kẽ hở, mà là sau khi sự ồn ào và những kỳ vọng lắng xuống, vẫn nhận ra được tiếng nói của mình; biết điều gì đáng kiên trì, điều gì cần buông bỏ, trách nhiệm nào nhất định phải gánh vác, và cuộc sống nào đáng được thong thả sống qua. Con người thật của mình không phải là một đáp án bất biến, mà là phương hướng bạn sẵn lòng nhiều lần gìn giữ trong hành động, các mối quan hệ và thời gian.</p>
+  <p class="afterword-closing-note">Mong bạn sau khi đọc xong cuốn sách này mang theo không phải một phương pháp “trở thành người khác”, mà là một chút khả năng nhận diện bản thân chính xác hơn: Tôi là ai, tôi coi trọng điều gì, tôi sẵn lòng chịu trách nhiệm vì ai và vì điều gì, cũng như ngày mai tôi định bắt đầu từ đâu.</p>
+  <p class="afterword-closing-signoff">Cảm ơn bạn đã đọc đến đây.<br />——Hàn Tiên Khải</p>
 </div>

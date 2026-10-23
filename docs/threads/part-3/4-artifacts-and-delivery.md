@@ -1,55 +1,55 @@
 ---
-title: 作品篇：把学会变成做出
-description: 把输入、练习、反馈和交付组织成一条作品路径，让英语、AI 与职业学习留下可以展示、复测和复用的成果。
+title: "Phần tác phẩm: Biến điều đã học thành thứ làm ra"
+description: Tổ chức việc tiếp nhận, luyện tập, phản hồi và bàn giao thành một lộ trình tạo tác phẩm, để việc học tiếng Anh, AI và nghề nghiệp留下 những thành quả có thể trình bày, kiểm tra lại và tái sử dụng.
 updated: 2026-09-01
 ---
 
-# 作品篇：把学会变成做出
+# Phần tác phẩm: Biến điều đã học thành thứ làm ra
 
-“我已经学会了”是一种很舒服的感觉，也是一种很容易被误判的感觉。只要继续阅读、收藏和听讲，我们几乎总能找到熟悉感；真正困难的是关掉材料之后，仍然能够做出一个别人看得见、用得上、可以提出意见的东西。
+“Tôi đã học được rồi” là một cảm giác rất dễ chịu, nhưng cũng rất dễ bị phán đoán sai. Chỉ cần tiếp tục đọc, lưu lại và nghe giảng, gần như lúc nào chúng ta cũng có thể tìm thấy cảm giác quen thuộc; điều thực sự khó là sau khi đóng tài liệu lại, vẫn có thể làm ra một thứ mà người khác nhìn thấy, sử dụng được và đưa ra ý kiến.
 
-我在软件公司失败之后才真正理解这一点。我们曾经拥有很多功能、演示和会议，却没有足够可靠的用户价值、数据基础和交付证据。后来重新学习 AI 和技术时，我给自己加了一条门槛：**每一轮学习都要留下一个可以被检查的作品。**
+Chỉ sau khi thất bại với công ty phần mềm, tôi mới thực sự hiểu điều này. Chúng tôi từng có rất nhiều tính năng, bản trình diễn và cuộc họp, nhưng lại không có đủ giá trị đáng tin cậy cho người dùng, nền tảng dữ liệu và bằng chứng bàn giao. Về sau, khi học lại AI và công nghệ, tôi tự đặt thêm cho mình một ngưỡng yêu cầu: **mỗi vòng học đều phải để lại một tác phẩm có thể được kiểm tra.**
 
-作品不一定是产品，也可以是一封邮件、一段录音、一份报告、一张流程图、一个小工具、一次演示或一篇有来源的文章。它的共同点是：它把脑中的理解放到了现实面前，允许别人使用、质疑和改进。
+Tác phẩm không nhất thiết phải là một sản phẩm; đó cũng có thể là một email, một đoạn ghi âm, một bản báo cáo, một sơ đồ quy trình, một công cụ nhỏ, một buổi trình diễn hoặc một bài viết có nguồn dẫn. Điểm chung của chúng là: đưa sự hiểu biết trong đầu ra trước thực tế, cho phép người khác sử dụng, chất vấn và cải tiến.
 
-## 本章速览
+## Tóm lược chương
 
-- 区分“知道、能做、能交付”，不要让熟悉感冒充能力；
-- 用最小作品暴露问题，而不是先准备一个宏大项目；
-- 让作品拥有受众、场景、完成标准和版本记录；
-- 用 AI 加快拆解、反馈和测试，但保留自己的第一版与关键判断；
-- 通过发布、复测和复盘，让作品在时间里形成可信的能力证据。
+- Phân biệt “biết, làm được, bàn giao được”, đừng để cảm giác quen thuộc giả danh năng lực;
+- Dùng tác phẩm tối thiểu để bộc lộ vấn đề, thay vì chuẩn bị một dự án lớn ngay từ đầu;
+- Để tác phẩm có đối tượng tiếp nhận, bối cảnh, tiêu chuẩn hoàn thành và lịch sử phiên bản;
+- Dùng AI để tăng tốc việc phân rã, phản hồi và kiểm thử, nhưng vẫn giữ lại bản đầu tiên và những phán đoán quan trọng của mình;
+- Thông qua việc công bố, kiểm tra lại và tổng kết, để tác phẩm dần hình thành bằng chứng năng lực đáng tin cậy theo thời gian.
 
-## 1. 三种不同的“会”
+## 1. Ba trạng thái khác nhau của “biết”
 
-学习过程中至少有三种状态：
+Trong quá trình học, ít nhất có ba trạng thái:
 
-1. **知道**：能读懂定义，听过解释，看到答案时觉得熟悉；
-2. **能做**：在相似条件下独立完成一次任务；
-3. **能交付**：在真实限制下完成、说明、修订，并让别人能够使用或评价。
+1. **Biết**: đọc hiểu định nghĩa, từng nghe giải thích, cảm thấy quen thuộc khi nhìn thấy đáp án;
+2. **Làm được**: độc lập hoàn thành một nhiệm vụ trong điều kiện tương tự;
+3. **Bàn giao được**: hoàn thành, giải thích, chỉnh sửa trong những giới hạn thực tế, đồng thời để người khác có thể sử dụng hoặc đánh giá.
 
-从知道到能做，需要主动回忆和重复；从能做到能交付，需要受众、时间、质量标准和责任。很多课程只带你到第一层，真正的职业能力往往在第三层才开始接受现实检验。
+Từ biết đến làm được cần sự chủ động nhớ lại và lặp lại; từ làm được đến bàn giao được cần có đối tượng tiếp nhận, thời gian, tiêu chuẩn chất lượng và trách nhiệm. Nhiều khóa học chỉ đưa bạn đến tầng thứ nhất, còn năng lực nghề nghiệp thực sự thường chỉ bắt đầu chịu sự kiểm chứng của thực tế ở tầng thứ ba.
 
-每学一个主题，可以问自己：
+Mỗi khi học một chủ đề, hãy tự hỏi:
 
-> 如果现在不能打开搜索和聊天记录，我能做出什么？谁会看到它？什么结果算完成？
+> Nếu bây giờ không thể mở công cụ tìm kiếm và lịch sử trò chuyện, tôi có thể làm ra thứ gì? Ai sẽ nhìn thấy nó? Kết quả thế nào mới được xem là hoàn thành?
 
-## 2. 先选择作品的大小
+## 2. Trước hết hãy chọn quy mô của tác phẩm
 
-作品不应一开始就大到让你只能继续准备。按可用时间选择尺寸：
+Ngay từ đầu, tác phẩm không nên lớn đến mức khiến bạn chỉ có thể tiếp tục chuẩn bị. Hãy chọn kích thước theo quỹ thời gian có thể sử dụng:
 
-| 尺寸 | 时长 | 示例 | 主要验证 |
+| Kích thước | Thời lượng | Ví dụ | Nội dung kiểm chứng chính |
 | --- | --- | --- | --- |
-| 微型作品 | 10–30 分钟 | 三句英文说明、一个测试、一个流程草图 | 我是否理解了最小概念？ |
-| 小型作品 | 1–3 小时 | 一封工作邮件、一份短报告、一个可运行脚本 | 我能否独立完成并解释？ |
-| 项目作品 | 1–2 周 | 一个工具原型、一场演示、一组内容专题 | 真实受众是否愿意使用或反馈？ |
-| 组合作品 | 4–12 周 | 多来源报告、课程、产品试点、作品集 | 能否稳定交付并迁移到新场景？ |
+| Tác phẩm siêu nhỏ | 10–30 phút | Ba câu mô tả bằng tiếng Anh, một bài kiểm thử, một bản phác thảo quy trình | Tôi đã hiểu khái niệm tối thiểu chưa? |
+| Tác phẩm nhỏ | 1–3 giờ | Một email công việc, một báo cáo ngắn, một tập lệnh có thể chạy | Tôi có thể độc lập hoàn thành và giải thích không? |
+| Tác phẩm dự án | 1–2 tuần | Một nguyên mẫu công cụ, một buổi trình diễn, một chuỗi nội dung theo chủ đề | Đối tượng tiếp nhận thực tế có muốn sử dụng hoặc phản hồi không? |
+| Tác phẩm kết hợp | 4–12 tuần | Báo cáo từ nhiều nguồn, khóa học, thử nghiệm sản phẩm, hồ sơ tác phẩm | Có thể bàn giao ổn định và chuyển sang bối cảnh mới không? |
 
-先做小作品不是降低标准，而是提前购买反馈。一个两小时内能被看见的问题，比两个月后才发现的方向错误更便宜。
+Làm tác phẩm nhỏ trước không phải là hạ thấp tiêu chuẩn, mà là mua phản hồi sớm. Một vấn đề có thể được nhìn thấy trong vòng hai giờ sẽ rẻ hơn nhiều so với một sai lầm về hướng đi chỉ được phát hiện sau hai tháng.
 
-## 3. 一页作品简报
+## 3. Bản tóm tắt tác phẩm một trang
 
-在动手之前写一页，不用把所有细节都想清楚：
+Trước khi bắt tay vào làm, hãy viết một trang; không cần phải suy nghĩ thấu đáo mọi chi tiết:
 
 ```markdown
 # 作品简报 — YYYY-MM-DD
@@ -75,111 +75,111 @@ updated: 2026-09-01
 下一次复查日期：
 ```
 
-“不做什么”与“完成标准”同样重要。它们帮助你抵抗功能膨胀，也让反馈能够落到具体问题上。
+“Không làm gì” cũng quan trọng không kém “tiêu chuẩn hoàn thành”. Chúng giúp bạn chống lại việc phình to tính năng, đồng thời khiến phản hồi có thể tập trung vào những vấn đề cụ thể.
 
-## 4. 四次经过作品
+## 4. Bốn lượt hoàn thiện tác phẩm
 
-### 第一遍：独立版
+### Lượt một: Bản độc lập
 
-先在不看答案、不让 AI 代写的情况下完成。速度可以慢，结果可以粗糙，但必须留下原始版本。没有第一版，就没有能力增长的对照。
+Trước tiên hãy hoàn thành mà không xem đáp án và không để AI viết thay. Tốc độ có thể chậm, kết quả có thể còn thô, nhưng nhất định phải giữ lại phiên bản ban đầu. Không có bản đầu tiên thì không có cơ sở đối chiếu để thấy năng lực tăng trưởng.
 
-### 第二遍：结构版
+### Lượt hai: Bản cấu trúc
 
-检查受众是否知道下一步，信息是否按重要性排列，事实和推测是否分开，失败路径是否被说明。先修结构，再修句子和颜色。
+Kiểm tra xem đối tượng tiếp nhận có biết bước tiếp theo hay không, thông tin đã được sắp xếp theo mức độ quan trọng chưa, sự thật và suy đoán đã được tách riêng chưa, con đường thất bại đã được mô tả chưa. Hãy sửa cấu trúc trước, rồi mới sửa câu chữ và màu sắc.
 
-### 第三遍：反馈版
+### Lượt ba: Bản có phản hồi
 
-把作品交给一个真实的人、一个小范围用户，或让 AI 扮演明确的审阅角色。反馈要回答三个问题：哪里有用？哪里造成误解？哪一个改动最值得先做？
+Đưa tác phẩm cho một người thực tế, một nhóm người dùng nhỏ, hoặc để AI đóng vai một người đánh giá với vai trò rõ ràng. Phản hồi cần trả lời ba câu hỏi: Chỗ nào hữu ích? Chỗ nào gây hiểu lầm? Thay đổi nào đáng được ưu tiên nhất?
 
-### 第四遍：交付版
+### Lượt bốn: Bản bàn giao
 
-根据反馈修订，写清版本、限制、来源和已知问题。让别人能够在没有你口头补充的情况下开始使用，哪怕只能完成一个很小的动作。
+Chỉnh sửa theo phản hồi, ghi rõ phiên bản, giới hạn, nguồn và các vấn đề đã biết. Để người khác có thể bắt đầu sử dụng mà không cần bạn bổ sung bằng lời, dù chỉ hoàn thành được một hành động rất nhỏ.
 
-## 5. AI 在作品中的位置
+## 5. Vị trí của AI trong tác phẩm
 
-AI 可以成为四种助手：
+AI có thể trở thành bốn kiểu trợ lý:
 
-- **拆解者**：把目标拆成最小步骤和验收条件；
-- **陪练者**：生成平行任务，让你在不同场景中重复；
-- **审阅者**：按照受众、事实、结构、质量和风险提出问题；
-- **测试者**：制造边界输入、反例和可能失败的路径。
+- **Người phân rã**: chia mục tiêu thành các bước nhỏ nhất và điều kiện nghiệm thu;
+- **Người luyện tập cùng**: tạo ra các nhiệm vụ song song, để bạn lặp lại trong những bối cảnh khác nhau;
+- **Người đánh giá**: đặt câu hỏi dựa trên đối tượng tiếp nhận, sự thật, cấu trúc, chất lượng và rủi ro;
+- **Người kiểm thử**: tạo ra dữ liệu đầu vào biên, phản ví dụ và những con đường có thể thất bại.
 
-但以下部分最好由你亲自完成：定义问题，选择受众，写下第一版，确认事实，决定删掉什么，以及为最终结果署名。
+Tuy nhiên, những phần sau tốt nhất nên do chính bạn hoàn thành: xác định vấn đề, lựa chọn đối tượng tiếp nhận, viết bản đầu tiên, xác nhận sự thật, quyết định xóa bỏ điều gì và đứng tên cho kết quả cuối cùng.
 
-一个实用的协作顺序是：
+Một trình tự phối hợp thực tế là:
 
-1. 自己写简报和第一版；
-2. 让 AI 只指出最影响结果的三个问题；
-3. 自己修改并保存差异；
-4. 让 AI 生成一个平行场景或反例；
-5. 关闭 AI，独立完成一次复测；
-6. 把来源、反馈、成本和未决问题写回作品记录。
+1. Tự viết bản tóm tắt và bản đầu tiên;
+2. Chỉ yêu cầu AI chỉ ra ba vấn đề ảnh hưởng nhiều nhất đến kết quả;
+3. Tự sửa và lưu lại những khác biệt;
+4. Yêu cầu AI tạo một bối cảnh song song hoặc một phản ví dụ;
+5. Tắt AI và độc lập thực hiện một lần kiểm tra lại;
+6. Ghi nguồn, phản hồi, chi phí và các vấn đề còn bỏ ngỏ vào hồ sơ tác phẩm.
 
-如果 AI 直接交付了最终成品，你可能获得一个漂亮的文件，却失去最重要的训练过程。
+Nếu AI trực tiếp bàn giao thành phẩm cuối cùng, bạn có thể nhận được một tệp đẹp mắt, nhưng lại đánh mất quá trình rèn luyện quan trọng nhất.
 
-## 6. 作品的质量门
+## 6. Các cổng chất lượng của tác phẩm
 
-不同作品的标准不同，但至少检查五道门：
+Tiêu chuẩn của mỗi tác phẩm khác nhau, nhưng ít nhất hãy kiểm tra qua năm cổng:
 
-- **清楚**：受众知道它解决什么问题，下一步做什么；
-- **准确**：事实、引用、代码和数字可以回到来源或测试；
-- **可用**：在真实限制下能够完成主要动作，而不是只能演示；
-- **可维护**：别人知道版本、依赖、限制和出现问题时找谁；
-- **可负责**：敏感数据、隐私、版权和错误后果已经被考虑。
+- **Rõ ràng**: đối tượng tiếp nhận biết tác phẩm giải quyết vấn đề gì và cần làm gì tiếp theo;
+- **Chính xác**: sự thật, trích dẫn, mã và con số có thể truy ngược về nguồn hoặc bài kiểm thử;
+- **Có thể sử dụng**: có thể hoàn thành hành động chính trong những giới hạn thực tế, chứ không chỉ có thể trình diễn;
+- **Có thể bảo trì**: người khác biết phiên bản, phần phụ thuộc, giới hạn và cần liên hệ với ai khi có vấn đề;
+- **Có trách nhiệm**: dữ liệu nhạy cảm, quyền riêng tư, bản quyền và hậu quả của sai sót đã được cân nhắc.
 
-速度、字数和功能数量都只是代理指标。一个更小但可解释、可复查、可修订的作品，通常比一份无法交接的宏大成品更有长期价值。
+Tốc độ, số lượng từ và số lượng tính năng đều chỉ là những chỉ số đại diện. Một tác phẩm nhỏ hơn nhưng có thể giải thích, kiểm tra lại và chỉnh sửa thường có giá trị lâu dài hơn một thành phẩm đồ sộ nhưng không thể bàn giao.
 
-## 7. 发布不是表演，而是获取信息
+## 7. Công bố không phải để trình diễn, mà để thu thập thông tin
 
-公开发布不等于把隐私交给所有人。可以按风险选择受众：
+Công khai không có nghĩa là giao quyền riêng tư cho tất cả mọi người. Có thể lựa chọn đối tượng tiếp nhận theo mức độ rủi ro:
 
-- 私人记录：只为自己保留过程和错误；
-- 小范围试用：交给三到五位相关的人，记录他们是否能完成任务；
-- 公开版本：删除不必要的个人信息，标注来源、限制和版本；
-- 正式交付：写清授权、责任、支持范围、成本和退出方式。
+- Ghi chép riêng: chỉ giữ lại quá trình và lỗi sai cho bản thân;
+- Thử nghiệm trong phạm vi nhỏ: giao cho ba đến năm người có liên quan, ghi lại xem họ có thể hoàn thành nhiệm vụ hay không;
+- Phiên bản công khai: xóa thông tin cá nhân không cần thiết, ghi rõ nguồn, giới hạn và phiên bản;
+- Bàn giao chính thức: viết rõ quyền cấp phép, trách nhiệm, phạm vi hỗ trợ, chi phí và cách thức rút lui.
 
-发布前问自己：我是否获得了必要授权？是否把第三方信息脱敏？是否会把一个未经证实的个人故事包装成结果证明？诚实的限制不会降低作品价值，反而让反馈更可靠。
+Trước khi công bố, hãy tự hỏi: Tôi đã có được sự cho phép cần thiết chưa? Tôi đã ẩn danh hóa thông tin của bên thứ ba chưa? Tôi có đang biến một câu chuyện cá nhân chưa được kiểm chứng thành bằng chứng cho kết quả không? Những giới hạn trung thực không làm giảm giá trị của tác phẩm; ngược lại, chúng khiến phản hồi đáng tin cậy hơn.
 
-## 8. 7 天作品启动
+## 8. Khởi động tác phẩm trong 7 ngày
 
-1. **第 1 天**：从正在学习的主题里选一个真实问题；
-2. **第 2 天**：写作品简报和无 AI 基线；
-3. **第 3 天**：完成微型或小型作品的第一版；
-4. **第 4 天**：让 AI 或同伴指出三个最高价值问题；
-5. **第 5 天**：自己修订，补齐来源、限制和失败路径；
-6. **第 6 天**：交给一个真实受众试用或阅读；
-7. **第 7 天**：记录反馈、决定下一版范围，并保存全部证据。
+1. **Ngày 1**: Chọn một vấn đề thực tế từ chủ đề đang học;
+2. **Ngày 2**: Viết bản tóm tắt tác phẩm và đường cơ sở không dùng AI;
+3. **Ngày 3**: Hoàn thành bản đầu tiên của một tác phẩm siêu nhỏ hoặc nhỏ;
+4. **Ngày 4**: Nhờ AI hoặc bạn học chỉ ra ba vấn đề có giá trị cao nhất;
+5. **Ngày 5**: Tự chỉnh sửa, bổ sung nguồn, giới hạn và con đường thất bại;
+6. **Ngày 6**: Đưa cho một đối tượng tiếp nhận thực tế dùng thử hoặc đọc;
+7. **Ngày 7**: Ghi lại phản hồi, quyết định phạm vi của phiên bản tiếp theo và lưu giữ toàn bộ bằng chứng.
 
-如果七天只能完成一页、一段录音或一个能运行的最小脚本，也已经完成了一次从学习到交付的闭环。
+Nếu trong bảy ngày bạn chỉ hoàn thành được một trang, một đoạn ghi âm hoặc một tập lệnh tối thiểu có thể chạy, thì cũng đã hoàn thành một vòng khép kín từ học tập đến bàn giao.
 
-## 9. 12 周作品阶梯
+## 9. Bậc thang tác phẩm trong 12 tuần
 
-- **第 1–2 周**：完成 4 个微型作品，确认主题和场景；
-- **第 3–5 周**：完成 2 个小型作品，开始收集真实反馈；
-- **第 6–8 周**：把一个小型作品扩展成可试用原型，记录成本和失败；
-- **第 9–12 周**：完成一次公开或正式交付，用盲评、用户反馈或平行任务复测。
+- **Tuần 1–2**: Hoàn thành 4 tác phẩm siêu nhỏ, xác nhận chủ đề và bối cảnh;
+- **Tuần 3–5**: Hoàn thành 2 tác phẩm nhỏ, bắt đầu thu thập phản hồi thực tế;
+- **Tuần 6–8**: Mở rộng một tác phẩm nhỏ thành nguyên mẫu có thể dùng thử, ghi lại chi phí và thất bại;
+- **Tuần 9–12**: Hoàn thành một lần công bố hoặc bàn giao chính thức, dùng đánh giá mù, phản hồi người dùng hoặc nhiệm vụ song song để kiểm tra lại.
 
-每一级都留下原始版、修订版和反馈。作品数量不是目的，能够解释自己如何从问题走到结果，才是能力开始稳定的信号。
+Mỗi cấp độ đều giữ lại bản ban đầu, bản chỉnh sửa và phản hồi. Số lượng tác phẩm không phải mục tiêu; có thể giải thích cách mình đi từ vấn đề đến kết quả mới là dấu hiệu năng lực bắt đầu ổn định.
 
-## 10. 作品的阶段性标准
+## 10. Tiêu chuẩn theo giai đoạn của tác phẩm
 
-你不需要等作品完美才称它为作品。一个合格的阶段成果通常能做到：
+Bạn không cần chờ tác phẩm hoàn hảo mới gọi nó là một tác phẩm. Một thành quả theo giai đoạn đạt yêu cầu thường có thể:
 
-- 有明确的受众和使用场景；
-- 有一个可观察的完成标准；
-- 有独立完成的原始版本；
-- 有来自他人、测试或来源的反馈；
-- 有版本、限制和下一步；
-- 能在不依赖聊天记录的情况下解释关键决定。
+- Có đối tượng tiếp nhận và bối cảnh sử dụng rõ ràng;
+- Có một tiêu chuẩn hoàn thành có thể quan sát;
+- Có phiên bản ban đầu được hoàn thành độc lập;
+- Có phản hồi từ người khác, bài kiểm thử hoặc nguồn tài liệu;
+- Có phiên bản, giới hạn và bước tiếp theo;
+- Có thể giải thích những quyết định then chốt mà không phụ thuộc vào lịch sử trò chuyện.
 
-当作品允许别人看见、使用和质疑时，学习才真正离开了脑海，进入了世界。
+Khi tác phẩm cho phép người khác nhìn thấy, sử dụng và chất vấn, việc học mới thực sự rời khỏi tâm trí để bước vào thế giới.
 
-## 交付之后再问一次
+## Hãy hỏi lại một lần sau khi bàn giao
 
-交付证明的是某个条件下的即时表现，不等于能力已经保持或能够迁移。完成作品后，打开[证据篇：变化要如何被看见](5-evidence-and-transfer.md)，再安排一次撤掉提示的延迟复测，以及一次换主题、听众或约束的迁移任务。保留原始版、交付版和复测版，才能看见作品是如何离开一次演示、进入真实使用的。
+Bàn giao chỉ chứng minh biểu hiện tức thời trong một điều kiện nhất định, không có nghĩa năng lực đã được duy trì hoặc có thể chuyển giao. Sau khi hoàn thành tác phẩm, hãy mở[Phần bằng chứng: Làm thế nào để sự thay đổi được nhìn thấy](5-evidence-and-transfer.md), rồi sắp xếp một lần kiểm tra lại có trì hoãn sau khi gỡ bỏ gợi ý, cùng một nhiệm vụ chuyển giao sang chủ đề, người nghe hoặc ràng buộc khác. Chỉ khi giữ lại bản ban đầu, bản bàn giao và bản kiểm tra lại, bạn mới có thể thấy tác phẩm đã rời khỏi một lần trình diễn như thế nào để bước vào sử dụng thực tế.
 
-## 结语：让作品替你记住
+## Lời kết: Để tác phẩm ghi nhớ thay bạn
 
-知识会忘，情绪会变，聊天记录也可能消失。作品是另一种记忆：它提醒你曾经面对过什么问题，做过怎样的选择，在哪里犯错，又怎样把错误改成下一步。
+Kiến thức sẽ bị lãng quên, cảm xúc sẽ thay đổi, lịch sử trò chuyện cũng có thể biến mất. Tác phẩm là một dạng ký ức khác: nó nhắc bạn đã từng đối mặt với vấn đề gì, từng đưa ra lựa chọn như thế nào, đã mắc lỗi ở đâu và đã biến lỗi sai thành bước tiếp theo ra sao.
 
-我不再把“完成作品”理解成向世界证明自己很厉害。它更像是给未来的自己留一盏灯：当你再次怀疑是否能够开始时，至少有一件真实的东西可以回答——你已经做过一次。
+Tôi không còn hiểu “hoàn thành tác phẩm” là việc chứng minh với thế giới rằng mình rất giỏi. Nó giống như để lại một ngọn đèn cho bản thân trong tương lai hơn: khi một lần nữa nghi ngờ liệu mình có thể bắt đầu hay không, ít nhất vẫn có một thứ thực tế có thể trả lời rằng — bạn đã từng làm được một lần.

@@ -1,80 +1,80 @@
 ---
-title: AI 工作流：把一次回答变成可靠交付
-description: 从个人与小团队的真实任务出发，设计输入、执行、核验、交付和失败处理，逐步判断是否需要自动化或智能体。
+title: "Quy trình làm việc với AI: biến một câu trả lời thành kết quả bàn giao đáng tin cậy"
+description: Xuất phát từ những nhiệm vụ thực tế của cá nhân và nhóm nhỏ, thiết kế đầu vào, thực thi, kiểm tra, bàn giao và xử lý thất bại, từng bước xác định có cần tự động hóa hay tác tử hay không.
 updated: 2026-10-16
 sources_checked: 2026-10-16
 source_review_interval: 60
 ---
 
-# AI 工作流：把一次回答变成可靠交付
+# Quy trình làm việc với AI: biến một câu trả lời thành kết quả bàn giao đáng tin cậy
 
-你可能已经会让 AI 写摘要、解释概念和生成代码，却仍然花大量时间重述背景、修复错误和查找上次做到哪里。下一步可以是建立一个可重复的工作流程：每次从相同的入口开始，把关键检查放在交付之前。
+Có thể bạn đã biết cách nhờ AI viết bản tóm tắt, giải thích khái niệm và tạo mã, nhưng vẫn phải dành rất nhiều thời gian để nhắc lại bối cảnh, sửa lỗi và tìm xem lần trước đã làm đến đâu. Bước tiếp theo có thể là xây dựng một quy trình làm việc có thể lặp lại: mỗi lần bắt đầu từ cùng một điểm đầu vào và đặt các bước kiểm tra quan trọng trước khi bàn giao.
 
-本章提供个人和小团队可试用的流程设计。下面的时间、数量和案例均为教学示例，需在自己的任务上验证；它们不是任何模型的性能承诺。
+Chương này cung cấp một thiết kế quy trình mà cá nhân và nhóm nhỏ có thể thử nghiệm. Thời gian, số lượng và ví dụ dưới đây đều là minh họa phục vụ giảng dạy, cần được kiểm chứng trên nhiệm vụ của chính bạn; chúng không phải cam kết về hiệu năng của bất kỳ mô hình nào.
 
-## 2026 年先看清三个变化
+## Ba thay đổi cần nhìn rõ trong năm 2026
 
-近期官方工程资料把“智能体”说得更具体：它不是一个更会聊天的页面，而是由模型、工具和行为指令共同控制一段可以完成、暂停或交回人工的工作流程。模型更换、工具增加或授权范围扩大，都会改变系统行为，因此不能只保存一段提示词。
+Các tài liệu kỹ thuật chính thức gần đây mô tả “tác tử” cụ thể hơn: đó không phải là một trang có khả năng trò chuyện tốt hơn, mà là một quy trình làm việc do mô hình, công cụ và chỉ dẫn hành vi cùng kiểm soát, có thể hoàn thành, tạm dừng hoặc chuyển lại cho con người. Việc thay đổi mô hình, thêm công cụ hoặc mở rộng phạm vi cấp quyền đều sẽ làm thay đổi hành vi của hệ thống, vì vậy không thể chỉ lưu một đoạn prompt.
 
-- **先定边界，再谈自主性**：传统规则或固定工作流足够时，不必引入智能体。只有当任务包含难以维护的规则、非结构化材料或需要根据环境选择下一步时，才值得做受限实验。
-- **工具接入正在标准化**：Model Context Protocol（MCP）把资源、提示和工具的连接方式标准化，但协议不会替你完成安全审查。任何服务器、文件系统、写入工具或采样请求都应显示范围、取得同意、记录授权并支持撤回。
-- **评测从答案扩展到过程和结果**：多轮工具调用会修改外部状态。一次看似正确的回答不代表任务真的完成；需要同时保留任务、每次尝试、过程记录和最终环境状态。
+- **Xác định ranh giới trước, rồi mới nói đến tính tự chủ**: Khi các quy tắc truyền thống hoặc quy trình cố định đã đủ dùng, không cần đưa tác tử vào. Chỉ khi nhiệm vụ bao gồm các quy tắc khó duy trì, tài liệu phi cấu trúc hoặc cần lựa chọn bước tiếp theo dựa trên môi trường, mới đáng để tiến hành thử nghiệm có giới hạn.
+- **Việc tích hợp công cụ đang được chuẩn hóa**: Model Context Protocol（MCP）chuẩn hóa cách kết nối tài nguyên, prompt và công cụ, nhưng giao thức không thay bạn thực hiện việc đánh giá an toàn. Bất kỳ máy chủ, hệ thống tệp, công cụ ghi dữ liệu hoặc yêu cầu lấy mẫu nào cũng cần hiển thị phạm vi, xin sự đồng ý, ghi lại việc cấp quyền và hỗ trợ thu hồi.
+- **Đánh giá được mở rộng từ câu trả lời sang quy trình và kết quả**: Nhiều lượt gọi công cụ có thể thay đổi trạng thái bên ngoài. Một câu trả lời có vẻ đúng không có nghĩa là nhiệm vụ thực sự đã hoàn thành; cần đồng thời lưu lại nhiệm vụ, từng lần thử, nhật ký quy trình và trạng thái cuối cùng của môi trường.
 
-这些是架构和治理趋势，不是某个供应商的能力排名。先用本章的人工基线、权限门和失败出口建立小实验，再决定是否采用 SDK、MCP 或更复杂的编排。
+Đây là các xu hướng về kiến trúc và quản trị, không phải bảng xếp hạng năng lực của một nhà cung cấp nào. Trước hết, hãy dùng đường cơ sở thủ công, cổng kiểm soát quyền hạn và lối thoát khi thất bại trong chương này để xây dựng một thử nghiệm nhỏ, sau đó mới quyết định có sử dụng SDK, MCP hay cơ chế điều phối phức tạp hơn hay không.
 
-如果还没决定值得试什么，先用 [AI 趋势与学习路线](../part-3/6-ai-trends-and-learning-roadmap.md)选择一个有真实用途的变化；其中的多模态、上下文与迁移实验可以接入下面的五步流程。
+Nếu vẫn chưa quyết định nên thử điều gì, trước tiên hãy dùng [Xu hướng AI và lộ trình học tập](../part-3/6-ai-trends-and-learning-roadmap.md) để chọn một thay đổi có mục đích sử dụng thực tế; các thử nghiệm về đa phương thức, ngữ cảnh và khả năng chuyển giao trong đó có thể kết nối với quy trình năm bước dưới đây.
 
-## 先选一个值得重复的任务
+## Trước tiên, hãy chọn một nhiệm vụ đáng để lặp lại
 
-把“提高效率”改写成一个有起点和终点的句子：收到三份公开产品说明后，整理一页带来源的差异表，供同事决定下一步核查什么。先记录人工完成一次需要多久、最容易错在哪里、谁判断完成。
+Hãy chuyển “nâng cao hiệu suất” thành một câu có điểm bắt đầu và điểm kết thúc: sau khi nhận ba tài liệu giới thiệu sản phẩm công khai, lập một bảng so sánh một trang có kèm nguồn để đồng nghiệp quyết định bước xác minh tiếp theo. Trước hết, hãy ghi lại thời gian cần thiết để con người hoàn thành một lần, nơi dễ xảy ra sai sót nhất và ai là người xác định nhiệm vụ đã hoàn tất.
 
-适合作为起点的任务有明确输入、结果可检查、失败可修复。尚未理解的专业判断、没有权限取得的数据、无人能验收的任务，都不适合直接扩大自动化范围。
+Những nhiệm vụ phù hợp để bắt đầu có đầu vào rõ ràng, kết quả có thể kiểm tra và thất bại có thể khắc phục. Các nhiệm vụ đòi hỏi phán đoán chuyên môn mà bạn chưa hiểu, dữ liệu không có quyền truy cập hoặc không ai có thể nghiệm thu đều không phù hợp để mở rộng tự động hóa ngay.
 
-| 场景 | 输入 | 最小交付 | 验收方式 |
+| Bối cảnh | Đầu vào | Kết quả bàn giao tối thiểu | Cách nghiệm thu |
 | --- | --- | --- | --- |
-| 学习陌生概念 | 一段教材与自己的解释 | 三个练习及错误说明 | 关闭 AI 后解一道新题 |
-| 整理公开资料 | 指定的原始文档 | 带出处的比较表 | 抽查每项关键断言 |
-| 小型开发任务 | 现有代码与缺陷复现 | 一个可运行的修复 | 原失败用例通过且旧行为保留 |
-| 创业访谈整理 | 获准使用的匿名记录 | 痛点、原话位置、反证 | 人工对照记录，保留分歧 |
+| Học một khái niệm xa lạ | Một đoạn giáo trình và phần giải thích của chính mình | Ba bài tập và giải thích lỗi | Tắt AI rồi giải một bài mới |
+| Tổng hợp tài liệu công khai | Các tài liệu nguồn được chỉ định | Bảng so sánh có trích nguồn | Kiểm tra ngẫu nhiên từng nhận định quan trọng |
+| Nhiệm vụ phát triển nhỏ | Mã hiện có và cách tái hiện lỗi | Một bản sửa có thể chạy được | Ca kiểm thử từng thất bại đã vượt qua và hành vi cũ vẫn được giữ nguyên |
+| Tổng hợp phỏng vấn khởi nghiệp | Bản ghi ẩn danh được phép sử dụng | Điểm khó khăn, vị trí câu nói nguyên văn và bằng chứng phản bác | Đối chiếu thủ công với bản ghi, giữ lại các điểm bất đồng |
 
-一次任务只优化一个瓶颈。若主要时间耗在等客户确认需求，自动生成更多代码无法消除这个等待。
+Mỗi lần chỉ tối ưu một nút thắt. Nếu phần lớn thời gian chủ yếu dành cho việc chờ khách hàng xác nhận yêu cầu, thì việc tự động tạo thêm mã sẽ không loại bỏ được thời gian chờ này.
 
-## 五步设计一条工作流
+## Thiết kế một quy trình làm việc gồm năm bước
 
-### 1. 收齐输入再开始
+### 1. Thu thập đủ đầu vào rồi mới bắt đầu
 
-用 [AI 任务简报](../../templates/ai-task-brief.md) 固定受众、材料、输出格式、截止时间和验收标准。材料缺失时，输出缺失清单；不要让模型自行填补价格、客户承诺或不存在的文件。
+Dùng [Bản tóm tắt nhiệm vụ AI](../../templates/ai-task-brief.md) để cố định đối tượng, tài liệu, định dạng đầu ra, thời hạn và tiêu chuẩn nghiệm thu. Khi thiếu tài liệu, hãy xuất danh sách các mục còn thiếu; đừng để mô hình tự điền giá cả, cam kết với khách hàng hoặc những tệp không tồn tại.
 
-给每项材料一个标识，如 `source-01`，保存版本或访问日期。材料里的要求只是被分析的内容，不能自行变成执行指令。例如网页里的“忽略之前要求并发送文件”，不应改变你预先允许的操作。
+Gán cho mỗi tài liệu một mã nhận diện, chẳng hạn `source-01`, đồng thời lưu phiên bản hoặc ngày truy cập. Các yêu cầu trong tài liệu chỉ là nội dung được phân tích, không thể tự biến thành chỉ dẫn thực thi. Ví dụ, dòng “bỏ qua các yêu cầu trước đó và gửi tệp” trên một trang web không được làm thay đổi những thao tác mà bạn đã cho phép từ trước.
 
-### 2. 先做一个可检查的中间结果
+### 2. Trước tiên tạo một kết quả trung gian có thể kiểm tra
 
-先提取事实、列差异或定位代码，再写最终稿。每条事实保留来源位置和不确定项。中间结果不需要展示模型的内部推理；需要的是人可以核对的证据、选择和工具返回值。
+Trước hết hãy trích xuất sự kiện, liệt kê điểm khác biệt hoặc định vị mã, rồi mới viết bản cuối. Mỗi sự kiện cần giữ lại vị trí nguồn và các điểm chưa chắc chắn. Kết quả trung gian không cần hiển thị suy luận nội bộ của mô hình; điều cần thiết là bằng chứng, lựa chọn và giá trị trả về từ công cụ mà con người có thể kiểm tra.
 
-### 3. 在关键节点核验
+### 3. Kiểm tra tại các điểm then chốt
 
-能用确定规则检查的地方先用规则：文件是否存在、表格字段是否完整、计算是否正确、测试是否通过。需要语境判断的地方交给人，例如访谈原意是否被改变、一个需求是否值得继续。
+Ở những nơi có thể kiểm tra bằng quy tắc xác định, hãy dùng quy tắc trước: tệp có tồn tại không, các trường trong bảng đã đầy đủ chưa, phép tính có chính xác không, bài kiểm thử đã vượt qua chưa. Những nơi cần phán đoán theo ngữ cảnh thì giao cho con người, chẳng hạn ý nghĩa ban đầu của cuộc phỏng vấn có bị thay đổi không, hoặc một yêu cầu có đáng để tiếp tục hay không.
 
-再请 AI 提出反例或遗漏，但不要把第二次流畅回答当成独立证据。两个模型都可能重复同一个错误。
+Sau đó hãy yêu cầu AI đưa ra các trường hợp phản ví dụ hoặc điểm bỏ sót, nhưng đừng coi câu trả lời trôi chảy lần thứ hai là bằng chứng độc lập. Hai mô hình đều có thể lặp lại cùng một lỗi.
 
-### 4. 明确谁负责交付
+### 4. Xác định rõ ai chịu trách nhiệm bàn giao
 
-生成草稿、保存本地结果、更新外部系统是不同操作。按具体任务预先确定哪些动作可以执行，哪些需要负责人检查；把批准后的版本与交付记录关联。客户邮件里的数字与承诺必须来自已确认的材料。
+Tạo bản nháp, lưu kết quả cục bộ và cập nhật hệ thống bên ngoài là những thao tác khác nhau. Hãy xác định trước theo từng nhiệm vụ những thao tác nào được phép thực hiện và những thao tác nào cần người phụ trách kiểm tra; liên kết phiên bản đã được phê duyệt với hồ sơ bàn giao. Các con số và cam kết trong email gửi khách hàng phải xuất phát từ tài liệu đã được xác nhận.
 
-### 5. 为失败留出口
+### 5. Tạo lối thoát khi thất bại
 
-提前确定时间、调用次数和费用上限。工具报错、来源冲突或证据不足时，保存已完成部分和未解决项，转回人工处理。重复失败应触发诊断，不是无限重试。写入动作重试前先确认上一次是否已经成功，避免重复建单或重复通知。
+Hãy xác định trước giới hạn về thời gian, số lần gọi và chi phí. Khi công cụ báo lỗi, nguồn thông tin mâu thuẫn hoặc bằng chứng không đầy đủ, hãy lưu lại phần đã hoàn thành và các mục chưa được giải quyết, rồi chuyển về xử lý thủ công. Thất bại lặp lại phải kích hoạt chẩn đoán, không phải thử lại vô hạn. Trước khi thử lại thao tác ghi dữ liệu, hãy xác nhận lần trước đã thành công hay chưa để tránh tạo yêu cầu trùng lặp hoặc gửi thông báo trùng lặp.
 
-## 完整示例：一份公开资料比较表
+## Ví dụ đầy đủ: một bảng so sánh tài liệu công khai
 
-下面是虚构任务：你要比较三个社区活动场地的公开介绍。目标是列出值得向场地方确认的问题，不是自动完成预订。
+Dưới đây là một nhiệm vụ hư cấu: bạn cần so sánh phần giới thiệu công khai của ba địa điểm tổ chức hoạt động cộng đồng. Mục tiêu là liệt kê những vấn đề đáng xác nhận với bên quản lý địa điểm, không phải tự động hoàn tất việc đặt chỗ.
 
-1. **人工基线**：手动整理一次，记录耗时和缺项。
-2. **输入约定**：只使用三份指定资料；分别标为 A、B、C。字段为容量、费用、开放时间、无障碍信息、资料日期和出处。
-3. **提取**：原文未写费用时填“未提供”；不同段落有冲突时并列保留。
-4. **检查**：每行都有出处；人数和时间逐项核对；“未提及”不能改写成“不支持”。
-5. **交付**：保存比较表和待确认清单，负责人决定联系谁。
-6. **复盘**：记录准备材料、生成、核验和返工的总时间，而不只记录模型响应时间。
+1. **Đường cơ sở thủ công**: Tự lập một lần, ghi lại thời gian và các mục còn thiếu.
+2. **Quy ước đầu vào**: Chỉ sử dụng ba tài liệu được chỉ định; lần lượt đánh dấu là A, B và C. Các trường gồm sức chứa, chi phí, thời gian mở cửa, thông tin tiếp cận cho người khuyết tật, ngày của tài liệu và nguồn.
+3. **Trích xuất**: Nếu bản gốc không ghi chi phí thì điền “Chưa cung cấp”; nếu các đoạn khác nhau có mâu thuẫn thì giữ song song.
+4. **Kiểm tra**: Mỗi dòng đều có nguồn; đối chiếu từng mục về số người và thời gian; “Không đề cập” không được viết lại thành “Không hỗ trợ”.
+5. **Bàn giao**: Lưu bảng so sánh và danh sách cần xác nhận, để người phụ trách quyết định liên hệ với ai.
+6. **Rút kinh nghiệm**: Ghi lại tổng thời gian chuẩn bị tài liệu, tạo kết quả, kiểm tra và làm lại, không chỉ ghi thời gian mô hình phản hồi.
 
 ```text
 请只根据下列指定资料制作比较表。
@@ -85,37 +85,37 @@ source_review_interval: 60
 本次仅生成草稿，不对外联系、预订或修改其他文件。
 ```
 
-若你用 10 分钟准备资料、2 分钟生成、18 分钟核验返工，而人工只要 20 分钟，这次流程还没有节省时间。它仍可能改善来源追踪，但应如实记录收益来自哪里。
+Nếu bạn mất 10 phút chuẩn bị tài liệu, 2 phút tạo kết quả và 18 phút kiểm tra, làm lại, trong khi làm thủ công chỉ mất 20 phút, thì quy trình lần này vẫn chưa tiết kiệm thời gian. Nó vẫn có thể cải thiện khả năng truy vết nguồn, nhưng cần ghi nhận trung thực lợi ích đến từ đâu.
 
-## 什么时候增加自动化
+## Khi nào nên tăng cường tự động hóa
 
-先运行几次人工可见的流程，确认反复发生的步骤，再考虑脚本。下面是本指南的选型建议，并非工具能力排行榜。
+Trước tiên hãy chạy vài lần quy trình có con người theo dõi, xác nhận những bước lặp đi lặp lại, rồi mới cân nhắc viết script. Dưới đây là đề xuất lựa chọn của hướng dẫn này, không phải bảng xếp hạng năng lực công cụ.
 
-| 任务状况 | 可以先试 | 增加复杂度前要证明 |
+| Tình trạng nhiệm vụ | Có thể thử trước | Cần chứng minh trước khi tăng độ phức tạp |
 | --- | --- | --- |
-| 单次输入和输出 | 一次对话配人工核对 | 提示与材料已足够清楚 |
-| 步骤固定且重复 | 脚本串联固定工作流 | 每步有输入输出约定和错误处理 |
-| 需要根据环境反馈选择下一步 | 有边界的智能体试验 | 工具权限、停止条件、日志和评测可用 |
-| 任务相互独立且数量较多 | 分工并行后统一验收 | 合并结果不会丢失矛盾和来源 |
+| Đầu vào và đầu ra một lần | Một cuộc trò chuyện kèm kiểm tra thủ công | Prompt và tài liệu đã đủ rõ ràng |
+| Các bước cố định và lặp lại | Script kết nối quy trình cố định | Mỗi bước có quy ước đầu vào, đầu ra và xử lý lỗi |
+| Cần lựa chọn bước tiếp theo dựa trên phản hồi của môi trường | Thử nghiệm tác tử có giới hạn | Quyền công cụ, điều kiện dừng, nhật ký và đánh giá đều khả dụng |
+| Các nhiệm vụ độc lập với nhau và có số lượng lớn | Phân công xử lý song song rồi nghiệm thu thống nhất | Kết quả hợp nhất không làm mất mâu thuẫn và nguồn |
 
-Anthropic 的工程文章区分了预定路径的工作流与动态选择步骤的智能体，并建议从简单方案开始。OpenAI 的实践指南也将模型、工具、指令和防护栏视为基本构件，并建议先建立最强模型的评测基线，再用更小、更快的模型验证成本和延迟。这里仅引用架构原则，不沿用产品选型；工具互操作可进一步阅读 [MCP 规范（2026-07-28）](https://modelcontextprotocol.io/specification/2026-07-28)。
+Các bài viết kỹ thuật của Anthropic phân biệt quy trình có lộ trình định trước với tác tử lựa chọn bước động, đồng thời khuyến nghị bắt đầu từ phương án đơn giản. Hướng dẫn thực tiễn của OpenAI cũng xem mô hình, công cụ, chỉ dẫn và hàng rào bảo vệ là các cấu phần cơ bản, đồng thời khuyến nghị trước tiên xây dựng đường cơ sở đánh giá bằng mô hình mạnh nhất, sau đó dùng mô hình nhỏ hơn và nhanh hơn để kiểm chứng chi phí và độ trễ. Ở đây chỉ trích dẫn các nguyên tắc kiến trúc, không áp dụng cách lựa chọn sản phẩm; để tìm hiểu thêm về khả năng tương tác giữa các công cụ, hãy đọc [Đặc tả MCP (2026-07-28)](https://modelcontextprotocol.io/specification/2026-07-28)。
 
-### 长时任务与浏览器工具的最小安全实验
+### Thử nghiệm an toàn tối thiểu cho nhiệm vụ dài hạn và công cụ trình duyệt
 
-近期官方资料把“能运行更久”与“可以放任运行”分开：长时任务需要检查点、恢复点和人工接管；浏览器页面、截图和工具返回值都应先当作不可信材料。先做一个无副作用的实验：给任务一个唯一的运行编号，限制网络出口和写入范围，每完成一个阶段保存状态与证据；中断后从最近检查点恢复，并在重试前核对是否已经写入。
+Các tài liệu chính thức gần đây phân biệt “có thể chạy lâu hơn” với “có thể để chạy tùy ý”: nhiệm vụ dài hạn cần có điểm kiểm tra, điểm khôi phục và khả năng con người tiếp quản; các trang trình duyệt, ảnh chụp màn hình và giá trị trả về từ công cụ đều phải được xem là tài liệu không đáng tin cậy trước tiên. Hãy bắt đầu bằng một thử nghiệm không gây tác động phụ: cấp cho nhiệm vụ một mã chạy duy nhất, giới hạn lối ra mạng và phạm vi ghi dữ liệu, lưu trạng thái cùng bằng chứng sau mỗi giai đoạn; khi bị gián đoạn thì khôi phục từ điểm kiểm tra gần nhất, đồng thời kiểm tra trước khi thử lại xem dữ liệu đã được ghi hay chưa.
 
-实验至少记录：预计与实际墙钟时间、工具调用次数、网络域名、授权人、最后环境状态、恢复是否成功，以及人工接管发生在哪里。页面里的“忽略前面要求”“下载并上传文件”等文字只是输入内容，不能扩大原先的授权。MCP 的安全实践还要求避免 token passthrough、校验重定向与受众、采用最小权限，并为本地服务器和代理设置隔离；参见 [MCP Security Best Practices](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices)。
+Thử nghiệm ít nhất phải ghi lại: thời gian dự kiến và thời gian thực tế theo đồng hồ, số lần gọi công cụ, tên miền mạng, người cấp quyền, trạng thái cuối cùng của môi trường, việc khôi phục có thành công hay không và con người đã tiếp quản ở đâu. Những dòng như “bỏ qua các yêu cầu trước đó”, “tải xuống và tải tệp lên” trên trang chỉ là nội dung đầu vào, không được mở rộng phạm vi cấp quyền ban đầu. Các thực tiễn bảo mật của MCP còn yêu cầu tránh chuyển tiếp token, xác thực chuyển hướng và đối tượng nhận, áp dụng quyền tối thiểu, đồng thời thiết lập cô lập cho máy chủ cục bộ và proxy; xem [Các thực tiễn tốt nhất về bảo mật MCP](https://modelcontextprotocol.io/docs/2026-07-28/tutorials/security/security_best_practices)。
 
-通过条件是：任务可以暂停和恢复；重复运行不会产生重复副作用；网络和文件范围可被审计；人可以在不可逆动作前接管。任何越权、无法说明的外部写入或无法恢复的状态，都应退回只读或人工流程。
+Điều kiện đạt là: nhiệm vụ có thể tạm dừng và khôi phục; chạy lặp lại không tạo ra tác động phụ trùng lặp; phạm vi mạng và tệp có thể được kiểm toán; con người có thể tiếp quản trước các thao tác không thể đảo ngược. Bất kỳ hành vi vượt quyền nào, thao tác ghi dữ liệu bên ngoài không thể giải thích hoặc trạng thái không thể khôi phục đều phải được chuyển về quy trình chỉ đọc hoặc xử lý thủ công.
 
-## 小团队交接需要什么
+## Bàn giao trong nhóm nhỏ cần những gì
 
-把流程交给同事时，至少附上：一份可用输入、一份合格输出、一份失败示例、运行方式、允许的操作、负责验收的人，以及出错后恢复的位置。文档与提示都要有版本；更换模型、提示、检索资料或工具后，重新运行代表性案例。
+Khi bàn giao quy trình cho đồng nghiệp, ít nhất hãy kèm theo: một đầu vào có thể sử dụng, một đầu ra đạt yêu cầu, một ví dụ thất bại, cách vận hành, các thao tác được phép, người chịu trách nhiệm nghiệm thu và vị trí khôi phục sau khi xảy ra lỗi. Tài liệu và prompt đều phải có phiên bản; sau khi thay đổi mô hình, prompt, tài liệu truy xuất hoặc công cụ, hãy chạy lại các trường hợp đại diện.
 
-团队里的“AI 负责人”不能只负责工具订阅。还需要有人维护样本、接收错误、确认来源、移除过期材料，并决定何时退回人工流程。先把维护时间计入任务成本，再评估扩展范围。
+“Người phụ trách AI” trong nhóm không thể chỉ chịu trách nhiệm về việc đăng ký công cụ. Cần có người duy trì mẫu, tiếp nhận lỗi, xác nhận nguồn, loại bỏ tài liệu hết hạn và quyết định khi nào chuyển lại quy trình thủ công. Trước tiên hãy tính thời gian bảo trì vào chi phí nhiệm vụ, rồi mới đánh giá phạm vi mở rộng.
 
-## 今天可以完成的练习
+## Bài tập có thể hoàn thành hôm nay
 
-选一个你本周确实要做的任务，写明输入、交付物和三个检查点。各完成一次人工版本与 AI 协作版本，记录总耗时及一个失败案例；如果接入 MCP 或其他外部工具，额外记录工具范围、授权人和撤回方式。然后用 [AI 评测与可靠性](ai-evaluation.md) 的方法判断是否值得再做一轮。
+Chọn một nhiệm vụ mà bạn thực sự cần làm trong tuần này, ghi rõ đầu vào, sản phẩm bàn giao và ba điểm kiểm tra. Mỗi phiên bản thủ công và phiên bản phối hợp với AI hãy hoàn thành một lần, ghi lại tổng thời gian và một trường hợp thất bại; nếu tích hợp MCP hoặc công cụ bên ngoài khác, hãy ghi thêm phạm vi công cụ, người cấp quyền và cách thu hồi. Sau đó dùng phương pháp trong [Đánh giá và độ tin cậy của AI](ai-evaluation.md) để xác định có đáng thực hiện thêm một vòng hay không.
 
-若这个流程要成为付费服务，继续读 [从问题到首批用户](customer-discovery.md)；有人愿意使用工具，只能说明任务可能有价值，不能直接证明需求规模或持续付费。
+Nếu muốn biến quy trình này thành một dịch vụ trả phí, hãy đọc tiếp [Từ vấn đề đến những người dùng đầu tiên](customer-discovery.md); việc có người sẵn sàng sử dụng công cụ chỉ cho thấy nhiệm vụ có thể có giá trị, không trực tiếp chứng minh quy mô nhu cầu hay khả năng trả phí lâu dài.

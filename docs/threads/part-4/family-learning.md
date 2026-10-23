@@ -1,67 +1,67 @@
 ---
-title: 家庭学习篇：把成长还给孩子
-description: 为大致处于初中阶段的学习者、家长与教师建立一套共同学习方法，用孩子的目标表达、短任务、作品证据、家庭边界和安全的 AI 使用替代监控与代做。
+title: "Chuyên đề học tập gia đình: Trao lại quyền trưởng thành cho trẻ"
+description: Xây dựng một phương pháp học tập chung cho người học, phụ huynh và giáo viên ở độ tuổi trung học cơ sở, dùng mục tiêu do trẻ diễn đạt, nhiệm vụ ngắn, bằng chứng từ sản phẩm, ranh giới gia đình và việc sử dụng AI an toàn để thay thế việc giám sát và làm hộ.
 updated: 2026-09-02
 sources_checked: 2026-09-02
 ---
 
-# 家庭学习篇：把成长还给孩子
+# Chuyên đề học tập gia đình: Trao lại quyền trưởng thành cho trẻ
 
-一个孩子坐在书桌前，家长站在门口，双方都觉得自己在为同一件事努力。
+Một đứa trẻ ngồi trước bàn học, phụ huynh đứng ở cửa; cả hai đều cảm thấy mình đang nỗ lực vì cùng một việc.
 
-家长问：“今天背了多少？错题改完了吗？为什么又在看别的？”孩子回答得越来越短。桌上有计划表、打卡软件、练习册和 AI 生成的学习方案，任务似乎比过去更清楚，家里的空气却越来越紧。
+Phụ huynh hỏi: “Hôm nay con học thuộc được bao nhiêu? Đã sửa hết bài sai chưa? Sao lại xem thứ khác nữa?” Câu trả lời của đứa trẻ ngày càng ngắn. Trên bàn có thời gian biểu, ứng dụng điểm danh, sách bài tập và kế hoạch học tập do AI tạo ra. Dường như nhiệm vụ đã rõ ràng hơn trước, nhưng bầu không khí trong nhà lại ngày càng căng thẳng.
 
-问题不一定是谁不够负责。很多家庭真正缺少的，是一套能够同时容纳学校要求、孩子的成长、家长的担心和现实容量的方法。成人版本的“自主管理”不能直接套给尚未拥有完整时间、账户和决策权的学习者；成人也不能因此接管目标、答案和每一分钟。
+Vấn đề không nhất thiết nằm ở việc ai đó thiếu trách nhiệm. Điều nhiều gia đình thực sự thiếu là một phương pháp có thể cùng lúc dung chứa yêu cầu của nhà trường, sự trưởng thành của trẻ, nỗi lo của phụ huynh và năng lực thực tế của gia đình. Không thể áp dụng nguyên xi “tự quản lý” phiên bản người lớn cho người học chưa có đầy đủ thời gian, tài khoản và quyền quyết định; nhưng người lớn cũng không vì thế mà tiếp quản mục tiêu, đáp án và từng phút một.
 
-这一章面向大致处于初中阶段的学习者及其家长、监护人和教师。它不承诺提高名次，不替代学校教学，也不是心理、医疗或家庭教育诊断。它只试图建立一张共同桌面：孩子可以说出自己想学什么、哪里不会、今天能承担多少；成人负责安全、资源和边界；老师提供课程要求与专业反馈；AI 只能在被允许的位置参与。
+Chương này dành cho người học, phụ huynh, người giám hộ và giáo viên ở độ tuổi khoảng trung học cơ sở. Chương không hứa hẹn nâng thứ hạng, không thay thế việc dạy học ở trường, cũng không phải là chẩn đoán tâm lý, y tế hay giáo dục gia đình. Chương chỉ cố gắng tạo ra một mặt bàn chung: trẻ có thể nói mình muốn học gì, chưa hiểu chỗ nào và hôm nay có thể đảm nhận bao nhiêu; người lớn chịu trách nhiệm về an toàn, nguồn lực và ranh giới; giáo viên cung cấp yêu cầu chương trình cùng phản hồi chuyên môn; AI chỉ được tham gia ở vị trí được cho phép.
 
-成长需要帮助，但帮助不应把成长的主人挤出房间。
+Trưởng thành cần sự hỗ trợ, nhưng sự hỗ trợ không nên đẩy người làm chủ quá trình trưởng thành ra khỏi căn phòng.
 
-## 本章速览
+## Tóm tắt chương
 
-- 先确认这是谁的问题、谁的目标，以及学校有哪些不能忽略的要求；
-- 用一份短小、未经代做的样本建立起点，不用成绩总排名定义孩子；
-- 家长负责环境、安全、资源和沟通，不负责代答、持续监控或公开展示；
-- 每周只推进一个真实任务，让输入、输出、反馈、延迟复测和迁移进入同一条证据链；
-- AI 使用服从平台年龄规则、学校要求和家庭约定，儿童数据默认不进入通用模型；
-- 当睡眠、安全、持续痛苦、校园伤害或家庭冲突成为主要问题时，先暂停学习实验并寻求合适支持。
+- Trước hết xác định đây là vấn đề của ai, mục tiêu của ai, và nhà trường có những yêu cầu nào không thể bỏ qua;
+- Dùng một mẫu ngắn, chưa bị làm hộ, để thiết lập điểm xuất phát; không dùng thứ hạng tổng thể để định nghĩa đứa trẻ;
+- Phụ huynh chịu trách nhiệm về môi trường, an toàn, nguồn lực và giao tiếp, không chịu trách nhiệm trả lời hộ, giám sát liên tục hay công khai thể hiện;
+- Mỗi tuần chỉ thúc đẩy một nhiệm vụ thực tế, để đầu vào, đầu ra, phản hồi, kiểm tra lại sau một khoảng trì hoãn và chuyển giao cùng nằm trong một chuỗi bằng chứng;
+- Việc sử dụng AI phải tuân theo quy định độ tuổi của nền tảng, yêu cầu của nhà trường và thỏa thuận gia đình; mặc định không đưa dữ liệu trẻ em vào các mô hình phổ dụng;
+- Khi giấc ngủ, an toàn, đau khổ kéo dài, tổn hại ở trường hoặc xung đột gia đình trở thành vấn đề chính, trước hết hãy tạm dừng thử nghiệm học tập và tìm kiếm sự hỗ trợ phù hợp.
 
-## 1. 先问：这是谁想要的改变
+## 1. Trước hết hãy hỏi: Ai muốn sự thay đổi này?
 
-“把英语学好”“提高成绩”“不要沉迷手机”常常由成人提出。它们可能出于真实关心，却还不是孩子能够执行的问题。
+“Cải thiện tiếng Anh”, “nâng điểm”, “đừng nghiện điện thoại” thường là những điều người lớn đề ra. Chúng có thể xuất phát từ sự quan tâm chân thành, nhưng vẫn chưa phải là những vấn đề mà trẻ có thể tự thực hiện.
 
-第一次谈话不急着制定计划。请让三方分别回答：
+Trong cuộc trò chuyện đầu tiên, đừng vội lập kế hoạch. Hãy để ba bên lần lượt trả lời:
 
-| 角色 | 需要说清的问题 |
+| Vai trò | Vấn đề cần nói rõ |
 | --- | --- |
-| 学习者 | 我最近在哪个真实场景卡住？我希望哪件事变得容易一点？什么帮助让我不舒服？ |
-| 家长/监护人 | 我真正担心的是成绩、安全、睡眠、习惯、未来，还是失去控制？哪些担心有事实，哪些只是想象？ |
-| 教师/学校 | 当前课程、作业、考试与课堂有哪些明确要求？哪些能力可以用作品或表现观察？ |
+| Người học | Gần đây tôi bị mắc ở tình huống thực tế nào? Tôi muốn việc gì trở nên dễ hơn một chút? Sự giúp đỡ nào khiến tôi không thoải mái? |
+| Phụ huynh/người giám hộ | Điều tôi thực sự lo lắng là điểm số, an toàn, giấc ngủ, thói quen, tương lai hay mất kiểm soát? Mối lo nào có cơ sở, mối lo nào chỉ là tưởng tượng? |
+| Giáo viên/nhà trường | Chương trình, bài tập, kỳ thi và lớp học hiện có những yêu cầu rõ ràng nào? Những năng lực nào có thể được quan sát qua sản phẩm hoặc biểu hiện? |
 
-三方答案不必完全相同。家庭需要的不是迅速统一口径，而是把冲突从人格判断改写成可以讨论的条件。
+Câu trả lời của ba bên không cần hoàn toàn giống nhau. Điều gia đình cần không phải là nhanh chóng thống nhất cách nói, mà là chuyển xung đột từ phán xét nhân cách thành những điều kiện có thể thảo luận.
 
-例如：
+Ví dụ:
 
-- 成人目标：“词汇量必须提高。”
-- 学习者问题：“英语阅读时一遇到生词就停下来，最后不知道文章在说什么。”
-- 学校要求：“本月需要完成两篇相近难度的阅读与一次课堂复述。”
-- 共同问题：“我能否在不逐词查字典的情况下读完一篇短文，写出主旨，并在七天后用另一篇文章再做一次？”
+- Mục tiêu của người lớn: “Nhất định phải tăng vốn từ.”
+- Vấn đề của người học: “Mỗi khi gặp từ mới trong lúc đọc tiếng Anh, tôi lại dừng lại, cuối cùng không biết bài viết nói gì.”
+- Yêu cầu của nhà trường: “Tháng này cần hoàn thành hai bài đọc có độ khó tương đương và một lần kể lại nội dung trên lớp.”
+- Câu hỏi chung: “Tôi có thể đọc hết một bài ngắn mà không tra từng từ, viết được ý chính và bảy ngày sau làm lại một lần với bài khác hay không?”
 
-共同问题既保留学校现实，也给孩子留下可以理解和回答的动作。它不要求孩子先认同成人对未来的全部判断。
+Câu hỏi chung vẫn giữ được thực tế của nhà trường, đồng thời để lại cho trẻ một hành động mà em có thể hiểu và trả lời. Nó không yêu cầu trẻ trước hết phải đồng ý với toàn bộ phán đoán của người lớn về tương lai.
 
-## 2. 不用总分替代起点
+## 2. Không dùng tổng điểm để thay thế điểm xuất phát
 
-成绩能说明某次评价中发生了什么，却不能独自解释问题来自词汇、理解、表达、时间、焦虑、睡眠、课堂缺席还是任务不清。一次家庭学习实验需要更小的基线。
+Điểm số có thể cho biết điều gì đã xảy ra trong một lần đánh giá, nhưng không thể tự mình giải thích vấn đề bắt nguồn từ vốn từ, khả năng hiểu, diễn đạt, thời gian, lo âu, giấc ngủ, việc vắng học hay nhiệm vụ không rõ ràng. Một thử nghiệm học tập gia đình cần một mốc cơ sở nhỏ hơn.
 
-先选择一个 10–20 分钟、不会公开羞辱孩子的任务：
+Trước tiên hãy chọn một nhiệm vụ kéo dài 10–20 phút, không làm trẻ bị bẽ mặt công khai:
 
-- 阅读一篇符合当前课程难度的短文，用三句话复述；
-- 听一段一到两分钟的材料，写下主旨和两个细节；
-- 不看答案完成三道同类型题，并说明为什么这样做；
-- 用英语介绍一项兴趣，允许停顿，但要回答一个真实追问；
-- 写一段代码、做一个科学解释，或把当天错题按原因分成三类。
+- Đọc một bài ngắn phù hợp với độ khó của chương trình hiện tại và kể lại bằng ba câu;
+- Nghe một đoạn tài liệu dài từ một đến hai phút, viết ý chính và hai chi tiết;
+- Không xem đáp án, hoàn thành ba câu hỏi cùng dạng và giải thích vì sao làm như vậy;
+- Dùng tiếng Anh giới thiệu một sở thích, được phép ngập ngừng nhưng phải trả lời một câu hỏi tiếp nối thực tế;
+- Viết một đoạn mã, đưa ra lời giải thích khoa học hoặc phân loại các bài sai trong ngày thành ba nhóm theo nguyên nhân.
 
-保存原始版本，不当场连续纠正十个问题。先问四件事：
+Lưu lại phiên bản gốc, không liên tục sửa mười lỗi ngay tại chỗ. Trước tiên hãy hỏi bốn điều:
 
 ```markdown
 这个任务原本要求什么：
@@ -70,78 +70,78 @@ sources_checked: 2026-09-02
 下一次只值得改变哪个条件：
 ```
 
-基线属于学习者，不应被发到家庭群、社交平台或用来与同学比较。成人需要知道足够的信息来提供支持，不等于拥有公开孩子所有表现的权利。
+Mốc cơ sở thuộc về người học, không nên được gửi vào nhóm gia đình, nền tảng mạng xã hội hoặc dùng để so sánh với bạn cùng lớp. Người lớn cần biết đủ thông tin để hỗ trợ, nhưng điều đó không có nghĩa là có quyền công khai mọi biểu hiện của trẻ.
 
-## 3. 四个角色，不互相代替
+## 3. Bốn vai trò, không thay thế lẫn nhau
 
-一个可靠的家庭学习系统，需要明确谁对什么负责：
+Một hệ thống học tập gia đình đáng tin cậy cần xác định rõ ai chịu trách nhiệm về việc gì:
 
-| 角色 | 主要责任 | 不应该承担的角色 |
+| Vai trò | Trách nhiệm chính | Vai trò không nên đảm nhận |
 | --- | --- | --- |
-| 学习者 | 提交自己的首版；说明困难、容量和需要；参与选择下一任务 | 为成人的焦虑提供持续证明 |
-| 家长/监护人 | 保护时间、睡眠、安全、设备和必要资源；帮助沟通；执行隐私边界 | 代写答案、全天监控、用羞耻维持计划 |
-| 教师/学校 | 说明课程要求；提供与学科相关的反馈和支持路径 | 被 AI 或家庭臆测取代 |
-| AI/工具 | 在允许范围内解释、提问、生成平行练习和整理错误 | 充当监护人、决定孩子价值、代做提交作品或保存儿童隐私 |
+| Người học | Nộp phiên bản đầu tiên của mình; nêu khó khăn, năng lực và nhu cầu; tham gia lựa chọn nhiệm vụ tiếp theo | Liên tục chứng minh để đáp ứng sự lo âu của người lớn |
+| Phụ huynh/người giám hộ | Bảo vệ thời gian, giấc ngủ, an toàn, thiết bị và các nguồn lực cần thiết; hỗ trợ giao tiếp; thực hiện ranh giới riêng tư | Viết đáp án hộ, giám sát cả ngày, dùng sự xấu hổ để duy trì kế hoạch |
+| Giáo viên/nhà trường | Giải thích yêu cầu chương trình; cung cấp phản hồi liên quan đến môn học và lộ trình hỗ trợ | Bị AI hoặc những suy đoán của gia đình thay thế |
+| AI/công cụ | Trong phạm vi được phép, giải thích, đặt câu hỏi, tạo bài luyện song song và sắp xếp lỗi sai | Đóng vai người giám hộ, quyết định giá trị của trẻ, làm hộ sản phẩm nộp hoặc lưu giữ thông tin riêng tư của trẻ |
 
-孩子拥有参与权，不等于独自承担所有责任。成人拥有保护责任，也不等于拥有每一个答案。角色清楚以后，帮助才不必通过接管发生。
+Trẻ có quyền tham gia không có nghĩa là phải tự mình gánh mọi trách nhiệm. Người lớn có trách nhiệm bảo vệ cũng không có nghĩa là có quyền nắm giữ mọi đáp án. Khi vai trò rõ ràng, sự giúp đỡ không cần diễn ra bằng cách tiếp quản.
 
-## 4. 家长的工作，是搭环境而不是站在背后
+## 4. Công việc của phụ huynh là tạo môi trường, không phải đứng sau lưng
 
-持续监督会制造一种表面效率：孩子在被看见时行动，成人一离开，系统便失去动力。更稳妥的家庭支持包含四类工作。
+Giám sát liên tục tạo ra một dạng hiệu quả bề ngoài: trẻ hành động khi bị nhìn thấy, còn khi người lớn rời đi thì hệ thống mất động lực. Sự hỗ trợ gia đình vững chắc hơn bao gồm bốn loại công việc.
 
-### 保护一个可用时间盒
+### Bảo vệ một khung thời gian có thể sử dụng
 
-不是要求每天固定两小时，而是和孩子确认一段现实可用、能够结束的时间。初次实验可以是 20–35 分钟：开始前知道任务，结束时保存版本，不因未完成继续拖到深夜。
+Không phải yêu cầu mỗi ngày cố định hai tiếng, mà là cùng trẻ xác nhận một khoảng thời gian thực tế, có thể sử dụng và có thể kết thúc. Thử nghiệm ban đầu có thể kéo dài 20–35 phút: trước khi bắt đầu biết nhiệm vụ là gì, khi kết thúc lưu lại phiên bản, không vì chưa hoàn thành mà kéo dài đến đêm khuya.
 
-### 减少启动摩擦
+### Giảm ma sát khi bắt đầu
 
-把材料、账号、耳机、字典、纸笔或文件提前准备好。成人可以帮忙找到学校指定资源、处理设备故障和安排空间，却不需要坐在旁边盯住每一个动作。
+Chuẩn bị trước tài liệu, tài khoản, tai nghe, từ điển, giấy bút hoặc tệp tin. Người lớn có thể giúp tìm nguồn tài liệu do trường chỉ định, xử lý sự cố thiết bị và sắp xếp không gian, nhưng không cần ngồi bên cạnh nhìn chằm chằm từng động tác.
 
-### 只问能改变下一步的问题
+### Chỉ hỏi những câu có thể thay đổi bước tiếp theo
 
-比“今天认真了吗”更有用的是：
+Những câu sau hữu ích hơn “Hôm nay con có nghiêm túc không?”:
 
-- 哪一步你能独立完成？
-- 哪一步需要提示？
-- 这个提示是帮你理解，还是直接给了答案？
-- 明天打开文件后，第一步是什么？
+- Bước nào con có thể tự hoàn thành?
+- Bước nào cần gợi ý?
+- Gợi ý này giúp con hiểu hay đã đưa luôn đáp án?
+- Ngày mai mở tệp lên, bước đầu tiên là gì?
 
-### 保护结束
+### Bảo vệ điểm kết thúc
 
-学习时间结束时，帮助孩子保存证据、写下下一入口，然后允许任务离开餐桌和卧室。没有结束边界的学习，会把整个家庭变成永远没有下课的教室。
+Khi thời gian học kết thúc, hãy giúp trẻ lưu bằng chứng, ghi lại điểm bắt đầu cho lần sau, rồi cho phép nhiệm vụ rời khỏi bàn ăn và phòng ngủ. Việc học không có ranh giới kết thúc sẽ biến cả gia đình thành một lớp học không bao giờ tan.
 
-## 5. 一周只完成一个真实任务
+## 5. Mỗi tuần chỉ hoàn thành một nhiệm vụ thực tế
 
-下面是一条适合家庭共同试验的七天路径，不要求每天满格：
+Dưới đây là lộ trình bảy ngày phù hợp để gia đình cùng thử nghiệm, không yêu cầu ngày nào cũng phải làm hết công suất:
 
-| 天数 | 学习者动作 | 成人支持 | 留下的证据 |
+| Ngày | Hành động của người học | Hỗ trợ của người lớn | Bằng chứng để lại |
 | --- | --- | --- | --- |
-| 第 1 天 | 完成未经代做的起点样本 | 说明时间和隐私边界 | 原始版本与一个困难 |
-| 第 2 天 | 处理一个最影响结果的问题 | 提供指定材料或联系教师 | 来源与一句理解 |
-| 第 3 天 | 合上材料完成第二版 | 不在过程中连续纠错 | 第二版 |
-| 第 4 天 | 接受最多三条具体反馈 | 帮助区分观察、评价和建议 | 反馈原话与选择 |
-| 第 5 天 | 只改一个变量 | 保护时间盒，不追加任务 | 修订版 |
-| 第 6 天 | 不看旧答案做延迟复测 | 不提醒原答案 | 延迟样本 |
-| 第 7 天 | 换主题、听众或题型做一次迁移 | 共同回顾，允许缩小或停止 | 新条件结果与下周决定 |
+| Ngày 1 | Hoàn thành mẫu điểm xuất phát chưa bị làm hộ | Nêu rõ ranh giới thời gian và riêng tư | Phiên bản gốc và một khó khăn |
+| Ngày 2 | Xử lý vấn đề ảnh hưởng nhiều nhất đến kết quả | Cung cấp tài liệu được chỉ định hoặc liên hệ giáo viên | Nguồn tài liệu và một câu thể hiện sự hiểu |
+| Ngày 3 | Đóng tài liệu lại và hoàn thành phiên bản thứ hai | Không liên tục sửa lỗi trong quá trình làm | Phiên bản thứ hai |
+| Ngày 4 | Tiếp nhận tối đa ba phản hồi cụ thể | Giúp phân biệt quan sát, đánh giá và đề xuất | Nguyên văn phản hồi và lựa chọn |
+| Ngày 5 | Chỉ thay đổi một biến số | Bảo vệ khung thời gian, không thêm nhiệm vụ | Phiên bản chỉnh sửa |
+| Ngày 6 | Không xem đáp án cũ và làm bài kiểm tra lại sau một khoảng trì hoãn | Không nhắc đáp án cũ | Mẫu kiểm tra lại |
+| Ngày 7 | Đổi chủ đề, người nghe hoặc dạng bài để thực hiện một lần chuyển giao | Cùng nhìn lại, cho phép thu hẹp hoặc dừng lại | Kết quả trong điều kiện mới và quyết định cho tuần sau |
 
-如果学校作业已经足够多，家庭实验应嵌入现有任务，而不是再加一套课程。把同一份作业改造成可比较样本，通常比额外购买材料更可靠。
+Nếu bài tập ở trường đã đủ nhiều, thử nghiệm gia đình nên được lồng vào nhiệm vụ hiện có thay vì thêm một chương trình khác. Biến chính bài tập đó thành một mẫu có thể so sánh thường đáng tin cậy hơn việc mua thêm tài liệu.
 
-## 6. 一个合成示例：用英语介绍自己的兴趣
+## 6. Một ví dụ tổng hợp: Dùng tiếng Anh giới thiệu sở thích của mình
 
-下面是方法演示，不是真实学生个案，也不能代表所有初中生。
+Dưới đây là phần minh họa phương pháp, không phải trường hợp học sinh có thật và không đại diện cho tất cả học sinh trung học cơ sở.
 
-共同问题是：**学习者能否不用逐句背稿，用英语介绍一项兴趣两分钟，并回答同学的一个追问？**
+Câu hỏi chung là: **Người học có thể không học thuộc từng câu mà dùng tiếng Anh giới thiệu một sở thích trong hai phút và trả lời một câu hỏi tiếp nối của bạn học hay không?**
 
-第一天的基线可能留下这些事实：
+Mốc cơ sở của ngày đầu tiên có thể ghi lại những sự thật sau:
 
-| 条件 | 结果 |
+| Điều kiện | Kết quả |
 | --- | --- |
-| 10 分钟准备，不用 AI | 能说 45 秒；重复 `I like`；遇到追问后停止 |
-| 学习者自己的判断 | 不是完全没词，而是不知道怎样组织原因和例子 |
-| 成人担心 | 担心课堂不敢开口，但不把口音相似度当成目标 |
-| 学校条件 | 下周有一次小组展示，可以作为真实听众场景 |
+| Chuẩn bị 10 phút, không dùng AI | Có thể nói 45 giây; lặp lại `I like`; dừng lại sau khi gặp câu hỏi tiếp nối |
+| Nhận định của người học | Không phải hoàn toàn thiếu từ vựng, mà là không biết tổ chức lý do và ví dụ như thế nào |
+| Mối lo của người lớn | Lo trẻ không dám phát biểu trong lớp, nhưng không lấy mức độ tương đồng của giọng phát âm làm mục tiêu |
+| Điều kiện của nhà trường | Tuần sau có một buổi thuyết trình nhóm, có thể dùng làm tình huống với người nghe thực tế |
 
-这一周只保留三个结构：
+Trong tuần này chỉ giữ lại ba cấu trúc:
 
 ```text
 I became interested in ... when ...
@@ -149,78 +149,78 @@ What I enjoy most is ... because ...
 One thing I am still trying to learn is ...
 ```
 
-AI 或教师可以在学习者提交首版后，最多指出三个影响理解的问题，并生成一个不同兴趣主题的平行练习。最终课堂内容、事实与表达由学习者确认。
+Sau khi người học nộp phiên bản đầu tiên, AI hoặc giáo viên có thể chỉ ra tối đa ba vấn đề ảnh hưởng đến khả năng hiểu và tạo một bài luyện song song về một chủ đề sở thích khác. Nội dung, sự kiện và cách diễn đạt cuối cùng trong lớp phải do người học xác nhận.
 
-第六天不看原稿重录，第七天把听众换成家人或同学。若仍然只能背诵原句，下一周不增加更长词表，而是继续练习“原因—例子—仍在学习”的结构。
+Ngày thứ sáu thu âm lại mà không xem bản thảo; ngày thứ bảy đổi người nghe thành người nhà hoặc bạn học. Nếu vẫn chỉ có thể đọc thuộc câu gốc, tuần sau không tăng thêm danh sách từ dài hơn, mà tiếp tục luyện cấu trúc “lý do—ví dụ—vẫn đang học”.
 
-这项练习没有承诺提高考试名次。它只把词汇、组织、听众反馈和延迟复测放进同一个真实任务。
+Bài luyện này không hứa hẹn nâng thứ hạng trong kỳ thi. Nó chỉ đưa từ vựng, tổ chức ý, phản hồi của người nghe và việc kiểm tra lại sau một khoảng trì hoãn vào cùng một nhiệm vụ thực tế.
 
-## 7. AI 进入家庭前，先过五道门
+## 7. Trước khi AI bước vào gia đình, hãy đi qua năm cánh cửa
 
-UNESCO 的生成式 AI 教育指导强调人本视角和发展人的能力。对未成年学习者而言，“人本”不能只是漂亮口号，它至少要变成五项检查。
+Hướng dẫn về AI tạo sinh trong giáo dục của UNESCO nhấn mạnh góc nhìn lấy con người làm trung tâm và phát triển năng lực con người. Đối với người học chưa thành niên, “lấy con người làm trung tâm” không thể chỉ là một khẩu hiệu đẹp; ít nhất nó phải trở thành năm bước kiểm tra.
 
-### 年龄与账户门
+### Cửa độ tuổi và tài khoản
 
-先核对平台当前的年龄、账户、监护和地区规则，再核对学校要求。不要为了使用某项功能虚报年龄、借用陌生账户或绕过学校政策。规则会变化，家庭应以当前条款和学校通知为准。
+Trước tiên kiểm tra quy định hiện hành của nền tảng về độ tuổi, tài khoản, giám hộ và khu vực, sau đó kiểm tra yêu cầu của nhà trường. Không khai gian tuổi, mượn tài khoản của người lạ hoặc обход chính sách của trường chỉ để sử dụng một tính năng nào đó. Quy định có thể thay đổi; gia đình nên căn cứ vào điều khoản hiện hành và thông báo của nhà trường.
 
-### 数据门
+### Cửa dữ liệu
 
-默认不上传姓名、学校、班级、证件、精确位置、面部、声纹、健康、家庭关系、成绩单、教师或同学的私人信息。练习可以使用合成姓名、改写材料和不可识别的最小片段。
+Mặc định không tải lên họ tên, trường học, lớp, giấy tờ tùy thân, vị trí chính xác, khuôn mặt, giọng nói, sức khỏe, quan hệ gia đình, bảng điểm hoặc thông tin riêng tư của giáo viên, bạn học. Khi luyện tập có thể dùng tên giả, tài liệu đã viết lại và những đoạn trích tối thiểu không thể nhận diện.
 
-### 首版门
+### Cửa phiên bản đầu tiên
 
-只要任务允许，孩子先提交自己的版本，再让 AI 提问、解释或反馈。若 AI 从第一步就给出完整作文、代码或答案，家庭获得的是成品，不是起点证据。
+Khi nhiệm vụ cho phép, trẻ hãy nộp phiên bản của mình trước, sau đó mới để AI đặt câu hỏi, giải thích hoặc phản hồi. Nếu AI đưa ra ngay từ bước đầu một bài văn, đoạn mã hoặc đáp án hoàn chỉnh, thứ gia đình có được là sản phẩm hoàn thiện chứ không phải bằng chứng về điểm xuất phát.
 
-### 判断门
+### Cửa phán đoán
 
-AI 不决定孩子是否聪明、是否适合某个方向、朋友是否可信、身体是否有病，或家庭冲突中谁“就是有问题”。涉及安全、健康、校园伤害和持续痛苦时，回到可信成人、学校和当地合格专业支持。
+AI không quyết định trẻ có thông minh hay không, có phù hợp với một hướng đi nào đó hay không, bạn bè có đáng tin hay không, cơ thể có bệnh hay không, hoặc trong xung đột gia đình ai “chính là người có vấn đề”. Khi liên quan đến an toàn, sức khỏe, tổn hại ở trường và đau khổ kéo dài, hãy quay lại với người lớn đáng tin cậy, nhà trường và các dịch vụ chuyên môn đủ điều kiện tại địa phương.
 
-### 退出门
+### Cửa rút lui
 
-学习结束时保存作品、关闭会话，并让孩子能用自己的话复述。AI 不应成为唯一倾诉对象、全天陪伴者或家庭监督工具。工具退出之后仍能继续思考，才是能力留在人身上的证据。
+Khi kết thúc việc học, lưu sản phẩm, đóng phiên làm việc và để trẻ có thể diễn đạt lại bằng lời của mình. AI không nên trở thành đối tượng duy nhất để tâm sự, người đồng hành cả ngày hoặc công cụ giám sát gia đình. Sau khi công cụ rút lui mà trẻ vẫn có thể tiếp tục suy nghĩ, đó mới là bằng chứng năng lực đã ở lại trong con người.
 
-## 8. 三种容量，不用熬夜偿还学习
+## 8. Ba mức năng lực, không dùng thức khuya để trả nợ học tập
 
-家庭可以共同写三个版本：
+Gia đình có thể cùng viết ra ba phiên bản:
 
-| 档位 | 当天情况 | 学习动作 | 成人动作 |
+| Mức | Tình hình trong ngày | Hành động học tập | Hành động của người lớn |
 | --- | --- | --- | --- |
-| 完整日 | 作业和身体状态相对稳定 | 20–35 分钟输入、输出和记录 | 保护时间，不临时加码 |
-| 压缩日 | 作业变多、活动或通勤占用 | 10 分钟最小输出 | 帮助确定第一步和结束点 |
-| 恢复日 | 生病、明显缺觉、受伤、冲突或容量很低 | 暂停训练，只保留下次入口 | 优先照料、安全、沟通和必要求助 |
+| Ngày đầy đủ | Bài tập và tình trạng cơ thể tương đối ổn định | 20–35 phút đầu vào, đầu ra và ghi chép | Bảo vệ thời gian, không tùy tiện tăng khối lượng |
+| Ngày rút gọn | Bài tập nhiều hơn, hoạt động hoặc việc đi lại chiếm thời gian | 10 phút đầu ra tối thiểu | Giúp xác định bước đầu tiên và điểm kết thúc |
+| Ngày hồi phục | Bị bệnh, thiếu ngủ rõ rệt, bị thương, xung đột hoặc năng lực rất thấp | Tạm dừng luyện tập, chỉ giữ lại điểm bắt đầu cho lần sau | Ưu tiên chăm sóc, an toàn, giao tiếp và tìm kiếm hỗ trợ cần thiết |
 
-错过的训练不要求在周末一次补完，更不能用失去睡眠偿还。家庭若把“计划完整”放在身体和关系之前，计划本身就已经失去教育意义。
+Những buổi luyện bị bỏ lỡ không cần phải bù hết trong một lần vào cuối tuần, càng không được dùng giấc ngủ để trả nợ. Nếu gia đình đặt việc “hoàn thành kế hoạch” lên trước cơ thể và các mối quan hệ, bản thân kế hoạch đó đã mất đi ý nghĩa giáo dục.
 
-## 9. 反馈不等于评判孩子
+## 9. Phản hồi không đồng nghĩa với phán xét trẻ
 
-反馈应该指向作品和条件，而不是人格：
+Phản hồi nên hướng vào sản phẩm và điều kiện, không hướng vào nhân cách:
 
-| 不够清楚的说法 | 更可执行的反馈 |
+| Cách nói chưa đủ rõ | Phản hồi dễ thực hiện hơn |
 | --- | --- |
-| 你就是不认真 | 这次第三题没有写步骤，我不知道你从哪里开始猜 |
-| 你英语基础太差 | 这段主旨能复述，但两个因果连接没有说清 |
-| AI 都讲过了怎么还不会 | 看过解释后能完成原题，七天后平行题仍需要提示 |
-| 别人都能坚持 | 这周三次任务有两次在晚上太晚开始，我们需要换时间 |
+| Con đúng là không nghiêm túc | Ở câu thứ ba lần này con không viết các bước, nên bố/mẹ không biết con bắt đầu đoán từ đâu |
+| Nền tảng tiếng Anh của con quá kém | Con có thể kể lại ý chính của đoạn này, nhưng chưa nói rõ hai mối liên kết nhân quả |
+| AI đã giải thích hết rồi, sao vẫn không làm được? | Sau khi xem phần giải thích, con làm được bài gốc; bảy ngày sau, với bài song song, con vẫn cần gợi ý |
+| Người khác đều kiên trì được | Tuần này có hai trong ba lần con bắt đầu nhiệm vụ quá muộn vào buổi tối; chúng ta cần đổi thời gian |
 
-家长每次最多保留一个主问题和三条反馈。孩子也可以拒绝某条评价，并说明依据。共同学习不是取消成人判断，而是让判断能够被听见、核对和修正。
+Mỗi lần phụ huynh chỉ nên giữ lại một vấn đề chính và tối đa ba phản hồi. Trẻ cũng có thể từ chối một nhận xét và nêu căn cứ. Học tập chung không có nghĩa là xóa bỏ phán đoán của người lớn, mà là để phán đoán được lắng nghe, kiểm tra và điều chỉnh.
 
-## 10. 什么时候应该暂停学习实验
+## 10. Khi nào nên tạm dừng thử nghiệm học tập
 
-出现下面情况时，不要先升级打卡、惩罚或 AI 监督：
+Khi xuất hiện những tình huống dưới đây, đừng trước hết tăng điểm danh, hình phạt hoặc giám sát bằng AI:
 
-- 睡眠、饮食或身体不适持续影响日常功能；
-- 学习前后反复出现强烈恐惧、绝望、失控或伤害念头；
-- 存在校园暴力、欺凌、威胁、勒索、性骚扰或其他安全风险；
-- 家庭冲突已经无法安全讨论，学习计划成为攻击或控制工具；
-- 孩子长期拒绝进入学校或任务，且原因无法仅由一次沟通解释。
+- Giấc ngủ, việc ăn uống hoặc tình trạng cơ thể liên tục ảnh hưởng đến chức năng sinh hoạt hằng ngày;
+- Trước hoặc sau khi học thường xuyên xuất hiện nỗi sợ hãi dữ dội, tuyệt vọng, mất kiểm soát hoặc ý nghĩ tự làm hại bản thân;
+- Có bạo lực học đường, bắt nạt, đe dọa, tống tiền, quấy rối tình dục hoặc rủi ro an toàn khác;
+- Xung đột gia đình đã không thể thảo luận an toàn, và kế hoạch học tập trở thành công cụ công kích hoặc kiểm soát;
+- Trẻ trong thời gian dài từ chối đến trường hoặc làm nhiệm vụ, và nguyên nhân không thể chỉ được giải thích bằng một lần trò chuyện.
 
-先保证安全，联系可信成人、学校相关人员，并根据情况寻求当地合格的医疗、心理、社会服务或紧急支持。本章不能诊断原因，也不能替代专业处置。
+Trước hết hãy bảo đảm an toàn, liên hệ với người lớn đáng tin cậy và nhân sự liên quan ở trường; tùy tình hình, tìm kiếm hỗ trợ y tế, tâm lý, xã hội hoặc khẩn cấp đủ điều kiện tại địa phương. Chương này không thể chẩn đoán nguyên nhân và cũng không thể thay thế việc xử lý chuyên môn.
 
-暂停学习实验，不等于放弃成长。一个人需要先有可以站立的地面，方法才有地方发生。
+Tạm dừng thử nghiệm học tập không có nghĩa là từ bỏ sự trưởng thành. Một người trước hết cần có mặt đất để đứng vững; khi đó phương pháp mới có nơi để diễn ra.
 
-## 11. 用十四天决定继续、调整还是停止
+## 11. Dùng mười bốn ngày để quyết định tiếp tục, điều chỉnh hay dừng lại
 
-家庭不需要一开始承诺坚持一个学期。先用[家庭学习共同协议](../../templates/family-learning-agreement.md)完成十四天实验，并在结束时分别回答：
+Gia đình không cần ngay từ đầu cam kết duy trì suốt một học kỳ. Trước tiên hãy dùng [Thỏa thuận chung về học tập gia đình](../../templates/family-learning-agreement.md) để hoàn thành thử nghiệm mười bốn ngày, rồi cuối kỳ lần lượt trả lời:
 
 ```markdown
 学习者：哪一项能力或任务真的变容易了？什么帮助让我更愿意开始？
@@ -230,11 +230,11 @@ AI 不决定孩子是否聪明、是否适合某个方向、朋友是否可信�
 下一决定：继续 / 缩小 / 改变一个条件 / 暂停或停止
 ```
 
-不要在孩子面前召开一场只有成人发言的“复盘会”。学习者先说，成人再补充；事实冲突时保留两种记录，必要时向教师确认。
+Đừng tổ chức trước mặt trẻ một “buổi tổng kết” chỉ có người lớn lên tiếng. Người học nói trước, người lớn bổ sung sau; khi sự việc không thống nhất, hãy giữ lại cả hai bản ghi và khi cần thì xác nhận với giáo viên.
 
-## 12. 给家庭的一份最小约定
+## 12. Một thỏa thuận tối thiểu dành cho gia đình
 
-如果今天只能开始四行，可以写：
+Nếu hôm nay chỉ có thể bắt đầu bằng bốn dòng, hãy viết:
 
 ```markdown
 孩子这两周想完成的一件真实事情：
@@ -243,21 +243,21 @@ AI 不决定孩子是否聪明、是否适合某个方向、朋友是否可信�
 两周后用什么作品和对话决定下一步：
 ```
 
-这四行不是法律合同，也不保证冲突消失。它只是把“都是为你好”改写成双方能够复查的责任。
+Bốn dòng này không phải hợp đồng pháp lý và không bảo đảm xung đột sẽ biến mất. Nó chỉ chuyển câu “Tất cả đều là vì lợi ích của con” thành những trách nhiệm mà cả hai bên có thể cùng kiểm tra lại.
 
-## 来源与边界
+## Nguồn và ranh giới
 
-- [UNESCO：Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)，2026-09-02 核验；本章只采用其人本与能力发展方向，不把国际指导替代为本地学校规则、平台条款或专业意见。
-- 具体平台年龄、账户、监护与数据规则可能变化，使用前应核对当前官方条款、学校政策与当地适用要求。
+- [UNESCO: Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research), kiểm tra vào ngày 2026-09-02; chương này chỉ sử dụng định hướng lấy con người làm trung tâm và phát triển năng lực, không dùng hướng dẫn quốc tế để thay thế quy định của trường học địa phương, điều khoản nền tảng hoặc ý kiến chuyên môn.
+- Quy định cụ thể của từng nền tảng về độ tuổi, tài khoản, giám hộ và dữ liệu có thể thay đổi; trước khi sử dụng cần kiểm tra điều khoản chính thức hiện hành, chính sách của nhà trường và các yêu cầu áp dụng tại địa phương.
 
-相关入口：[实践篇：先把第一周过完](week-1.md) ｜ [生活系统篇](daily-system.md) ｜ [家庭学习共同协议](../../templates/family-learning-agreement.md)
+Lối vào liên quan: [Chuyên đề thực hành: Hoàn thành tuần đầu tiên trước](week-1.md) ｜ [Chuyên đề hệ thống đời sống](daily-system.md) ｜ [Thỏa thuận chung về học tập gia đình](../../templates/family-learning-agreement.md)
 
-## 结语：不要替孩子走完那条路
+## Lời kết: Đừng đi thay trẻ hết con đường đó
 
-家长比孩子看见更多风险，也常常更早看见时间的重量。正因为如此，爱很容易变成代走：替他选目标，替他解释失败，替他保管每一分钟，再替他证明这一切都是必要的。
+Phụ huynh nhìn thấy nhiều rủi ro hơn trẻ, và thường cũng sớm cảm nhận sức nặng của thời gian hơn. Chính vì vậy, tình yêu rất dễ biến thành việc đi thay: chọn mục tiêu thay con, giải thích thất bại thay con, giữ hộ từng phút của con, rồi lại chứng minh thay con rằng tất cả những điều này đều cần thiết.
 
-可学习最珍贵的部分，恰恰不能由别人完成。一个孩子需要亲自遇见不会，亲自做出不够好的第一版，亲自听见反馈，也亲自发现七天以后留下些什么。成人可以守住灯、门和回家的路，却不能替他长出判断。
+Nhưng phần quý giá nhất của việc học lại không thể do người khác hoàn thành thay. Một đứa trẻ cần tự mình gặp phải điều chưa biết, tự làm ra phiên bản đầu tiên chưa đủ tốt, tự mình lắng nghe phản hồi và tự phát hiện bảy ngày sau mình còn lại điều gì. Người lớn có thể giữ ánh sáng, cánh cửa và con đường về nhà, nhưng không thể mọc ra năng lực phán đoán thay trẻ.
 
-愿家庭里的学习，不再是一场谁更焦虑谁就更有权发言的比赛。愿孩子能够说“这是我想完成的”，也能够说“今天我做不到”；愿成人听见这两句话之后，仍然知道怎样帮助，而不急着夺走方向。
+Mong rằng việc học trong gia đình không còn là cuộc đua xem ai lo âu hơn thì người đó có quyền lên tiếng hơn. Mong trẻ có thể nói “Đây là điều con muốn hoàn thành”, cũng có thể nói “Hôm nay con không làm được”; và mong người lớn sau khi nghe hai câu ấy vẫn biết cách giúp đỡ mà không vội giành mất phương hướng.
 
-成长不是把孩子送往一个由成人预先画好的终点。它是陪他在越来越大的世界里，逐渐拥有自己的脚步。
+Trưởng thành không phải là đưa trẻ đến một đích đến do người lớn vẽ sẵn. Đó là đồng hành cùng trẻ trong một thế giới ngày càng rộng lớn, để em dần có được bước đi của riêng mình.

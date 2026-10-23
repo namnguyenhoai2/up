@@ -1,58 +1,58 @@
 ---
-title: 第五部：行动与长期改变
-description: 把一个真实问题交给九十天，用阶段门槛、证据链、节律与停止条件，让长期改变接受生活和时间的检验。
+title: "Phần năm: Hành động và thay đổi dài hạn"
+description: Trao một vấn đề thực tế cho chín mươi ngày, dùng các ngưỡng giai đoạn, chuỗi bằng chứng, nhịp điệu và điều kiện dừng để sự thay đổi dài hạn chịu được sự kiểm chứng của đời sống và thời gian.
 updated: 2026-09-02
 prev:
-  text: "节律篇：让小事穿过时间"
+  text: "Phần nhịp điệu: Để những việc nhỏ vượt qua thời gian"
   link: /threads/part-4/rhythm-and-compounding
 next:
-  text: "行动篇：九十天，把生活交还给自己"
+  text: "Phần hành động: Chín mươi ngày, trao trả cuộc sống cho chính mình"
   link: /threads/part-5/90-day-plan
 ---
 
-# 第五部：行动与长期改变
+# Phần năm: Hành động và thay đổi dài hạn
 
-走到这里，读者已经拥有很多可以开始的东西：一份基线、一个故事的新解释、一项可以交付的作品、一条在中断后能够回来的节律。
+Đến đây, người đọc đã có nhiều thứ có thể bắt đầu: một đường cơ sở, một cách diễn giải mới cho một câu chuyện, một tác phẩm có thể bàn giao, một nhịp điệu có thể quay lại sau khi bị gián đoạn.
 
-接下来最危险的动作，是把它们重新塞进一个过于宏大的愿望。我们很容易因为终于看见方向，就要求未来九十天每天完美；也容易在第三周第一次失速时，认定整个计划已经失败。
+Hành động nguy hiểm nhất tiếp theo là nhồi tất cả chúng trở lại vào một mong muốn quá đỗi vĩ đại. Chúng ta rất dễ vì cuối cùng đã nhìn thấy phương hướng mà đòi hỏi chín mươi ngày tới ngày nào cũng phải hoàn hảo; cũng dễ khi lần đầu hụt hơi vào tuần thứ ba thì cho rằng toàn bộ kế hoạch đã thất bại.
 
-长期改变不是把热情延长。它是让同一个真实问题经过不同阶段、不同容量、反馈、遗忘和新场景之后，仍然能够被重新看见和调整。
+Thay đổi dài hạn không phải là kéo dài nhiệt huyết. Đó là để cùng một vấn đề thực tế, sau khi trải qua những giai đoạn, năng lực, phản hồi, sự lãng quên và bối cảnh mới khác nhau, vẫn có thể được nhìn nhận lại và điều chỉnh.
 
-这一部有三个核心章节。第一章把一个真实问题交给九十天；第二章用这本书自身展示方法怎样经过作品、失败、验证与公开发布；第三章处理第九十一天以后怎样关账、迁移、继续或停止。行动不只要离开书页，进入你的日历、作品、关系和生活；它还要在周期结束后完成交接，不靠下一次兴奋掩盖上一段经历。
+Phần này có ba chương cốt lõi. Chương đầu tiên trao một vấn đề thực tế cho chín mươi ngày; chương thứ hai dùng chính cuốn sách này để cho thấy phương pháp trải qua tác phẩm, thất bại, kiểm chứng và công bố như thế nào; chương thứ ba xử lý việc sau ngày thứ chín mươi mốt phải chốt sổ, chuyển giao, tiếp tục hay dừng lại ra sao. Hành động không chỉ cần rời khỏi trang sách để đi vào lịch, tác phẩm, các mối quan hệ và cuộc sống của bạn; nó còn phải hoàn tất việc bàn giao sau khi chu kỳ kết thúc, không dùng sự phấn khích tiếp theo để che lấp trải nghiệm trước đó.
 
-## 本部要回答的问题
+## Những câu hỏi phần này cần trả lời
 
-- 九十天后，我要在什么真实场景完成什么，而不是笼统地“变得更好”？
-- 进入下一阶段之前，必须看到什么证据？
-- 每周只追踪哪个主问题，什么内容明确不补做？
-- 身体、金钱、关系和责任出现变化时，怎样调整计划的重量？
-- 什么结果意味着继续，什么意味着缩小、暂停或停止？
+- Sau chín mươi ngày, tôi muốn hoàn thành điều gì trong bối cảnh thực tế nào, thay vì mơ hồ “trở nên tốt hơn”?
+- Trước khi bước vào giai đoạn tiếp theo, nhất thiết phải nhìn thấy bằng chứng nào?
+- Mỗi tuần chỉ theo dõi vấn đề trọng tâm nào, và nội dung nào được xác định rõ là không làm bù?
+- Khi cơ thể, tiền bạc, các mối quan hệ và trách nhiệm thay đổi, cần điều chỉnh mức độ nặng của kế hoạch ra sao?
+- Kết quả nào có nghĩa là tiếp tục, kết quả nào có nghĩa là thu hẹp, tạm dừng hoặc dừng lại?
 
-一个没有停止条件的计划，很容易把沉没成本写成坚持。真正的承诺不仅说明要做什么，也说明不再用什么代价支付。
+Một kế hoạch không có điều kiện dừng rất dễ biến chi phí chìm thành sự kiên trì. Cam kết thực sự không chỉ nói rõ phải làm gì, mà còn nói rõ sẽ không tiếp tục dùng cái giá nào để trả.
 
-## 阅读路径
+## Lộ trình đọc
 
-| 阶段 | 时间 | 核心任务 |
+| Giai đoạn | Thời gian | Nhiệm vụ cốt lõi |
 | --- | --- | --- |
-| 校准 | 第 1–14 天 | 保存基线，找到瓶颈，确认一个稳定入口 |
-| 堆叠 | 第 15–56 天 | 形成可比较输出，获得反馈，改变一个变量 |
-| 交付 | 第 57–90 天 | 更换听众、主题或环境，完成真实交付和迁移 |
-| 交接 | 第 91 天以后 | 关账、迁移、修复或停止，让成果进入下一段生活 |
+| Hiệu chỉnh | Ngày 1–14 | Lưu đường cơ sở, tìm nút thắt, xác nhận một điểm bắt đầu ổn định |
+| Tích lũy | Ngày 15–56 | Tạo ra sản phẩm có thể so sánh, nhận phản hồi, thay đổi một biến số |
+| Bàn giao | Ngày 57–90 | Thay đổi người nghe, chủ đề hoặc môi trường, hoàn tất việc bàn giao thực tế và chuyển giao |
+| Chuyển tiếp | Sau ngày 91 | Chốt sổ, chuyển giao, khắc phục hoặc dừng lại, để thành quả đi vào chặng tiếp theo của cuộc sống |
 
-先用[行动篇：九十天，把生活交还给自己](90-day-plan.md)把前三个阶段放进[九十日行动总表](../../templates/90-day-cycle.md)，再读[案例篇：让这本书证明它的方法](book-as-proof.md)，观察一套方法怎样在真实出版项目里经过结构重构、AI 协作、失败记录、自动验证和读者交接，最后用[九十天以后：把改变留在生活里](after-90-days.md)完成自己的关账与交接。总表管理方向和门槛，[证据链](../../templates/evidence-chain.md)解释结果，[节律账本](../../templates/rhythm-ledger.md)维护每周容量。不要让一张表承担所有工作，也不要让一个周期替你决定整个人生。
+Trước tiên, hãy dùng[Phần hành động: Chín mươi ngày, trao trả cuộc sống cho chính mình](90-day-plan.md)để đưa ba giai đoạn đầu vào[Bảng tổng hợp hành động chín mươi ngày](../../templates/90-day-cycle.md), sau đó đọc[Phần案例: Để cuốn sách này chứng minh phương pháp của nó](book-as-proof.md), quan sát cách một phương pháp trải qua tái cấu trúc, cộng tác với AI, ghi chép thất bại, tự động kiểm chứng và bàn giao cho độc giả trong một dự án xuất bản thực tế như thế nào; cuối cùng dùng[Sau chín mươi ngày: Giữ thay đổi trong cuộc sống](after-90-days.md)để hoàn tất việc chốt sổ và chuyển giao của chính mình. Bảng tổng hợp quản lý phương hướng và các ngưỡng, [chuỗi bằng chứng](../../templates/evidence-chain.md)giải thích kết quả, còn[sổ cái nhịp điệu](../../templates/rhythm-ledger.md)duy trì năng lực mỗi tuần. Đừng để một bảng phải gánh mọi công việc, cũng đừng để một chu kỳ thay bạn quyết định cả cuộc đời.
 
-## 读完留下什么
+## Điều gì còn lại sau khi đọc
 
-九十天结束并完成交接之后，请留下三样能够继续服务生活的东西：
+Sau khi chín mươi ngày kết thúc và việc chuyển giao hoàn tất, hãy giữ lại ba thứ có thể tiếp tục phục vụ cuộc sống:
 
-1. 一个真实受众已经看见、使用或评价过的作品；
-2. 一份仍然反复出现的错误地图；
-3. 一条不依赖理想状态也能回来的节律。
+1. Một tác phẩm đã được đối tượng thực tế nhìn thấy, sử dụng hoặc đánh giá;
+2. Một bản đồ những lỗi vẫn lặp đi lặp lại;
+3. Một nhịp điệu có thể quay lại mà không phụ thuộc vào trạng thái lý tưởng.
 
-如果方向已经不值得继续，停止也可以是合格的交付。写清楚依据、代价和已经完成的收尾，不让过去的投入替未来做决定。
+Nếu phương hướng đã không còn đáng để tiếp tục, dừng lại cũng có thể là một lần bàn giao đạt yêu cầu. Hãy viết rõ căn cứ, cái giá và phần kết thúc đã hoàn tất, đừng để những gì đã đầu tư trong quá khứ quyết định thay cho tương lai.
 
-## 进入正文
+## Bắt đầu nội dung chính
 
-现在，请选择一件值得交给九十天、也值得在证据不足时放下的事。
+Bây giờ, hãy chọn một việc đáng để trao cho chín mươi ngày, cũng đáng để buông xuống khi chưa đủ bằng chứng.
 
-不要先填满十二周。先写第一天的事实，第一周的问题，以及第十四天进入下一阶段之前必须看见的证据。
+Đừng vội lấp đầy mười hai tuần. Trước tiên, hãy viết sự thật của ngày đầu tiên, câu hỏi của tuần đầu tiên, và bằng chứng nhất định phải nhìn thấy trước khi bước vào giai đoạn tiếp theo ở ngày thứ mười bốn.

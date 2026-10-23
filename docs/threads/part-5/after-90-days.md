@@ -1,215 +1,215 @@
 ---
-title: 九十天以后：把改变留在生活里
-description: 在一个行动周期结束后，用关账、迁移、停止条件、季节节律与年度回看，把阶段成果变成能被生活继续使用的能力。
+title: "Sau chín mươi ngày: Để sự thay đổi ở lại trong cuộc sống"
+description: Sau khi một chu kỳ hành động kết thúc, hãy dùng việc khép sổ, chuyển giao, điều kiện dừng, nhịp điệu mùa vụ và nhìn lại hằng năm để biến thành quả của giai đoạn thành năng lực mà cuộc sống có thể tiếp tục sử dụng.
 updated: 2026-09-02
 prev:
-  text: "案例篇：让这本书证明它的方法"
+  text: "Chương案例: Để cuốn sách này chứng minh cho phương pháp của nó"
   link: /threads/part-5/book-as-proof
 next:
-  text: "了解自己：先看见自己如何运作"
+  text: "Thấu hiểu bản thân: Trước hết hãy nhìn thấy cách mình vận hành"
   link: /threads/part-6/1-understanding-yourself
 ---
 
-# 九十天以后：把改变留在生活里
+# Sau chín mươi ngày: Để sự thay đổi ở lại trong cuộc sống
 
-一个计划最容易被想象的，是第一天。
+Điều dễ hình dung nhất ở một kế hoạch là ngày đầu tiên.
 
-新建的文档还没有错误，日历上整齐地排着十二周，目标看起来像一条终于愿意向前延伸的路。真正不容易想象的是第九十一天：提醒停止了，作品已经交付，兴奋和疲惫同时退潮，你坐在那些记录旁边，不知道应该立刻开始一个更大的计划，还是承认自己其实没有改变多少。
+Tài liệu mới tạo vẫn chưa có lỗi, lịch được sắp ngay ngắn thành mười hai tuần, mục tiêu trông như một con đường cuối cùng cũng chịu vươn về phía trước. Điều thực sự khó hình dung là ngày thứ chín mươi mốt: lời nhắc đã dừng, sản phẩm đã được bàn giao, sự phấn khích và mệt mỏi cùng lúc rút xuống, bạn ngồi bên những ghi chép ấy mà không biết nên lập tức bắt đầu một kế hoạch lớn hơn, hay thừa nhận rằng thật ra mình chẳng thay đổi được bao nhiêu.
 
-我过去常在这里犯同一个错误。一个阶段刚结束，我就急着用下一个阶段覆盖它。做成一点，便提高目标；没有做成，便更换目标。仿佛只要继续向前，就不必回答这一段时间究竟留下了什么。
+Trước đây tôi thường mắc cùng một sai lầm ở đây. Một giai đoạn vừa kết thúc, tôi đã vội dùng giai đoạn tiếp theo phủ lên nó. Làm được một chút thì nâng mục tiêu; không làm được thì đổi mục tiêu. Như thể chỉ cần tiếp tục tiến về phía trước, tôi sẽ không phải trả lời xem khoảng thời gian này rốt cuộc đã để lại điều gì.
 
-后来我才明白，周期结束不是重新许愿的时刻，而是交接的时刻。能力要交给新的场景，作品要交给真实的人，错误要交给下一轮练习，身体和关系也要从被临时征用的状态里被归还。没有交接的努力，很容易只存在于计划期间；提醒一停，改变也跟着失去住处。
+Sau này tôi mới hiểu, kết thúc một chu kỳ không phải là lúc ước nguyện lại từ đầu, mà là lúc bàn giao. Năng lực cần được giao cho bối cảnh mới, sản phẩm cần được giao cho người thật, sai lầm cần được giao cho vòng luyện tập tiếp theo, còn cơ thể và các mối quan hệ cũng cần được trả về từ trạng thái bị trưng dụng tạm thời. Nỗ lực không được bàn giao rất dễ chỉ tồn tại trong thời gian lập kế hoạch; khi lời nhắc dừng lại, sự thay đổi cũng mất đi nơi ở.
 
-这一章写的不是怎样永远保持高强度。人生不需要永动机。它写的是怎样让一段已经发生的努力，在热情退去之后仍然被生活使用。
+Chương này không viết về cách duy trì cường độ cao mãi mãi. Cuộc đời không cần một cỗ máy vĩnh cửu. Nó viết về cách khiến một nỗ lực đã thực sự diễn ra vẫn được cuộc sống sử dụng sau khi nhiệt huyết đã lắng xuống.
 
-## 本章速览
+## Tổng quan chương
 
-九十天以后，不要立刻开始下一轮。先完成五件事：
+Sau chín mươi ngày, đừng lập tức bắt đầu vòng tiếp theo. Trước hết, hãy hoàn thành năm việc:
 
-1. 用最初样本、最终样本、真实反馈和实际代价为上一周期关账；
-2. 把结果分成继续、迁移、修复、停止四种去向；
-3. 用一个新场景检验能力是否离开了原来的练习条件；
-4. 保护基础生活、主项目和自由余量，不让一个目标吞掉整个人；
-5. 按季节安排投入，在每个阶段保留明确的退出门。
+1. Khép sổ chu kỳ trước bằng mẫu ban đầu, mẫu cuối cùng, phản hồi thực tế và cái giá thực tế;
+2. Chia kết quả thành bốn hướng: tiếp tục, chuyển giao, sửa chữa, dừng lại;
+3. Dùng một bối cảnh mới để kiểm tra xem năng lực đã rời khỏi điều kiện luyện tập ban đầu hay chưa;
+4. Bảo vệ đời sống nền tảng, dự án chính và phần dư tự do, không để một mục tiêu nuốt trọn con người bạn;
+5. Sắp xếp投入 theo mùa, ở mỗi giai đoạn đều giữ lại một cánh cửa rút lui rõ ràng.
 
-最后，你需要的不是一张更满的年度计划，而是一份可靠的交接说明：什么已经属于你，什么仍需练习，什么值得继续，什么到这里就够了。
+Cuối cùng, điều bạn cần không phải là một kế hoạch năm đầy kín hơn, mà là một bản hướng dẫn bàn giao đáng tin cậy: điều gì đã thực sự thuộc về bạn, điều gì vẫn cần luyện tập, điều gì đáng tiếp tục, và điều gì đến đây là đủ.
 
-## 1. 第九十一天，不再用兴奋替代判断
+## 1. Ngày thứ chín mươi mốt, không còn dùng sự phấn khích thay cho phán đoán
 
-九十天只是一个观察容器，不是人格考试。它让一件事拥有足够长的时间接受重复、反馈和中断，却没有资格判定你是不是一个自律、聪明或值得成功的人。
+Chín mươi ngày chỉ là một khung quan sát, không phải kỳ thi nhân cách. Nó cho phép một việc có đủ thời gian để trải qua sự lặp lại, phản hồi và gián đoạn, nhưng không có quyền phán định bạn có phải là người kỷ luật, thông minh hay xứng đáng thành công hay không.
 
-周期结束时，常见的两个冲动都不可靠。
+Khi chu kỳ kết thúc, hai thôi thúc thường gặp đều không đáng tin.
 
-第一个冲动是加码。完成了一次英语演示，就要求自己下一季度主持整场会议；做出一个小工具，就立刻把它想象成公司；连续写了十二篇文章，就开始规划一本书。增长本身没有错，问题在于我们可能还没有确认能力是否稳定、作品是否有人需要、身体是否已经透支，就把短暂结果兑换成更重的承诺。
+Thôi thúc thứ nhất là tăng mức cược. Thực hiện được một bài thuyết trình tiếng Anh, liền yêu cầu bản thân chủ trì cả một cuộc họp vào quý sau; làm ra một công cụ nhỏ, lập tức hình dung nó thành một công ty; viết liên tục mười hai bài, liền bắt đầu lên kế hoạch cho một cuốn sách. Bản thân sự trưởng thành không sai, vấn đề là có thể chúng ta vẫn chưa xác nhận năng lực đã ổn định hay chưa, sản phẩm có người cần hay chưa, cơ thể đã kiệt sức hay chưa, nhưng đã đem một kết quả ngắn ngủi đổi lấy một cam kết nặng nề hơn.
 
-第二个冲动是否定。作品没有达到预期，反馈不够热烈，中间还断过几周，于是把整段经历写成“又一次失败”。这种结论同样太快。一个没有成功交付的周期，也可能留下更清楚的边界、更准确的错误地图、一个及时终止的方向，或者一次终于不靠熬夜维持的尝试。
+Thôi thúc thứ hai là phủ định. Sản phẩm không đạt kỳ vọng, phản hồi chưa đủ nồng nhiệt, giữa chừng còn gián đoạn vài tuần, thế là viết cả trải nghiệm thành “lại một lần thất bại”. Kết luận này cũng quá vội. Một chu kỳ chưa giao sản phẩm thành công vẫn có thể để lại ranh giới rõ ràng hơn, bản đồ sai lầm chính xác hơn, một hướng đi được chấm dứt đúng lúc, hoặc một lần thử nghiệm cuối cùng không cần dùng thức đêm để duy trì.
 
-第九十一天先不要证明任何事。把兴奋、失望和羞耻放在一边，问一个更朴素的问题：**这九十天改变了哪些可以被观察的条件、动作和结果？**
+Ngày thứ chín mươi mốt, trước hết đừng cố chứng minh điều gì. Đặt sự phấn khích, thất vọng và xấu hổ sang một bên, rồi hỏi một câu giản dị hơn: **Chín mươi ngày này đã thay đổi những điều kiện, hành động và kết quả nào có thể quan sát được?**
 
-## 2. 先关账，再许愿
+## 2. Khép sổ trước, rồi mới ước nguyện
 
-关账不是给自己打总分，而是让已经发生的事情停止漂浮。请把材料放在同一张桌面上：第一天的基线、最后一次独立完成的样本、两次以上真实反馈、错误记录，以及这段时间付出的成本。
+Khép sổ không phải là chấm tổng điểm cho bản thân, mà là khiến những gì đã xảy ra thôi lơ lửng. Hãy đặt tất cả tài liệu lên cùng một mặt bàn: đường cơ sở của ngày đầu tiên, mẫu hoàn thành độc lập lần cuối, ít nhất hai lần phản hồi thực tế, ghi chép lỗi, và những chi phí đã bỏ ra trong khoảng thời gian này.
 
-然后填写四栏：
+Sau đó điền vào bốn cột:
 
-| 栏目 | 要保存的事实 | 不要偷换成 |
+| Hạng mục | Sự thật cần lưu giữ | Đừng đánh tráo thành |
 | --- | --- | --- |
-| 能力 | 现在能独立完成什么，在哪一步仍需提示 | “我已经学会了” |
-| 作品 | 谁看过、用过或评价过，解决了什么问题 | “我做了很多” |
-| 代价 | 时间、金钱、睡眠、关系和机会成本 | “只要值得就不算代价” |
-| 未知 | 哪些结果样本太少，哪些因果仍不能确认 | “只要坚持就一定会有答案” |
+| Năng lực | Hiện có thể độc lập hoàn thành việc gì, ở bước nào vẫn cần nhắc | “Tôi đã học xong rồi” |
+| Sản phẩm | Ai đã xem, sử dụng hoặc đánh giá, đã giải quyết vấn đề gì | “Tôi đã làm rất nhiều” |
+| Cái giá | Thời gian, tiền bạc, giấc ngủ, các mối quan hệ và chi phí cơ hội | “Chỉ cần đáng giá thì không thể gọi là cái giá” |
+| Điều chưa biết | Mẫu của kết quả nào còn quá ít, quan hệ nhân quả nào vẫn chưa thể xác nhận | “Chỉ cần kiên trì thì nhất định sẽ có câu trả lời” |
 
-关账时至少回答六个问题：
+Khi khép sổ, ít nhất hãy trả lời sáu câu hỏi:
 
-- 最初以为最大的困难是什么，后来真正的瓶颈是什么？
-- 哪项进步在没有资料和即时提示时仍然存在？
-- 哪个结果只在熟悉题目、熟悉工具或理想状态下出现？
-- 谁实际使用过我的成果，他们的行为和反馈说明了什么？
-- 我为这段进展支付了什么，有哪些代价不能再继续支付？
-- 如果今天重新开始，我会删掉哪一半活动？
+- Ban đầu tưởng khó khăn lớn nhất là gì, về sau nút thắt thực sự là gì?
+- Tiến bộ nào vẫn tồn tại khi không có tài liệu và gợi ý tức thời?
+- Kết quả nào chỉ xuất hiện với đề tài quen thuộc, công cụ quen thuộc hoặc trạng thái lý tưởng?
+- Ai đã thực sự sử dụng thành quả của tôi, hành vi và phản hồi của họ cho thấy điều gì?
+- Tôi đã trả cái giá nào cho tiến triển này, có những cái giá nào không thể tiếp tục trả nữa?
+- Nếu hôm nay bắt đầu lại, tôi sẽ bỏ đi một nửa hoạt động nào?
 
-可以用[证据链模板](../../templates/evidence-chain.md)整理前后样本，用[每周复盘](../../templates/weekly-review.md)回看反复出现的问题。不要把聊天记录、学习时长和打卡天数直接当作能力证据；它们只能说明过程发生过，不能单独说明迁移已经发生。
+Có thể dùng [mẫu chuỗi bằng chứng](../../templates/evidence-chain.md) để sắp xếp các mẫu trước và sau, dùng [ôn tập hằng tuần](../../templates/weekly-review.md) để nhìn lại những vấn đề lặp đi lặp lại. Đừng trực tiếp coi lịch sử trò chuyện, thời lượng học tập và số ngày điểm danh là bằng chứng năng lực; chúng chỉ cho thấy quá trình đã từng diễn ra, không thể tự mình chứng minh rằng sự chuyển giao đã xảy ra.
 
-## 3. 把结果分成四种去向
+## 3. Chia kết quả thành bốn hướng
 
-不是每个目标都应该进入下一季度。关账之后，请为每一项结果选择一种去向：
+Không phải mục tiêu nào cũng nên bước vào quý tiếp theo. Sau khi khép sổ, hãy chọn một hướng cho mỗi kết quả:
 
-| 去向 | 适用情况 | 下一步 |
+| Hướng | Tình huống phù hợp | Bước tiếp theo |
 | --- | --- | --- |
-| 继续 | 结果有价值，证据支持，代价可承担 | 保留主线，只提高一个难度 |
-| 迁移 | 基础能力已形成，需要进入新场景 | 更换听众、主题、工具或约束 |
-| 修复 | 方向仍重要，但系统或边界失衡 | 降低负荷，先修身体、关系或流程 |
-| 停止 | 价值不足、条件改变，或代价超过收益 | 完成交接，保存经验，释放资源 |
+| Tiếp tục | Kết quả có giá trị, bằng chứng ủng hộ, cái giá có thể gánh được | Giữ nguyên tuyến chính, chỉ nâng một mức độ khó |
+| Chuyển giao | Năng lực nền tảng đã hình thành, cần bước vào bối cảnh mới | Thay đổi người nghe, chủ đề, công cụ hoặc ràng buộc |
+| Sửa chữa | Hướng đi vẫn quan trọng, nhưng hệ thống hoặc ranh giới đã mất cân bằng | Giảm tải, trước hết sửa chữa cơ thể, mối quan hệ hoặc quy trình |
+| Dừng lại | Giá trị không đủ, điều kiện đã thay đổi, hoặc cái giá vượt quá lợi ích | Hoàn tất bàn giao, lưu giữ kinh nghiệm, giải phóng nguồn lực |
 
-“继续”不是默认选项，“停止”也不是失败选项。最危险的状态，是既不愿停止，又没有条件认真继续，于是目标长期占据注意力，靠愧疚维持一种虚假的存在。
+“Tiếp tục” không phải lựa chọn mặc định, “dừng lại” cũng không phải lựa chọn thất bại. Trạng thái nguy hiểm nhất là không muốn dừng nhưng cũng không có điều kiện để nghiêm túc tiếp tục, khiến mục tiêu chiếm giữ sự chú ý trong thời gian dài và duy trì một sự tồn tại giả tạo bằng cảm giác tội lỗi.
 
-停止时请完成三个动作：写清停止依据，把可以复用的材料归档，通知受影响的人。一个被诚实结束的项目，不会每天从记忆深处索取利息。它把时间还给新的责任，也把过去的自己从无休止的辩护中放出来。
+Khi dừng lại, hãy hoàn thành ba việc: viết rõ căn cứ dừng, lưu trữ những tài liệu có thể tái sử dụng, thông báo cho những người bị ảnh hưởng. Một dự án được kết thúc trung thực sẽ không mỗi ngày đòi tiền lãi từ sâu trong ký ức. Nó trả thời gian về cho những trách nhiệm mới, đồng thời giải phóng con người của quá khứ khỏi việc phải biện hộ không ngừng.
 
-## 4. 能力要迁移，作品要交接
+## 4. Năng lực cần được chuyển giao, sản phẩm cần được bàn giao
 
-在同一份材料上越来越熟练，可能只是记住了路径。真正属于你的能力，必须在条件改变以后仍然有一部分能够工作。
+Ngày càng thành thạo trên cùng một tài liệu có thể chỉ là ghi nhớ đường đi. Năng lực thực sự thuộc về bạn phải vẫn có một phần hoạt động được sau khi các điều kiện thay đổi.
 
-为上一周期安排一次迁移任务，只改变一个主要条件：
+Hãy sắp xếp một nhiệm vụ chuyển giao cho chu kỳ trước, chỉ thay đổi một điều kiện chính:
 
-- 学英语：把熟悉主题换成陌生主题，或把独白换成有追问的对话；
-- 使用 AI：先独立写出判断，再更换模型或暂时关闭工具完成关键步骤；
-- 做项目：让没有参与开发的人按照文档使用，观察他在哪里停住；
-- 写作：把同一个观点写给不同读者，删掉只有原圈层才能理解的暗号；
-- 改善生活：在出差、加班或低容量的一周里，检验最小版本能否回来。
+- Học tiếng Anh: đổi chủ đề quen thuộc thành chủ đề xa lạ, hoặc đổi độc thoại thành cuộc đối thoại có câu hỏi truy vấn;
+- Sử dụng AI: trước hết tự mình viết ra phán đoán, sau đó đổi mô hình hoặc tạm thời tắt công cụ để hoàn thành bước then chốt;
+- Làm dự án: để một người không tham gia phát triển sử dụng theo tài liệu, quan sát xem họ dừng lại ở đâu;
+- Viết lách: viết cùng một quan điểm cho những độc giả khác nhau, loại bỏ những ám hiệu chỉ vòng tròn ban đầu mới hiểu;
+- Cải thiện cuộc sống: trong một tuần đi công tác, làm thêm giờ hoặc có ít năng lượng, kiểm tra xem phiên bản tối thiểu có thể quay lại hay không.
 
-迁移不是故意增加痛苦。一次只改变一个条件，才能看见究竟是哪部分能力跟着你走了。如果所有条件同时改变，失败只会制造新的混乱。
+Chuyển giao không phải cố ý làm tăng đau khổ. Mỗi lần chỉ thay đổi một điều kiện, bạn mới nhìn thấy phần năng lực nào thực sự đi cùng mình. Nếu mọi điều kiện cùng thay đổi, thất bại chỉ tạo ra thêm hỗn loạn.
 
-作品也需要交接。代码要有运行说明，文章要让读者知道适用边界，工作流程要让同伴能够接手，商业服务要写清负责人、故障入口和停止条件。只有作者本人在场才能成立的成果，还没有真正进入世界。
+Sản phẩm cũng cần được bàn giao. Mã nguồn cần có hướng dẫn vận hành, bài viết cần cho độc giả biết ranh giới áp dụng, quy trình công việc cần để đồng đội có thể tiếp nhận, dịch vụ kinh doanh cần ghi rõ người phụ trách, đầu mối xử lý sự cố và điều kiện dừng. Một thành quả chỉ có thể tồn tại khi chính tác giả có mặt thì vẫn chưa thực sự bước vào thế giới.
 
-## 5. 用三层结构保护长期性
+## 5. Dùng cấu trúc ba tầng để bảo vệ tính bền vững
 
-长期行动不是把一个目标无限放大，而是让不同责任拥有不同位置。可以把接下来一段生活分成三层：
+Hành động dài hạn không phải là phóng đại vô hạn một mục tiêu, mà là để những trách nhiệm khác nhau có vị trí khác nhau. Có thể chia đoạn đời sống sắp tới thành ba tầng:
 
-| 层级 | 包含什么 | 最低保护 |
+| Tầng | Bao gồm | Mức bảo vệ tối thiểu |
 | --- | --- | --- |
-| 基础层 | 睡眠、身体、收入底线、重要关系与必要责任 | 不用长期透支为目标付款 |
-| 主项目 | 当前最值得推进的一项能力、作品或现实问题 | 每周拥有明确时段和一个主问题 |
-| 余量层 | 好奇、阅读、散步、无用途的兴趣与空白 | 不要求立刻产生回报 |
+| Tầng nền tảng | Giấc ngủ, cơ thể, mức thu nhập tối thiểu, các mối quan hệ quan trọng và trách nhiệm cần thiết | Không dùng việc bào mòn bản thân lâu dài để trả cho mục tiêu |
+| Dự án chính | Một năng lực, sản phẩm hoặc vấn đề thực tế đáng thúc đẩy nhất hiện tại | Mỗi tuần có khung thời gian rõ ràng và một câu hỏi chính |
+| Tầng dư lượng | Sự tò mò, đọc sách, đi bộ, sở thích không có mục đích và khoảng trống | Không yêu cầu lập tức tạo ra lợi ích |
 
-过去的我容易把主项目写成全部生活。公司、产品或一个想证明的方向，会逐渐获得解释一切的权力：睡眠可以晚点补，关系可以等成功后修复，身体只要还能工作就不算问题。这样的集中有时会制造短期速度，却也会让一次项目失败同时摧毁收入、身份、关系和自我评价。
+Trước đây tôi dễ biến dự án chính thành toàn bộ cuộc sống. Công ty, sản phẩm hoặc một hướng đi muốn chứng minh dần dần giành được quyền giải thích mọi thứ: giấc ngủ có thể bù sau, mối quan hệ có thể sửa sau khi thành công, cơ thể chỉ cần còn làm việc được thì chưa được xem là vấn đề. Sự tập trung như vậy đôi khi tạo ra tốc độ ngắn hạn, nhưng cũng khiến một lần thất bại của dự án đồng thời phá hủy thu nhập, danh tính, các mối quan hệ và sự tự đánh giá.
 
-三层结构不是追求平均用力。关键时期当然可以向主项目倾斜，但倾斜必须有期限，基础层必须有红线，余量层也要保留一点空气。没有余量的人生，只能重复已知目标；没有基础的人生，连已经得到的成果也未必能够承受。
+Cấu trúc ba tầng không nhằm theo đuổi sự phân bổ sức lực đồng đều. Trong giai đoạn then chốt, đương nhiên có thể nghiêng về dự án chính, nhưng sự nghiêng này phải có thời hạn, tầng nền tảng phải có lằn ranh đỏ, và tầng dư lượng cũng cần giữ lại một chút không khí. Một cuộc đời không có phần dư chỉ có thể lặp lại những mục tiêu đã biết; một cuộc đời không có nền tảng thì ngay cả thành quả đã đạt được cũng chưa chắc có thể gánh nổi.
 
-## 6. 按季节安排，不按热血发誓
+## 6. Sắp xếp theo mùa, đừng thề thốt theo nhiệt huyết
 
-长期改变更像季节，不像一条不断上升的直线。
+Thay đổi dài hạn giống các mùa hơn là một đường thẳng liên tục đi lên.
 
-- **播种期**：探索问题，接触材料，允许方向尚不清楚；
-- **生长期**：减少选择，重复核心动作，接受缓慢和单调；
-- **收获期**：集中完成、发布、验收和交接，不再无限增加范围；
-- **休整期**：降低负荷，修复身体和关系，整理材料，等待新问题显形。
+- **Mùa gieo hạt**: khám phá vấn đề, tiếp xúc với tài liệu, cho phép hướng đi chưa rõ ràng;
+- **Mùa sinh trưởng**: giảm bớt lựa chọn, lặp lại hành động cốt lõi, chấp nhận sự chậm rãi và đơn điệu;
+- **Mùa thu hoạch**: tập trung hoàn thành, công bố, nghiệm thu và bàn giao, không tiếp tục mở rộng phạm vi vô hạn;
+- **Mùa nghỉ ngơi**: giảm tải, phục hồi cơ thể và các mối quan hệ, sắp xếp tài liệu, chờ vấn đề mới hiện hình.
 
-四个阶段不必各占三个月，也不一定严格按顺序出现。它们的价值，是提醒你不要在所有时间里要求同一种表现。播种期不能用交付量羞辱自己，收获期不能用继续探索逃避完成，休整期也不应被偷偷改名为“落后”。
+Bốn giai đoạn không nhất thiết mỗi giai đoạn chiếm ba tháng, cũng không nhất thiết xuất hiện theo đúng thứ tự. Giá trị của chúng là nhắc bạn đừng đòi hỏi cùng một kiểu thể hiện trong mọi khoảng thời gian. Mùa gieo hạt không thể dùng khối lượng bàn giao để sỉ nhục bản thân, mùa thu hoạch không thể dùng việc tiếp tục khám phá để trốn tránh hoàn thành, và mùa nghỉ ngơi cũng không nên lén đổi tên thành “tụt hậu”.
 
-每个季节只保留一个主要任务，并提前写下结束信号。例如：收集到三类真实用户问题后结束探索；连续完成四次可比较输出后进入交付；作品通过验收后停止扩展；失眠、疼痛或关系冲突连续出现时立即降档。
+Mỗi mùa chỉ giữ lại một nhiệm vụ chính, đồng thời viết trước tín hiệu kết thúc. Ví dụ: kết thúc khám phá sau khi thu thập được ba loại vấn đề thực tế của người dùng; chuyển sang bàn giao sau khi hoàn thành bốn lần đầu ra có thể so sánh; dừng mở rộng sau khi sản phẩm được nghiệm thu; lập tức giảm nhịp khi mất ngủ, đau đớn hoặc xung đột quan hệ liên tục xuất hiện.
 
-热血让人愿意出发，季节感让人知道何时耕作、何时收割、何时把工具放下。
+Nhiệt huyết khiến người ta muốn lên đường, cảm nhận về mùa vụ giúp ta biết khi nào nên cày cấy, khi nào nên thu hoạch, khi nào nên đặt công cụ xuống.
 
-## 7. 目标必须有到期日与退出门
+## 7. Mục tiêu phải có ngày hết hạn và cánh cửa rút lui
 
-没有到期日的目标，会悄悄变成身份。你不再是“正在验证一个产品的人”，而成了“这个产品不能失败的人”；不再是“正在学习英语的人”，而成了“必须证明这些年没有白学的人”。目标一旦承担身份防卫，就很难接受证据。
+Mục tiêu không có ngày hết hạn sẽ âm thầm biến thành danh tính. Bạn không còn là “người đang kiểm chứng một sản phẩm”, mà trở thành “người không được phép để sản phẩm này thất bại”; không còn là “người đang học tiếng Anh”, mà trở thành “người phải chứng minh những năm tháng này không học uổng”. Khi mục tiêu phải gánh việc bảo vệ danh tính, nó rất khó tiếp nhận bằng chứng.
 
-为每个长期方向写下四道退出门：
+Hãy viết bốn cánh cửa rút lui cho mỗi hướng đi dài hạn:
 
-1. **价值门**：这个问题还值得解决吗，真实的人仍然需要吗？
-2. **证据门**：什么结果支持继续，多久看不到就必须重新判断？
-3. **代价门**：哪些健康、金钱、关系与伦理成本绝不跨越？
-4. **责任门**：停止时需要完成哪些退款、说明、文档、道歉或交接？
+1. **Cánh cửa giá trị**: Vấn đề này còn đáng giải quyết không, người thật còn cần nó không?
+2. **Cánh cửa bằng chứng**: Kết quả nào ủng hộ việc tiếp tục, nếu bao lâu không thấy kết quả thì phải đánh giá lại?
+3. **Cánh cửa cái giá**: Những chi phí về sức khỏe, tiền bạc, quan hệ và đạo đức nào tuyệt đối không được vượt qua?
+4. **Cánh cửa trách nhiệm**: Khi dừng lại cần hoàn thành những việc hoàn tiền, giải thích, viết tài liệu, xin lỗi hoặc bàn giao nào?
 
-退出门不是给软弱准备的借口，而是给承诺准备的边界。它防止我们把已经付出的代价当作继续付出更多代价的理由。
+Cánh cửa rút lui không phải cái cớ dành cho sự yếu đuối, mà là ranh giới dành cho cam kết. Nó ngăn chúng ta lấy cái giá đã trả làm lý do để tiếp tục trả thêm nhiều cái giá khác.
 
-每到一个到期日，都允许结论改变。方向改变不等于过去全部错误；它可能只说明新的信息终于进入了判断。
+Mỗi khi đến ngày hết hạn, hãy cho phép kết luận thay đổi. Thay đổi hướng đi không có nghĩa toàn bộ quá khứ đều sai; có thể chỉ là thông tin mới cuối cùng đã đi vào quá trình phán đoán.
 
-## 8. 让长期改变进入关系和责任
+## 8. Đưa thay đổi dài hạn vào các mối quan hệ và trách nhiệm
 
-许多自我提升计划写得像一个人独自在真空中生活：时间只属于自己，情绪不会影响别人，失败也没有共同成本。现实并非如此。你晚上多工作两小时，可能意味着伴侣多承担两小时照料；你投入一笔钱，可能改变家庭的安全边界；你连续几周精神不在场，关系会替目标支付注意力。
+Nhiều kế hoạch tự hoàn thiện được viết như thể một người sống một mình trong chân không: thời gian chỉ thuộc về mình, cảm xúc không ảnh hưởng đến ai, thất bại cũng không tạo ra chi phí chung. Thực tế không như vậy. Bạn làm việc thêm hai giờ vào buổi tối có thể có nghĩa là người bạn đời phải gánh thêm hai giờ chăm sóc; bạn đầu tư một khoản tiền có thể làm thay đổi ranh giới an toàn của gia đình; bạn vắng mặt về tinh thần trong nhiều tuần liên tiếp, mối quan hệ sẽ phải trả sự chú ý thay cho mục tiêu.
 
-开始下一阶段前，和受影响的人谈四件事：
+Trước khi bắt đầu giai đoạn tiếp theo, hãy nói với những người bị ảnh hưởng về bốn điều:
 
-- 我准备投入什么，预计持续多久；
-- 哪些共同责任不会因此消失；
-- 出现什么信号时我会降档或停止；
-- 我希望得到什么支持，又不会把什么责任推给对方。
+- Tôi dự định投入 điều gì và dự kiến kéo dài bao lâu;
+- Những trách nhiệm chung nào sẽ không biến mất vì điều đó;
+- Khi xuất hiện tín hiệu nào thì tôi sẽ giảm nhịp hoặc dừng lại;
+- Tôi mong nhận được sự hỗ trợ nào, và sẽ không đẩy trách nhiệm nào sang cho đối phương.
 
-这不是申请别人批准你的人生，而是承认选择会进入共同生活。真正成熟的长期主义，不是一个人忍耐得更久，而是让承诺、边界和影响都能够被说清。
+Đây không phải là xin người khác phê chuẩn cuộc đời bạn, mà là thừa nhận lựa chọn sẽ đi vào đời sống chung. Chủ nghĩa dài hạn thực sự trưởng thành không phải là một người chịu đựng lâu hơn, mà là để cam kết, ranh giới và ảnh hưởng đều có thể được nói rõ.
 
-如果上一周期已经伤害了关系，不要用下一阶段的成功许诺代替修复。先承认具体影响，听见对方的版本，完成此刻能够承担的补救。未来的成绩不能替今天道歉。
+Nếu chu kỳ trước đã làm tổn thương một mối quan hệ, đừng dùng lời hứa về thành công của giai đoạn tiếp theo để thay cho việc sửa chữa. Trước hết hãy thừa nhận ảnh hưởng cụ thể, lắng nghe phiên bản của đối phương, hoàn thành sự bù đắp mà hiện tại bạn có thể gánh vác. Thành tích tương lai không thể thay cho lời xin lỗi hôm nay.
 
-## 9. 给下一年只留三条线
+## 9. Chỉ giữ lại ba tuyến cho năm tới
 
-年度计划最常见的问题不是不够宏大，而是同时保留了太多互相竞争的人生。学一门语言、掌握一套 AI 技术、创业、健身、写书、旅行、经营关系，每一项单独看都合理，放在同一年却可能只剩不断切换和持续内疚。
+Vấn đề thường gặp nhất của kế hoạch năm không phải là nó chưa đủ lớn lao, mà là đồng thời giữ lại quá nhiều cuộc đời cạnh tranh với nhau. Học một ngôn ngữ, làm chủ một bộ công nghệ AI, khởi nghiệp, rèn luyện thể chất, viết sách, du lịch, vun đắp các mối quan hệ — mỗi việc riêng lẻ đều hợp lý, nhưng đặt trong cùng một năm có thể chỉ còn lại việc liên tục chuyển đổi và không ngừng day dứt.
 
-下一年只保留三条线：
+Năm tới chỉ giữ lại ba tuyến:
 
-1. **一项能力**：关闭工具和资料后，仍希望更可靠地完成什么；
-2. **一个作品**：年底前，什么会被真实的人看见、使用或评价；
-3. **一个生活条件**：什么身体、关系、收入或环境条件必须被改善和保护。
+1. **Một năng lực**: Khi tắt công cụ và tài liệu, bạn vẫn mong mình hoàn thành việc gì đáng tin cậy hơn;
+2. **Một sản phẩm**: Trước cuối năm, điều gì sẽ được người thật nhìn thấy, sử dụng hoặc đánh giá;
+3. **Một điều kiện sống**: Điều kiện nào về cơ thể, mối quan hệ, thu nhập hoặc môi trường nhất thiết phải được cải thiện và bảo vệ.
 
-三条线最好能够互相服务。例如，提升英语不是为了收集词汇，而是为了完成一场面向国际客户的产品说明；作品推进的同时，生活条件可能是恢复稳定睡眠，不再用凌晨弥补白天。这样，能力、作品和生活不会成为三场彼此争夺资源的战争。
+Tốt nhất ba tuyến có thể phục vụ lẫn nhau. Ví dụ, nâng cao tiếng Anh không phải để sưu tầm từ vựng, mà để hoàn thành một buổi giới thiệu sản phẩm cho khách hàng quốc tế; đồng thời với việc thúc đẩy sản phẩm, điều kiện sống có thể là khôi phục giấc ngủ ổn định, không còn dùng nửa đêm để bù cho ban ngày. Như vậy, năng lực, sản phẩm và cuộc sống sẽ không biến thành ba cuộc chiến tranh giành nguồn lực của nhau.
 
-其余愿望放进“以后也可以”的清单。一个愿望被延后，不代表它不重要；只是今年不让它进入承诺区。
+Những mong muốn còn lại hãy đưa vào danh sách “để sau cũng được”. Một mong muốn bị trì hoãn không có nghĩa là nó không quan trọng; chỉ là năm nay không để nó bước vào vùng cam kết.
 
-## 10. 每季度回看一次“我正在成为谁”
+## 10. Mỗi quý nhìn lại một lần “Tôi đang trở thành ai”
 
-长期复盘如果只检查产量，很容易把人再次变成项目的附属品。每三个月，除了查看作品和结果，也回到全书反复出现的四种能力：
+Nếu việc nhìn lại dài hạn chỉ kiểm tra sản lượng, rất dễ biến con người một lần nữa thành phần phụ của dự án. Cứ ba tháng, ngoài việc xem xét sản phẩm và kết quả, hãy quay lại bốn năng lực liên tục xuất hiện trong cả cuốn sách:
 
-| 能力 | 季度回看问题 |
+| Năng lực | Câu hỏi nhìn lại theo quý |
 | --- | --- |
-| 诚实 | 我是否更能区分事实、解释与愿望？ |
-| 责任 | 我是否看见选择给他人带来的影响，并完成了该承担的部分？ |
-| 判断 | 新证据是否真的改变过我的计划，还是我只在保护原结论？ |
-| 回归 | 中断之后，我是否更早回来，也更少用羞耻惩罚自己？ |
+| Trung thực | Tôi có ngày càng phân biệt rõ hơn giữa sự thật, cách diễn giải và mong muốn không? |
+| Trách nhiệm | Tôi có nhìn thấy ảnh hưởng của lựa chọn lên người khác và hoàn thành phần mình cần gánh vác không? |
+| Phán đoán | Bằng chứng mới có thực sự thay đổi kế hoạch của tôi không, hay tôi chỉ đang bảo vệ kết luận ban đầu? |
+| Quay lại | Sau khi gián đoạn, tôi có quay lại sớm hơn và ít dùng sự xấu hổ để trừng phạt bản thân hơn không? |
 
-这四个问题不会给出一个漂亮总分。它们只帮助你看见：能力增长是否伴随判断增长，作品增加是否伴随责任增加，速度提高是否让你更能照料生活。
+Bốn câu hỏi này sẽ không cho bạn một tổng điểm đẹp đẽ. Chúng chỉ giúp bạn nhìn thấy: năng lực tăng trưởng có đi cùng phán đoán tăng trưởng không, sản phẩm tăng lên có đi cùng trách nhiệm tăng lên không, tốc độ cao hơn có khiến bạn biết chăm sóc cuộc sống hơn không.
 
-可以给三个月后的自己写一封短信，只写事实、感谢和一个提醒。不要预测自己会变得多么强大。请告诉未来的自己：现在最不愿忘记的代价是什么，最想保护的人和事是什么，下一次迷路时从哪里回来。
+Có thể viết một tin nhắn cho chính mình sau ba tháng, chỉ viết sự thật, lòng biết ơn và một lời nhắc. Đừng dự đoán mình sẽ trở nên mạnh mẽ đến mức nào. Hãy nói với bản thân trong tương lai: cái giá nào hiện tại bạn không muốn quên nhất, người và điều gì bạn muốn bảo vệ nhất, lần sau khi lạc đường thì sẽ quay về từ đâu.
 
-## 11. 用三十天完成周期交接
+## 11. Dùng ba mươi ngày để hoàn tất bàn giao chu kỳ
 
-如果不知道怎样从九十天走向下一年，可以给交接单独留三十天：
+Nếu không biết làm thế nào đi từ chín mươi ngày đến năm tiếp theo, hãy dành riêng ba mươi ngày cho việc bàn giao:
 
-| 时间 | 核心动作 | 完成标志 |
+| Thời gian | Hành động cốt lõi | Dấu hiệu hoàn thành |
 | --- | --- | --- |
-| 第 1–7 天 | 关账与恢复 | 前后样本、反馈、代价和未知被放在一起 |
-| 第 8–14 天 | 迁移与交接 | 完成一次新场景测试，作品能被他人理解或接手 |
-| 第 15–21 天 | 选择与停止 | 每项结果进入继续、迁移、修复或停止 |
-| 第 22–30 天 | 建立下一季 | 写下一条主线、三层边界和明确退出门 |
+| Ngày 1–7 | Khép sổ và phục hồi | Mẫu trước và sau, phản hồi, cái giá và điều chưa biết được đặt cùng nhau |
+| Ngày 8–14 | Chuyển giao và bàn giao | Hoàn thành một lần kiểm tra trong bối cảnh mới, sản phẩm có thể được người khác hiểu hoặc tiếp nhận |
+| Ngày 15–21 | Lựa chọn và dừng lại | Mỗi kết quả được đưa vào một trong bốn hướng: tiếp tục, chuyển giao, sửa chữa hoặc dừng lại |
+| Ngày 22–30 | Xây dựng mùa tiếp theo | Viết ra một tuyến chính, ranh giới ba tầng và cánh cửa rút lui rõ ràng |
 
-这三十天不是第四个冲刺阶段。它可以比过去更慢，甚至应该包含几天空白。空白让疲惫显形，也让那些只靠惯性维持的目标失去催促你的声音。
+Ba mươi ngày này không phải giai đoạn tăng tốc thứ tư. Nó có thể chậm hơn trước, thậm chí nên bao gồm vài ngày trống. Khoảng trống khiến sự mệt mỏi hiện hình, đồng thời khiến những mục tiêu chỉ được duy trì bằng quán tính mất đi tiếng thúc giục bạn.
 
-交接完成后，再决定是否开始新的九十天。你可能继续原方向，也可能缩小、转向或停下。无论哪一种，新的开始都不再建立在对上一段生活的遗忘上。
+Sau khi hoàn tất bàn giao, hãy quyết định có bắt đầu chín mươi ngày mới hay không. Bạn có thể tiếp tục hướng cũ, cũng có thể thu nhỏ, chuyển hướng hoặc dừng lại. Dù là lựa chọn nào, khởi đầu mới cũng không còn được xây dựng trên sự lãng quên giai đoạn đời sống trước đó.
 
-## 结语：让成果找到住处
+## Lời kết: Để thành quả tìm được nơi ở
 
-我们常把改变想象成离开旧地方：离开不够好的能力、不够体面的工作、不够稳定的自己。可真正留下来的改变，往往不是一次远走，而是给生活重新安排位置。
+Chúng ta thường hình dung thay đổi là rời khỏi một nơi cũ: rời bỏ năng lực chưa đủ tốt, công việc chưa đủ thể diện, con người chưa đủ ổn định. Nhưng sự thay đổi thực sự ở lại thường không phải một chuyến ra đi xa, mà là sắp xếp lại vị trí cho cuộc sống.
 
-一个新能力进入工作，替你完成以前无法完成的沟通；一个作品进入别人手里，不再只证明作者努力过；一条边界进入关系，让爱不必继续替野心付款；一个停止决定进入日历，空出时间给身体、家人和新的问题。
+Một năng lực mới bước vào công việc, giúp bạn hoàn thành kiểu giao tiếp trước đây chưa thể làm; một sản phẩm bước vào tay người khác, không còn chỉ chứng minh tác giả đã từng nỗ lực; một ranh giới bước vào mối quan hệ, để tình yêu không còn phải tiếp tục trả giá cho tham vọng; một quyết định dừng lại bước vào lịch, nhường chỗ cho cơ thể, gia đình và những vấn đề mới.
 
-到那时，九十天不再是一段值得炫耀的坚持。它只是一次认真发生过的季节。你耕作过，收获过，也承认有些种子没有发芽。你把能带走的带走，把需要归还的归还，然后在下一阵天气到来之前，仍然知道自己住在哪里。
+Đến lúc đó, chín mươi ngày không còn là một quãng kiên trì đáng khoe. Nó chỉ là một mùa đã thực sự diễn ra một cách nghiêm túc. Bạn đã gieo trồng, đã thu hoạch, cũng thừa nhận có những hạt giống không nảy mầm. Bạn mang theo những gì có thể mang theo, trả lại những gì cần trả lại, rồi trước khi thời tiết tiếp theo đến, vẫn biết mình đang sống ở đâu.
 
-愿你得到的不只是开始下一轮的勇气，也有结束这一轮的诚实。愿所有被你辛苦获得的东西，最后都能在生活里找到住处。
+Mong rằng điều bạn nhận được không chỉ là lòng can đảm để bắt đầu vòng tiếp theo, mà còn là sự trung thực để kết thúc vòng này. Mong rằng tất cả những gì bạn vất vả đạt được, cuối cùng đều có thể tìm thấy nơi ở trong cuộc sống.
