@@ -11,63 +11,64 @@ updated: 2026-10-16
 ## Bản ghi có thể sao chép
 
 ```markdown
-# AI Evaluation — 日期 / 任务
+# Đánh giá AI — Ngày / Nhiệm vụ
 
-## 范围
-- 用户和要完成的动作：
-- 输入材料、权限和去标识方式：
-- 人工基线及总耗时：
-- 不支持的任务：
+## Phạm vi
+- Người dùng và hành động cần thực hiện:
+- Tài liệu đầu vào, quyền truy cập và cách loại bỏ thông tin nhận dạng:
+- Phương án thực hiện thủ công làm mốc so sánh và tổng thời gian:
+- Các nhiệm vụ không được hỗ trợ:
 
-## 测试设置（运行前固定）
-- 当前版本 / 候选版本：
-- 模型、提示、检索材料、工具版本：
-- 运行日期、地区、记忆设置；无法固定的服务版本：
-- 本轮只改变什么：
-- 开发样本 / 未参与调优的保留样本：
-- 每例运行次数及时间、调用、费用上限：
-- 必须全部通过的条件：
-- 可比较的质量与人工评分说明：
-- 评分人 / 争议如何解决：
-- 相关失败场景：来源缺失 / 提示注入 / 越权 / 失控重试或重复副作用 / 转写或识图错误：
-- 长时任务字段：任务/运行编号、检查点、墙钟时间、超时、最大重试、重复安全标识、人工接管点：
-- 隔离字段：干净环境、网络出口白名单、凭证范围、浏览器/页面不可信输入说明：
-- 政策字段：供应商政策名称、版本、生效日期、地区、高风险人工复核：
+## Thiết lập kiểm thử (cố định trước khi chạy)
+- Phiên bản hiện tại / phiên bản đề xuất:
+- Mô hình, prompt, tài liệu truy xuất, phiên bản công cụ:
+- Ngày chạy, khu vực, thiết lập bộ nhớ; phiên bản dịch vụ không thể cố định:
+- Trong vòng này chỉ thay đổi:
+- Mẫu phát triển / mẫu giữ lại không dùng để tinh chỉnh:
+- Số lần chạy mỗi trường hợp và giới hạn thời gian, số lượt gọi, chi phí:
+- Các điều kiện bắt buộc phải đạt:
+- Chất lượng có thể so sánh và hướng dẫn chấm điểm thủ công:
+- Người chấm điểm / cách giải quyết bất đồng:
+- Các tình huống thất bại liên quan: thiếu nguồn / prompt injection / vượt quyền / thử lại mất kiểm soát hoặc gây tác dụng phụ lặp lại / lỗi phiên âm hoặc nhận diện hình ảnh:
+- Trường dành cho tác vụ dài: mã nhiệm vụ / mã lượt chạy, điểm kiểm tra, thời gian thực tế trôi qua, thời gian chờ, số lần thử lại tối đa, mã định danh chống xử lý trùng lặp, điểm chuyển giao cho con người:
+- Trường về môi trường cô lập: môi trường sạch, danh sách cho phép kết nối mạng ra ngoài, phạm vi quyền của thông tin xác thực, giải thích về đầu vào không đáng tin cậy từ trình duyệt / trang web:
+- Trường về chính sách: tên chính sách của nhà cung cấp, phiên bản, ngày có hiệu lực, khu vực, yêu cầu con người xem xét đối với trường hợp rủi ro cao:
 
-## 逐例记录（每个版本分别复制本区）
-- 本区版本：
-- ID 使用“案例编号 / 尝试序号”，例如 07 / 2；输入指向固定的案例材料。
-### 案例（每次尝试复制一份）
-- 案例编号 / 尝试序号：
-- 类型与固定输入材料位置：
-- 预期行为 / 判断依据：
-- 支持结论的原文位置 / 音视频时间段 / 图片区域：
-- 实际行为 / 产物位置：
-- 过程记录 / 工具调用 / 授权记录位置：
-- 检查点 / 恢复编号 / 重试与重复安全记录：
-- 网络出口、页面或截图证据、凭证范围：
-- 最终环境结果（文件、数据库或用户可见状态）：
-- 首次是否合格 / 硬性条件失败：
-- 人工修改分钟 / 修改内容：
-- 最终状态（失败与超时也保留）：
+## Ghi chép từng trường hợp (sao chép phần này riêng cho mỗi phiên bản)
+- Phiên bản trong phần này:
+- ID dùng định dạng “mã trường hợp / số thứ tự lần thử”, ví dụ 07 / 2; đầu vào tham chiếu đến tài liệu đã được cố định cho trường hợp đó.
 
-## 汇总（每个版本单独计算，失败与超时保留在分母中）
-- 首次合格数 / 全部尝试数：
-- 必须条件失败及具体案例：
-- 人工修改后合格数 / 全部尝试数：
-- 准备、运行、核验、返工总分钟：
-- 工具费用及工时估值口径：
-- 本批总过程成本 / 最终合格数量：
-- 证据限制与不支持的推断：
+### Trường hợp (sao chép một bản cho mỗi lần thử)
+- Mã trường hợp / số thứ tự lần thử:
+- Loại và vị trí tài liệu đầu vào cố định:
+- Hành vi mong đợi / căn cứ đánh giá:
+- Vị trí trích đoạn gốc / khoảng thời gian trong âm thanh hoặc video / vùng hình ảnh làm bằng chứng cho kết luận:
+- Hành vi thực tế / vị trí sản phẩm đầu ra:
+- Vị trí bản ghi quá trình / lượt gọi công cụ / bản ghi cấp quyền:
+- Điểm kiểm tra / mã khôi phục / bản ghi thử lại và chống xử lý trùng lặp:
+- Kết nối mạng ra ngoài, bằng chứng từ trang web hoặc ảnh chụp màn hình, phạm vi quyền của thông tin xác thực:
+- Kết quả cuối cùng trong môi trường (tệp, cơ sở dữ liệu hoặc trạng thái người dùng nhìn thấy):
+- Lần đầu có đạt yêu cầu không / điều kiện bắt buộc không đạt:
+- Số phút chỉnh sửa thủ công / nội dung chỉnh sửa:
+- Trạng thái cuối cùng (giữ lại cả thất bại và hết thời gian chờ):
 
-## 决定与后续
-- 采用 / 维持现状 / 修复复测 / 停止：
-- 支持这个决定的案例：
-- 新增回归案例及重跑范围：
-- 模型、资料、工具或记忆变化后的复测触发；上次合格版本：
-- 允许使用范围 / 人工接管 / 撤回触发：
-- 换供应商、关闭记忆或断开工具后的退出演练结果：
-- 负责人、复查日期、记录位置：
+## Tổng hợp (tính riêng cho từng phiên bản, giữ các lần thất bại và hết thời gian chờ trong mẫu số)
+- Số lần đạt yêu cầu ngay lần đầu / tổng số lần thử:
+- Các điều kiện bắt buộc không đạt và trường hợp cụ thể:
+- Số lần đạt yêu cầu sau khi chỉnh sửa thủ công / tổng số lần thử:
+- Tổng số phút chuẩn bị, chạy, kiểm chứng và làm lại:
+- Chi phí công cụ và phương pháp quy đổi chi phí nhân công:
+- Tổng chi phí của cả quá trình trong đợt này / số lượng kết quả cuối cùng đạt yêu cầu:
+- Giới hạn của bằng chứng và các suy luận không được bằng chứng hỗ trợ:
+
+## Quyết định và bước tiếp theo
+- Áp dụng / giữ nguyên hiện trạng / sửa và kiểm thử lại / dừng:
+- Các trường hợp làm căn cứ cho quyết định:
+- Các trường hợp kiểm thử hồi quy mới và phạm vi chạy lại:
+- Điều kiện kích hoạt kiểm thử lại khi mô hình, tài liệu, công cụ hoặc bộ nhớ thay đổi; phiên bản gần nhất đạt yêu cầu:
+- Phạm vi được phép sử dụng / thời điểm chuyển giao cho con người / điều kiện thu hồi:
+- Kết quả diễn tập phương án rút lui khi đổi nhà cung cấp, tắt bộ nhớ hoặc ngắt kết nối công cụ:
+- Người phụ trách, ngày xem xét lại, vị trí lưu bản ghi:
 ```
 
 Nếu số lượng kết quả đạt yêu cầu cuối cùng bằng không, ghi chi phí cho mỗi kết quả đạt yêu cầu là “không thể tính toán”, giữ nguyên tổng chi phí đã phát sinh, không thay bằng số không.

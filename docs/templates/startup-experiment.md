@@ -13,50 +13,52 @@ Mỗi lần chỉ kiểm tra một giả thuyết chính. Khi xuất hiện vấ
 ## Sao chép thẻ trống
 
 ```text
-实验名称 / 编号：
-负责人 / 起止日期：
-要支持的下一步决定：
+Tên / mã số thử nghiệm:
+Người phụ trách / ngày bắt đầu và kết thúc:
+Quyết định tiếp theo mà thử nghiệm cần cung cấp căn cứ:
 
-【实验开始前填写】
-目标用户与具体任务：
-使用者 / 决策者 / 付款者：
-任务最近发生的证据：
-当前替代方案及其代价：
-主要假设（可能被推翻的一句话）：
-最强的反例或其他解释：
+【Điền trước khi bắt đầu thử nghiệm】
 
-接触渠道 / 纳入条件：
-计划邀请数 / 计划访谈数 / 计划试点数：
-招募可能造成的偏差（例如熟人或主动报名）：
-试点交付物 / 明确不包含的事项：
-报价 / 修改范围 / 交付与验收方式：
-人工和工具各做什么：
-材料授权 / 记录同意 / 保存与删除安排：
+Người dùng mục tiêu và nhiệm vụ cụ thể:
+Người sử dụng / người ra quyết định / người trả tiền:
+Bằng chứng cho thấy nhiệm vụ này đã phát sinh gần đây:
+Giải pháp thay thế hiện tại và chi phí của giải pháp đó:
+Giả thuyết chính (một câu có thể bị bác bỏ):
+Phản ví dụ mạnh nhất hoặc cách giải thích khác:
 
-旧流程基线（质量、双方耗时、支出）：
-要记录的行为证据及记录位置：
-继续的预定条件：
-调整的预定条件：
-停止或暂缓的预定条件：
-工时上限 / 现金支出上限 / 截止日期：
-谁有权停止 / 如何处理未完成承诺：
+Kênh tiếp cận / điều kiện lựa chọn người tham gia:
+Số người dự kiến mời / phỏng vấn / tham gia thử nghiệm:
+Thiên lệch có thể phát sinh từ việc tuyển chọn (ví dụ: người quen hoặc người chủ động đăng ký):
+Sản phẩm bàn giao trong thử nghiệm / những việc được nêu rõ là không bao gồm:
+Báo giá / phạm vi chỉnh sửa / cách bàn giao và nghiệm thu:
+Con người và công cụ mỗi bên làm gì:
+Quyền sử dụng tài liệu / sự đồng ý cho ghi chép hoặc ghi âm / cách lưu trữ và xóa dữ liệu:
 
-【实验结束后填写】
-实际邀请 / 回应 / 访谈 / 报价 / 付费 / 验收数量：
-真实用户行为（匿名编号 + 日期 + 证据摘要）：
-反例 / 拒绝理由 / 中途退出及原因：
-实际报价 / 到账 / 退款 / 支出：
-全部工时（招募、沟通、准备、制作、修改、支持）：
-新旧流程比较及仍不可比的条件：
-偏离原计划的事项和原因：
+Quy trình cũ làm mốc so sánh (chất lượng, thời gian của hai bên, chi phí):
+Bằng chứng hành vi cần ghi lại và vị trí lưu:
+Điều kiện tiếp tục đã định trước:
+Điều kiện điều chỉnh đã định trước:
+Điều kiện dừng hoặc tạm hoãn đã định trước:
+Giới hạn giờ làm / giới hạn chi tiêu bằng tiền / hạn chót:
+Ai có quyền dừng / cách xử lý các cam kết chưa hoàn thành:
 
-支持了什么 / 没有支持什么：
-决定：继续 / 调整 / 停止 / 证据不足，暂缓
-决定依据：
-尚未完成的承诺及处理人：
-下一轮只改变什么：
-什么新事实会改变本轮判断：
-下次复盘日期：
+【Điền sau khi kết thúc thử nghiệm】
+
+Số lượng thực tế: người được mời / phản hồi / phỏng vấn / báo giá / trả tiền / nghiệm thu:
+Hành vi thực tế của người dùng (mã ẩn danh + ngày + tóm tắt bằng chứng):
+Phản ví dụ / lý do từ chối / các trường hợp rút lui giữa chừng và lý do:
+Báo giá / tiền đã nhận / tiền hoàn lại / chi phí thực tế:
+Tổng thời gian làm việc (tuyển người, trao đổi, chuẩn bị, thực hiện, chỉnh sửa, hỗ trợ):
+So sánh quy trình mới và cũ, cùng những điều kiện vẫn chưa thể so sánh:
+Những điểm khác với kế hoạch ban đầu và lý do:
+
+Bằng chứng ủng hộ điều gì / chưa ủng hộ điều gì:
+Quyết định: Tiếp tục / điều chỉnh / dừng / chưa đủ bằng chứng, tạm hoãn
+Căn cứ cho quyết định:
+Các cam kết chưa hoàn thành và người xử lý:
+Điều duy nhất sẽ thay đổi trong vòng tiếp theo:
+Thông tin mới nào sẽ làm thay đổi đánh giá trong vòng này:
+Ngày tổng kết tiếp theo:
 ```
 
 Không cần viết thành bài dài ở từng ô. Phần tóm tắt bằng chứng có thể viết là “Người dùng A đã cung cấp mẫu dữ liệu đã khử định danh của hai nhiệm vụ trong tuần trước”, không dán toàn bộ tài liệu khách hàng vào kho lưu trữ công khai. Hồ sơ thanh toán chỉ giữ lại phần tóm tắt ẩn danh cần thiết cho việc xác thực; thông tin liên hệ cá nhân và chứng từ giao dịch được lưu ở vị trí hạn chế truy cập phù hợp.

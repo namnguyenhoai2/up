@@ -9,45 +9,45 @@ updated: 2026-08-31
 Điền một lần sau mỗi lần phát hành hoặc thí điểm. Các con số phải có thể đối chiếu với kết quả kiểm thử, sổ theo dõi, phản hồi hoặc nhật ký vận hành.
 
 ```markdown
-# AI Project Scorecard — YYYY-MM-DD
+**# Bảng đánh giá dự án AI — YYYY-MM-DD**
 
-项目/版本：
-负责人：
-用户与场景：
-测试条件与样本范围：
-基线、辅助版和延迟独立复测位置：
+Dự án / phiên bản:  
+Người phụ trách:  
+Người dùng và bối cảnh sử dụng:  
+Điều kiện kiểm thử và phạm vi mẫu:  
+Vị trí lưu kết quả phiên bản cơ sở, phiên bản có AI hỗ trợ và lần kiểm tra độc lập sau một khoảng thời gian:
 
-| 指标 | 本次结果 | 证据位置 | 与上次相比 |
+| Chỉ số | Kết quả lần này | Vị trí bằng chứng | So với lần trước |
 | --- | --- | --- | --- |
-| 任务完成率 | | | |
-| 首次通过率 | | | |
-| 平均/高位延迟 | | | |
-| 人工时间与返工 | | | |
-| 模型/基础设施成本 | | | |
-| 延迟独立表现 | | | |
-| 安全/隐私问题 | | | |
-| 用户反馈 | | | |
+| Tỷ lệ hoàn thành nhiệm vụ | | | |
+| Tỷ lệ đạt ngay lần đầu | | | |
+| Độ trễ trung bình / độ trễ cao | | | |
+| Thời gian làm thủ công và làm lại | | | |
+| Chi phí mô hình / cơ sở hạ tầng | | | |
+| Kết quả thực hiện độc lập sau một khoảng thời gian | | | |
+| Vấn đề về an toàn / quyền riêng tư | | | |
+| Phản hồi của người dùng | | | |
 
-## 门禁
-- 事实与来源已核验：是 / 否
-- 测试与边界已覆盖：是 / 否
-- 权限与数据范围已确认：是 / 否
-- 失败时可以暂停/降级/回滚：是 / 否
-- 负责人能在没有聊天记录时解释关键决定：是 / 否
+**## Điều kiện kiểm duyệt**
+- Sự kiện và nguồn thông tin đã được kiểm chứng: Có / Không  
+- Các trường hợp kiểm thử và điều kiện biên đã được bao phủ: Có / Không  
+- Phạm vi quyền truy cập và dữ liệu đã được xác nhận: Có / Không  
+- Có thể tạm dừng / chuyển sang phương án dự phòng / khôi phục khi xảy ra lỗi: Có / Không  
+- Người phụ trách có thể giải thích các quyết định quan trọng mà không cần xem lịch sử trò chuyện: Có / Không
 
-## 上线门禁
+**## Điều kiện triển khai**
 
-| 门禁 | 证据位置 | 负责人 | 日期 | 通过 |
+| Điều kiện | Vị trí bằng chứng | Người phụ trách | Ngày | Đạt |
 | --- | --- | --- | --- | --- |
-| 需求与验收标准 | | | | 是 / 否 |
-| 真实样本与边界测试 | | | | 是 / 否 |
-| 权限、隐私与留存 | | | | 是 / 否 |
-| 成本上限与监控 | | | | 是 / 否 |
-| 暂停、降级、回滚与通知 | | | | 是 / 否 |
+| Yêu cầu và tiêu chí nghiệm thu | | | | Có / Không |
+| Mẫu thực tế và kiểm thử điều kiện biên | | | | Có / Không |
+| Quyền truy cập, quyền riêng tư và thời gian lưu giữ | | | | Có / Không |
+| Giới hạn chi phí và giám sát | | | | Có / Không |
+| Tạm dừng, phương án dự phòng, khôi phục và thông báo | | | | Có / Không |
 
-## 决策
-- 保留：
-- 调整：
-- 停止：
-- 下一项最小实验：
+**## Quyết định**
+- Giữ lại:  
+- Điều chỉnh:  
+- Dừng:  
+- Thử nghiệm nhỏ nhất tiếp theo:
 ```
